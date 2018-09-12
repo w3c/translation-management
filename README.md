@@ -11,10 +11,10 @@ The main orientations of the new system would be:
 
 In more details, the new workflow would be:
 * a translator signals their intent to translate by raising an issue in
-a well-defined github repository (see #1)
-* as an opt-in, other translators of that language get notified of that intent (and possibly, signal their intent to help with the effort) (see #1)
+a well-defined github repository (see [#1](https://github.com/w3c/translation-management/issues/1))
+* as an opt-in, other translators of that language get notified of that intent (and possibly, signal their intent to help with the effort) (see [#1](https://github.com/w3c/translation-management/issues/1))
 * once the translator(s) finishes the translation, they bring the translated document via a pull request to a well-defined repo
-* a team of identified reviewers for that language get notified and are expected to make a high-level review of the document to ensure a minimum level of quality (e.g. avoid spam, low-quality automated translation); optionally, these reviewers can provide more detailed feedback as non-blocking requests for enhancements (see #2)
-* via a github automated check, a number of automatic validation are run on the translation (presence of a disclaimer, HTML validity, ...) (see #2)
-* once these automated checks pass and at least one reviewer validates the translation, the translation is automatically published by W3C and linked from relevant W3C pages (see #4)
-* the same repository where the translation document was brought via a pull request is used to maintain the translations as changes in the original document or mistakes in the translation get reported (see #3)
+* a team of identified reviewers for that language get notified and are expected to make a high-level review of the document to ensure a minimum level of quality (e.g. avoid spam, low-quality automated translation); optionally, these reviewers can provide more detailed feedback as non-blocking requests for enhancements (see [#2](https://github.com/w3c/translation-management/issues/2))
+* via a github automated check, a number of automatic validation are run on the translation (presence of a disclaimer, HTML validity, ...) (see [#2](https://github.com/w3c/translation-management/issues/2))
+* once these automated checks pass and at least one reviewer validates the translation, the translation is automatically published by W3C and linked from relevant W3C pages (see [#4](https://github.com/w3c/translation-management/issues/4))
+* the same repository where the translation document was brought via a pull request is used to maintain the translations as changes in the original document or mistakes in the translation get reported (see [#3](https://github.com/w3c/translation-management/issues/3))
