@@ -3,6 +3,7 @@
 title: W3C Recommendation Translation Workflow
 
 W3C Admin -> Transl Page: Lists specs to be translated (possibly prioritized)
+Transl Manager --> W3C Admin: Prioritize specs to be translated
 _: ** Intent to translate **
 Transl X -> Transl Page: Visits
 Transl Page -> Transl X: Shows specs to be translated with links to repo declare intent
@@ -11,7 +12,7 @@ Admin Repo -> Repo: creates and prepopulates with template
 Admin Repo -> Transl Page: updates to signal ongoing translation
 Admin Repo -> Other Transl: sends notification
 note: github notif as opt-in per language, general notif to w3c-translators
-Admin Repo -> reviewers: sends github notification
+Admin Repo -> reviewer: sends github notification
 
 _: ** Translation development **
 Transl X -> Repo: Forks with prepopulated template
@@ -21,7 +22,7 @@ Transl X -> Transl X: Develops translation
 
 _: ** Translation submission **
 Transl X -> Repo: Submit pull request with proposed translation
-Repo -> reviewers: requests review
+Repo -> reviewer: requests review
 Repo -> Repo: runs automatic QA checks
 reviewers -> Repo: Approves review
 Repo -> W3C Admin: publishes translation and links from W3C site
@@ -30,9 +31,9 @@ W3C Admin -> Admin Repo: Closes intent to translate
 
 _: ** Maintenance **
 W3C Admin --> Repo: file issues when original spec changes
-reviewers --> Repo: file requests for improvements
+reviewer --> Repo: file requests for improvements
 Transl X --> Repo: submit improvements
 Other Transl --> Repo: submit improvements
-reviewers -> Repo: validates changes to published translation
+reviewer -> Repo: validates changes to published translation
 Repo -> Repo: runs automatic QA checks
 Repo -> W3C Admin: publishes updated translation
