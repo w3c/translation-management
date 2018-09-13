@@ -1,0 +1,51 @@
+// to be visualized with https://swimlanes.io/
+
+title: W3C Recommendation Translation Workflow - Initial release
+order: Transl X, Repo, Other Transl, reviewer, Transl Page, Transl Manager, Admin Repo, W3C Sys
+
+
+
+W3C Sys -> Transl Page: Lists specs translated & to be translated
+
+Transl X -> Transl X: gets github account
+Transl X -> W3C Sys: gets W3C account
+Transl X -> W3C Sys: connects W3C and github accounts
+_: ** Intent to translate **
+Transl X -> Transl Page: Visits
+Transl Page -> Transl X: Shows specs to be translated with links to repo declare intent
+Transl X -> Admin Repo: raises an issue as intent to translate
+note: using pre-populated github issue creation form with target language, target spec (*which URL to use as basis?*)
+Admin Repo -> Repo: creates and prepopulates with template
+note: one repo per spec & language; not clear how much the template should cover initially
+Transl Manager -> W3C Sys: notifies of ongoing translation
+W3C Sys -> Transl Page: updates to signal ongoing translation
+Admin Repo -> Other Transl: sends notification
+note: general notif to w3c-translators
+
+_: ** Translation development **
+Transl X -> Repo: Forks
+note: Fork is needed later for submission as pull request; encouragement but no requirement to use the fork for the collaborative development of the translation
+Other Transl --> Transl X: offers to collaborate
+Transl X -> Transl X: Develops translation
+...: translating
+
+_: ** Translation submission **
+Transl X -> Repo: Submit pull request with proposed translation
+Repo -> reviewer: requests review
+Repo -> Repo: runs automatic QA checks
+if: Translation matches criteria
+Repo -> Repo: validates automated checks
+reviewer -> Repo: Approves
+Repo -> Transl Manager: notifies
+Transl Manager -> W3C Sys: notifies
+Transl Manager -> Admin Repo: Closes intent to translate
+W3C Sys -> W3C Sys: publishes translation
+W3C Sys -> Transl Page: Adds link to published translation
+else: Translation does not match quality criteria
+  Transl Manager -> Transl X: discusses next step
+  if: no path to publishing translation
+  Transl Manager -> Admin Repo: Closes intent to translate
+  Transl Manager -> W3C Sys: notifies no longer ongoing translation
+  W3C Sys -> Transl Page: Removes "on-going" flag for translation
+  end
+end

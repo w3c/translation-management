@@ -2,15 +2,21 @@
 
 title: W3C Recommendation Translation Workflow
 order: Transl X, Repo, Other Transl, reviewer, Transl Page, Transl Manager, Admin Repo, W3C Sys
-W3C Sys -> Transl Page: Lists specs to be translated (possibly prioritized)
+
+
+
+W3C Sys -> Transl Page: Lists specs translated & to be translated (possibly prioritized)
 Transl Manager --> W3C Sys: Prioritize specs to be translated
 note: probably not in initial release
+
+Transl X -> Transl X: gets github account
+Transl X -> W3C Sys: gets W3C account
+Transl X -> W3C Sys: connects W3C and github accounts
 _: ** Intent to translate **
 Transl X -> Transl Page: Visits
 Transl Page -> Transl X: Shows specs to be translated with links to repo declare intent
 Transl X -> Admin Repo: raises an issue as intent to translate
 note: using pre-populated github issue creation form with target language, target spec (*which URL to use as basis?*)
-note: this requires Transl X has a github account
 Admin Repo -> Repo: creates and prepopulates with template
 note: one repo per spec & language; not clear how much the template should cover initially; overtime, will need pre-defined translations for boilerplates
 Admin Repo -> W3C Sys: notifies ongoing translation
@@ -18,9 +24,10 @@ W3C Sys -> Transl Page: updates to signal ongoing translation
 Admin Repo -> Other Transl: sends notification
 note: github notif as opt-in per language (*use issue watcher on admin repo?*), general notif to w3c-translators
 Admin Repo -> reviewer: sends github notification
+note: not sure that's needed
 
 _: ** Translation development **
-Transl X -> Repo: Forks (with prepopulated template?)
+Transl X -> Repo: Forks
 note: Fork is needed later for submission as pull request; encouragement but no requirement to use the fork for the collaborative development of the translation
 Other Transl --> Transl X: offers to collaborate
 Transl X -> Transl X: Develops translation
