@@ -24,10 +24,29 @@ _: ** Translation submission **
 Transl X -> Repo: Submit pull request with proposed translation
 Repo -> reviewer: requests review
 Repo -> Repo: runs automatic QA checks
-reviewers -> Repo: Approves review
-Repo -> W3C Admin: publishes translation and links from W3C site
-W3C Admin -> Transl Page: Marks spec as translated
-W3C Admin -> Admin Repo: Closes intent to translate
+if: Translation matches criteria
+Repo -> Repo: validates automated checks
+reviewer -> Repo: Approves
+Repo -> W3C Admin: notifies
+Repo -> Admin Repo: Closes intent to translate
+W3C Admin -> W3C Admin: publishes translation
+W3C Admin -> Transl Page: Adds link to published translation
+else: Translation does not match quality criteria
+  if: Transl X amenable to required changes
+  Transl X -> Transl X: Makes required changes
+  Transl X -> Repo: Submit updated pull request
+  note: goes back to submission process above
+  else: Transl X disagrees with requested changes
+  Transl X -> Transl Manager: Requests exception
+  note: in general, we only expect issues with automated checks - blocking from reviewer is only expected to happen in case of fraudulent-looking translations
+  Transl Manager --> Transl X: arbitrates dispute (if any)
+  Transl Manager --> reviewer: arbitrates dispute (if any)
+  Transl Manager --> Repo: Lifts automated check requirement (if appropriate)
+  else: Bad faith translation
+  Transl Manager -> Admin Repo: Closes intent to translate
+  Admin Repo -> Transl Page: Removes "on-going" flag for translation
+  end
+end
 
 _: ** Maintenance **
 W3C Admin --> Repo: file issues when original spec changes
