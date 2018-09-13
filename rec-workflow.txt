@@ -1,7 +1,7 @@
 // to be visualized with https://swimlanes.io/
 
 title: W3C Recommendation Translation Workflow
-
+order: Transl X, Repo, Other Transl, reviewer, Transl Manager, Transl Page, Admin Repo, W3C Admin
 W3C Admin -> Transl Page: Lists specs to be translated (possibly prioritized)
 Transl Manager --> W3C Admin: Prioritize specs to be translated
 _: ** Intent to translate **
