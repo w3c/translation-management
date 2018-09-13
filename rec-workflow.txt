@@ -9,16 +9,18 @@ Transl X -> Transl Page: Visits
 Transl Page -> Transl X: Shows specs to be translated with links to repo declare intent
 Transl X -> Admin Repo: raises an issue as intent to translate
 Admin Repo -> Repo: creates and prepopulates with template
+note: one repo per spec & language
 Admin Repo -> Transl Page: updates to signal ongoing translation
 Admin Repo -> Other Transl: sends notification
 note: github notif as opt-in per language, general notif to w3c-translators
 Admin Repo -> reviewer: sends github notification
 
 _: ** Translation development **
-Transl X -> Repo: Forks with prepopulated template
+Transl X -> Repo: Forks (with prepopulated template?)
 note: Fork is needed later for submission as pull request; encouragement but no requirement to use the fork for the collaborative development of the translation
 Other Transl --> Transl X: offers to collaborate
 Transl X -> Transl X: Develops translation
+...: translating
 
 _: ** Translation submission **
 Transl X -> Repo: Submit pull request with proposed translation
@@ -55,4 +57,5 @@ Transl X --> Repo: submit improvements
 Other Transl --> Repo: submit improvements
 reviewer -> Repo: validates changes to published translation
 Repo -> Repo: runs automatic QA checks
-Repo -> W3C Admin: publishes updated translation
+Repo -> W3C Admin: notifies
+W3C Admin -> W3C Admin: publishes updated translation
