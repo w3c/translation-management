@@ -1,18 +1,22 @@
 // to be visualized with https://swimlanes.io/
 
 title: W3C Recommendation Translation Workflow
-order: Transl X, Repo, Other Transl, reviewer, Transl Manager, Transl Page, Admin Repo, W3C Admin
-W3C Admin -> Transl Page: Lists specs to be translated (possibly prioritized)
-Transl Manager --> W3C Admin: Prioritize specs to be translated
+order: Transl X, Repo, Other Transl, reviewer, Transl Page, Transl Manager, Admin Repo, W3C Sys
+W3C Sys -> Transl Page: Lists specs to be translated (possibly prioritized)
+Transl Manager --> W3C Sys: Prioritize specs to be translated
+note: probably not in initial release
 _: ** Intent to translate **
 Transl X -> Transl Page: Visits
 Transl Page -> Transl X: Shows specs to be translated with links to repo declare intent
 Transl X -> Admin Repo: raises an issue as intent to translate
+note: using pre-populated github issue creation form with target language, target spec (*which URL to use as basis?*)
+note: this requires Transl X has a github account
 Admin Repo -> Repo: creates and prepopulates with template
-note: one repo per spec & language
-Admin Repo -> Transl Page: updates to signal ongoing translation
+note: one repo per spec & language; not clear how much the template should cover initially; overtime, will need pre-defined translations for boilerplates
+Admin Repo -> W3C Sys: notifies ongoing translation
+W3C Sys -> Transl Page: updates to signal ongoing translation
 Admin Repo -> Other Transl: sends notification
-note: github notif as opt-in per language, general notif to w3c-translators
+note: github notif as opt-in per language (*use issue watcher on admin repo?*), general notif to w3c-translators
 Admin Repo -> reviewer: sends github notification
 
 _: ** Translation development **
@@ -29,10 +33,10 @@ Repo -> Repo: runs automatic QA checks
 if: Translation matches criteria
 Repo -> Repo: validates automated checks
 reviewer -> Repo: Approves
-Repo -> W3C Admin: notifies
+Repo -> W3C Sys: notifies
 Repo -> Admin Repo: Closes intent to translate
-W3C Admin -> W3C Admin: publishes translation
-W3C Admin -> Transl Page: Adds link to published translation
+W3C Sys -> W3C Sys: publishes translation
+W3C Sys -> Transl Page: Adds link to published translation
 else: Translation does not match quality criteria
   if: Transl X amenable to required changes
   Transl X -> Transl X: Makes required changes
@@ -46,17 +50,19 @@ else: Translation does not match quality criteria
   Transl Manager --> Repo: Lifts automated check requirement (if appropriate)
   else: Bad faith translation
   Transl Manager -> Admin Repo: Closes intent to translate
-  Admin Repo -> Transl Page: Removes "on-going" flag for translation
+  Admin Repo -> W3C Sys: notifies no longer ongoing translation
+  W3C Sys -> Transl Page: Removes "on-going" flag for translation
   end
 end
 
 _: ** Maintenance **
 Transl Manager --> Repo: file issues when original spec changes
-note: some of this could be automated (e.g. for the Edited Rec process)? Not sure how frequent this is
+note: *some of this could be automated (e.g. for the Edited Rec process)? Not sure how frequent this is*
 reviewer --> Repo: file requests for improvements
 Transl X --> Repo: submit improvements
 Other Transl --> Repo: submit improvements
 reviewer -> Repo: validates changes to published translation
 Repo -> Repo: runs automatic QA checks
-Repo -> W3C Admin: notifies
-W3C Admin -> W3C Admin: publishes updated translation
+Repo -> W3C Sys: notifies
+W3C Sys -> W3C Sys: publishes updated translation
+ 
