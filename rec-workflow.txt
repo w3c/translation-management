@@ -51,7 +51,8 @@ else: Translation does not match quality criteria
 end
 
 _: ** Maintenance **
-W3C Admin --> Repo: file issues when original spec changes
+Transl Manager --> Repo: file issues when original spec changes
+note: some of this could be automated (e.g. for the Edited Rec process)? Not sure how frequent this is
 reviewer --> Repo: file requests for improvements
 Transl X --> Repo: submit improvements
 Other Transl --> Repo: submit improvements
