@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{title}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, initial-scale = 1.0, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://www.w3.org/webperf/css/main.css">
+    <style>ul, ul li { margin: initial; padding: revert;}
+h2 a.self-link::before {
+    content: "§";
+      }
+      h2 { position: relative;}
+h2 a.self-link {
+    font-size: 83%;
+    position: absolute;
+    left: calc(-1 * (3.5rem - 26px));
+    width: calc(3.5rem - 26px);
+    height: 2em;
+    text-align: center;
+    border: none;
+    transition: opacity .2s;
+    opacity: .5;
+}
+a[href]:focus, a[href]:hover {
+    background: #f8f8f8;
+    background: rgba(75%, 75%, 75%, .25);
+    border-bottom-width: 3px;
+      margin-bottom: -2px;
+      opacity: 1;
+      }
+      table { border-collapse: collapse;}
+      th, tfoot td { border-right: 1px black solid;}
+      tfoot td { text-align: right;}
+      tbody tr:nth-child(odd) { background-color: #eee; }
+      th[scope="row"] { text-align: right; font-weight: normal; border-left: 0;}
+      .published, .review, .draft, .outdated { border: 1px black solid;}
+      .published { background-color: #dfd;}
+      .review { background-color: #ff4;}
+      .draft { background-color: #ddd;}
+      .outdated { background-color: #fdd;}
+      tbody td { padding: 0; text-align: center;}
+      td a { display: block; margin: 0; width: 100%;}
+      thead tr { position: sticky; top:0; z-index: 10; background-color: rgba(255,255,255,0.8);}
+      dl.legend dt { width: 2em; text-align: center;}
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="https://www.w3.org/standards/">Standards</a></li>
+          <li><a href="https://www.w3.org/participate/">Participate</a></li>
+          <li><a href="https://www.w3.org/Consortium/membership">Membership</a></li>
+          <li><a href="https://www.w3.org/Consortium/">About W3C</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+        {{ content }}
+        </section>
+    </main>
+
+    <footer>
+      <address>
+        <a href="https://github.com/w3c/translation-management/">We are on GitHub</a></address>
+      <p id="copyright">
+        <a href="https://www.w3.org/">W3C</a> - <a href="https://www.w3.org/Consortium/Legal/privacy-statement">Privacy</a> - <a href='http://www.w3.org/Consortium/Legal/ipr-notice'>Terms</a>
+      </p>
+    </footer>
+
+  </body>
+</html>
