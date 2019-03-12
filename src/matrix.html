@@ -1,0 +1,79 @@
+---
+title: W3C Recommendations - Translation needs
+layout: template
+---
+<p>This page shows which W3C Recommendations are being, have been or have not been translated. If a language does not appear in the table, it means no existing or ongoing translation is known.</p>
+<p>Legend:</p>
+<dl class=legend>
+<dt class=outdated>✗</dt>
+<dd>A translation of an outdated version of the specification exists; if you're the original translator, consider updating the translation; if you aren't and are willing to help, try contacting the original translator to see if they would accept contributed updates to their work</dd>
+<dt class=draft>…</dt>
+<dd>A translator has indicated their intent to translate the specification in the said language</dd>
+<dt class=review>👍👎</dt>
+<dd>A draft <a href="https://www.w3.org/2005/02/TranslationPolicy.html">Authorized Translation</a> is under review</dd>
+<dt class=published>✓</dt>
+<dd>A volunteer translation exists</dd>
+<dt class=published>✰</dt>
+<dd>W3C has published an <a href="https://www.w3.org/2005/02/TranslationPolicy.html">Authorized Translation</a> of the specification</dd>
+</dl>
+<table>
+  <thead>
+    <tr>
+      <th>Specification</th>
+      {% assign langs = site.data.langlist|sort %}
+      {% for lang in langs %}
+      {% if site.data.byLanguage[lang].latestRecsTotal > 0 %}
+      <th><span title="{{site.data.lang[lang].nativeName}} ({{site.data.lang[lang].name}})">{{lang}}</span></th>
+      {% endif %}
+      {% endfor %}
+    </tr>
+  </thead>
+  <tbody>
+    {% assign recs = site.data.recs | where: "isLatest", true | sort: "date" | reverse %}
+    {% for rec in recs %}
+    <tr>
+      <th scope="row"><a href="{{rec.shortlink}}">{{rec.title}}</a> (<time>{{rec.date}}</time>)</th>
+      {% for lang in langs %}
+      {% if site.data.byLanguage[lang].latestRecsTotal > 0 %}
+      <td{% if rec.translations %}
+           {% if rec.translations[lang] %}
+            class="{{ rec.translations[lang].states | join: ' ' }}"><a title="{% if rec.translations[lang].isOutdated %}Outdated {% elsif rec.translations[lang].isPending %}Ongoing {% elsif rec.translations[lang].isInReview %}Pending review {% endif %}{% if rec.translations[lang].authorized %}Authorized {% endif %}{{site.data.lang[lang].name}} translation of {{rec.translations[lang].origTitle}}" href="{{rec.translations[lang].uri}}"><span aria-role="img">
+             {% if rec.translations[lang].isOutdated %}
+            ✗
+             {% elsif rec.translations[lang].authorized %}
+               {% if rec.translations[lang].isPublished %}
+            ✰
+               {% elsif rec.translations[lang].isInReview %}
+            👍👎
+               {% elsif rec.translations[lang].isPending %}
+          …
+               {% endif %}
+             {% else %}
+               {% if rec.translations[lang].isPublished %}
+          ✓
+               {% elsif rec.translations[lang].isPending %}
+          …
+               {% endif %}
+             {% endif %}</span></a>
+           {% else %}
+            >
+           {% endif %}
+         {% else %}>
+         {% endif %}
+      </td>
+      {% endif %}
+      {% endfor %}
+    </tr>
+    {% endfor %}
+  </tbody>
+  <tfoot>
+    <th scope="row">{{ recs.size }} Recommendations</th>
+    {% for lang in langs %}
+    {% if site.data.byLanguage[lang].latestRecsTotal > 0 %}
+    <td>{{ site.data.byLanguage[lang].latestRecsTotal }}</td>
+    {% endif %}
+    {% endfor %}
+  </tfoot>
+</table>
+<!-- TODO: non-RECS
+-->
