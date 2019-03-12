@@ -24,6 +24,7 @@ w3c.recommendations().fetch({embed: true}, function(err, recs) {
                   x.date = x['spec-version'].date;
                   x.id = 's-' + x['spec-version'].shortlink.split('/')[4];
                   x.translations = translations.filter(t => t['call-for-translation'] && t['call-for-translation']['spec-version'] && t['call-for-translation']['spec-version'].uri && t['call-for-translation']['spec-version'].uri === x['spec-version'].uri).map(t => { t.language = t.language.toLowerCase().replace(/_/, '-'); return t; });
+                  x.hasAuthorizedTranslations = x.translations.find(t => t.authorized && t.states.includes('published'));
                   return x;
                 });
           const translatedRecs = recs.map(r => {

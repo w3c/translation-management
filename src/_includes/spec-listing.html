@@ -3,18 +3,7 @@
     <ul>
       {%- for translation in cft.translations -%}
       {%- if translation.states contains 'published' -%}
-      <li><details><summary>{% if translation.authorized %}<span aria-labelledby="Authorized Translation" aria-role="img">✰</span>{% endif %}<a href="{{translation.uri}}" lang="{{translation.language}}" title="{{site.data.lang[translation.language].name}} translation of {{cft.title}}: {{translation.title}}" dir="auto" lang="{{translation.language}}">{{site.data.lang[translation.language].nativeName}}</a> ({{site.data.lang[translation.language].name}})</summary>
-          <p><cite dir="auto" lang={{translation.language}}>{{translation.title}}</cite></p>
-          {% if translation.authorized %}
-          <p>Lead Translation Organization: <strong>{{ translation['lto-name'] }}</strong></p>
-          {% else %}
-          {% if translation.translators.size > 0 %}
-          <p>Translation authors: {% for translator in translation.translators %}{{translator.name}}{% endfor %}</p>
-          {% else %}
-          <p>{{ translation.comments }}</p>
-          {% endif %}
-          {% endif %}
-      </details></li>
+      <li>{% include translation-details.html %}</li>
       {% endif %}
       {%- endfor -%}
     </ul>
