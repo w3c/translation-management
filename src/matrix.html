@@ -28,11 +28,13 @@ layout: template
       {% endfor %}
     </tr>
   </thead>
+    {% assign recsByYears = site.data.recs | where: "isLatest", true | sort: "date" | reverse | group_by: "year" %}
+    {% for year in recsByYears %}
   <tbody>
-    {% assign recs = site.data.recs | where: "isLatest", true | sort: "date" | reverse %}
-    {% for rec in recs %}
+    <tr><th colspan="{{ langs.size  }}">{{ year.name }}</th></tr>
+    {% for rec in year.items %}
     <tr>
-      <th scope="row"><a href="{{rec.shortlink}}">{{rec.title}}</a> (<time>{{rec.date}}</time>)</th>
+      <th scope="row"><a href="{{rec.shortlink}}">{{rec.title}}</a></th>
       {% for lang in langs %}
       {% if site.data.byLanguage[lang].latestRecsTotal > 0 %}
       <td{% if rec.translations %}
@@ -66,6 +68,7 @@ layout: template
     </tr>
     {% endfor %}
   </tbody>
+    {% endfor %}
   <tfoot>
     <th scope="row">{{ recs.size }} Recommendations</th>
     {% for lang in langs %}
