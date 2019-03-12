@@ -8,7 +8,7 @@ fs.writeFileSync("_data/langlist.json", JSON.stringify(Object.keys(langs), null,
 
 w3c.recommendations().fetch({embed: true}, function(err, recs) {
   if (err) return console.log(err);
-  w3c.callfortranslations().fetch({embed: true}, function(err, data) {
+  w3c.callsfortranslation().fetch({embed: true}, function(err, data) {
     if (err) console.log(err);
     const trCallForTranslations = data.filter(x => x['spec-version'] && x['spec-version'].uri && x['spec-version'].uri.match(/www\.w3\.org\/TR\//));
     w3c.translations().fetch({embed: true}, function(err, translations) {
