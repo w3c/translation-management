@@ -73,6 +73,7 @@ layout: template
     {% endfor %}
   <tfoot>
     <th scope="row">{{ recs.size }} Recommendations</th>
+    <td></td>
     {% for lang in langs %}
     {% if site.data.byLanguage[lang].latestRecsTotal > 0 %}
     <td>{{ site.data.byLanguage[lang].latestRecsTotal }}</td>
