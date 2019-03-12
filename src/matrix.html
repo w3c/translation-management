@@ -20,6 +20,7 @@ layout: template
   <thead>
     <tr>
       <th>Specification</th>
+      <th>Length (x1,000 words)</th>
       {% assign langs = site.data.langlist|sort %}
       {% for lang in langs %}
       {% if site.data.byLanguage[lang].latestRecsTotal > 0 %}
@@ -35,6 +36,7 @@ layout: template
     {% for rec in year.items %}
     <tr>
       <th scope="row"><a href="{{rec.shortlink}}">{{rec.title}}</a></th>
+      <td class=num>{% if site.data.wordCount[rec.shortname] %}{{ site.data.wordCount[rec.shortname] | divided_by: 1000 | round }}{% endif %}</td>
       {% for lang in langs %}
       {% if site.data.byLanguage[lang].latestRecsTotal > 0 %}
       <td{% if rec.translations %}
