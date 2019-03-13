@@ -19,7 +19,7 @@ layout: template
 <table>
   <thead>
     <tr>
-      <th>Specification</th>
+      <th id="specs">Specification</th>
       <th>Length (x1,000 words)</th>
       {% assign langs = site.data.langlist|sort %}
       {% for lang in langs %}
@@ -81,5 +81,6 @@ layout: template
     {% endfor %}
   </tfoot>
 </table>
+<script src="filter.js"></script>
 <!-- TODO: non-RECS
 -->
