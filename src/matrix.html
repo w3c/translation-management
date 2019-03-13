@@ -29,7 +29,8 @@ layout: template
       {% endfor %}
     </tr>
   </thead>
-    {% assign recsByYears = site.data.recs | where: "isLatest", true | sort: "date" | reverse | group_by: "year" %}
+    {% assign recs = site.data.recs | where: "isLatest", true | sort: "date" | reverse %}
+    {% assign recsByYears = recs | group_by: "year" %}
     {% for year in recsByYears %}
   <tbody>
     <tr><th colspan="{{ langs.size  }}">{{ year.name }}</th></tr>
