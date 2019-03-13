@@ -44,6 +44,8 @@ a[href]:focus, a[href]:hover {
       td a { display: block; margin: 0; width: 100%;}
       thead tr th { position: -webkit-sticky; position: sticky; top:0; z-index: 10; background-color: rgba(255,255,255,0.8);}
       dl.legend dt { width: 2em; text-align: center;}
+      tbody tr.hidden { display: none;}
+      #specs input { background-image: url("https://w3c.github.io/cg-monitor/funnel.svg"); background-repeat: no-repeat; background-size: 12px; background-position: calc(1em - 12px) 5px; padding-left:20px;}
     </style>
   </head>
   <body>
@@ -76,7 +78,7 @@ a[href]:focus, a[href]:hover {
 <table>
   <thead>
     <tr>
-      <th>Specification</th>
+      <th id="specs">Specification</th>
       <th>Length (x1,000 words)</th>
       
       
@@ -86416,6 +86418,7 @@ a[href]:focus, a[href]:hover {
     
   </tfoot>
 </table>
+<script src="filter.js"></script>
 <!-- TODO: non-RECS
 -->
 
