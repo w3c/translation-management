@@ -3,9 +3,8 @@ title: Translations of W3C Technical Reports
 layout: template
 ---
 <h1>Translations of Current <a href="https://www.w3.org/TR/">W3C Technical Reports</a></h1>
-  <p>Authorized Translations are marked with <span aria-role=img aria-labelledby="Authorized Translation">✰</span></p>
 
-  {% assign cfts = site.data.translations | sort: "date"|reverse %}
+  {% assign cfts = site.data.translations %}
   {%- for cft in cfts -%}
   {%- if cft.isLatest -%}
     {% include spec-listing.html %}
@@ -15,7 +14,7 @@ layout: template
 <h1>Translations of Historical Technical Reports</h1>
 <details>
 <summary>For reference or inspiration, translations of historical Technical Reports are listed below.</summary>
-
+<p>Historical technical reports are ones that have been superseded or marked as obsolete.</p>
   {%- for cft in site.data.translations -%}
   {%- if cft.isLatest -%}
   {%- else -%}
