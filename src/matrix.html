@@ -24,7 +24,7 @@ layout: template
       {% assign langs = site.data.langlist|sort %}
       {% for lang in langs %}
       {% if site.data.byLanguage[lang].latestRecsTotal > 0 %}
-      <th><span title="{{site.data.lang[lang].nativeName}} ({{site.data.lang[lang].name}})">{{lang}}</span></th>
+      <th class=lang><div><span>{{site.data.lang[lang].name}}</span></div></th>
       {% endif %}
       {% endfor %}
     </tr>
