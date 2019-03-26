@@ -9,10 +9,12 @@ const debounce = (fn, time) => {
 }
 
 const specs = document.getElementById("specs");
+const tbodies = [...document.querySelector("table").querySelectorAll("tbody")];
+const rows = [...document.querySelector("table").querySelectorAll("tr")];
+
 const filterInput = document.createElement("input");
 filterInput.setAttribute("aria-label", "Filter list of specifications by title or URL");
-const rows = [...document.querySelector("table").querySelectorAll("tr")];
-const tbodies = [...document.querySelector("table").querySelectorAll("tbody")];
+filterInput.setAttribute("aria-controls", tbodies.map(x => x.id).join(" "));
 
 filterInput.addEventListener("input", debounce(function(ev) {
   const match = new RegExp(ev.target.value, "i");
