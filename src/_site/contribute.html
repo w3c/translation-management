@@ -28,7 +28,7 @@ a[href]:focus, a[href]:hover {
       margin-bottom: -2px;
       opacity: 1;
       }
-      table { border-collapse: collapse;}
+      table { border-collapse: collapse; ;}
       th, tfoot td { border-right: 1px black solid;}
       tfoot td { text-align: right;}
       tbody tr:nth-child(odd) { background-color: #eee; }
@@ -39,10 +39,10 @@ a[href]:focus, a[href]:hover {
       .draft { background-color: #ddd;}
       .outdated { background-color: #fdd;}
       tbody { border-bottom: 1px solid black;}
-      tbody td { padding: 0; text-align: center;}
+      tbody td { padding: 0; text-align: center; border-right: thin gray solid;}
       tbody td.num { text-align: right;}
       td a { display: block; margin: 0; width: 100%;}
-      thead tr th { position: -webkit-sticky; position: sticky; top:0; z-index: 10; background-color: rgba(255,255,255,0.8);}
+      thead tr th { position: -webkit-sticky; position: sticky; top:0; z-index: 10; }
       dl.legend dt { width: 2em; text-align: center;}
       tbody tr.hidden { display: none;}
       #specs input { background-image: url("https://w3c.github.io/cg-monitor/funnel.svg"); background-repeat: no-repeat; background-size: 12px; background-position: calc(1em - 12px) 5px; padding-left:20px;}
@@ -50,6 +50,28 @@ a[href]:focus, a[href]:hover {
       cite { font-weight: bold; font-style: normal; }
       a, a:visited, a:hover, a:focus {color: #0C51C0;}
       h1 { text-shadow: none;}
+ th.lang {
+  /* Something you can count on */
+  height: 140px;
+      white-space: nowrap;
+      border-right: none;
+}
+
+th.lang > div {
+  transform:
+    /* Magic Numbers */
+    translate(19px, 51px)
+    /* 45 is really 360 - 45 */
+    rotate(315deg);
+      width: 30px;
+      background-color: rgba(255,255,255,0.8);
+      border-bottom: 1px solid gray;
+}
+th.lang > div > span {
+  
+      padding: 5px 10px;
+      z-index: 11;
+}
     </style>
   </head>
   <body>

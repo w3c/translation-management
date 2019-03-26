@@ -28,7 +28,7 @@ a[href]:focus, a[href]:hover {
       margin-bottom: -2px;
       opacity: 1;
       }
-      table { border-collapse: collapse;}
+      table { border-collapse: collapse; ;}
       th, tfoot td { border-right: 1px black solid;}
       tfoot td { text-align: right;}
       tbody tr:nth-child(odd) { background-color: #eee; }
@@ -39,10 +39,10 @@ a[href]:focus, a[href]:hover {
       .draft { background-color: #ddd;}
       .outdated { background-color: #fdd;}
       tbody { border-bottom: 1px solid black;}
-      tbody td { padding: 0; text-align: center;}
+      tbody td { padding: 0; text-align: center; border-right: thin gray solid;}
       tbody td.num { text-align: right;}
       td a { display: block; margin: 0; width: 100%;}
-      thead tr th { position: -webkit-sticky; position: sticky; top:0; z-index: 10; background-color: rgba(255,255,255,0.8);}
+      thead tr th { position: -webkit-sticky; position: sticky; top:0; z-index: 10; }
       dl.legend dt { width: 2em; text-align: center;}
       tbody tr.hidden { display: none;}
       #specs input { background-image: url("https://w3c.github.io/cg-monitor/funnel.svg"); background-repeat: no-repeat; background-size: 12px; background-position: calc(1em - 12px) 5px; padding-left:20px;}
@@ -50,6 +50,28 @@ a[href]:focus, a[href]:hover {
       cite { font-weight: bold; font-style: normal; }
       a, a:visited, a:hover, a:focus {color: #0C51C0;}
       h1 { text-shadow: none;}
+ th.lang {
+  /* Something you can count on */
+  height: 140px;
+      white-space: nowrap;
+      border-right: none;
+}
+
+th.lang > div {
+  transform:
+    /* Magic Numbers */
+    translate(19px, 51px)
+    /* 45 is really 360 - 45 */
+    rotate(315deg);
+      width: 30px;
+      background-color: rgba(255,255,255,0.8);
+      border-bottom: 1px solid gray;
+}
+th.lang > div > span {
+  
+      padding: 5px 10px;
+      z-index: 11;
+}
     </style>
   </head>
   <body>
@@ -87,27 +109,27 @@ a[href]:focus, a[href]:hover {
       
       
       
-      <th><span title="Беларуская (Belarusian)">be</span></th>
+      <th class=lang><div><span>Belarusian</span></div></th>
       
       
       
-      <th><span title="български (Bulgarian)">bg</span></th>
+      <th class=lang><div><span>Bulgarian</span></div></th>
       
       
       
-      <th><span title="Català (Catalan)">ca</span></th>
+      <th class=lang><div><span>Catalan</span></div></th>
       
       
       
-      <th><span title="česky (Czech)">cs</span></th>
+      <th class=lang><div><span>Czech</span></div></th>
       
       
       
-      <th><span title="dansk (Danish)">da</span></th>
+      <th class=lang><div><span>Danish</span></div></th>
       
       
       
-      <th><span title="Deutsch (German)">de</span></th>
+      <th class=lang><div><span>German</span></div></th>
       
       
       
@@ -115,101 +137,101 @@ a[href]:focus, a[href]:hover {
       
       
       
-      <th><span title="español (Spanish)">es</span></th>
+      <th class=lang><div><span>Spanish</span></div></th>
       
       
       
-      <th><span title="eesti (Estonian)">et</span></th>
+      <th class=lang><div><span>Estonian</span></div></th>
       
       
       
-      <th><span title="فارسی (Persian)">fa</span></th>
+      <th class=lang><div><span>Persian</span></div></th>
       
       
       
-      <th><span title="suomi (Finnish)">fi</span></th>
+      <th class=lang><div><span>Finnish</span></div></th>
       
       
       
-      <th><span title="français (French)">fr</span></th>
+      <th class=lang><div><span>French</span></div></th>
       
       
       
-      <th><span title="עברית (Hebrew)">he</span></th>
+      <th class=lang><div><span>Hebrew</span></div></th>
       
       
       
-      <th><span title="hrvatski (Croatian)">hr</span></th>
+      <th class=lang><div><span>Croatian</span></div></th>
       
       
       
-      <th><span title="Magyar (Hungarian)">hu</span></th>
+      <th class=lang><div><span>Hungarian</span></div></th>
       
       
       
-      <th><span title="Italiano (Italian)">it</span></th>
+      <th class=lang><div><span>Italian</span></div></th>
       
       
       
-      <th><span title="日本語 (Japanese)">ja</span></th>
+      <th class=lang><div><span>Japanese</span></div></th>
       
       
       
-      <th><span title="한국어 (Korean)">ko</span></th>
+      <th class=lang><div><span>Korean</span></div></th>
       
       
       
-      <th><span title="lietuvių kalba (Lithuanian)">lt</span></th>
+      <th class=lang><div><span>Lithuanian</span></div></th>
       
       
       
-      <th><span title="Nederlands (Dutch)">nl</span></th>
+      <th class=lang><div><span>Dutch</span></div></th>
       
       
       
-      <th><span title="Norsk (Norwegian)">no</span></th>
+      <th class=lang><div><span>Norwegian</span></div></th>
       
       
       
-      <th><span title="polski (Polish)">pl</span></th>
+      <th class=lang><div><span>Polish</span></div></th>
       
       
       
-      <th><span title="Português (Portuguese)">pt</span></th>
+      <th class=lang><div><span>Portuguese</span></div></th>
       
       
       
-      <th><span title="Português-BR (Brazilian Portuguese)">pt-br</span></th>
+      <th class=lang><div><span>Brazilian Portuguese</span></div></th>
       
       
       
-      <th><span title="русский (Russian)">ru</span></th>
+      <th class=lang><div><span>Russian</span></div></th>
       
       
       
-      <th><span title="slovenčina (Slovak)">sk</span></th>
+      <th class=lang><div><span>Slovak</span></div></th>
       
       
       
-      <th><span title="svenska (Swedish)">sv</span></th>
+      <th class=lang><div><span>Swedish</span></div></th>
       
       
       
-      <th><span title="Türkçe (Turkish)">tr</span></th>
+      <th class=lang><div><span>Turkish</span></div></th>
       
       
       
-      <th><span title="українська (Ukrainian)">uk</span></th>
+      <th class=lang><div><span>Ukrainian</span></div></th>
       
       
       
       
       
-      <th><span title="简体中文 (Simplified Chinese)">zh-hans</span></th>
+      <th class=lang><div><span>Simplified Chinese</span></div></th>
       
       
       
-      <th><span title="繁體中文 (Traditional Chinese)">zh-hant</span></th>
+      <th class=lang><div><span>Traditional Chinese</span></div></th>
       
       
     </tr>
