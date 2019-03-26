@@ -32,7 +32,7 @@ layout: template
     {% assign recs = site.data.recs | where: "isLatest", true | sort: "date" | reverse %}
     {% assign recsByYears = recs | group_by: "year" %}
     {% for year in recsByYears %}
-  <tbody>
+  <tbody id="y{{year.name}}" aria-live="polite">
     <tr><th colspan="{{ langs.size  }}">{{ year.name }}</th></tr>
     {% for rec in year.items %}
     <tr>
