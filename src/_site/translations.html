@@ -42,7 +42,7 @@ a[href]:focus, a[href]:hover {
       tbody td { padding: 0; text-align: center; border-right: thin gray solid;}
       tbody td.num { text-align: right;}
       td a { display: block; margin: 0; width: 100%;}
-      thead tr th { position: -webkit-sticky; position: sticky; top:0; z-index: 10; }
+      thead tr th.lang { position: -webkit-sticky; position: sticky; top:0; z-index: 10; }
       dl.legend dt { width: 2em; text-align: center;}
       tbody tr.hidden { display: none;}
       #specs input { background-image: url("https://w3c.github.io/cg-monitor/funnel.svg"); background-repeat: no-repeat; background-size: 12px; background-position: calc(1em - 12px) 5px; padding-left:20px;}
@@ -60,17 +60,19 @@ a[href]:focus, a[href]:hover {
 th.lang > div {
   transform:
     /* Magic Numbers */
-    translate(19px, 51px)
+    translate(17px, 51px)
     /* 45 is really 360 - 45 */
     rotate(315deg);
       width: 30px;
-      background-color: rgba(255,255,255,0.8);
-      border-bottom: 1px solid gray;
 }
 th.lang > div > span {
+      background-color: rgba(255,255,255,0.8);
   
       padding: 5px 10px;
       z-index: 11;
+      border-bottom: 1px solid gray;
+            border-right: 1px solid gray;
+
 }
     </style>
   </head>
@@ -2755,6 +2757,34 @@ th.lang > div > span {
 </li>
       </ul>
 </section>
+<section id="s-xml-events">
+  <h2><a href="http://www.w3.org/TR/2003/REC-xml-events-20031014/">XML Events</a><a class='self-link' href='#s-xml-events'></a></h2>
+    <ul class=details><li><span dir="auto" lang="de">Deutsch</span> (German): <a hreflang="de" href="http://www.schumacher-netz.de/TR/2003/REC-xml-events-20031014-de.html"><cite dir="auto" dir=auto lang=de>XML-Ereignisse (XML Events)</cite></a>
+          
+          
+           &mdash; Translators: Stefan Schumacher
+          
+          
+
+</li>
+      <li><span dir="auto" lang="fr">français</span> (French): <a hreflang="fr" href="http://www.lacot.org/w3c/REC-xml-events-20031014/"><cite dir="auto" dir=auto lang=fr>Évènements XML</cite></a>
+          
+          
+           &mdash; Translators: Xavier Lacot
+          
+          
+
+</li>
+      <li><span dir="auto" lang="pl">polski</span> (Polish): <a hreflang="pl" href="http://www.antyspam.pl/w3c/REC-xml-events-20031014/"><cite dir="auto" dir=auto lang=pl>Zdarzenia XML</cite></a>
+          
+          
+           &mdash; Translators: Mariusz Żebrowski
+          
+          
+
+</li>
+      </ul>
+</section>
 <section id="s-xml-infoset">
   <h2><a href="http://www.w3.org/TR/2004/REC-xml-infoset-20040204/">XML Information Set (Second Edition)</a><a class='self-link' href='#s-xml-infoset'></a></h2>
     <ul class=details><li><span dir="auto" lang="ja">日本語</span> (Japanese): <a hreflang="ja" href="http://www.doraneko.org/xml/infoset/20040204/Overview.html"><cite dir="auto" dir=auto lang=ja>XML情報セット (第2版)</cite></a>
@@ -4765,34 +4795,6 @@ th.lang > div > span {
 <section id="s-xml-entity-names">
   <h2><a href="http://www.w3.org/TR/2010/REC-xml-entity-names-20100401/">XML Entity Definitions for Characters</a><a class='self-link' href='#s-xml-entity-names'></a></h2>
     <ul class=details></ul>
-</section>
-<section id="s-xml-events">
-  <h2><a href="http://www.w3.org/TR/2003/REC-xml-events-20031014/">XML Events</a><a class='self-link' href='#s-xml-events'></a></h2>
-    <ul class=details><li><span dir="auto" lang="de">Deutsch</span> (German): <a hreflang="de" href="http://www.schumacher-netz.de/TR/2003/REC-xml-events-20031014-de.html"><cite dir="auto" dir=auto lang=de>XML-Ereignisse (XML Events)</cite></a>
-          
-          
-           &mdash; Translators: Stefan Schumacher
-          
-          
-
-</li>
-      <li><span dir="auto" lang="fr">français</span> (French): <a hreflang="fr" href="http://www.lacot.org/w3c/REC-xml-events-20031014/"><cite dir="auto" dir=auto lang=fr>Évènements XML</cite></a>
-          
-          
-           &mdash; Translators: Xavier Lacot
-          
-          
-
-</li>
-      <li><span dir="auto" lang="pl">polski</span> (Polish): <a hreflang="pl" href="http://www.antyspam.pl/w3c/REC-xml-events-20031014/"><cite dir="auto" dir=auto lang=pl>Zdarzenia XML</cite></a>
-          
-          
-           &mdash; Translators: Mariusz Żebrowski
-          
-          
-
-</li>
-      </ul>
 </section>
 <section id="s-xinclude">
   <h2><a href="http://www.w3.org/TR/2004/REC-xinclude-20041220/">XML Inclusions (XInclude) Version 1.0</a><a class='self-link' href='#s-xinclude'></a></h2>
