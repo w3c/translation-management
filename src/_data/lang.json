@@ -13,11 +13,13 @@
     },
     "zh-hans":{
       "name": "Simplified Chinese",
-      "nativeName": "简体中文"
+      "nativeName": "简体中文",
+      "sortName": "Chinese (simplified)"
     },
     "zh-hant":{
       "name": "Traditional Chinese",
-      "nativeName": "繁體中文"
+      "nativeName": "繁體中文",
+      "sortName": "Chinese (traditional)"
     },
     "hr":{
         "name":"Croatian",
@@ -105,7 +107,8 @@
     },
     "pt-br":{
         "name":"Brazilian Portuguese",
-        "nativeName":"Português-BR"
+        "nativeName":"Português-BR",
+        "sortName": "Portuguese (Brazilian)"
     },
     "ru":{
         "name":"Russian",

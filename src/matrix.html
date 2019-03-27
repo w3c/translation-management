@@ -21,7 +21,7 @@ layout: template
     <tr>
       <th id="specs">Specification</th>
       <th>Length (x1,000 words)</th>
-      {% assign langs = site.data.langlist|sort %}
+      {% assign langs = site.data.langlist|sort: "name" %}
       {% for lang in langs %}
       {% if site.data.byLanguage[lang].latestRecsTotal > 0 %}
       <th class=lang><div><span>{{site.data.lang[lang].name}}</span></div></th>

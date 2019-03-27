@@ -4,7 +4,10 @@ const config = require('./config.json');
 const langs = require('./_data/lang.json');
 w3c.apiKey = "1ezpl2phq9xc40c48cwk8gwoc00skgc";
 
-fs.writeFileSync("_data/langlist.json", JSON.stringify(Object.keys(langs), null, 2));
+fs.writeFileSync("_data/langlist.json",
+                 JSON.stringify(
+                   Object.keys(langs).sort((l1, l2) => (langs[l1].sortName || langs[l1].name).localeCompare(langs[l2].sortName || langs[l2].name)),
+                   null, 2));
 
 w3c.recommendations().fetch({embed: true}, function(err, recs) {
   if (err) return console.log(err);
