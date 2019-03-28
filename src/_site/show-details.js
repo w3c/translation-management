@@ -13,7 +13,7 @@ if (target) {
   while (cursor.parentElement && cursor.parentElement.tagName !== "DETAILS") {
     cursor = cursor.parentElement;
   }
-  if (cursor) {
+  if (cursor && cursor.parentElement) {
     cursor.parentElement.open = true;
     target.scrollIntoView();
   }
