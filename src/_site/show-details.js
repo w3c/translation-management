@@ -15,6 +15,6 @@ if (target) {
   }
   if (cursor && cursor.parentElement) {
     cursor.parentElement.open = true;
-    target.scrollIntoView();
   }
+  target.scrollIntoView();
 }
