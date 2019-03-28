@@ -1,4 +1,8 @@
 var targetId = location.hash.slice(1);
+var match;
+if (!targetId && (match = location.search.match(/^\?technology=(.*)/))) {
+  targetId = match[1];
+}
 var target = document.getElementById(targetId);
 if (target) {
   var childDetails = target.querySelectorAll("details");
