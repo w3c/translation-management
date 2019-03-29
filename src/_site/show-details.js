@@ -18,3 +18,17 @@ if (target) {
   }
   target.scrollIntoView();
 }
+
+if (match = location.search.match(/^\?filter=(.*)/)) {
+  var filter = match[1];
+  if (filter) {
+    document.querySelector("h1").appendChild(document.createTextNode(" matching “" + filter + "”"));
+    [...document.querySelectorAll("section section")].forEach(s => {
+      if (s.querySelector("h2").textContent.match(new RegExp(filter, "i"))) {
+        s.classList.remove("hidden");
+      } else {
+        s.classList.add("hidden");
+      }
+    });
+  }
+}

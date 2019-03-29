@@ -15,7 +15,10 @@
     
     <meta property="og:image" content="https://www.w3.org/Consortium/Translation/matrix-legend.png" />
     
-    <style>ul, ul li { margin: initial; padding: revert;}
+    <style>ul, ul li { margin-left: initial; padding-left: 0.6em;}
+      header a[href]:hover, header a[href]:focus {
+      background: white;
+      }
 h2 a.self-link::before {
     content: "§";
       }
@@ -54,12 +57,12 @@ a[href]:focus, a[href]:hover {
       td a { display: block; margin: 0; width: 100%;}
       thead tr th.lang { position: -webkit-sticky; position: sticky; top:0; z-index: 10; }
       dl.legend dt { width: 2em; text-align: center;}
-      tbody tr.hidden { display: none;}
+      tbody tr.hidden, section.hidden { display: none;}
       #specs input { background-image: url("https://w3c.github.io/cg-monitor/funnel.svg"); background-repeat: no-repeat; background-size: 12px; background-position: calc(1em - 12px) 5px; padding-left:20px;}
       main ul:not(.details) li { display: revert;}
       cite { font-weight: bold; font-style: normal; }
       a, a:visited, a:hover, a:focus {color: #0C51C0;}
-      h1 { text-shadow: none;}
+      h1 { text-shadow: none; text-align: left;}
  th.lang {
   /* Something you can count on */
   height: 140px;
@@ -99,7 +102,8 @@ th.lang > div > span {
     </header>
     <main>
       <section>
-        <p>This page shows which W3C Recommendations are being, have been or have not been translated. If a language does not appear in the table, it means no existing or ongoing translation is known.</p>
+        <p>See also the list of <strong><a href="/Translations/">completed translations of W3C Recommendations</a>.</p>
+<p>This page shows which W3C Recommendations are being, have been or have not been translated. If a language does not appear in the table, it means no existing or ongoing translation is known.</p>
 <p>See also <strong><a href="https://www.w3.org/Consortium/Translation/">how to contribute</a></strong> to W3C translation efforts.</p>
 <p>Legend:</p>
 <dl class=legend>
