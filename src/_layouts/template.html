@@ -15,7 +15,11 @@
     {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
     {% endif %}
-    <style>ul, ul li { margin-left: initial; padding-left: 0.6em;}
+    <style>
+      ul {
+        padding-left: 40px;
+      }
+      main ul li { display: block;}
       header a[href]:hover, header a[href]:focus {
       background: white;
       }
@@ -57,9 +61,8 @@ a[href]:focus, a[href]:hover {
       td a { display: block; margin: 0; width: 100%;}
       thead tr th.lang { position: -webkit-sticky; position: sticky; top:0; z-index: 10; }
       dl.legend dt { width: 2em; text-align: center;}
-      tbody tr.hidden { display: none;}
+      tbody tr.hidden, section.hidden { display: none;}
       #specs input { background-image: url("https://w3c.github.io/cg-monitor/funnel.svg"); background-repeat: no-repeat; background-size: 12px; background-position: calc(1em - 12px) 5px; padding-left:20px;}
-      main ul:not(.details) li { display: revert;}
       cite { font-weight: bold; font-style: normal; }
       a, a:visited, a:hover, a:focus {color: #0C51C0;}
       h1 { text-shadow: none; text-align: left;}
