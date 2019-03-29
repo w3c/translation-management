@@ -15,7 +15,10 @@
     {% if page.image %}
     <meta property="og:image" content="{{page.image}}" />
     {% endif %}
-    <style>ul, ul li { margin: initial; padding: revert;}
+    <style>ul, ul li { margin-left: initial; padding-left: 0.6em;}
+      header a[href]:hover, header a[href]:focus {
+      background: white;
+      }
 h2 a.self-link::before {
     content: "§";
       }
@@ -59,7 +62,7 @@ a[href]:focus, a[href]:hover {
       main ul:not(.details) li { display: revert;}
       cite { font-weight: bold; font-style: normal; }
       a, a:visited, a:hover, a:focus {color: #0C51C0;}
-      h1 { text-shadow: none;}
+      h1 { text-shadow: none; text-align: left;}
  th.lang {
   /* Something you can count on */
   height: 140px;
