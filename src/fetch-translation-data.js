@@ -2,7 +2,7 @@ const fs = require("fs");
 const w3c = require("node-w3capi");
 const config = require('./config.json');
 const langs = require('./_data/lang.json');
-w3c.apiKey = "1ezpl2phq9xc40c48cwk8gwoc00skgc";
+w3c.apiKey = config.w3capikey;
 
 fs.writeFileSync("_data/langlist.json",
                  JSON.stringify(
