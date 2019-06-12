@@ -1,6 +1,5 @@
 www/_data/*.json
 config.json
-Gemfile
 Gemfile.lock
 node_modules
 package-lock.json
