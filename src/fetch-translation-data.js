@@ -54,8 +54,11 @@ w3c.recommendations().fetch({embed: true}, function(err, recs) {
             }
             return r;
           });
+
+          const latestTranslations = translations.filter(t => t['call-for-translation']['spec-version']  && t.published).sort((a,b) => -a.published.localeCompare(b.published)).slice(0,15);
           fs.writeFileSync("_data/recs.json", JSON.stringify(translatedRecs, null, 2));
           fs.writeFileSync("_data/translations.json", JSON.stringify(groupedTranslations, null, 2));
+          fs.writeFileSync("_data/latestTranslations.json", JSON.stringify(latestTranslations, null, 2));
           const languages =  new Set([].concat(...groupedTranslations.map(x => x.translations.map(t => t.language))));
           const byLanguage = [...languages].reduce((acc, l) => {
             acc[l] = {};

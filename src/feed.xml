@@ -1,0 +1,45 @@
+---
+layout: null
+---
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet href='http://www.w3.org/2000/08/w3c-synd/style.css' type='text/css'?>
+<rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns='http://purl.org/rss/1.0/' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <channel rdf:about=''>
+    <title>W3C Translations</title>
+    <description>Recent translations of W3C specifications</description>
+    <link>https://www.w3.org/Translations/</link>
+    <dc:date>{{site.time | date_to_xmlschema}}</dc:date>
+    {% assign translations = site.data.latestTranslations %}
+    <items>
+      <rdf:Seq>
+      {%- for translation in translations -%}
+      {%- if translation.states contains 'published' -%}
+      <rdf:li rdf:resource='{{translation.uri}}'/>
+      {%- endif -%}
+      {%- endfor -%}
+      </rdf:Seq>
+    </items>
+  </channel>
+    {%- for translation in translations -%}
+    {%- if translation.states contains 'published' -%}
+    <item rdf:about='{{translation.uri}}'>
+    <title>{% if translation.authorized %}Authorized{% endif %} Translation of {{cft.title}} in {{site.data.lang[translation.language].name}}: {{translation.title}}</title>
+    <description>{% if translation.authorized %}Authorized{% endif %} Translation of {{cft.title}} in {{translation.language}}: {{translation.title}} by
+    {% if translation.authorized %}
+    — Lead Translation Organization: {{ translation['lto_name'] }}
+    {% else %}
+    {% if translation.translators.size > 0 %}
+    — Translators: {% for translator in translation.translators %}{{translator.name}}{% endfor %}
+    {% else %}
+    — {{ translation.comments | replace: "Translation author", "Translator"}}
+    {% endif %}
+    {% endif %}
+
+
+    </description>
+    <link>{{translation.uri}}</link>
+    <dc:date>{{translation.published}}</dc:date>
+    </item>
+    {% endif %}
+    {%- endfor -%}
+</rdf:RDF>
