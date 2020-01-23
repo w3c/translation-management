@@ -23,19 +23,17 @@ layout: null
     {%- for translation in translations -%}
     {%- if translation.states contains 'published' -%}
     <item rdf:about='{{translation.uri}}'>
-    <title>{% if translation.authorized %}Authorized{% endif %} Translation of {{cft.title}} in {{site.data.lang[translation.language].name}}: {{translation.title}}</title>
-    <description>{% if translation.authorized %}Authorized{% endif %} Translation of {{cft.title}} in {{translation.language}}: {{translation.title}} by
+    <title>{% if translation.authorized %}Authorized {% endif %}Translation of “{{translation['call-for-translation'].title}}” in {{site.data.lang[translation.language].name}}: “{{translation.title}}”</title>
+    <description>{% if translation.authorized %}Authorized{% endif %} Translation of “{{translation['call-for-translation'].title}}” in {{site.data.lang[translation.language].name}}: “{{translation.title}}” by
     {% if translation.authorized %}
-    — Lead Translation Organization: {{ translation['lto_name'] }}
+    Lead Translation Organization: {{ translation['lto_name'] }}
     {% else %}
     {% if translation.translators.size > 0 %}
-    — Translators: {% for translator in translation.translators %}{{translator.name}}{% endfor %}
+    Translators: {% for translator in translation.translators %}{{translator.name}}{% endfor %}
     {% else %}
-    — {{ translation.comments | replace: "Translation author", "Translator"}}
+    {{ translation.comments | replace: "Translation author", "Translator"}}
     {% endif %}
     {% endif %}
-
-
     </description>
     <link>{{translation.uri}}</link>
     <dc:date>{{translation.published}}</dc:date>
