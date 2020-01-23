@@ -5,207 +5,177 @@
     <title>W3C Translations</title>
     <description>Recent translations of W3C specifications</description>
     <link>https://www.w3.org/Translations/</link>
-    <dc:date>2020-01-23T09:50:05+00:00</dc:date>
+    <dc:date>2020-01-23T10:00:05+00:00</dc:date>
     
     <items>
       <rdf:Seq><rdf:li rdf:resource='https://triple-underscore.github.io/css-writing-modes3-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-da/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-fi/'/><rdf:li rdf:resource='https://www.w3.org/Translations/DWBP-pt-BR/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/character/NOTE-charmod-norm-20190204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-fonts-ja.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/pointerevents-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-zh/'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html'/><rdf:li rdf:resource='https://g200kg.github.io/web-audio-api-ja/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-it/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-html-rdfa-20150317.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdfa-core-20150317.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-xhtml-rdfa-20150317.html'/><rdf:li rdf:resource='https://momdo.github.io/css-ui/'/></rdf:Seq>
     </items>
   </channel><item rdf:about='https://triple-underscore.github.io/css-writing-modes3-ja.html'>
-    <title> Translation of  in Japanese: CSS Writing Modes Level 3</title>
-    <description> Translation of  in ja: CSS Writing Modes Level 3 by
+    <title>Translation of “CSS Writing Modes Level 3” in Japanese: “CSS Writing Modes Level 3”</title>
+    <description> Translation of “CSS Writing Modes Level 3” in Japanese: “CSS Writing Modes Level 3” by
     
     
-    — Translator: triple-underscore
+    Translator: triple-underscore
     
     
-
-
     </description>
     <link>https://triple-underscore.github.io/css-writing-modes3-ja.html</link>
     <dc:date>2019-12-16T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='https://www.w3.org/Translations/WCAG21-da/'>
-    <title>Authorized Translation of  in Danish: Retningslinjer for Tilgængeligt Webindhold (WCAG) 2.1</title>
-    <description>Authorized Translation of  in da: Retningslinjer for Tilgængeligt Webindhold (WCAG) 2.1 by
+    <title>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Danish: “Retningslinjer for Tilgængeligt Webindhold (WCAG) 2.1”</title>
+    <description>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Danish: “Retningslinjer for Tilgængeligt Webindhold (WCAG) 2.1” by
     
-    — Lead Translation Organization: Digitaliseringsstyrelsen (Danish Agency for Digitization)
+    Lead Translation Organization: Digitaliseringsstyrelsen (Danish Agency for Digitization)
     
-
-
     </description>
     <link>https://www.w3.org/Translations/WCAG21-da/</link>
     <dc:date>2019-12-12T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='https://www.w3.org/Translations/WCAG21-fi/'>
-    <title>Authorized Translation of  in Finnish: Verkkosisällön saavutettavuusohjeet (WCAG) 2.1</title>
-    <description>Authorized Translation of  in fi: Verkkosisällön saavutettavuusohjeet (WCAG) 2.1 by
+    <title>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Finnish: “Verkkosisällön saavutettavuusohjeet (WCAG) 2.1”</title>
+    <description>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Finnish: “Verkkosisällön saavutettavuusohjeet (WCAG) 2.1” by
     
-    — Lead Translation Organization: Kehitysvammaliitto ry
+    Lead Translation Organization: Kehitysvammaliitto ry
     
-
-
     </description>
     <link>https://www.w3.org/Translations/WCAG21-fi/</link>
     <dc:date>2019-11-22T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='https://www.w3.org/Translations/DWBP-pt-BR/'>
-    <title>Authorized Translation of  in Brazilian Portuguese: Boas Práticas para Dados na Web</title>
-    <description>Authorized Translation of  in pt-br: Boas Práticas para Dados na Web by
+    <title>Authorized Translation of “Data on the Web Best Practices” in Brazilian Portuguese: “Boas Práticas para Dados na Web”</title>
+    <description>Authorized Translation of “Data on the Web Best Practices” in Brazilian Portuguese: “Boas Práticas para Dados na Web” by
     
-    — Lead Translation Organization: Núcleo de Informação e Coordenação do Ponto BR
+    Lead Translation Organization: Núcleo de Informação e Coordenação do Ponto BR
     
-
-
     </description>
     <link>https://www.w3.org/Translations/DWBP-pt-BR/</link>
     <dc:date>2019-10-30T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/character/NOTE-charmod-norm-20190204.html'>
-    <title> Translation of  in Japanese: ウェブの文字モデル: 文字列マッチング</title>
-    <description> Translation of  in ja: ウェブの文字モデル: 文字列マッチング by
+    <title>Translation of “Character Model for the World Wide Web: String Matching” in Japanese: “ウェブの文字モデル: 文字列マッチング”</title>
+    <description> Translation of “Character Model for the World Wide Web: String Matching” in Japanese: “ウェブの文字モデル: 文字列マッチング” by
     
     
-    — Translators: Shuji Kamitsuna
+    Translators: Shuji Kamitsuna
     
     
-
-
     </description>
     <link>http://www.asahi-net.or.jp/~ax2s-kmtn/internet/character/NOTE-charmod-norm-20190204.html</link>
     <dc:date>2019-06-12T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='https://triple-underscore.github.io/css-fonts-ja.html'>
-    <title> Translation of  in Japanese: CSS Fonts Module Level 3</title>
-    <description> Translation of  in ja: CSS Fonts Module Level 3 by
+    <title>Translation of “CSS Fonts Module Level 3” in Japanese: “CSS Fonts Module Level 3”</title>
+    <description> Translation of “CSS Fonts Module Level 3” in Japanese: “CSS Fonts Module Level 3” by
     
     
-    — Translators: triple-underscore
+    Translators: triple-underscore
     
     
-
-
     </description>
     <link>https://triple-underscore.github.io/css-fonts-ja.html</link>
     <dc:date>2019-04-28T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='https://triple-underscore.github.io/pointerevents-ja.html'>
-    <title> Translation of  in Japanese: Pointer Events — Level 2</title>
-    <description> Translation of  in ja: Pointer Events — Level 2 by
+    <title>Translation of “Pointer Events Level 2” in Japanese: “Pointer Events — Level 2”</title>
+    <description> Translation of “Pointer Events Level 2” in Japanese: “Pointer Events — Level 2” by
     
     
-    — Translator: triple-underscore
+    Translator: triple-underscore
     
     
-
-
     </description>
     <link>https://triple-underscore.github.io/pointerevents-ja.html</link>
     <dc:date>2019-04-23T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='https://www.w3.org/Translations/WCAG21-zh/'>
-    <title>Authorized Translation of  in Simplified Chinese: Web内容无障碍指南 (WCAG) 2.1</title>
-    <description>Authorized Translation of  in zh-hans: Web内容无障碍指南 (WCAG) 2.1 by
+    <title>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Simplified Chinese: “Web内容无障碍指南 (WCAG) 2.1”</title>
+    <description>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Simplified Chinese: “Web内容无障碍指南 (WCAG) 2.1” by
     
-    — Lead Translation Organization: Zhejiang University
+    Lead Translation Organization: Zhejiang University
     
-
-
     </description>
     <link>https://www.w3.org/Translations/WCAG21-zh/</link>
     <dc:date>2019-03-11T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html'>
-    <title> Translation of  in Japanese: 文字に対するXML実体の定義(第2版)</title>
-    <description> Translation of  in ja: 文字に対するXML実体の定義(第2版) by
+    <title>Translation of “XML Entity Definitions for Characters (2nd Edition)” in Japanese: “文字に対するXML実体の定義(第2版)”</title>
+    <description> Translation of “XML Entity Definitions for Characters (2nd Edition)” in Japanese: “文字に対するXML実体の定義(第2版)” by
     
     
-    — Translators: Yosikazu Takamura
+    Translators: Yosikazu Takamura
     
     
-
-
     </description>
     <link>http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html</link>
     <dc:date>2018-09-26T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='https://g200kg.github.io/web-audio-api-ja/'>
-    <title> Translation of  in Japanese: Web Audio API ( 日本語訳 )</title>
-    <description> Translation of  in ja: Web Audio API ( 日本語訳 ) by
+    <title>Translation of “Web Audio API” in Japanese: “Web Audio API ( 日本語訳 )”</title>
+    <description> Translation of “Web Audio API” in Japanese: “Web Audio API ( 日本語訳 )” by
     
     
-    — Translator: Tatsuya Shinyagaito
+    Translator: Tatsuya Shinyagaito
     
     
-
-
     </description>
     <link>https://g200kg.github.io/web-audio-api-ja/</link>
     <dc:date>2018-09-18T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='https://www.w3.org/Translations/WCAG21-it/'>
-    <title>Authorized Translation of  in Italian: Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1</title>
-    <description>Authorized Translation of  in it: Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1 by
+    <title>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Italian: “Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1”</title>
+    <description>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Italian: “Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1” by
     
-    — Lead Translation Organization: International Web Association
+    Lead Translation Organization: International Web Association
     
-
-
     </description>
     <link>https://www.w3.org/Translations/WCAG21-it/</link>
     <dc:date>2018-09-13T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-html-rdfa-20150317.html'>
-    <title> Translation of  in Japanese: HTML+RDFa 1.1 - 第2版</title>
-    <description> Translation of  in ja: HTML+RDFa 1.1 - 第2版 by
+    <title>Translation of “HTML+RDFa 1.1 - Second Edition” in Japanese: “HTML+RDFa 1.1 - 第2版”</title>
+    <description> Translation of “HTML+RDFa 1.1 - Second Edition” in Japanese: “HTML+RDFa 1.1 - 第2版” by
     
     
-    — Translators: Shuji Kamitsuna
+    Translators: Shuji Kamitsuna
     
     
-
-
     </description>
     <link>http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-html-rdfa-20150317.html</link>
     <dc:date>2018-08-30T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdfa-core-20150317.html'>
-    <title> Translation of  in Japanese: RDFaコア1.1 - 第3版</title>
-    <description> Translation of  in ja: RDFaコア1.1 - 第3版 by
+    <title>Translation of “RDFa Core 1.1 - Third Edition” in Japanese: “RDFaコア1.1 - 第3版”</title>
+    <description> Translation of “RDFa Core 1.1 - Third Edition” in Japanese: “RDFaコア1.1 - 第3版” by
     
     
-    — Translators: Shuji Kamitsuna
+    Translators: Shuji Kamitsuna
     
     
-
-
     </description>
     <link>http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdfa-core-20150317.html</link>
     <dc:date>2018-08-17T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-xhtml-rdfa-20150317.html'>
-    <title> Translation of  in Japanese: XHTML+RDFa 1.1 - 第3版</title>
-    <description> Translation of  in ja: XHTML+RDFa 1.1 - 第3版 by
+    <title>Translation of “XHTML+RDFa 1.1 - Third Edition” in Japanese: “XHTML+RDFa 1.1 - 第3版”</title>
+    <description> Translation of “XHTML+RDFa 1.1 - Third Edition” in Japanese: “XHTML+RDFa 1.1 - 第3版” by
     
     
-    — Translators: Shuji Kamitsuna
+    Translators: Shuji Kamitsuna
     
     
-
-
     </description>
     <link>http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-xhtml-rdfa-20150317.html</link>
     <dc:date>2018-07-10T00:00:00+00:00</dc:date>
     </item>
     <item rdf:about='https://momdo.github.io/css-ui/'>
-    <title> Translation of  in Japanese: CSS Basic User Interface Module Level 3 (CSS3 UI) 日本語訳</title>
-    <description> Translation of  in ja: CSS Basic User Interface Module Level 3 (CSS3 UI) 日本語訳 by
+    <title>Translation of “CSS Basic User Interface Module Level 3 (CSS3 UI)” in Japanese: “CSS Basic User Interface Module Level 3 (CSS3 UI) 日本語訳”</title>
+    <description> Translation of “CSS Basic User Interface Module Level 3 (CSS3 UI)” in Japanese: “CSS Basic User Interface Module Level 3 (CSS3 UI) 日本語訳” by
     
     
-    — Translator: Momdo Nakamura
+    Translator: Momdo Nakamura
     
     
-
-
     </description>
     <link>https://momdo.github.io/css-ui/</link>
     <dc:date>2018-06-21T00:00:00+00:00</dc:date>
