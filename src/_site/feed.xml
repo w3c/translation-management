@@ -5,7 +5,7 @@
     <title>W3C Translations</title>
     <description>Recent translations of W3C specifications</description>
     <link>https://www.w3.org/Translations/</link>
-    <dc:date>2020-02-28T00:20:06+00:00</dc:date>
+    <dc:date>2020-02-28T00:30:05+00:00</dc:date>
     
     <items>
       <rdf:Seq><rdf:li rdf:resource='https://triple-underscore.github.io/css-writing-modes3-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-da/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-fi/'/><rdf:li rdf:resource='https://www.w3.org/Translations/DWBP-pt-BR/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/character/NOTE-charmod-norm-20190204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-fonts-ja.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/pointerevents-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-zh/'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html'/><rdf:li rdf:resource='https://g200kg.github.io/web-audio-api-ja/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-it/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-html-rdfa-20150317.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdfa-core-20150317.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-xhtml-rdfa-20150317.html'/><rdf:li rdf:resource='https://momdo.github.io/css-ui/'/></rdf:Seq>
