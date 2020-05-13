@@ -8,7 +8,7 @@ layout: null
     <title>W3C Translations</title>
     <description>Recent translations of W3C specifications</description>
     <link>https://www.w3.org/Translations/</link>
-    <dc:date>{{site.time | date_to_xmlschema}}</dc:date>
+    <dc:date>{{site.data.latestTranslations[0].published}}</dc:date>
     {% assign translations = site.data.latestTranslations %}
     <items>
       <rdf:Seq>
