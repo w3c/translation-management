@@ -5,24 +5,12 @@
     <title>W3C Translations</title>
     <description>Recent translations of W3C specifications</description>
     <link>https://www.w3.org/Translations/</link>
-    <dc:date>2020-05-26T00:00:00+00:00</dc:date>
+    <dc:date>2020-05-06T00:00:00+00:00</dc:date>
     
     <items>
-      <rdf:Seq><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-architecture-20200409.html'/><rdf:li rdf:resource='http://www.kwacc.or.kr/WAI/wcag21/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/link/REC-ldn-20170502.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-prov-o-20130430.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-owl2-overview-20121211.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-vocab-dcat-2-20200204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-writing-modes3-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-da/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-fi/'/><rdf:li rdf:resource='https://www.w3.org/Translations/DWBP-pt-BR/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/character/NOTE-charmod-norm-20190204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-fonts-ja.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/pointerevents-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-zh/'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html'/></rdf:Seq>
+      <rdf:Seq><rdf:li rdf:resource='http://www.kwacc.or.kr/WAI/wcag21/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/link/REC-ldn-20170502.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-prov-o-20130430.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-owl2-overview-20121211.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-vocab-dcat-2-20200204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-writing-modes3-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-da/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-fi/'/><rdf:li rdf:resource='https://www.w3.org/Translations/DWBP-pt-BR/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/character/NOTE-charmod-norm-20190204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-fonts-ja.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/pointerevents-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-zh/'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html'/><rdf:li rdf:resource='https://g200kg.github.io/web-audio-api-ja/'/></rdf:Seq>
     </items>
-  </channel><item rdf:about='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-architecture-20200409.html'>
-    <title>Translation of “Web of Things (WoT) Architecture” in Japanese: “モノのウェブ(WoT)アーキテクチャ”</title>
-    <description> Translation of “Web of Things (WoT) Architecture” in Japanese: “モノのウェブ(WoT)アーキテクチャ” by
-    
-    
-    Translators: Shuji Kamitsuna
-    
-    
-    </description>
-    <link>http://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-architecture-20200409.html</link>
-    <dc:date>2020-05-26T00:00:00+00:00</dc:date>
-    </item>
-    <item rdf:about='http://www.kwacc.or.kr/WAI/wcag21/'>
+  </channel><item rdf:about='http://www.kwacc.or.kr/WAI/wcag21/'>
     <title>Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Korean: “웹 콘텐츠 접근성 지침 (WCAG) 2.1”</title>
     <description> Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Korean: “웹 콘텐츠 접근성 지침 (WCAG) 2.1” by
     
@@ -181,5 +169,17 @@
     </description>
     <link>http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html</link>
     <dc:date>2018-09-26T00:00:00+00:00</dc:date>
+    </item>
+    <item rdf:about='https://g200kg.github.io/web-audio-api-ja/'>
+    <title>Translation of “Web Audio API” in Japanese: “Web Audio API ( 日本語訳 )”</title>
+    <description> Translation of “Web Audio API” in Japanese: “Web Audio API ( 日本語訳 )” by
+    
+    
+    Translator: Tatsuya Shinyagaito
+    
+    
+    </description>
+    <link>https://g200kg.github.io/web-audio-api-ja/</link>
+    <dc:date>2018-09-18T00:00:00+00:00</dc:date>
     </item>
     </rdf:RDF>
