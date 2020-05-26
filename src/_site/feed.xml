@@ -8,9 +8,19 @@
     <dc:date>2020-05-26T00:00:00+00:00</dc:date>
     
     <items>
-      <rdf:Seq><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-architecture-20200409.html'/><rdf:li rdf:resource='http://www.kwacc.or.kr/WAI/wcag21/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/link/REC-ldn-20170502.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-prov-o-20130430.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-owl2-overview-20121211.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-vocab-dcat-2-20200204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-writing-modes3-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-da/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-fi/'/><rdf:li rdf:resource='https://www.w3.org/Translations/DWBP-pt-BR/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/character/NOTE-charmod-norm-20190204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-fonts-ja.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/pointerevents-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-zh/'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html'/></rdf:Seq>
+      <rdf:Seq><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-nl/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-architecture-20200409.html'/><rdf:li rdf:resource='http://www.kwacc.or.kr/WAI/wcag21/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/link/REC-ldn-20170502.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-prov-o-20130430.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/owl2/REC-owl2-overview-20121211.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-vocab-dcat-2-20200204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-writing-modes3-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-da/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-fi/'/><rdf:li rdf:resource='https://www.w3.org/Translations/DWBP-pt-BR/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/character/NOTE-charmod-norm-20190204.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/css-fonts-ja.html'/><rdf:li rdf:resource='https://triple-underscore.github.io/pointerevents-ja.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-zh/'/></rdf:Seq>
     </items>
-  </channel><item rdf:about='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-architecture-20200409.html'>
+  </channel><item rdf:about='https://www.w3.org/Translations/WCAG21-nl/'>
+    <title>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Dutch: “Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.1”</title>
+    <description>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Dutch: “Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.1” by
+    
+    Lead Translation Organization: Accessibility Foundation
+    
+    </description>
+    <link>https://www.w3.org/Translations/WCAG21-nl/</link>
+    <dc:date>2020-05-26T00:00:00+00:00</dc:date>
+    </item>
+    <item rdf:about='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/wot/REC-wot-architecture-20200409.html'>
     <title>Translation of “Web of Things (WoT) Architecture” in Japanese: “モノのウェブ(WoT)アーキテクチャ”</title>
     <description> Translation of “Web of Things (WoT) Architecture” in Japanese: “モノのウェブ(WoT)アーキテクチャ” by
     
@@ -169,17 +179,5 @@
     </description>
     <link>https://www.w3.org/Translations/WCAG21-zh/</link>
     <dc:date>2019-03-11T00:00:00+00:00</dc:date>
-    </item>
-    <item rdf:about='http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html'>
-    <title>Translation of “XML Entity Definitions for Characters (2nd Edition)” in Japanese: “文字に対するXML実体の定義(第2版)”</title>
-    <description> Translation of “XML Entity Definitions for Characters (2nd Edition)” in Japanese: “文字に対するXML実体の定義(第2版)” by
-    
-    
-    Translators: Yosikazu Takamura
-    
-    
-    </description>
-    <link>http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html</link>
-    <dc:date>2018-09-26T00:00:00+00:00</dc:date>
     </item>
     </rdf:RDF>
