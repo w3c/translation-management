@@ -35,8 +35,8 @@ w3c.recommendations().fetch({embed: true}, function(err, recs) {
             r.date = r._links["latest-version"].href.split('/').pop().replace(/([0-9]{4})([0-9]{2})([0-9]{2})/, '$1-$2-$3');
             r.year = r._links["latest-version"].href.split('/').pop().slice(0,4);
             r.translations = {};
-            const cft = groupedTranslations.find(s => s["spec-version"]._links.specification.href === r._links.self.href);
-            if (cft) {
+            const cfts = groupedTranslations.filter(s => s["spec-version"]._links.specification.href === r._links.self.href);
+            cfts.forEach(cft => {
               r.translations = Object.keys(langs).reduce((obj, lang) => {
                 obj[lang] = cft.translations.find(t => t.language === lang);
                 if (obj[lang]) {
@@ -51,7 +51,7 @@ w3c.recommendations().fetch({embed: true}, function(err, recs) {
                 }
                 return obj;
               }, {});
-            }
+            })
             return r;
           });
 
