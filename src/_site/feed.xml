@@ -5,12 +5,22 @@
     <title>W3C Translations</title>
     <description>Recent translations of W3C specifications</description>
     <link>https://www.w3.org/Translations/</link>
-    <dc:date>2021-08-12T00:00:00+00:00</dc:date>
+    <dc:date>2021-11-12T00:00:00+00:00</dc:date>
     
     <items>
-      <rdf:Seq><rdf:li rdf:resource='https://momdo.github.io/accname-1.1/'/><rdf:li rdf:resource='https://momdo.github.io/graphics-aria-1.0/'/><rdf:li rdf:resource='https://momdo.github.io/act-rules-format-1.0/'/><rdf:li rdf:resource='https://www.asahi-net.or.jp/~ax2s-kmtn/internet/lod/REC-json-ld11-framing-20200716.html'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/mathml3-ja/index.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-no/'/><rdf:li rdf:resource='https://japan-daisy-consortium.github.io/translations/epub-specs/epub33/overview/'/><rdf:li rdf:resource='https://japan-daisy-consortium.github.io/translations/epub-specs/epub33/a11y-tech/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-pl/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdfa-lite-20150317.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/publishing/REC-pub-manifest-20201110.html'/><rdf:li rdf:resource='https://dpublishing.github.io/audiobooks-specs-tc/lpf.html'/><rdf:li rdf:resource='https://dpublishing.github.io/audiobooks-specs-tc/audiobooks.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/publishing/REC-audiobooks-20201110.html'/><rdf:li rdf:resource='https://liuxing3169.github.io/wot-architecture/publication/rec/index.html'/></rdf:Seq>
+      <rdf:Seq><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-ar/'/><rdf:li rdf:resource='https://momdo.github.io/accname-1.1/'/><rdf:li rdf:resource='https://momdo.github.io/graphics-aria-1.0/'/><rdf:li rdf:resource='https://momdo.github.io/act-rules-format-1.0/'/><rdf:li rdf:resource='https://www.asahi-net.or.jp/~ax2s-kmtn/internet/lod/REC-json-ld11-framing-20200716.html'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/mathml3-ja/index.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-no/'/><rdf:li rdf:resource='https://japan-daisy-consortium.github.io/translations/epub-specs/epub33/overview/'/><rdf:li rdf:resource='https://japan-daisy-consortium.github.io/translations/epub-specs/epub33/a11y-tech/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-pl/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-rdfa-lite-20150317.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/publishing/REC-pub-manifest-20201110.html'/><rdf:li rdf:resource='https://dpublishing.github.io/audiobooks-specs-tc/lpf.html'/><rdf:li rdf:resource='https://dpublishing.github.io/audiobooks-specs-tc/audiobooks.html'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/publishing/REC-audiobooks-20201110.html'/></rdf:Seq>
     </items>
-  </channel><item rdf:about='https://momdo.github.io/accname-1.1/'>
+  </channel><item rdf:about='https://www.w3.org/Translations/WCAG21-ar/'>
+    <title>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Arabic: “مبادئ النفاذ إلى محتوى الويب (WCAG2.1)”</title>
+    <description>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Arabic: “مبادئ النفاذ إلى محتوى الويب (WCAG2.1)” by
+    
+    Lead Translation Organization: Mada Center
+    
+    </description>
+    <link>https://www.w3.org/Translations/WCAG21-ar/</link>
+    <dc:date>2021-11-12T00:00:00+00:00</dc:date>
+    </item>
+    <item rdf:about='https://momdo.github.io/accname-1.1/'>
     <title>Translation of “Accessible Name and Description Computation 1.1” in Japanese: “Accessible Name and Description Computation 1.1 日本語訳”</title>
     <description> Translation of “Accessible Name and Description Computation 1.1” in Japanese: “Accessible Name and Description Computation 1.1 日本語訳” by
     
@@ -173,17 +183,5 @@
     </description>
     <link>http://www.asahi-net.or.jp/~ax2s-kmtn/internet/publishing/REC-audiobooks-20201110.html</link>
     <dc:date>2020-12-10T00:00:00+00:00</dc:date>
-    </item>
-    <item rdf:about='https://liuxing3169.github.io/wot-architecture/publication/rec/index.html'>
-    <title>Translation of “Web of Things (WoT) Architecture” in Simplified Chinese: “事物的万维网 (WoT) 架构”</title>
-    <description> Translation of “Web of Things (WoT) Architecture” in Simplified Chinese: “事物的万维网 (WoT) 架构” by
-    
-    
-    Translators: xin liu
-    
-    
-    </description>
-    <link>https://liuxing3169.github.io/wot-architecture/publication/rec/index.html</link>
-    <dc:date>2020-12-07T00:00:00+00:00</dc:date>
     </item>
     </rdf:RDF>
