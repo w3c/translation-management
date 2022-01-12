@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "node-w3capi": "^1.4.0",
+    "node-w3capi": "^1.11.0",
     "viperhtml": "^2.17.0",
     "vue": "^2.6.7",
     "vue-server-renderer": "^2.6.7"

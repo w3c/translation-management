@@ -9,7 +9,7 @@ fs.writeFileSync("_data/langlist.json",
                    Object.keys(langs).sort((l1, l2) => (langs[l1].sortName || langs[l1].name).localeCompare(langs[l2].sortName || langs[l2].name)),
                    null, 2));
 
-w3c.recommendations().fetch({embed: true}, function(err, recs) {
+w3c.specificationsByStatus('Recommendation').fetch({embed: true}, function(err, recs) {
   if (err) return console.log(err);
   w3c.callsfortranslation().fetch({embed: true}, function(err, data) {
     if (err) console.log(err);
