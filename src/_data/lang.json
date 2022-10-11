@@ -137,5 +137,10 @@
     "vi":{
         "name":"Vietnamese",
         "nativeName":"Tiếng Việt"
+    },
+    "tl": {
+     	"name": "Tagalog (Filipino)",
+	"nativeName": "Tagalog"
     }
+
 }
