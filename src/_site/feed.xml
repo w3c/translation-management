@@ -8,9 +8,19 @@
     <dc:date>2023-02-20T00:00:00+00:00</dc:date>
     
     <items>
-      <rdf:Seq><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-method-id-20220908.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-ca/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/did/REC-vc-data-model-20220303.html'/><rdf:li rdf:resource='https://xfq.github.io/translation/predefined-counter-styles/index.zh-Hans.html'/><rdf:li rdf:resource='https://www.asahi-net.or.jp/~ax2s-kmtn/internet/did/REC-did-core-20220719.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-fr/'/><rdf:li rdf:resource='https://outline-rocks.github.io/wcag/translations/WCAG21-de/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-ar/'/><rdf:li rdf:resource='https://momdo.github.io/accname-1.1/'/><rdf:li rdf:resource='https://momdo.github.io/graphics-aria-1.0/'/><rdf:li rdf:resource='https://momdo.github.io/act-rules-format-1.0/'/><rdf:li rdf:resource='https://www.asahi-net.or.jp/~ax2s-kmtn/internet/lod/REC-json-ld11-framing-20200716.html'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/mathml3-ja/index.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-no/'/><rdf:li rdf:resource='https://japan-daisy-consortium.github.io/translations/epub-specs/epub33/overview/'/></rdf:Seq>
+      <rdf:Seq><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-ua/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-method-id-20220908.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-ca/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/did/REC-vc-data-model-20220303.html'/><rdf:li rdf:resource='https://xfq.github.io/translation/predefined-counter-styles/index.zh-Hans.html'/><rdf:li rdf:resource='https://www.asahi-net.or.jp/~ax2s-kmtn/internet/did/REC-did-core-20220719.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-fr/'/><rdf:li rdf:resource='https://outline-rocks.github.io/wcag/translations/WCAG21-de/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-ar/'/><rdf:li rdf:resource='https://momdo.github.io/accname-1.1/'/><rdf:li rdf:resource='https://momdo.github.io/graphics-aria-1.0/'/><rdf:li rdf:resource='https://momdo.github.io/act-rules-format-1.0/'/><rdf:li rdf:resource='https://www.asahi-net.or.jp/~ax2s-kmtn/internet/lod/REC-json-ld11-framing-20200716.html'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/mathml3-ja/index.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-no/'/></rdf:Seq>
     </items>
-  </channel><item rdf:about='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-method-id-20220908.html'>
+  </channel><item rdf:about='https://www.w3.org/Translations/WCAG21-ua/'>
+    <title>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Ukrainian: “Настанови з доступності вебвмісту (WCAG) 2.1”</title>
+    <description>Authorized Translation of “Web Content Accessibility Guidelines (WCAG) 2.1” in Ukrainian: “Настанови з доступності вебвмісту (WCAG) 2.1” by
+    
+    Lead Translation Organization: United Nations Development Program (UNDP) in Ukraine
+    
+    </description>
+    <link>https://www.w3.org/Translations/WCAG21-ua/</link>
+    <dc:date>2023-02-20T00:00:00+00:00</dc:date>
+    </item>
+    <item rdf:about='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-method-id-20220908.html'>
     <title>Translation of “Payment Method Identifiers” in Japanese: “決済方式識別子”</title>
     <description> Translation of “Payment Method Identifiers” in Japanese: “決済方式識別子” by
     
@@ -169,17 +179,5 @@
     </description>
     <link>https://www.w3.org/Translations/WCAG21-no/</link>
     <dc:date>2021-06-18T00:00:00+00:00</dc:date>
-    </item>
-    <item rdf:about='https://japan-daisy-consortium.github.io/translations/epub-specs/epub33/overview/'>
-    <title>Translation of “EPUB 3 Overview” in Japanese: “EPUB 3 概要”</title>
-    <description> Translation of “EPUB 3 Overview” in Japanese: “EPUB 3 概要” by
-    
-    
-    Translators: Makoto Murata
-    
-    
-    </description>
-    <link>https://japan-daisy-consortium.github.io/translations/epub-specs/epub33/overview/</link>
-    <dc:date>2021-05-10T00:00:00+00:00</dc:date>
     </item>
     </rdf:RDF>
