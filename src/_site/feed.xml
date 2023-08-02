@@ -11,8 +11,8 @@
       <rdf:Seq><rdf:li rdf:resource='http://takamu.sakura.ne.jp/mathml-media-types-ja.html'/><rdf:li rdf:resource='https://momdo.github.io/wai-aria-1.2/'/><rdf:li rdf:resource='https://momdo.github.io/dpub-aria-1.0/'/><rdf:li rdf:resource='https://momdo.github.io/html-aria/'/><rdf:li rdf:resource='http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html'/><rdf:li rdf:resource='https://www.asahi-net.or.jp/~ax2s-kmtn/internet/geo/REC-geolocation-20220901.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-ua/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-method-id-20220908.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-ca/'/><rdf:li rdf:resource='http://www.asahi-net.or.jp/~ax2s-kmtn/internet/did/REC-vc-data-model-20220303.html'/><rdf:li rdf:resource='https://xfq.github.io/translation/predefined-counter-styles/index.zh-Hans.html'/><rdf:li rdf:resource='https://www.asahi-net.or.jp/~ax2s-kmtn/internet/did/REC-did-core-20220719.html'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-fr/'/><rdf:li rdf:resource='https://outline-rocks.github.io/wcag/translations/WCAG21-de/'/><rdf:li rdf:resource='https://www.w3.org/Translations/WCAG21-ar/'/></rdf:Seq>
     </items>
   </channel><item rdf:about='http://takamu.sakura.ne.jp/mathml-media-types-ja.html'>
-    <title>Translation of “MathML Media-type Declarations” in Japanese: “MathMLメディアタイプ宣言”</title>
-    <description> Translation of “MathML Media-type Declarations” in Japanese: “MathMLメディアタイプ宣言” by
+    <title>Translation of “MathML Media-type Declarations” in Japanese: “MathMLメディアタイプ宣言1”</title>
+    <description> Translation of “MathML Media-type Declarations” in Japanese: “MathMLメディアタイプ宣言1” by
     
     
     Translators: Yosikazu Takamura
