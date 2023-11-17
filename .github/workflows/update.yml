@@ -1,0 +1,34 @@
+name: Update translation data
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.x'
+      - run: npm install
+      - name: Run update script
+        run: node fetch-translation-data.js
+	working-directory: ./src
+      - name: Commit changes
+        run: |
+          git config user.name "w3c-translation-bot"
+          git config user.email "<>"
+          git add docs/_data/langlist.json docs/_data/recs.json docs/_data/translations.json docs/_data/latestTranslations.json docs/_data/byLanguage.json
+          git commit -m "Update data"
+          git show
+      - name: Push changes
+        if: github.ref == 'refs/heads/main' && github.event.commits[0].author.name != 'w3c-translation-bot'
+        run: |
+          git remote set-url --push origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git push origin HEAD:main
