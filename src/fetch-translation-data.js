@@ -1,8 +1,8 @@
 const fs = require("fs");
 const w3c = require("node-w3capi");
-const langs = require('./_data/lang.json');
+const langs = require('../docs/_data/lang.json');
 
-fs.writeFileSync("_data/langlist.json",
+fs.writeFileSync("../docs/_data/langlist.json",
                  JSON.stringify(
                    Object.keys(langs).sort((l1, l2) => (langs[l1].sortName || langs[l1].name).localeCompare(langs[l2].sortName || langs[l2].name)),
                    null, 2));
@@ -54,9 +54,9 @@ w3c.specificationsByStatus('Recommendation').fetch({embed: true}, function(err, 
           });
 
           const latestTranslations = translations.filter(t => t['call-for-translation']['spec-version']  && t.published).sort((a,b) => -a.published.localeCompare(b.published)).slice(0,15);
-          fs.writeFileSync("_data/recs.json", JSON.stringify(translatedRecs, null, 2));
-          fs.writeFileSync("_data/translations.json", JSON.stringify(groupedTranslations, null, 2));
-          fs.writeFileSync("_data/latestTranslations.json", JSON.stringify(latestTranslations, null, 2));
+          fs.writeFileSync("../docs/_data/recs.json", JSON.stringify(translatedRecs, null, 2));
+          fs.writeFileSync("../docs/_data/translations.json", JSON.stringify(groupedTranslations, null, 2));
+          fs.writeFileSync("../docs/_data/latestTranslations.json", JSON.stringify(latestTranslations, null, 2));
           const languages =  new Set([].concat(...groupedTranslations.map(x => x.translations.map(t => t.language))));
           const byLanguage = [...languages].reduce((acc, l) => {
             acc[l] = {};
@@ -69,7 +69,7 @@ w3c.specificationsByStatus('Recommendation').fetch({embed: true}, function(err, 
             acc[l].latestRecsTotal = acc[l].list.filter(x => x.isLatest).length;
             return acc;
           }, {});
-          fs.writeFileSync("_data/byLanguage.json", JSON.stringify(byLanguage, null, 2));
+          fs.writeFileSync("../docs/_data/byLanguage.json", JSON.stringify(byLanguage, null, 2));
         });
     });
   });
