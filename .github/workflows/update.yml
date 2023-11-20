@@ -19,7 +19,7 @@ jobs:
       - run: npm install
       - name: Run update script
         run: node fetch-translation-data.js
-	working-directory: ./src
+        working-directory: ./src
       - name: Commit changes
         run: |
           git config user.name "w3c-translation-bot"
