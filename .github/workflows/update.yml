@@ -26,7 +26,7 @@ jobs:
           git config user.name "w3c-translation-bot"
           git config user.email "<>"
           git add docs/_data/langlist.json docs/_data/recs.json docs/_data/translations.json docs/_data/latestTranslations.json docs/_data/byLanguage.json
-          git commit -m "Update data"
+          git diff --exit-code || git commit -m "Update data"
           git show
       - name: Push changes
         if: github.ref == 'refs/heads/main' && github.event.commits[0].author.name != 'w3c-translation-bot'
