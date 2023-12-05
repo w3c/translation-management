@@ -41681,19 +41681,19 @@
       "errata": "https://www.w3.org/2001/sw/DataAccess/XML-errata",
       "_links": {
         "self": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115"
         },
         "editors": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/editors"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/editors"
         },
         "deliverers": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/deliverers"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/deliverers"
         },
         "specification": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml"
         },
         "predecessor-version": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/predecessors"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/predecessors"
         },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/140/translations"
@@ -41770,19 +41770,19 @@
             "errata": "https://www.w3.org/2001/sw/DataAccess/XML-errata",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/editors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/deliverers"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/predecessors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/140/translations"
@@ -41867,19 +41867,19 @@
             "errata": "https://www.w3.org/2001/sw/DataAccess/XML-errata",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/editors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/deliverers"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/predecessors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/140/translations"
@@ -41932,19 +41932,19 @@
             "errata": "https://www.w3.org/2001/sw/DataAccess/XML-errata",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/editors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/deliverers"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115/predecessors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/140/translations"
@@ -41989,22 +41989,22 @@
       "errata": "https://www.w3.org/2013/sparql-errata#rdf-sparql-XMLres",
       "_links": {
         "self": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321"
         },
         "editors": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/editors"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/editors"
         },
         "deliverers": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/deliverers"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/deliverers"
         },
         "specification": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml"
         },
         "previous-edition": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115"
         },
         "predecessor-version": {
-          "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/predecessors"
+          "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/predecessors"
         },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/191/translations"
@@ -42080,22 +42080,22 @@
             "errata": "https://www.w3.org/2013/sparql-errata#rdf-sparql-XMLres",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/editors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/deliverers"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml"
               },
               "previous-edition": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/predecessors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/191/translations"
@@ -42146,22 +42146,22 @@
             "errata": "https://www.w3.org/2013/sparql-errata#rdf-sparql-XMLres",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/editors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/deliverers"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml"
               },
               "previous-edition": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/predecessors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/191/translations"
@@ -50750,12 +50750,14 @@
       },
       {
         "states": [
-          "review"
+          "published"
         ],
-        "uri": "https://wcag.it/cat/",
+        "uri": "https://www.w3.org/Translations/WCAG22-it/",
         "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
         "language": "it",
         "translators": [],
+        "published": "2023-12-05T00:00:00+00:00",
+        "updated": "2023-12-05T00:00:00+00:00",
         "authorized": true,
         "lto_name": "IWA (Web International Association)",
         "call-for-translation": {
@@ -50807,9 +50809,9 @@
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": false,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       },
       {
         "states": [
@@ -51063,7 +51065,72 @@
         "isPending": true,
         "isInReview": false
       }
-    ]
+    ],
+    "hasAuthorizedTranslations": {
+      "states": [
+        "published"
+      ],
+      "uri": "https://www.w3.org/Translations/WCAG22-it/",
+      "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
+      "language": "it",
+      "translators": [],
+      "published": "2023-12-05T00:00:00+00:00",
+      "updated": "2023-12-05T00:00:00+00:00",
+      "authorized": true,
+      "lto_name": "IWA (Web International Association)",
+      "call-for-translation": {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+          "date": "2023-10-05",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "shortlink": "https://www.w3.org/TR/WCAG22/",
+          "process-rules": "https://www.w3.org/2023/Process-20230612/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG22"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/301"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/301/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/translations/612"
+        }
+      },
+      "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "isOutdated": false,
+      "isPublished": true,
+      "isPending": false,
+      "isInReview": false
+    }
   },
   {
     "title": "Web Content Accessibility Guidelines 1.0",

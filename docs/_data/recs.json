@@ -19206,21 +19206,21 @@
     "shortlink": "https://www.w3.org/TR/rdf-sparql-XMLres/",
     "description": "<p>RDF is a flexible, extensible way to represent information about World Wide Web resources. It is used to represent, among other things, personal information, social networks, metadata about digital artifacts like music and images, as well as provide a means of integration over disparate sources of information. A standardized query language for RDF data with multiple implementations offers developers and end users a way to write and to consume the results of queries across this wide range of information.</p> <p>This document describes an XML format for the variable binding and boolean results formats provided by the <acronym>SPARQL</acronym> query language for RDF, developed by the W3C RDF Data Access Working Group (DAWG), part of the Semantic Web Activity as described in the activity statement .</p>",
     "title": "SPARQL Query Results XML Format (Second Edition)",
-    "shortname": "sparql10-results-xml",
+    "shortname": "sparql11-results-xml",
     "editor-draft": "https://w3c.github.io/sparql-results-xml/spec/",
     "_links": {
       "self": {
-        "href": "https://api.w3.org/specifications/sparql10-results-xml"
+        "href": "https://api.w3.org/specifications/sparql11-results-xml"
       },
       "version-history": {
-        "href": "https://api.w3.org/specifications/sparql10-results-xml/versions"
+        "href": "https://api.w3.org/specifications/sparql11-results-xml/versions"
       },
       "first-version": {
-        "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20041221",
+        "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20041221",
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321",
+        "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321",
         "title": "Recommendation"
       },
       "series": {
@@ -19255,22 +19255,22 @@
             "errata": "https://www.w3.org/2013/sparql-errata#rdf-sparql-XMLres",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/editors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/deliverers"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml"
               },
               "previous-edition": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/predecessors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/191/translations"
@@ -19355,22 +19355,22 @@
             "errata": "https://www.w3.org/2013/sparql-errata#rdf-sparql-XMLres",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/editors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/deliverers"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml"
               },
               "previous-edition": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20080115"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20080115"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/sparql10-results-xml/versions/20130321/predecessors"
+                "href": "https://api.w3.org/specifications/sparql11-results-xml/versions/20130321/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/191/translations"
@@ -26639,258 +26639,6 @@
     "date": "2021-11-23",
     "year": "2021",
     "translations": {}
-  },
-  {
-    "shortlink": "https://www.w3.org/TR/xmlschema-1/",
-    "description": "<p>Add content here.</p>",
-    "title": "XML Schema Part 1: Structures Second Edition",
-    "shortname": "xmlschema-1",
-    "series-version": "1",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/xmlschema-1"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/xmlschema-1/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/xmlschema-1/versions/19990506",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/xmlschema-1/versions/20041028",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/xmlschema"
-      }
-    },
-    "isLatest": true,
-    "date": "2004-10-28",
-    "year": "2004",
-    "translations": {
-      "de": {
-        "states": [
-          "published",
-          "outdated"
-        ],
-        "uri": "http://www.edition-w3c.de/TR/2001/REC-xmlschema-1-20010502/",
-        "title": "XML Schema Teil 1: Strukturen",
-        "language": "de",
-        "translators": [
-          {
-            "id": 15951,
-            "name": "Mario Jeckle",
-            "given": "Mario",
-            "family": "Jeckle",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "authorized": false,
-        "call-for-translation": {
-          "title": "XML Schema Part 1: Structures",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2001/REC-xmlschema-1-20010502/",
-            "date": "2001-05-02",
-            "informative": false,
-            "title": "XML Schema Part 1: Structures",
-            "shortlink": "https://www.w3.org/TR/xmlschema-1/",
-            "errata": "https://www.w3.org/2001/05/xmlschema-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xmlschema-1"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/29/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/29"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/29/translations"
-            }
-          }
-        },
-        "comments": "Other translation authors: Toby Baier, Michael Ebert, Andreas Geissel, Nik Klever, Elke Meier, Sebastian Werner",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/41"
-          }
-        },
-        "origTitle": "XML Schema Part 1: Structures",
-        "isOutdated": true,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
-  },
-  {
-    "shortlink": "https://www.w3.org/TR/xmlschema-2/",
-    "description": "<p> <em>XML Schema: Datatypes</em> is part 2 of the specification of the XML Schema language. It defines facilities for defining datatypes to be used in XML Schemas as well as other XML specifications. The datatype language, which is itself represented in XML 1.0, provides a superset of the capabilities found in XML 1.0 document type definitions (DTDs) for specifying datatypes on elements and attributes. </p>",
-    "title": "XML Schema Part 2: Datatypes Second Edition",
-    "shortname": "xmlschema-2",
-    "series-version": "2",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/xmlschema-2"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/xmlschema-2/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/xmlschema-2/versions/19990506",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/xmlschema-2/versions/20041028",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/xmlschema"
-      }
-    },
-    "isLatest": true,
-    "date": "2004-10-28",
-    "year": "2004",
-    "translations": {
-      "de": {
-        "states": [
-          "published",
-          "outdated"
-        ],
-        "uri": "http://www.edition-w3c.de/TR/2001/REC-xmlschema-2-20010502/",
-        "title": "XML Schema Teil 2: Datentypen",
-        "language": "de",
-        "translators": [
-          {
-            "id": 15951,
-            "name": "Mario Jeckle",
-            "given": "Mario",
-            "family": "Jeckle",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "authorized": false,
-        "call-for-translation": {
-          "title": "XML Schema Part 2: Datatypes",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2001/REC-xmlschema-2-20010502/",
-            "date": "2001-05-02",
-            "informative": false,
-            "title": "XML Schema Part 2: Datatypes",
-            "shortlink": "https://www.w3.org/TR/xmlschema-2/",
-            "errata": "https://www.w3.org/2001/05/xmlschema-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xmlschema-2"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/26/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/26"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/26/translations"
-            }
-          }
-        },
-        "comments": "Other translation authors: Toby Baier, Michael Ebert, Andreas Geissel, Nik Klever, Elke Meier, Sebastian Werner",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/38"
-          }
-        },
-        "origTitle": "XML Schema Part 2: Datatypes",
-        "isOutdated": true,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
   },
   {
     "shortlink": "https://www.w3.org/TR/xlink/",
@@ -41847,12 +41595,14 @@
       },
       "it": {
         "states": [
-          "review"
+          "published"
         ],
-        "uri": "https://wcag.it/cat/",
+        "uri": "https://www.w3.org/Translations/WCAG22-it/",
         "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
         "language": "it",
         "translators": [],
+        "published": "2023-12-05T00:00:00+00:00",
+        "updated": "2023-12-05T00:00:00+00:00",
         "authorized": true,
         "lto_name": "IWA (Web International Association)",
         "call-for-translation": {
@@ -41904,9 +41654,9 @@
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": false,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       },
       "pt-br": {
         "states": [
@@ -41969,6 +41719,320 @@
         "isOutdated": false,
         "isPublished": false,
         "isPending": true,
+        "isInReview": false
+      }
+    }
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/wot-architecture11/",
+    "description": "<p>The WoT Architecture specification describes the abstract architecture\r\nfor the W3C Web of Things based on a set of requirements derived from\r\nuse cases for multiple application domains. This specification describes\r\na superset of the features defined in the WoT Architecture 1.0\r\nspecification.</p>",
+    "title": "Web of Things (WoT) Architecture 1.1",
+    "shortname": "wot-architecture11",
+    "editor-draft": "https://w3c.github.io/wot-architecture/",
+    "series-version": "1.1",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/wot-architecture11"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/wot-architecture11/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/wot-architecture11/versions/20201124",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/wot-architecture11/versions/20231205",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/wot-architecture"
+      }
+    },
+    "isLatest": true,
+    "date": "2023-12-05",
+    "year": "2023",
+    "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/wot-thing-description11/",
+    "description": "<p>The WoT Thing Description describes the metadata and interfaces of\r\nThings, where a Thing is an abstraction of a physical or virtual entity\r\nthat provides interactions to and participates in the Web of Things.\r\nThis specification describes a superset of the features defined in the\r\nWoT Thing Description 1.0 specification.</p>",
+    "title": "Web of Things (WoT) Thing Description 1.1",
+    "shortname": "wot-thing-description11",
+    "editor-draft": "https://w3c.github.io/wot-thing-description/",
+    "series-version": "1.1",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/wot-thing-description11"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/wot-thing-description11/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/wot-thing-description11/versions/20201124",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/wot-thing-description11/versions/20231205",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/wot-thing-description"
+      }
+    },
+    "isLatest": true,
+    "date": "2023-12-05",
+    "year": "2023",
+    "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/xmlschema-1/",
+    "description": "<p>Add content here.</p>",
+    "title": "XML Schema Part 1: Structures Second Edition",
+    "shortname": "xmlschema-1",
+    "series-version": "1",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/xmlschema-1"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/xmlschema-1/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/xmlschema-1/versions/19990506",
+        "title": "Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/xmlschema-1/versions/20041028",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/xmlschema"
+      }
+    },
+    "isLatest": true,
+    "date": "2004-10-28",
+    "year": "2004",
+    "translations": {
+      "de": {
+        "states": [
+          "published",
+          "outdated"
+        ],
+        "uri": "http://www.edition-w3c.de/TR/2001/REC-xmlschema-1-20010502/",
+        "title": "XML Schema Teil 1: Strukturen",
+        "language": "de",
+        "translators": [
+          {
+            "id": 15951,
+            "name": "Mario Jeckle",
+            "given": "Mario",
+            "family": "Jeckle",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "XML Schema Part 1: Structures",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2001/REC-xmlschema-1-20010502/",
+            "date": "2001-05-02",
+            "informative": false,
+            "title": "XML Schema Part 1: Structures",
+            "shortlink": "https://www.w3.org/TR/xmlschema-1/",
+            "errata": "https://www.w3.org/2001/05/xmlschema-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xmlschema-1"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/29/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/29"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/29/translations"
+            }
+          }
+        },
+        "comments": "Other translation authors: Toby Baier, Michael Ebert, Andreas Geissel, Nik Klever, Elke Meier, Sebastian Werner",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/41"
+          }
+        },
+        "origTitle": "XML Schema Part 1: Structures",
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    }
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/xmlschema-2/",
+    "description": "<p> <em>XML Schema: Datatypes</em> is part 2 of the specification of the XML Schema language. It defines facilities for defining datatypes to be used in XML Schemas as well as other XML specifications. The datatype language, which is itself represented in XML 1.0, provides a superset of the capabilities found in XML 1.0 document type definitions (DTDs) for specifying datatypes on elements and attributes. </p>",
+    "title": "XML Schema Part 2: Datatypes Second Edition",
+    "shortname": "xmlschema-2",
+    "series-version": "2",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/xmlschema-2"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/xmlschema-2/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/xmlschema-2/versions/19990506",
+        "title": "Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/xmlschema-2/versions/20041028",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/xmlschema"
+      }
+    },
+    "isLatest": true,
+    "date": "2004-10-28",
+    "year": "2004",
+    "translations": {
+      "de": {
+        "states": [
+          "published",
+          "outdated"
+        ],
+        "uri": "http://www.edition-w3c.de/TR/2001/REC-xmlschema-2-20010502/",
+        "title": "XML Schema Teil 2: Datentypen",
+        "language": "de",
+        "translators": [
+          {
+            "id": 15951,
+            "name": "Mario Jeckle",
+            "given": "Mario",
+            "family": "Jeckle",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "XML Schema Part 2: Datatypes",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2001/REC-xmlschema-2-20010502/",
+            "date": "2001-05-02",
+            "informative": false,
+            "title": "XML Schema Part 2: Datatypes",
+            "shortlink": "https://www.w3.org/TR/xmlschema-2/",
+            "errata": "https://www.w3.org/2001/05/xmlschema-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xmlschema-2"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/26/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/26"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/26/translations"
+            }
+          }
+        },
+        "comments": "Other translation authors: Toby Baier, Michael Ebert, Andreas Geissel, Nik Klever, Elke Meier, Sebastian Werner",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/38"
+          }
+        },
+        "origTitle": "XML Schema Part 2: Datatypes",
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
         "isInReview": false
       }
     }
@@ -45322,6 +45386,36 @@
         "isInReview": false
       }
     }
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/wot-discovery/",
+    "description": "<p>The WoT Discovery specification describes how to discover and obtain the\r\nThing Description of a Thing in a distributed environment for various\r\nuse cases.</p>",
+    "title": "Web of Things (WoT) Discovery",
+    "shortname": "wot-discovery",
+    "editor-draft": "https://w3c.github.io/wot-discovery/",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/wot-discovery"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/wot-discovery/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/wot-discovery/versions/20201124",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/wot-discovery/versions/20231205",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/wot-discovery"
+      }
+    },
+    "isLatest": true,
+    "date": "2023-12-05",
+    "year": "2023",
+    "translations": {}
   },
   {
     "shortlink": "https://www.w3.org/TR/epub-33/",
