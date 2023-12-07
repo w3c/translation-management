@@ -2251,7 +2251,7 @@
         "title": "Retired"
       },
       "series": {
-        "href": "https://api.w3.org/specification-series/CSS"
+        "href": "https://api.w3.org/specification-series/css"
       }
     },
     "isLatest": false,
@@ -7488,7 +7488,7 @@
         "href": "https://api.w3.org/specifications/CSS21/supersedes"
       },
       "series": {
-        "href": "https://api.w3.org/specification-series/CSS"
+        "href": "https://api.w3.org/specification-series/css"
       }
     },
     "isLatest": true,
