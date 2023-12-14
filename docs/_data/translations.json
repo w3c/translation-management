@@ -7605,6 +7605,102 @@
         "isPublished": true,
         "isPending": false,
         "isInReview": false
+      },
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0035.html",
+        "title": "Intent to translate CSS Namespaces Module Level 3 into Polish",
+        "language": "pl",
+        "translators": [
+          {
+            "id": 150789,
+            "name": "Łukasz Piwko",
+            "given": "Łukasz",
+            "family": "Piwko",
+            "country-code": "PL",
+            "country-division": "Mazovia",
+            "city": "Sokolow Podlaski",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "CSS Namespaces Module Level 3",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://drafts.csswg.org/css-namespaces/",
+            "uri": "https://www.w3.org/TR/2014/REC-css-namespaces-3-20140320/",
+            "date": "2014-03-20",
+            "informative": false,
+            "title": "CSS Namespaces Module Level 3",
+            "shortlink": "https://www.w3.org/TR/css-namespaces-3/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/css-namespaces-3"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/208/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/208"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/208/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/617"
+          }
+        },
+        "origTitle": "CSS Namespaces Module Level 3",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
       }
     ]
   },
@@ -7901,6 +7997,102 @@
         "isOutdated": false,
         "isPublished": true,
         "isPending": false,
+        "isInReview": false
+      },
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0035.html",
+        "title": "Intent to translate CSS Style Attributes into Polish",
+        "language": "pl",
+        "translators": [
+          {
+            "id": 150789,
+            "name": "Łukasz Piwko",
+            "given": "Łukasz",
+            "family": "Piwko",
+            "country-code": "PL",
+            "country-division": "Mazovia",
+            "city": "Sokolow Podlaski",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "CSS Style Attributes",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://drafts.csswg.org/css-style-attr/",
+            "uri": "https://www.w3.org/TR/2013/REC-css-style-attr-20131107/",
+            "date": "2013-11-07",
+            "informative": false,
+            "title": "CSS Style Attributes",
+            "shortlink": "https://www.w3.org/TR/css-style-attr/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/css-style-attr"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/216/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/216"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/216/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/618"
+          }
+        },
+        "origTitle": "CSS Style Attributes",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
         "isInReview": false
       }
     ]
@@ -20505,6 +20697,104 @@
         "_links": {
           "self": {
             "href": "https://api.w3.org/translations/596"
+          }
+        },
+        "origTitle": "Media Queries Level 3",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0035.html",
+        "title": "Intent to translate Media Queries Level 3 into Polish",
+        "language": "pl",
+        "translators": [
+          {
+            "id": 150789,
+            "name": "Łukasz Piwko",
+            "given": "Łukasz",
+            "family": "Piwko",
+            "country-code": "PL",
+            "country-division": "Mazovia",
+            "city": "Sokolow Podlaski",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Media Queries Level 3",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://drafts.csswg.org/mediaqueries-3/",
+            "uri": "https://www.w3.org/TR/2022/REC-mediaqueries-3-20220405/",
+            "date": "2022-04-05",
+            "informative": false,
+            "title": "Media Queries Level 3",
+            "shortlink": "https://www.w3.org/TR/mediaqueries-3/",
+            "errata": "https://www.w3.org/Style/2022/REC-mediaqueries-3-20220405-errata.html",
+            "process-rules": "https://www.w3.org/2021/Process-20211102/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/291/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/291"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/291/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/619"
           }
         },
         "origTitle": "Media Queries Level 3",
