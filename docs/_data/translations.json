@@ -51354,6 +51354,69 @@
         "isPublished": false,
         "isPending": true,
         "isInReview": false
+      },
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0036.html",
+        "title": "Intent to translate WCAG 2.2 into Catalan",
+        "language": "ca",
+        "translators": [],
+        "authorized": true,
+        "lto_name": "Facultat de Matemàtiques i Informàtica of Universitat de Barcelona",
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/620"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
       }
     ],
     "hasAuthorizedTranslations": {
