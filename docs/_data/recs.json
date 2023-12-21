@@ -188,10 +188,10 @@
       },
       "pl": {
         "states": [
-          "draft"
+          "published"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0035.html",
-        "title": "Intent to translate CSS Namespaces Module Level 3 into Polish",
+        "uri": "https://shebang.pl/css/modul-przestrzenie-nazw-css-poziom-3/",
+        "title": "Moduł Przestrzenie nazw CSS, poziom 3",
         "language": "pl",
         "translators": [
           {
@@ -229,6 +229,7 @@
             }
           }
         ],
+        "published": "2023-12-21T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "CSS Namespaces Module Level 3",
@@ -278,8 +279,8 @@
         },
         "origTitle": "CSS Namespaces Module Level 3",
         "isOutdated": false,
-        "isPublished": false,
-        "isPending": true,
+        "isPublished": true,
+        "isPending": false,
         "isInReview": false
       }
     }
@@ -3887,10 +3888,10 @@
       },
       "pl": {
         "states": [
-          "draft"
+          "published"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0035.html",
-        "title": "Intent to translate CSS Style Attributes into Polish",
+        "uri": "https://shebang.pl/css/atrybuty-stylu-css/",
+        "title": "Atrybuty stylu CSS",
         "language": "pl",
         "translators": [
           {
@@ -3928,6 +3929,7 @@
             }
           }
         ],
+        "published": "2023-12-21T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "CSS Style Attributes",
@@ -3977,8 +3979,8 @@
         },
         "origTitle": "CSS Style Attributes",
         "isOutdated": false,
-        "isPublished": false,
-        "isPending": true,
+        "isPublished": true,
+        "isPending": false,
         "isInReview": false
       },
       "ru": {

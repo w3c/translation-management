@@ -3,6 +3,200 @@
     "states": [
       "published"
     ],
+    "uri": "https://shebang.pl/css/modul-przestrzenie-nazw-css-poziom-3/",
+    "title": "Moduł Przestrzenie nazw CSS, poziom 3",
+    "language": "pl",
+    "translators": [
+      {
+        "id": 150789,
+        "name": "Łukasz Piwko",
+        "given": "Łukasz",
+        "family": "Piwko",
+        "country-code": "PL",
+        "country-division": "Mazovia",
+        "city": "Sokolow Podlaski",
+        "connected-accounts": [],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2023-12-21T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "CSS Namespaces Module Level 3",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://drafts.csswg.org/css-namespaces/",
+        "uri": "https://www.w3.org/TR/2014/REC-css-namespaces-3-20140320/",
+        "date": "2014-03-20",
+        "informative": false,
+        "title": "CSS Namespaces Module Level 3",
+        "shortlink": "https://www.w3.org/TR/css-namespaces-3/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/css-namespaces-3"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/208/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/208"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/208/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/617"
+      }
+    },
+    "origTitle": "CSS Namespaces Module Level 3",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
+    "uri": "https://shebang.pl/css/atrybuty-stylu-css/",
+    "title": "Atrybuty stylu CSS",
+    "language": "pl",
+    "translators": [
+      {
+        "id": 150789,
+        "name": "Łukasz Piwko",
+        "given": "Łukasz",
+        "family": "Piwko",
+        "country-code": "PL",
+        "country-division": "Mazovia",
+        "city": "Sokolow Podlaski",
+        "connected-accounts": [],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2023-12-21T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "CSS Style Attributes",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://drafts.csswg.org/css-style-attr/",
+        "uri": "https://www.w3.org/TR/2013/REC-css-style-attr-20131107/",
+        "date": "2013-11-07",
+        "informative": false,
+        "title": "CSS Style Attributes",
+        "shortlink": "https://www.w3.org/TR/css-style-attr/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/css-style-attr"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/216/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/216"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/216/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/618"
+      }
+    },
+    "origTitle": "CSS Style Attributes",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://www.w3.org/Translations/WCAG22-it/",
     "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
     "language": "it",
@@ -1227,147 +1421,6 @@
     },
     "origTitle": "Decentralized Identifiers (DIDs) v1.0",
     "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published",
-      "outdated"
-    ],
-    "uri": "https://www.w3.org/Translations/WCAG21-fr/",
-    "title": "Règles pour l’accessibilité des contenus Web (WCAG) 2.1",
-    "language": "fr",
-    "translators": [],
-    "published": "2022-07-11T00:00:00+00:00",
-    "authorized": true,
-    "lto_name": "Access42",
-    "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-        "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
-        "date": "2018-06-05",
-        "informative": false,
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-        "shortlink": "https://www.w3.org/TR/WCAG21/",
-        "translation": "https://www.w3.org/WAI/standards-guidelines/wcag/translations/",
-        "errata": "https://www.w3.org/WAI/WCAG21/errata/",
-        "process-rules": "https://www.w3.org/2018/Process-20180201/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/WCAG21"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/predecessors"
-          },
-          "successor-version": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/successors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/255/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/255"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/255/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/529"
-      }
-    },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
-    "isOutdated": true,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published",
-      "outdated"
-    ],
-    "uri": "https://outline-rocks.github.io/wcag/translations/WCAG21-de/",
-    "title": "Richtlinien für barrierefreie Webinhalte (WCAG) 2.1",
-    "language": "de",
-    "translators": [],
-    "published": "2022-06-23T00:00:00+00:00",
-    "authorized": false,
-    "lto_name": "Aktion Mensch e.V.",
-    "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-        "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
-        "date": "2018-06-05",
-        "informative": false,
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-        "shortlink": "https://www.w3.org/TR/WCAG21/",
-        "translation": "https://www.w3.org/WAI/standards-guidelines/wcag/translations/",
-        "errata": "https://www.w3.org/WAI/WCAG21/errata/",
-        "process-rules": "https://www.w3.org/2018/Process-20180201/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/WCAG21"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/predecessors"
-          },
-          "successor-version": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/successors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/255/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/255"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/255/translations"
-        }
-      }
-    },
-    "comments": "Translators: Aktion Mensch e.V.",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/579"
-      }
-    },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
-    "isOutdated": true,
     "isPublished": true,
     "isPending": false,
     "isInReview": false
