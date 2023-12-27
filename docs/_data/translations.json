@@ -29260,6 +29260,152 @@
     ]
   },
   {
+    "title": "Payment Request API",
+    "spec-version": {
+      "status": "Recommendation",
+      "rec-track": true,
+      "editor-draft": "https://w3c.github.io/payment-request/",
+      "uri": "https://www.w3.org/TR/2022/REC-payment-request-20220908/",
+      "date": "2022-09-08",
+      "informative": false,
+      "title": "Payment Request API",
+      "shortlink": "https://www.w3.org/TR/payment-request/",
+      "translation": "https://www.w3.org/Translations/?technology=payment-request",
+      "errata": "https://www.w3.org/Payments/WG/errata.html",
+      "process-rules": "https://www.w3.org/2021/Process-20211102/",
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/specifications/payment-request/versions/20220908"
+        },
+        "editors": {
+          "href": "https://api.w3.org/specifications/payment-request/versions/20220908/editors"
+        },
+        "deliverers": {
+          "href": "https://api.w3.org/specifications/payment-request/versions/20220908/deliverers"
+        },
+        "specification": {
+          "href": "https://api.w3.org/specifications/payment-request"
+        },
+        "predecessor-version": {
+          "href": "https://api.w3.org/specifications/payment-request/versions/20220908/predecessors"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/303/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/callsfortranslation/303"
+      },
+      "translations": {
+        "href": "https://api.w3.org/callsfortranslation/303/translations"
+      }
+    },
+    "isLatest": true,
+    "date": "2022-09-08",
+    "id": "s-payment-request",
+    "translations": [
+      {
+        "states": [
+          "published"
+        ],
+        "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-request-20220908.html",
+        "title": "決済リクエストAPI",
+        "language": "ja",
+        "translators": [
+          {
+            "id": 112316,
+            "name": "Shuji Kamitsuna",
+            "given": "Shuji",
+            "family": "Kamitsuna",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "published": "2023-12-27T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Payment Request API",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/payment-request/",
+            "uri": "https://www.w3.org/TR/2022/REC-payment-request-20220908/",
+            "date": "2022-09-08",
+            "informative": false,
+            "title": "Payment Request API",
+            "shortlink": "https://www.w3.org/TR/payment-request/",
+            "translation": "https://www.w3.org/Translations/?technology=payment-request",
+            "errata": "https://www.w3.org/Payments/WG/errata.html",
+            "process-rules": "https://www.w3.org/2021/Process-20211102/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/payment-request/versions/20220908"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/payment-request/versions/20220908/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/payment-request/versions/20220908/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/payment-request"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/payment-request/versions/20220908/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/303/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/303"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/303/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/621"
+          }
+        },
+        "origTitle": "Payment Request API",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    ]
+  },
+  {
     "title": "Performance Timeline",
     "spec-version": {
       "status": "Recommendation",
