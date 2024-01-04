@@ -1073,6 +1073,165 @@
         ]
       },
       {
+        "title": "ActivityPub",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/activitypub/",
+          "uri": "https://www.w3.org/TR/2018/REC-activitypub-20180123/",
+          "date": "2018-01-23",
+          "informative": false,
+          "title": "ActivityPub",
+          "shortlink": "https://www.w3.org/TR/activitypub/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=activitypub",
+          "errata": "https://www.w3.org/wiki/ActivityPub_errata",
+          "process-rules": "https://www.w3.org/2017/Process-20170301/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/activitypub/versions/20180123"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/activitypub/versions/20180123/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/activitypub/versions/20180123/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/activitypub"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/activitypub/versions/20180123/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/304/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/304"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/304/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2018-01-23",
+        "id": "s-activitypub",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0001.html",
+            "title": "Intent to translate ActivityPub into Japanese",
+            "language": "ja",
+            "translators": [
+              {
+                "id": 143615,
+                "name": "Kentaro Shirakata",
+                "given": "Kentaro",
+                "family": "Shirakata",
+                "connected-accounts": [
+                  {
+                    "created": "2023-04-06T15:18:43+00:00",
+                    "service": "github",
+                    "identifier": "53912",
+                    "nickname": "argrath",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/53912?v=4",
+                    "href": "https://github.com/argrath",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+                      }
+                    }
+                  }
+                ],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/specifications"
+                  },
+                  "participations": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "ActivityPub",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "editor-draft": "https://w3c.github.io/activitypub/",
+                "uri": "https://www.w3.org/TR/2018/REC-activitypub-20180123/",
+                "date": "2018-01-23",
+                "informative": false,
+                "title": "ActivityPub",
+                "shortlink": "https://www.w3.org/TR/activitypub/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=activitypub",
+                "errata": "https://www.w3.org/wiki/ActivityPub_errata",
+                "process-rules": "https://www.w3.org/2017/Process-20170301/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/activitypub/versions/20180123"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/activitypub/versions/20180123/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/activitypub/versions/20180123/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/activitypub"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/activitypub/versions/20180123/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/304/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/304"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/304/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/622"
+              }
+            },
+            "origTitle": "ActivityPub",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ]
+      },
+      {
         "title": "ARIA in HTML",
         "spec-version": {
           "status": "Recommendation",
@@ -21451,7 +21610,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 102
+    "latestRecsTotal": 103
   },
   "ru": {
     "list": [
