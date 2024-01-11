@@ -20963,6 +20963,102 @@
         "isPublished": false,
         "isPending": true,
         "isInReview": false
+      },
+      {
+        "states": [
+          "published"
+        ],
+        "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/css/REC-mediaqueries-3-20220405.html",
+        "title": "メディア・クエリ レベル3",
+        "language": "ja",
+        "translators": [
+          {
+            "id": 112316,
+            "name": "Shuji Kamitsuna",
+            "given": "Shuji",
+            "family": "Kamitsuna",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "published": "2024-01-11T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Media Queries Level 3",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://drafts.csswg.org/mediaqueries-3/",
+            "uri": "https://www.w3.org/TR/2022/REC-mediaqueries-3-20220405/",
+            "date": "2022-04-05",
+            "informative": false,
+            "title": "Media Queries Level 3",
+            "shortlink": "https://www.w3.org/TR/mediaqueries-3/",
+            "errata": "https://www.w3.org/Style/2022/REC-mediaqueries-3-20220405-errata.html",
+            "process-rules": "https://www.w3.org/2021/Process-20211102/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/291/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/291"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/291/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/623"
+          }
+        },
+        "origTitle": "Media Queries Level 3",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
       }
     ]
   },

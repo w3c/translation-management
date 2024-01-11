@@ -3,6 +3,102 @@
     "states": [
       "published"
     ],
+    "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/css/REC-mediaqueries-3-20220405.html",
+    "title": "メディア・クエリ レベル3",
+    "language": "ja",
+    "translators": [
+      {
+        "id": 112316,
+        "name": "Shuji Kamitsuna",
+        "given": "Shuji",
+        "family": "Kamitsuna",
+        "connected-accounts": [],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2024-01-11T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "Media Queries Level 3",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://drafts.csswg.org/mediaqueries-3/",
+        "uri": "https://www.w3.org/TR/2022/REC-mediaqueries-3-20220405/",
+        "date": "2022-04-05",
+        "informative": false,
+        "title": "Media Queries Level 3",
+        "shortlink": "https://www.w3.org/TR/mediaqueries-3/",
+        "errata": "https://www.w3.org/Style/2022/REC-mediaqueries-3-20220405-errata.html",
+        "process-rules": "https://www.w3.org/2021/Process-20211102/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/mediaqueries-3"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/291/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/291"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/291/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/623"
+      }
+    },
+    "origTitle": "Media Queries Level 3",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-request-20220908.html",
     "title": "決済リクエストAPI",
     "language": "ja",
@@ -1298,131 +1394,5 @@
     "isPublished": true,
     "isPending": false,
     "isInReview": false
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "https://xfq.github.io/translation/predefined-counter-styles/index.zh-Hans.html",
-    "title": "现成的计数器样式",
-    "language": "zh-hans",
-    "translators": [
-      {
-        "id": 95475,
-        "name": "Fuqiao Xue",
-        "email": "xfq@w3.org",
-        "given": "Fuqiao",
-        "family": "Xue",
-        "biography": "Fuqiao Xue joined W3C in July 2017.\r\n\r\nHe has been involved in free software since 2010, including GNU, Mozilla, and many other free software projects.",
-        "country-code": "CN",
-        "city": "Beijing",
-        "connected-accounts": [
-          {
-            "created": "2017-08-09T01:59:03+00:00",
-            "updated": "2021-01-21T10:44:38+00:00",
-            "service": "github",
-            "identifier": "2863444",
-            "nickname": "xfq",
-            "profile-picture": "https://avatars.githubusercontent.com/u/2863444?v=4",
-            "href": "https://github.com/xfq",
-            "_links": {
-              "user": {
-                "href": "https://api.w3.org/users/2bhyv8h6u2ckc4wwsko88o4s040okok"
-              }
-            }
-          }
-        ],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/2bhyv8h6u2ckc4wwsko88o4s040okok"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/2bhyv8h6u2ckc4wwsko88o4s040okok/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/2bhyv8h6u2ckc4wwsko88o4s040okok/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/2bhyv8h6u2ckc4wwsko88o4s040okok/specifications"
-          },
-          "photos": [
-            {
-              "href": "https://www.w3.org/thumbnails/360/avatar-images/2bhyv8h6u2ckc4wwsko88o4s040okok.webp?x-version=2",
-              "name": "large"
-            },
-            {
-              "href": "https://www.w3.org/thumbnails/100/avatar-images/2bhyv8h6u2ckc4wwsko88o4s040okok.webp?x-version=2",
-              "name": "thumbnail"
-            },
-            {
-              "href": "https://www.w3.org/thumbnails/48/avatar-images/2bhyv8h6u2ckc4wwsko88o4s040okok.webp?x-version=2",
-              "name": "tiny"
-            }
-          ],
-          "participations": {
-            "href": "https://api.w3.org/users/2bhyv8h6u2ckc4wwsko88o4s040okok/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/2bhyv8h6u2ckc4wwsko88o4s040okok/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/2bhyv8h6u2ckc4wwsko88o4s040okok/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2022-11-17T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "Ready-made Counter Styles",
-      "spec-version": {
-        "status": "Note",
-        "rec-track": false,
-        "editor-draft": "https://w3c.github.io/predefined-counter-styles/",
-        "uri": "https://www.w3.org/TR/2021/NOTE-predefined-counter-styles-20210609/",
-        "date": "2021-06-09",
-        "informative": true,
-        "title": "Ready-made Counter Styles",
-        "shortlink": "https://www.w3.org/TR/predefined-counter-styles/",
-        "process-rules": "https://www.w3.org/2020/Process-20200915/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/predefined-counter-styles/versions/20210609"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/predefined-counter-styles/versions/20210609/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/predefined-counter-styles/versions/20210609/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/predefined-counter-styles"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/predefined-counter-styles/versions/20210609/predecessors"
-          },
-          "successor-version": {
-            "href": "https://api.w3.org/specifications/predefined-counter-styles/versions/20210609/successors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/292/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/292"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/292/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/600"
-      }
-    }
   }
 ]
