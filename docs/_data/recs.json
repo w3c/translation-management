@@ -19585,36 +19585,6 @@
     "translations": {}
   },
   {
-    "shortlink": "https://www.w3.org/TR/PNG/",
-    "description": "<p>This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, grayscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits.</p> <p>PNG is designed to work well in online viewing applications, such as the World Wide Web, so it is fully streamable with a progressive display option. PNG is robust, providing both full file integrity checking and simple detection of common transmission errors. Also, PNG can store gamma and chromaticity data for improved color matching on heterogeneous platforms.</p> <p>This specification defines an Internet Media Type image/png.</p>",
-    "title": "Portable Network Graphics (PNG) Specification (Second Edition)",
-    "shortname": "png-1",
-    "editor-draft": "https://w3c.github.io/PNG-spec/",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/png-1"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/png-1/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/png-1/versions/19961001",
-        "title": "Recommendation"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/png-1/versions/20031110",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/png"
-      }
-    },
-    "isLatest": true,
-    "date": "2003-11-10",
-    "year": "2003",
-    "translations": {}
-  },
-  {
     "shortlink": "https://www.w3.org/TR/soap12-mtom/",
     "description": "<p> This document describes an abstract feature and a concrete implementation of it for optimizing the transmission and/or wire format of SOAP messages. The concrete implementation relies on the [XML-binary Optimized Packaging] format for carrying SOAP messages. </p>",
     "title": "SOAP Message Transmission Optimization Mechanism",
@@ -27235,6 +27205,36 @@
     "isLatest": true,
     "date": "2021-11-23",
     "year": "2021",
+    "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/PNG/",
+    "description": "<p>This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, grayscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits.</p>\r\n<p>PNG is designed to work well in online viewing applications, such as the World Wide Web, so it is fully streamable with a progressive display option. PNG is robust, providing both full file integrity checking and simple detection of common transmission errors. Also, PNG can store gamma and chromaticity data for improved color matching on heterogeneous platforms.</p>\r\n<p>This specification defines an Internet Media Type image/png.</p>",
+    "title": "Portable Network Graphics (PNG) Specification (Second Edition)",
+    "shortname": "png-2",
+    "editor-draft": "https://w3c.github.io/PNG-spec/",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/png-2"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/png-2/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/png-2/versions/20030520",
+        "title": "Proposed Recommendation"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/png-2/versions/20031110",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/png"
+      }
+    },
+    "isLatest": true,
+    "date": "2003-11-10",
+    "year": "2003",
     "translations": {}
   },
   {
@@ -42003,10 +42003,10 @@
       },
       "ca": {
         "states": [
-          "draft"
+          "review"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0036.html",
-        "title": "Intent to translate WCAG 2.2 into Catalan",
+        "uri": "https://www.ub.edu/adaptabit/wcag22/",
+        "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
         "language": "ca",
         "translators": [],
         "authorized": true,
@@ -42061,8 +42061,8 @@
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": false,
         "isPublished": false,
-        "isPending": true,
-        "isInReview": false
+        "isPending": false,
+        "isInReview": true
       },
       "zh-hans": {
         "states": [

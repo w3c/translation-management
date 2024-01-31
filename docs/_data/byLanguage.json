@@ -81986,10 +81986,10 @@
         "translations": [
           {
             "states": [
-              "draft"
+              "review"
             ],
-            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0036.html",
-            "title": "Intent to translate WCAG 2.2 into Catalan",
+            "uri": "https://www.ub.edu/adaptabit/wcag22/",
+            "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
             "language": "ca",
             "translators": [],
             "authorized": true,
@@ -82044,8 +82044,8 @@
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "isOutdated": false,
             "isPublished": false,
-            "isPending": true,
-            "isInReview": false
+            "isPending": false,
+            "isInReview": true
           }
         ],
         "hasAuthorizedTranslations": {
