@@ -11904,7 +11904,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/html-aria/versions/20231221",
+        "href": "https://api.w3.org/specifications/html-aria/versions/20240216",
         "title": "Recommendation"
       },
       "series": {
@@ -11912,8 +11912,8 @@
       }
     },
     "isLatest": true,
-    "date": "2023-12-21",
-    "year": "2023",
+    "date": "2024-02-16",
+    "year": "2024",
     "translations": {
       "ja": {
         "states": [
@@ -24781,7 +24781,7 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/performance-timeline-1/versions/20231011",
+        "href": "https://api.w3.org/specifications/performance-timeline-1/versions/20240216",
         "title": "Candidate Recommendation Draft"
       },
       "series": {
@@ -24789,8 +24789,8 @@
       }
     },
     "isLatest": true,
-    "date": "2023-10-11",
-    "year": "2023",
+    "date": "2024-02-16",
+    "year": "2024",
     "translations": {
       "ja": {
         "states": [
@@ -42129,10 +42129,10 @@
       },
       "nl": {
         "states": [
-          "draft"
+          "review"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0023.html",
-        "title": "Intent to translate WCAG 2.2 in Dutch",
+        "uri": "https://ericvelleman.github.io/WCAG22_CAT/",
+        "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
         "language": "nl",
         "translators": [],
         "authorized": true,
@@ -42187,8 +42187,8 @@
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": false,
         "isPublished": false,
-        "isPending": true,
-        "isInReview": false
+        "isPending": false,
+        "isInReview": true
       },
       "fr": {
         "states": [

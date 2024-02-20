@@ -60690,8 +60690,10 @@
                 "email": "xfq@w3.org",
                 "given": "Fuqiao",
                 "family": "Xue",
-                "biography": "Fuqiao Xue joined W3C in July 2017.\r\n\r\nHe has been involved in free software since 2010, including GNU, Mozilla, and many other free software projects.",
+                "work-title": "Internationalization (I18n) Lead; I18n WG Staff contact",
+                "biography": "Fuqiao is Internationalization (I18n) Lead and staff contact for and contributes technically to the W3C Internationalization Working Group.",
                 "country-code": "CN",
+                "country-division": "Beijing",
                 "city": "Beijing",
                 "connected-accounts": [
                   {
@@ -68815,10 +68817,10 @@
         "translations": [
           {
             "states": [
-              "draft"
+              "review"
             ],
-            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0023.html",
-            "title": "Intent to translate WCAG 2.2 in Dutch",
+            "uri": "https://ericvelleman.github.io/WCAG22_CAT/",
+            "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
             "language": "nl",
             "translators": [],
             "authorized": true,
@@ -68873,8 +68875,8 @@
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "isOutdated": false,
             "isPublished": false,
-            "isPending": true,
-            "isInReview": false
+            "isPending": false,
+            "isInReview": true
           }
         ],
         "hasAuthorizedTranslations": {
