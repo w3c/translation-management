@@ -3,6 +3,117 @@
     "states": [
       "published"
     ],
+    "uri": "https://argrath.github.io/activitypub/",
+    "title": "ActivityPub",
+    "language": "ja",
+    "translators": [
+      {
+        "id": 143615,
+        "name": "Kentaro Shirakata",
+        "given": "Kentaro",
+        "family": "Shirakata",
+        "connected-accounts": [
+          {
+            "created": "2023-04-06T15:18:43+00:00",
+            "service": "github",
+            "identifier": "53912",
+            "nickname": "argrath",
+            "profile-picture": "https://avatars.githubusercontent.com/u/53912?v=4",
+            "href": "https://github.com/argrath",
+            "_links": {
+              "user": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+              }
+            }
+          }
+        ],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2024-02-26T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "ActivityPub",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://w3c.github.io/activitypub/",
+        "uri": "https://www.w3.org/TR/2018/REC-activitypub-20180123/",
+        "date": "2018-01-23",
+        "informative": false,
+        "title": "ActivityPub",
+        "shortlink": "https://www.w3.org/TR/activitypub/",
+        "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=activitypub",
+        "errata": "https://www.w3.org/wiki/ActivityPub_errata",
+        "process-rules": "https://www.w3.org/2017/Process-20170301/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/activitypub/versions/20180123"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/activitypub/versions/20180123/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/activitypub/versions/20180123/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/activitypub"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/activitypub/versions/20180123/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/304/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/304"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/304/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/622"
+      }
+    },
+    "origTitle": "ActivityPub",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/css/REC-mediaqueries-3-20220405.html",
     "title": "メディア・クエリ レベル3",
     "language": "ja",
@@ -1296,101 +1407,6 @@
     },
     "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
     "isOutdated": true,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "http://www.asahi-net.or.jp/~ax2s-kmtn/internet/did/REC-vc-data-model-20220303.html",
-    "title": "検証可能な資格証明データ・モデルv1.1",
-    "language": "ja",
-    "translators": [
-      {
-        "id": 112316,
-        "name": "Shuji Kamitsuna",
-        "given": "Shuji",
-        "family": "Kamitsuna",
-        "connected-accounts": [],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2023-02-01T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "Verifiable Credentials Data Model v1.1",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/vc-data-model/",
-        "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
-        "date": "2022-03-03",
-        "informative": false,
-        "title": "Verifiable Credentials Data Model v1.1",
-        "shortlink": "https://www.w3.org/TR/vc-data-model/",
-        "process-rules": "https://www.w3.org/2021/Process-20211102/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/289/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/289"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/289/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/598"
-      }
-    },
-    "origTitle": "Verifiable Credentials Data Model v1.1",
-    "isOutdated": false,
     "isPublished": true,
     "isPending": false,
     "isInReview": false

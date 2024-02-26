@@ -1677,10 +1677,10 @@
     "translations": [
       {
         "states": [
-          "draft"
+          "published"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0001.html",
-        "title": "Intent to translate ActivityPub into Japanese",
+        "uri": "https://argrath.github.io/activitypub/",
+        "title": "ActivityPub",
         "language": "ja",
         "translators": [
           {
@@ -1729,6 +1729,7 @@
             }
           }
         ],
+        "published": "2024-02-26T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "ActivityPub",
@@ -1781,8 +1782,8 @@
         },
         "origTitle": "ActivityPub",
         "isOutdated": false,
-        "isPublished": false,
-        "isPending": true,
+        "isPublished": true,
+        "isPending": false,
         "isInReview": false
       }
     ]
