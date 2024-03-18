@@ -9763,6 +9763,102 @@
         "isPublished": false,
         "isPending": true,
         "isInReview": false
+      },
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0030.html",
+        "title": "Intent to translate Decentralized Identifiers (DIDs) v1.0 in Korean",
+        "language": "ko",
+        "translators": [
+          {
+            "id": 154263,
+            "name": "Lukas.J Han",
+            "given": "Lukas.J",
+            "family": "Han",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Decentralized Identifiers (DIDs) v1.0",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/did-core/",
+            "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
+            "date": "2022-07-19",
+            "informative": false,
+            "title": "Decentralized Identifiers (DIDs) v1.0",
+            "shortlink": "https://www.w3.org/TR/did-core/",
+            "translation": "https://www.w3.org/Translations/?technology=did-core",
+            "errata": "https://w3c.github.io/did-core/errata.html",
+            "process-rules": "https://www.w3.org/2021/Process-20211102/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/did-core"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/288/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/288"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/288/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/625"
+          }
+        },
+        "origTitle": "Decentralized Identifiers (DIDs) v1.0",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
       }
     ]
   },
@@ -46815,6 +46911,100 @@
         "isPublished": true,
         "isPending": false,
         "isInReview": false
+      },
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0030.html",
+        "title": "Intent to translate Verifiable Credentials Data Model v1.1 in Korean",
+        "language": "ko",
+        "translators": [
+          {
+            "id": 154263,
+            "name": "Lukas.J Han",
+            "given": "Lukas.J",
+            "family": "Han",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Verifiable Credentials Data Model v1.1",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/vc-data-model/",
+            "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
+            "date": "2022-03-03",
+            "informative": false,
+            "title": "Verifiable Credentials Data Model v1.1",
+            "shortlink": "https://www.w3.org/TR/vc-data-model/",
+            "process-rules": "https://www.w3.org/2021/Process-20211102/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/289/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/289"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/289/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/626"
+          }
+        },
+        "origTitle": "Verifiable Credentials Data Model v1.1",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
       }
     ]
   },
@@ -54078,6 +54268,165 @@
         "isOutdated": false,
         "isPublished": true,
         "isPending": false,
+        "isInReview": false
+      }
+    ]
+  },
+  {
+    "title": "Web Share API",
+    "spec-version": {
+      "status": "Recommendation",
+      "rec-track": true,
+      "editor-draft": "https://w3c.github.io/web-share/",
+      "uri": "https://www.w3.org/TR/2023/REC-web-share-20230530/",
+      "date": "2023-05-30",
+      "informative": false,
+      "title": "Web Share API",
+      "shortlink": "https://www.w3.org/TR/web-share/",
+      "translation": "https://www.w3.org/Translations/?technology=web-share",
+      "errata": "https://github.com/w3c/web-share/labels/errata",
+      "process-rules": "https://www.w3.org/2021/Process-20211102/",
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/specifications/web-share/versions/20230530"
+        },
+        "editors": {
+          "href": "https://api.w3.org/specifications/web-share/versions/20230530/editors"
+        },
+        "deliverers": {
+          "href": "https://api.w3.org/specifications/web-share/versions/20230530/deliverers"
+        },
+        "specification": {
+          "href": "https://api.w3.org/specifications/web-share"
+        },
+        "predecessor-version": {
+          "href": "https://api.w3.org/specifications/web-share/versions/20230530/predecessors"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/306/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/callsfortranslation/306"
+      },
+      "translations": {
+        "href": "https://api.w3.org/callsfortranslation/306/translations"
+      }
+    },
+    "isLatest": true,
+    "date": "2023-05-30",
+    "id": "s-web-share",
+    "translations": [
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0024.html",
+        "title": "Intent to translate Web Share API in European Portuguese",
+        "language": "pt",
+        "translators": [
+          {
+            "id": 153604,
+            "name": "Carla Berjano",
+            "given": "Carla",
+            "family": "Berjano",
+            "connected-accounts": [
+              {
+                "created": "2024-03-07T15:44:04+00:00",
+                "service": "github",
+                "identifier": "74185579",
+                "nickname": "cberjano",
+                "profile-picture": "https://avatars.githubusercontent.com/u/74185579?v=4",
+                "href": "https://github.com/cberjano",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Web Share API",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/web-share/",
+            "uri": "https://www.w3.org/TR/2023/REC-web-share-20230530/",
+            "date": "2023-05-30",
+            "informative": false,
+            "title": "Web Share API",
+            "shortlink": "https://www.w3.org/TR/web-share/",
+            "translation": "https://www.w3.org/Translations/?technology=web-share",
+            "errata": "https://github.com/w3c/web-share/labels/errata",
+            "process-rules": "https://www.w3.org/2021/Process-20211102/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/web-share/versions/20230530"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/web-share/versions/20230530/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/web-share/versions/20230530/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/web-share"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/web-share/versions/20230530/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/306/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/306"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/306/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/624"
+          }
+        },
+        "origTitle": "Web Share API",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
         "isInReview": false
       }
     ]
