@@ -4192,7 +4192,7 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/css-box-3/versions/20230406",
+        "href": "https://api.w3.org/specifications/css-box-3/versions/20240411",
         "title": "Recommendation"
       },
       "series": {
@@ -4200,8 +4200,8 @@
       }
     },
     "isLatest": true,
-    "date": "2023-04-06",
-    "year": "2023",
+    "date": "2024-04-11",
+    "year": "2024",
     "translations": {}
   },
   {
@@ -11904,7 +11904,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/html-aria/versions/20240216",
+        "href": "https://api.w3.org/specifications/html-aria/versions/20240415",
         "title": "Recommendation"
       },
       "series": {
@@ -11912,7 +11912,7 @@
       }
     },
     "isLatest": true,
-    "date": "2024-02-16",
+    "date": "2024-04-15",
     "year": "2024",
     "translations": {
       "ja": {
@@ -13919,7 +13919,21 @@
             "name": "Lukas.J Han",
             "given": "Lukas.J",
             "family": "Han",
-            "connected-accounts": [],
+            "connected-accounts": [
+              {
+                "created": "2024-03-20T02:18:22+00:00",
+                "service": "github",
+                "identifier": "86042901",
+                "nickname": "lukasjhan",
+                "profile-picture": "https://avatars.githubusercontent.com/u/86042901?v=4",
+                "href": "https://github.com/lukasjhan",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+                  }
+                }
+              }
+            ],
             "discr": "user",
             "_links": {
               "self": {
@@ -41067,7 +41081,21 @@
             "name": "Lukas.J Han",
             "given": "Lukas.J",
             "family": "Han",
-            "connected-accounts": [],
+            "connected-accounts": [
+              {
+                "created": "2024-03-20T02:18:22+00:00",
+                "service": "github",
+                "identifier": "86042901",
+                "nickname": "lukasjhan",
+                "profile-picture": "https://avatars.githubusercontent.com/u/86042901?v=4",
+                "href": "https://github.com/lukasjhan",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+                  }
+                }
+              }
+            ],
             "discr": "user",
             "_links": {
               "self": {
@@ -42111,21 +42139,7 @@
             "name": "Carla Berjano",
             "given": "Carla",
             "family": "Berjano",
-            "connected-accounts": [
-              {
-                "created": "2024-03-07T15:44:04+00:00",
-                "service": "github",
-                "identifier": "74185579",
-                "nickname": "cberjano",
-                "profile-picture": "https://avatars.githubusercontent.com/u/74185579?v=4",
-                "href": "https://github.com/cberjano",
-                "_links": {
-                  "user": {
-                    "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o"
-                  }
-                }
-              }
-            ],
+            "connected-accounts": [],
             "discr": "user",
             "_links": {
               "self": {
@@ -43095,24 +43109,24 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/xpath/",
+    "shortlink": "https://www.w3.org/TR/xpath-10/",
     "description": "<p>XPath is a language for addressing parts of an XML document, designed to be used by both XSLT and XPointer.</p>",
     "title": "XML Path Language (XPath) Version 1.0",
-    "shortname": "xpath",
+    "shortname": "xpath-10",
     "series-version": "1.0",
     "_links": {
       "self": {
-        "href": "https://api.w3.org/specifications/xpath"
+        "href": "https://api.w3.org/specifications/xpath-10"
       },
       "version-history": {
-        "href": "https://api.w3.org/specifications/xpath/versions"
+        "href": "https://api.w3.org/specifications/xpath-10/versions"
       },
       "first-version": {
-        "href": "https://api.w3.org/specifications/xpath/versions/19980818",
+        "href": "https://api.w3.org/specifications/xpath-10/versions/19980818",
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/xpath/versions/19991116",
+        "href": "https://api.w3.org/specifications/xpath-10/versions/19991116",
         "title": "Recommendation"
       },
       "series": {
@@ -43173,23 +43187,23 @@
             "date": "1999-11-16",
             "informative": false,
             "title": "XML Path Language (XPath) Version 1.0",
-            "shortlink": "https://www.w3.org/TR/xpath/",
+            "shortlink": "https://www.w3.org/TR/xpath-10/",
             "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/xpath"
+                "href": "https://api.w3.org/specifications/xpath-10"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -43268,23 +43282,23 @@
             "date": "1999-11-16",
             "informative": false,
             "title": "XML Path Language (XPath) Version 1.0",
-            "shortlink": "https://www.w3.org/TR/xpath/",
+            "shortlink": "https://www.w3.org/TR/xpath-10/",
             "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/xpath"
+                "href": "https://api.w3.org/specifications/xpath-10"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -43361,23 +43375,23 @@
             "date": "1999-11-16",
             "informative": false,
             "title": "XML Path Language (XPath) Version 1.0",
-            "shortlink": "https://www.w3.org/TR/xpath/",
+            "shortlink": "https://www.w3.org/TR/xpath-10/",
             "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/xpath"
+                "href": "https://api.w3.org/specifications/xpath-10"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -43455,23 +43469,23 @@
             "date": "1999-11-16",
             "informative": false,
             "title": "XML Path Language (XPath) Version 1.0",
-            "shortlink": "https://www.w3.org/TR/xpath/",
+            "shortlink": "https://www.w3.org/TR/xpath-10/",
             "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/xpath"
+                "href": "https://api.w3.org/specifications/xpath-10"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+                "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/25/translations"

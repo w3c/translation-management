@@ -21624,23 +21624,23 @@
           "date": "1999-11-16",
           "informative": false,
           "title": "XML Path Language (XPath) Version 1.0",
-          "shortlink": "https://www.w3.org/TR/xpath/",
+          "shortlink": "https://www.w3.org/TR/xpath-10/",
           "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/xpath"
+              "href": "https://api.w3.org/specifications/xpath-10"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -21657,7 +21657,7 @@
         },
         "isLatest": true,
         "date": "1999-11-16",
-        "id": "s-xpath",
+        "id": "s-xpath-10",
         "translations": [
           {
             "states": [
@@ -21709,23 +21709,23 @@
                 "date": "1999-11-16",
                 "informative": false,
                 "title": "XML Path Language (XPath) Version 1.0",
-                "shortlink": "https://www.w3.org/TR/xpath/",
+                "shortlink": "https://www.w3.org/TR/xpath-10/",
                 "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/xpath"
+                    "href": "https://api.w3.org/specifications/xpath-10"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -32879,23 +32879,23 @@
           "date": "1999-11-16",
           "informative": false,
           "title": "XML Path Language (XPath) Version 1.0",
-          "shortlink": "https://www.w3.org/TR/xpath/",
+          "shortlink": "https://www.w3.org/TR/xpath-10/",
           "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/xpath"
+              "href": "https://api.w3.org/specifications/xpath-10"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -32912,7 +32912,7 @@
         },
         "isLatest": true,
         "date": "1999-11-16",
-        "id": "s-xpath",
+        "id": "s-xpath-10",
         "translations": [
           {
             "states": [
@@ -32964,23 +32964,23 @@
                 "date": "1999-11-16",
                 "informative": false,
                 "title": "XML Path Language (XPath) Version 1.0",
-                "shortlink": "https://www.w3.org/TR/xpath/",
+                "shortlink": "https://www.w3.org/TR/xpath-10/",
                 "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/xpath"
+                    "href": "https://api.w3.org/specifications/xpath-10"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -40643,23 +40643,23 @@
           "date": "1999-11-16",
           "informative": false,
           "title": "XML Path Language (XPath) Version 1.0",
-          "shortlink": "https://www.w3.org/TR/xpath/",
+          "shortlink": "https://www.w3.org/TR/xpath-10/",
           "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/xpath"
+              "href": "https://api.w3.org/specifications/xpath-10"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -40676,7 +40676,7 @@
         },
         "isLatest": true,
         "date": "1999-11-16",
-        "id": "s-xpath",
+        "id": "s-xpath-10",
         "translations": [
           {
             "states": [
@@ -40730,23 +40730,23 @@
                 "date": "1999-11-16",
                 "informative": false,
                 "title": "XML Path Language (XPath) Version 1.0",
-                "shortlink": "https://www.w3.org/TR/xpath/",
+                "shortlink": "https://www.w3.org/TR/xpath-10/",
                 "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/xpath"
+                    "href": "https://api.w3.org/specifications/xpath-10"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -65517,7 +65517,21 @@
                 "name": "Lukas.J Han",
                 "given": "Lukas.J",
                 "family": "Han",
-                "connected-accounts": [],
+                "connected-accounts": [
+                  {
+                    "created": "2024-03-20T02:18:22+00:00",
+                    "service": "github",
+                    "identifier": "86042901",
+                    "nickname": "lukasjhan",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/86042901?v=4",
+                    "href": "https://github.com/lukasjhan",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+                      }
+                    }
+                  }
+                ],
                 "discr": "user",
                 "_links": {
                   "self": {
@@ -67347,7 +67361,21 @@
                 "name": "Lukas.J Han",
                 "given": "Lukas.J",
                 "family": "Han",
-                "connected-accounts": [],
+                "connected-accounts": [
+                  {
+                    "created": "2024-03-20T02:18:22+00:00",
+                    "service": "github",
+                    "identifier": "86042901",
+                    "nickname": "lukasjhan",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/86042901?v=4",
+                    "href": "https://github.com/lukasjhan",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+                      }
+                    }
+                  }
+                ],
                 "discr": "user",
                 "_links": {
                   "self": {
@@ -70760,23 +70788,23 @@
           "date": "1999-11-16",
           "informative": false,
           "title": "XML Path Language (XPath) Version 1.0",
-          "shortlink": "https://www.w3.org/TR/xpath/",
+          "shortlink": "https://www.w3.org/TR/xpath-10/",
           "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/xpath"
+              "href": "https://api.w3.org/specifications/xpath-10"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+              "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -70793,7 +70821,7 @@
         },
         "isLatest": true,
         "date": "1999-11-16",
-        "id": "s-xpath",
+        "id": "s-xpath-10",
         "translations": [
           {
             "states": [
@@ -70846,23 +70874,23 @@
                 "date": "1999-11-16",
                 "informative": false,
                 "title": "XML Path Language (XPath) Version 1.0",
-                "shortlink": "https://www.w3.org/TR/xpath/",
+                "shortlink": "https://www.w3.org/TR/xpath-10/",
                 "errata": "https://www.w3.org/1999/11/REC-xpath-19991116-errata",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/editors"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/deliverers"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/xpath"
+                    "href": "https://api.w3.org/specifications/xpath-10"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/xpath/versions/19991116/predecessors"
+                    "href": "https://api.w3.org/specifications/xpath-10/versions/19991116/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/25/translations"
@@ -74386,6 +74414,155 @@
         }
       },
       {
+        "title": "Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0",
+        "spec-version": {
+          "status": "Note",
+          "rec-track": false,
+          "uri": "https://www.w3.org/TR/2014/NOTE-WCAG-EM-20140710/",
+          "date": "2014-07-10",
+          "informative": false,
+          "title": "Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0",
+          "shortlink": "https://www.w3.org/TR/WCAG-EM/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG-EM/versions/20140710"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG-EM/versions/20140710/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG-EM/versions/20140710/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG-EM"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG-EM/versions/20140710/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/307/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/307"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/307/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2014-07-10",
+        "id": "s-WCAG-EM",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024AprJun/0000.html",
+            "title": "Intent to translate Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0 into Polish",
+            "language": "pl",
+            "translators": [
+              {
+                "id": 155096,
+                "name": "Stefan Wajda",
+                "given": "Stefan",
+                "family": "Wajda",
+                "country-code": "PL",
+                "country-division": "Silesia",
+                "city": "Jastrzebie Zdroj",
+                "connected-accounts": [
+                  {
+                    "created": "2024-04-12T16:32:15+00:00",
+                    "service": "github",
+                    "identifier": "29527200",
+                    "nickname": "zwiastunsw",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/29527200?v=4",
+                    "href": "https://github.com/zwiastunsw",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/ijjwaasdzxcg0cg48wscgg0wwcws4ck"
+                      }
+                    }
+                  }
+                ],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/ijjwaasdzxcg0cg48wscgg0wwcws4ck"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/ijjwaasdzxcg0cg48wscgg0wwcws4ck/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/ijjwaasdzxcg0cg48wscgg0wwcws4ck/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/ijjwaasdzxcg0cg48wscgg0wwcws4ck/specifications"
+                  },
+                  "participations": {
+                    "href": "https://api.w3.org/users/ijjwaasdzxcg0cg48wscgg0wwcws4ck/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/ijjwaasdzxcg0cg48wscgg0wwcws4ck/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/ijjwaasdzxcg0cg48wscgg0wwcws4ck/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0",
+              "spec-version": {
+                "status": "Note",
+                "rec-track": false,
+                "uri": "https://www.w3.org/TR/2014/NOTE-WCAG-EM-20140710/",
+                "date": "2014-07-10",
+                "informative": false,
+                "title": "Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0",
+                "shortlink": "https://www.w3.org/TR/WCAG-EM/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG-EM/versions/20140710"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG-EM/versions/20140710/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG-EM/versions/20140710/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG-EM"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG-EM/versions/20140710/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/307/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/307"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/307/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/627"
+              }
+            }
+          }
+        ]
+      },
+      {
         "title": "XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)",
         "spec-version": {
           "status": "Recommendation",
@@ -75112,7 +75289,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 7
+    "latestRecsTotal": 8
   },
   "lt": {
     "list": [
@@ -78125,21 +78302,7 @@
                 "name": "Carla Berjano",
                 "given": "Carla",
                 "family": "Berjano",
-                "connected-accounts": [
-                  {
-                    "created": "2024-03-07T15:44:04+00:00",
-                    "service": "github",
-                    "identifier": "74185579",
-                    "nickname": "cberjano",
-                    "profile-picture": "https://avatars.githubusercontent.com/u/74185579?v=4",
-                    "href": "https://github.com/cberjano",
-                    "_links": {
-                      "user": {
-                        "href": "https://api.w3.org/users/edjuvx735l44kgkw484gsswcooowc4o"
-                      }
-                    }
-                  }
-                ],
+                "connected-accounts": [],
                 "discr": "user",
                 "_links": {
                   "self": {
