@@ -9768,8 +9768,8 @@
         "states": [
           "draft"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0030.html",
-        "title": "Intent to translate Decentralized Identifiers (DIDs) v1.0 in Korean",
+        "uri": "https://lukasjhan.github.io/did-core/",
+        "title": "탈중앙 식별자 Decentralized Identifiers (DIDs) v1.0",
         "language": "ko",
         "translators": [
           {
@@ -46930,8 +46930,8 @@
         "states": [
           "draft"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0030.html",
-        "title": "Intent to translate Verifiable Credentials Data Model v1.1 in Korean",
+        "uri": "https://lukasjhan.github.io/vc-data-model/",
+        "title": "검증가능한 크리덴셜 데이터 모델(Verifiable Credentials Data Model v1.1)",
         "language": "ko",
         "translators": [
           {

@@ -11904,7 +11904,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/html-aria/versions/20240415",
+        "href": "https://api.w3.org/specifications/html-aria/versions/20240507",
         "title": "Recommendation"
       },
       "series": {
@@ -11912,7 +11912,7 @@
       }
     },
     "isLatest": true,
-    "date": "2024-04-15",
+    "date": "2024-05-07",
     "year": "2024",
     "translations": {
       "ja": {
@@ -13910,8 +13910,8 @@
         "states": [
           "draft"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0030.html",
-        "title": "Intent to translate Decentralized Identifiers (DIDs) v1.0 in Korean",
+        "uri": "https://lukasjhan.github.io/did-core/",
+        "title": "탈중앙 식별자 Decentralized Identifiers (DIDs) v1.0",
         "language": "ko",
         "translators": [
           {
@@ -27647,7 +27647,7 @@
         "title": "Retired"
       },
       "series": {
-        "href": "https://api.w3.org/specification-series/WCAG"
+        "href": "https://api.w3.org/specification-series/wcag"
       }
     },
     "isLatest": false,
@@ -29997,7 +29997,7 @@
         "title": "Recommendation"
       },
       "series": {
-        "href": "https://api.w3.org/specification-series/WCAG"
+        "href": "https://api.w3.org/specification-series/wcag"
       }
     },
     "isLatest": true,
@@ -39393,7 +39393,7 @@
         "title": "Recommendation"
       },
       "series": {
-        "href": "https://api.w3.org/specification-series/WCAG"
+        "href": "https://api.w3.org/specification-series/wcag"
       }
     },
     "isLatest": true,
@@ -41072,8 +41072,8 @@
         "states": [
           "draft"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0030.html",
-        "title": "Intent to translate Verifiable Credentials Data Model v1.1 in Korean",
+        "uri": "https://lukasjhan.github.io/vc-data-model/",
+        "title": "검증가능한 크리덴셜 데이터 모델(Verifiable Credentials Data Model v1.1)",
         "language": "ko",
         "translators": [
           {
@@ -42247,7 +42247,7 @@
         "title": "Recommendation"
       },
       "series": {
-        "href": "https://api.w3.org/specification-series/WCAG"
+        "href": "https://api.w3.org/specification-series/wcag"
       }
     },
     "isLatest": true,
@@ -46613,5 +46613,35 @@
         "isInReview": false
       }
     }
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/imsc-hrm/",
+    "description": "<p>This specification specifies an Hypothetical Render Model (HRM) that constrains the complexity of an IMSC Document Instance.</p>",
+    "title": "IMSC Hypothetical Render Model",
+    "shortname": "imsc-hrm",
+    "editor-draft": "https://w3c.github.io/imsc-hrm/spec/imsc-hrm.html",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/imsc-hrm"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/imsc-hrm/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/imsc-hrm/versions/20211109",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/imsc-hrm/versions/20240425",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/imsc-hrm"
+      }
+    },
+    "isLatest": true,
+    "date": "2024-04-25",
+    "year": "2024",
+    "translations": {}
   }
 ]
