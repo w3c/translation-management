@@ -46926,6 +46926,115 @@
         "isPublished": true,
         "isPending": false,
         "isInReview": false
+      },
+      {
+        "states": [
+          "published"
+        ],
+        "uri": "https://lukasjhan.github.io/vc-data-model/",
+        "title": "검증가능한 크리덴셜 데이터 모델 (Verifiable Credentials Data Model v1.1)",
+        "language": "ko",
+        "translators": [
+          {
+            "id": 154263,
+            "name": "Lukas.J Han",
+            "given": "Lukas.J",
+            "family": "Han",
+            "connected-accounts": [
+              {
+                "created": "2024-03-20T02:18:22+00:00",
+                "service": "github",
+                "identifier": "86042901",
+                "nickname": "lukasjhan",
+                "profile-picture": "https://avatars.githubusercontent.com/u/86042901?v=4",
+                "href": "https://github.com/lukasjhan",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "published": "2024-05-20T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Verifiable Credentials Data Model v1.1",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/vc-data-model/",
+            "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
+            "date": "2022-03-03",
+            "informative": false,
+            "title": "Verifiable Credentials Data Model v1.1",
+            "shortlink": "https://www.w3.org/TR/vc-data-model/",
+            "process-rules": "https://www.w3.org/2021/Process-20211102/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/289/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/289"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/289/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/628"
+          }
+        },
+        "origTitle": "Verifiable Credentials Data Model v1.1",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
       }
     ]
   },
