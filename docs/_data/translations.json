@@ -9766,7 +9766,7 @@
       },
       {
         "states": [
-          "draft"
+          "published"
         ],
         "uri": "https://lukasjhan.github.io/did-core/",
         "title": "탈중앙 식별자 Decentralized Identifiers (DIDs) v1.0",
@@ -9818,6 +9818,7 @@
             }
           }
         ],
+        "published": "2024-05-20T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Decentralized Identifiers (DIDs) v1.0",
@@ -9870,8 +9871,8 @@
         },
         "origTitle": "Decentralized Identifiers (DIDs) v1.0",
         "isOutdated": false,
-        "isPublished": false,
-        "isPending": true,
+        "isPublished": true,
+        "isPending": false,
         "isInReview": false
       }
     ]
@@ -46925,10 +46926,61 @@
         "isPublished": true,
         "isPending": false,
         "isInReview": false
+      }
+    ]
+  },
+  {
+    "title": "Verifiable Credentials Data Model v1.1",
+    "spec-version": {
+      "status": "Recommendation",
+      "rec-track": true,
+      "editor-draft": "https://w3c.github.io/vc-data-model/",
+      "uri": "https://www.w3.org/TR/2021/REC-vc-data-model-20211109/",
+      "date": "2021-11-09",
+      "informative": false,
+      "title": "Verifiable Credentials Data Model v1.1",
+      "shortlink": "https://www.w3.org/TR/vc-data-model/",
+      "process-rules": "https://www.w3.org/2021/Process-20211102/",
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109"
+        },
+        "editors": {
+          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/editors"
+        },
+        "deliverers": {
+          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/deliverers"
+        },
+        "specification": {
+          "href": "https://api.w3.org/specifications/vc-data-model-1.1"
+        },
+        "predecessor-version": {
+          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/predecessors"
+        },
+        "successor-version": {
+          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/successors"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/310/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/callsfortranslation/310"
       },
+      "translations": {
+        "href": "https://api.w3.org/callsfortranslation/310/translations"
+      }
+    },
+    "isLatest": false,
+    "date": "2021-11-09",
+    "id": "s-vc-data-model",
+    "translations": [
       {
         "states": [
-          "draft"
+          "published",
+          "outdated"
         ],
         "uri": "https://lukasjhan.github.io/vc-data-model/",
         "title": "검증가능한 크리덴셜 데이터 모델(Verifiable Credentials Data Model v1.1)",
@@ -46980,6 +47032,7 @@
             }
           }
         ],
+        "published": "2024-05-20T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Verifiable Credentials Data Model v1.1",
@@ -46987,39 +47040,42 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/vc-data-model/",
-            "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
-            "date": "2022-03-03",
+            "uri": "https://www.w3.org/TR/2021/REC-vc-data-model-20211109/",
+            "date": "2021-11-09",
             "informative": false,
             "title": "Verifiable Credentials Data Model v1.1",
             "shortlink": "https://www.w3.org/TR/vc-data-model/",
             "process-rules": "https://www.w3.org/2021/Process-20211102/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/vc-data-model-1.1"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/successors"
               },
               "translations": {
-                "href": "https://api.w3.org/callsfortranslation/289/translations"
+                "href": "https://api.w3.org/callsfortranslation/310/translations"
               }
             }
           },
           "_links": {
             "self": {
-              "href": "https://api.w3.org/callsfortranslation/289"
+              "href": "https://api.w3.org/callsfortranslation/310"
             },
             "translations": {
-              "href": "https://api.w3.org/callsfortranslation/289/translations"
+              "href": "https://api.w3.org/callsfortranslation/310/translations"
             }
           }
         },
@@ -47029,61 +47085,12 @@
           }
         },
         "origTitle": "Verifiable Credentials Data Model v1.1",
-        "isOutdated": false,
-        "isPublished": false,
-        "isPending": true,
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
         "isInReview": false
       }
     ]
-  },
-  {
-    "title": "Verifiable Credentials Data Model v1.1",
-    "spec-version": {
-      "status": "Recommendation",
-      "rec-track": true,
-      "editor-draft": "https://w3c.github.io/vc-data-model/",
-      "uri": "https://www.w3.org/TR/2021/REC-vc-data-model-20211109/",
-      "date": "2021-11-09",
-      "informative": false,
-      "title": "Verifiable Credentials Data Model v1.1",
-      "shortlink": "https://www.w3.org/TR/vc-data-model/",
-      "process-rules": "https://www.w3.org/2021/Process-20211102/",
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109"
-        },
-        "editors": {
-          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/editors"
-        },
-        "deliverers": {
-          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/deliverers"
-        },
-        "specification": {
-          "href": "https://api.w3.org/specifications/vc-data-model-1.1"
-        },
-        "predecessor-version": {
-          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/predecessors"
-        },
-        "successor-version": {
-          "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/successors"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/310/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/callsfortranslation/310"
-      },
-      "translations": {
-        "href": "https://api.w3.org/callsfortranslation/310/translations"
-      }
-    },
-    "isLatest": false,
-    "date": "2021-11-09",
-    "id": "s-vc-data-model",
-    "translations": []
   },
   {
     "title": "Vibration API",

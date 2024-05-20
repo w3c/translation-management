@@ -3,6 +3,230 @@
     "states": [
       "published"
     ],
+    "uri": "https://lukasjhan.github.io/did-core/",
+    "title": "탈중앙 식별자 Decentralized Identifiers (DIDs) v1.0",
+    "language": "ko",
+    "translators": [
+      {
+        "id": 154263,
+        "name": "Lukas.J Han",
+        "given": "Lukas.J",
+        "family": "Han",
+        "connected-accounts": [
+          {
+            "created": "2024-03-20T02:18:22+00:00",
+            "service": "github",
+            "identifier": "86042901",
+            "nickname": "lukasjhan",
+            "profile-picture": "https://avatars.githubusercontent.com/u/86042901?v=4",
+            "href": "https://github.com/lukasjhan",
+            "_links": {
+              "user": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+              }
+            }
+          }
+        ],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2024-05-20T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "Decentralized Identifiers (DIDs) v1.0",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://w3c.github.io/did-core/",
+        "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
+        "date": "2022-07-19",
+        "informative": false,
+        "title": "Decentralized Identifiers (DIDs) v1.0",
+        "shortlink": "https://www.w3.org/TR/did-core/",
+        "translation": "https://www.w3.org/Translations/?technology=did-core",
+        "errata": "https://w3c.github.io/did-core/errata.html",
+        "process-rules": "https://www.w3.org/2021/Process-20211102/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/did-core"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/288/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/288"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/288/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/625"
+      }
+    },
+    "origTitle": "Decentralized Identifiers (DIDs) v1.0",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published",
+      "outdated"
+    ],
+    "uri": "https://lukasjhan.github.io/vc-data-model/",
+    "title": "검증가능한 크리덴셜 데이터 모델(Verifiable Credentials Data Model v1.1)",
+    "language": "ko",
+    "translators": [
+      {
+        "id": 154263,
+        "name": "Lukas.J Han",
+        "given": "Lukas.J",
+        "family": "Han",
+        "connected-accounts": [
+          {
+            "created": "2024-03-20T02:18:22+00:00",
+            "service": "github",
+            "identifier": "86042901",
+            "nickname": "lukasjhan",
+            "profile-picture": "https://avatars.githubusercontent.com/u/86042901?v=4",
+            "href": "https://github.com/lukasjhan",
+            "_links": {
+              "user": {
+                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+              }
+            }
+          }
+        ],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2024-05-20T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "Verifiable Credentials Data Model v1.1",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://w3c.github.io/vc-data-model/",
+        "uri": "https://www.w3.org/TR/2021/REC-vc-data-model-20211109/",
+        "date": "2021-11-09",
+        "informative": false,
+        "title": "Verifiable Credentials Data Model v1.1",
+        "shortlink": "https://www.w3.org/TR/vc-data-model/",
+        "process-rules": "https://www.w3.org/2021/Process-20211102/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/vc-data-model-1.1"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/predecessors"
+          },
+          "successor-version": {
+            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20211109/successors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/310/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/310"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/310/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/626"
+      }
+    },
+    "origTitle": "Verifiable Credentials Data Model v1.1",
+    "isOutdated": true,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://argrath.github.io/activitypub/",
     "title": "ActivityPub",
     "language": "ja",
@@ -1236,173 +1460,6 @@
     "_links": {
       "self": {
         "href": "https://api.w3.org/translations/597"
-      }
-    },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
-    "isOutdated": true,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "http://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-method-id-20220908.html",
-    "title": "決済方式識別子",
-    "language": "ja",
-    "translators": [
-      {
-        "id": 112316,
-        "name": "Shuji Kamitsuna",
-        "given": "Shuji",
-        "family": "Kamitsuna",
-        "connected-accounts": [],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2023-02-20T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "Payment Method Identifiers",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/payment-method-id/",
-        "uri": "https://www.w3.org/TR/2022/REC-payment-method-id-20220908/",
-        "date": "2022-09-08",
-        "informative": false,
-        "title": "Payment Method Identifiers",
-        "shortlink": "https://www.w3.org/TR/payment-method-id/",
-        "translation": "https://www.w3.org/Translations/?technology=payment-method-id",
-        "errata": "https://www.w3.org/Payments/WG/errata.html",
-        "process-rules": "https://www.w3.org/2021/Process-20211102/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/payment-method-id"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/294/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/294"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/294/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/601"
-      }
-    },
-    "origTitle": "Payment Method Identifiers",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published",
-      "outdated"
-    ],
-    "uri": "https://www.w3.org/Translations/WCAG21-ca/",
-    "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.1",
-    "language": "ca",
-    "translators": [],
-    "published": "2023-02-13T00:00:00+00:00",
-    "authorized": true,
-    "lto_name": "Facultat de Matemàtiques i Informàtica - Universitat de Barcelona",
-    "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-        "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
-        "date": "2018-06-05",
-        "informative": false,
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-        "shortlink": "https://www.w3.org/TR/WCAG21/",
-        "translation": "https://www.w3.org/WAI/standards-guidelines/wcag/translations/",
-        "errata": "https://www.w3.org/WAI/WCAG21/errata/",
-        "process-rules": "https://www.w3.org/2018/Process-20180201/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/WCAG21"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/predecessors"
-          },
-          "successor-version": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/successors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/255/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/255"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/255/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/599"
       }
     },
     "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
