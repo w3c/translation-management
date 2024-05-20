@@ -112,8 +112,7 @@
   },
   {
     "states": [
-      "published",
-      "outdated"
+      "published"
     ],
     "uri": "https://lukasjhan.github.io/vc-data-model/",
     "title": "검증가능한 크리덴셜 데이터 모델(Verifiable Credentials Data Model v1.1)",
@@ -216,12 +215,7 @@
       "self": {
         "href": "https://api.w3.org/translations/626"
       }
-    },
-    "origTitle": "Verifiable Credentials Data Model v1.1",
-    "isOutdated": true,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
+    }
   },
   {
     "states": [
