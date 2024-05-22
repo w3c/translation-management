@@ -4686,6 +4686,7 @@
     "title": "Media Queries Level 3",
     "shortname": "mediaqueries-3",
     "editor-draft": "https://drafts.csswg.org/mediaqueries-3/",
+    "series-version": "3",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/mediaqueries-3"
@@ -4698,7 +4699,7 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405",
+        "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20240521",
         "title": "Recommendation"
       },
       "series": {
@@ -4706,12 +4707,13 @@
       }
     },
     "isLatest": true,
-    "date": "2022-04-05",
-    "year": "2022",
+    "date": "2024-05-21",
+    "year": "2024",
     "translations": {
       "ja": {
         "states": [
-          "published"
+          "published",
+          "outdated"
         ],
         "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/css/REC-mediaqueries-3-20220405.html",
         "title": "メディア・クエリ レベル3",
@@ -4780,6 +4782,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/291/translations"
               }
@@ -4800,14 +4805,15 @@
           }
         },
         "origTitle": "Media Queries Level 3",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       },
       "pl": {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0035.html",
         "title": "Intent to translate Media Queries Level 3 into Polish",
@@ -4878,6 +4884,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/291/translations"
               }
@@ -4898,14 +4907,15 @@
           }
         },
         "origTitle": "Media Queries Level 3",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
       },
       "tl": {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0012.html",
         "title": "Intent to translate Media Queries Level 3 in Tagalog/Filipino",
@@ -4990,6 +5000,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/291/translations"
               }
@@ -5010,7 +5023,7 @@
           }
         },
         "origTitle": "Media Queries Level 3",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
@@ -42321,14 +42334,15 @@
       },
       "ca": {
         "states": [
-          "review"
+          "published"
         ],
-        "uri": "https://www.ub.edu/adaptabit/wcag22/",
+        "uri": "https://www.w3.org/Translations/WCAG22-ca/",
         "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
         "language": "ca",
         "translators": [],
+        "published": "2024-05-22T00:00:00+00:00",
         "authorized": true,
-        "lto_name": "Facultat de Matemàtiques i Informàtica of Universitat de Barcelona",
+        "lto_name": "Facultat de Matemàtiques i Informàtica - Universitat de Barcelona",
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
           "spec-version": {
@@ -42378,9 +42392,9 @@
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": false,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       },
       "zh-hans": {
         "states": [
@@ -46643,6 +46657,36 @@
     },
     "isLatest": true,
     "date": "2024-04-25",
+    "year": "2024",
+    "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/rdf-canon/",
+    "description": "<p>RDF [RDF11-CONCEPTS] describes a graph-based data model for making claims about the world and provides the foundation for reasoning upon that graph of information. At times, it becomes necessary to compare the differences between sets of graphs, digitally sign them, or generate short identifiers for graphs via hashing algorithms. This document outlines an algorithm for normalizing RDF datasets such that these operations can be performed.</p>",
+    "title": "RDF Dataset Canonicalization",
+    "shortname": "rdf-canon",
+    "editor-draft": "https://w3c.github.io/rdf-canon/spec/",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/rdf-canon"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/rdf-canon/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/rdf-canon/versions/20221124",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/rdf-canon/versions/20240521",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/rdf-canon"
+      }
+    },
+    "isLatest": true,
+    "date": "2024-05-21",
     "year": "2024",
     "translations": {}
   }

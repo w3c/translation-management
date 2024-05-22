@@ -3,6 +3,70 @@
     "states": [
       "published"
     ],
+    "uri": "https://www.w3.org/Translations/WCAG22-ca/",
+    "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
+    "language": "ca",
+    "translators": [],
+    "published": "2024-05-22T00:00:00+00:00",
+    "authorized": true,
+    "lto_name": "Facultat de Matemàtiques i Informàtica - Universitat de Barcelona",
+    "call-for-translation": {
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+        "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+        "date": "2023-10-05",
+        "informative": false,
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "shortlink": "https://www.w3.org/TR/WCAG22/",
+        "process-rules": "https://www.w3.org/2023/Process-20230612/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/WCAG22"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/301/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/301"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/301/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/620"
+      }
+    },
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://lukasjhan.github.io/did-core/",
     "title": "탈중앙 식별자 Decentralized Identifiers (DIDs) v1.0",
     "language": "ko",
@@ -332,7 +396,8 @@
   },
   {
     "states": [
-      "published"
+      "published",
+      "outdated"
     ],
     "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/css/REC-mediaqueries-3-20220405.html",
     "title": "メディア・クエリ レベル3",
@@ -401,6 +466,9 @@
           "predecessor-version": {
             "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
           },
+          "successor-version": {
+            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+          },
           "translations": {
             "href": "https://api.w3.org/callsfortranslation/291/translations"
           }
@@ -421,7 +489,7 @@
       }
     },
     "origTitle": "Media Queries Level 3",
-    "isOutdated": false,
+    "isOutdated": true,
     "isPublished": true,
     "isPending": false,
     "isInReview": false
@@ -1390,76 +1458,6 @@
     },
     "origTitle": "Geolocation API",
     "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published",
-      "outdated"
-    ],
-    "uri": "https://www.w3.org/Translations/WCAG21-ua/",
-    "title": "Настанови з доступності вебвмісту (WCAG) 2.1",
-    "language": "uk",
-    "translators": [],
-    "published": "2023-02-20T00:00:00+00:00",
-    "authorized": true,
-    "lto_name": "United Nations Development Program (UNDP) in Ukraine",
-    "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-        "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
-        "date": "2018-06-05",
-        "informative": false,
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-        "shortlink": "https://www.w3.org/TR/WCAG21/",
-        "translation": "https://www.w3.org/WAI/standards-guidelines/wcag/translations/",
-        "errata": "https://www.w3.org/WAI/WCAG21/errata/",
-        "process-rules": "https://www.w3.org/2018/Process-20180201/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/WCAG21"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/predecessors"
-          },
-          "successor-version": {
-            "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/successors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/255/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/255"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/255/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/597"
-      }
-    },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
-    "isOutdated": true,
     "isPublished": true,
     "isPending": false,
     "isInReview": false

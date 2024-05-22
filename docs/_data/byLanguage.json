@@ -7570,6 +7570,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/291/translations"
             }
@@ -7583,13 +7586,14 @@
             "href": "https://api.w3.org/callsfortranslation/291/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2022-04-05",
         "id": "s-mediaqueries-3",
         "translations": [
           {
             "states": [
-              "published"
+              "published",
+              "outdated"
             ],
             "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/css/REC-mediaqueries-3-20220405.html",
             "title": "メディア・クエリ レベル3",
@@ -7658,6 +7662,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/291/translations"
                   }
@@ -7678,7 +7685,7 @@
               }
             },
             "origTitle": "Media Queries Level 3",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -21755,7 +21762,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 104
+    "latestRecsTotal": 103
   },
   "ru": {
     "list": [
@@ -71426,6 +71433,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/291/translations"
             }
@@ -71439,13 +71449,14 @@
             "href": "https://api.w3.org/callsfortranslation/291/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2022-04-05",
         "id": "s-mediaqueries-3",
         "translations": [
           {
             "states": [
-              "draft"
+              "draft",
+              "outdated"
             ],
             "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0012.html",
             "title": "Intent to translate Media Queries Level 3 in Tagalog/Filipino",
@@ -71530,6 +71541,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/291/translations"
                   }
@@ -71550,7 +71564,7 @@
               }
             },
             "origTitle": "Media Queries Level 3",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": false,
             "isPending": true,
             "isInReview": false
@@ -71874,7 +71888,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 4
+    "latestRecsTotal": 3
   },
   "uk": {
     "list": [
@@ -73675,6 +73689,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/291/translations"
             }
@@ -73688,13 +73705,14 @@
             "href": "https://api.w3.org/callsfortranslation/291/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2022-04-05",
         "id": "s-mediaqueries-3",
         "translations": [
           {
             "states": [
-              "draft"
+              "draft",
+              "outdated"
             ],
             "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0035.html",
             "title": "Intent to translate Media Queries Level 3 into Polish",
@@ -73765,6 +73783,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/291/translations"
                   }
@@ -73785,7 +73806,7 @@
               }
             },
             "origTitle": "Media Queries Level 3",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": false,
             "isPending": true,
             "isInReview": false
@@ -75291,7 +75312,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 8
+    "latestRecsTotal": 7
   },
   "lt": {
     "list": [
@@ -82599,14 +82620,15 @@
         "translations": [
           {
             "states": [
-              "review"
+              "published"
             ],
-            "uri": "https://www.ub.edu/adaptabit/wcag22/",
+            "uri": "https://www.w3.org/Translations/WCAG22-ca/",
             "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
             "language": "ca",
             "translators": [],
+            "published": "2024-05-22T00:00:00+00:00",
             "authorized": true,
-            "lto_name": "Facultat de Matemàtiques i Informàtica of Universitat de Barcelona",
+            "lto_name": "Facultat de Matemàtiques i Informàtica - Universitat de Barcelona",
             "call-for-translation": {
               "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
               "spec-version": {
@@ -82656,9 +82678,9 @@
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "isOutdated": false,
-            "isPublished": false,
+            "isPublished": true,
             "isPending": false,
-            "isInReview": true
+            "isInReview": false
           }
         ],
         "hasAuthorizedTranslations": {
