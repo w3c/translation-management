@@ -42461,12 +42461,13 @@
       },
       "nl": {
         "states": [
-          "review"
+          "published"
         ],
-        "uri": "https://ericvelleman.github.io/WCAG22_CAT/",
+        "uri": "https://www.w3.org/Translations/WCAG22-nl/",
         "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
         "language": "nl",
         "translators": [],
+        "published": "2024-06-13T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Accessibility Foundation",
         "call-for-translation": {
@@ -42518,9 +42519,9 @@
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": false,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       },
       "fr": {
         "states": [
@@ -44480,24 +44481,24 @@
     "translations": {}
   },
   {
-    "shortlink": "https://www.w3.org/TR/xquery/",
+    "shortlink": "https://www.w3.org/TR/xquery-10/",
     "description": "<p>XQuery 1.1 fixes some bugs and adds some substantial new features to XQuery 1.0.</p>",
     "title": "XQuery 1.0: An XML Query Language (Second Edition)",
-    "shortname": "xquery",
+    "shortname": "xquery-10",
     "series-version": "1.0",
     "_links": {
       "self": {
-        "href": "https://api.w3.org/specifications/xquery"
+        "href": "https://api.w3.org/specifications/xquery-10"
       },
       "version-history": {
-        "href": "https://api.w3.org/specifications/xquery/versions"
+        "href": "https://api.w3.org/specifications/xquery-10/versions"
       },
       "first-version": {
-        "href": "https://api.w3.org/specifications/xquery/versions/20010215",
+        "href": "https://api.w3.org/specifications/xquery-10/versions/20010215",
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/xquery/versions/20101214",
+        "href": "https://api.w3.org/specifications/xquery-10/versions/20101214",
         "title": "Recommendation"
       },
       "series": {

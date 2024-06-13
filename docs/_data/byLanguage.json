@@ -69141,12 +69141,13 @@
         "translations": [
           {
             "states": [
-              "review"
+              "published"
             ],
-            "uri": "https://ericvelleman.github.io/WCAG22_CAT/",
+            "uri": "https://www.w3.org/Translations/WCAG22-nl/",
             "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
             "language": "nl",
             "translators": [],
+            "published": "2024-06-13T00:00:00+00:00",
             "authorized": true,
             "lto_name": "Accessibility Foundation",
             "call-for-translation": {
@@ -69198,9 +69199,9 @@
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "isOutdated": false,
-            "isPublished": false,
+            "isPublished": true,
             "isPending": false,
-            "isInReview": true
+            "isInReview": false
           }
         ],
         "hasAuthorizedTranslations": {

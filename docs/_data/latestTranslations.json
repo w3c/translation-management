@@ -3,6 +3,70 @@
     "states": [
       "published"
     ],
+    "uri": "https://www.w3.org/Translations/WCAG22-nl/",
+    "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
+    "language": "nl",
+    "translators": [],
+    "published": "2024-06-13T00:00:00+00:00",
+    "authorized": true,
+    "lto_name": "Accessibility Foundation",
+    "call-for-translation": {
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+        "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+        "date": "2023-10-05",
+        "informative": false,
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "shortlink": "https://www.w3.org/TR/WCAG22/",
+        "process-rules": "https://www.w3.org/2023/Process-20230612/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/WCAG22"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/301/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/301"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/301/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/614"
+      }
+    },
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://www.w3.org/Translations/WCAG22-ca/",
     "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
     "language": "ca",
@@ -1360,103 +1424,6 @@
       }
     },
     "origTitle": "XML Entity Definitions for Characters (3rd Edition)",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published",
-      "needs_update"
-    ],
-    "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/geo/REC-geolocation-20220901.html",
-    "title": "ジオロケーションAPI",
-    "language": "ja",
-    "translators": [
-      {
-        "id": 112316,
-        "name": "Shuji Kamitsuna",
-        "given": "Shuji",
-        "family": "Kamitsuna",
-        "connected-accounts": [],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2023-03-27T00:00:00+00:00",
-    "updated": "2023-03-27T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "Geolocation API",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/geolocation-api/",
-        "uri": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
-        "date": "2022-09-01",
-        "informative": false,
-        "title": "Geolocation API",
-        "shortlink": "https://www.w3.org/TR/geolocation/",
-        "process-rules": "https://www.w3.org/2021/Process-20211102/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/geolocation/versions/20220901"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/geolocation/versions/20220901/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/geolocation/versions/20220901/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/geolocation"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/geolocation/versions/20220901/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/198/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/198"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/198/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/602"
-      }
-    },
-    "origTitle": "Geolocation API",
     "isOutdated": false,
     "isPublished": true,
     "isPending": false,
