@@ -10975,24 +10975,24 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/encrypted-media/",
+    "shortlink": "https://www.w3.org/TR/encrypted-media-1/",
     "description": "<p>This specification extends the HTMLMediaElement interface to provide APIs for controlling playback of protected content</p>",
     "title": "Encrypted Media Extensions",
-    "shortname": "encrypted-media",
+    "shortname": "encrypted-media-1",
     "editor-draft": "https://w3c.github.io/encrypted-media/",
     "_links": {
       "self": {
-        "href": "https://api.w3.org/specifications/encrypted-media"
+        "href": "https://api.w3.org/specifications/encrypted-media-1"
       },
       "version-history": {
-        "href": "https://api.w3.org/specifications/encrypted-media/versions"
+        "href": "https://api.w3.org/specifications/encrypted-media-1/versions"
       },
       "first-version": {
-        "href": "https://api.w3.org/specifications/encrypted-media/versions/20130510",
+        "href": "https://api.w3.org/specifications/encrypted-media-1/versions/20130510",
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/encrypted-media/versions/20170918",
+        "href": "https://api.w3.org/specifications/encrypted-media-1/versions/20170918",
         "title": "Recommendation"
       },
       "series": {
@@ -11342,7 +11342,118 @@
     "isLatest": true,
     "date": "2017-05-23",
     "year": "2017",
-    "translations": {}
+    "translations": {
+      "ja": {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JulSep/0001.html",
+        "title": "Intent to translate Activity Streams 2.0 into Japanese",
+        "language": "ja",
+        "translators": [
+          {
+            "id": 143615,
+            "name": "Kentaro Shirakata",
+            "given": "Kentaro",
+            "family": "Shirakata",
+            "connected-accounts": [
+              {
+                "created": "2023-04-06T15:18:43+00:00",
+                "service": "github",
+                "identifier": "53912",
+                "nickname": "argrath",
+                "profile-picture": "https://avatars.githubusercontent.com/u/53912?v=4",
+                "href": "https://github.com/argrath",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Activity Streams 2.0",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/activitystreams/core/",
+            "uri": "https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/",
+            "date": "2017-05-23",
+            "informative": false,
+            "title": "Activity Streams 2.0",
+            "shortlink": "https://www.w3.org/TR/activitystreams-core/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+            "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+            "process-rules": "https://www.w3.org/2017/Process-20170301/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/activitystreams-core"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/314/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/314"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/314/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/629"
+          }
+        },
+        "origTitle": "Activity Streams 2.0",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      }
+    }
   },
   {
     "shortlink": "https://www.w3.org/TR/activitystreams-vocabulary/",
@@ -11372,7 +11483,118 @@
     "isLatest": true,
     "date": "2017-05-23",
     "year": "2017",
-    "translations": {}
+    "translations": {
+      "ja": {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JulSep/0001.html",
+        "title": "Intent to translate Activity Vocabulary into Japanese",
+        "language": "ja",
+        "translators": [
+          {
+            "id": 143615,
+            "name": "Kentaro Shirakata",
+            "given": "Kentaro",
+            "family": "Shirakata",
+            "connected-accounts": [
+              {
+                "created": "2023-04-06T15:18:43+00:00",
+                "service": "github",
+                "identifier": "53912",
+                "nickname": "argrath",
+                "profile-picture": "https://avatars.githubusercontent.com/u/53912?v=4",
+                "href": "https://github.com/argrath",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Activity Vocabulary",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/activitystreams/vocabulary/",
+            "uri": "https://www.w3.org/TR/2017/REC-activitystreams-vocabulary-20170523/",
+            "date": "2017-05-23",
+            "informative": false,
+            "title": "Activity Vocabulary",
+            "shortlink": "https://www.w3.org/TR/activitystreams-vocabulary/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+            "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+            "process-rules": "https://www.w3.org/2017/Process-20170301/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/315/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/315"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/315/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/630"
+          }
+        },
+        "origTitle": "Activity Vocabulary",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      }
+    }
   },
   {
     "shortlink": "https://www.w3.org/TR/accname-1.1/",
@@ -13284,7 +13506,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/css-contain-1/versions/20221025",
+        "href": "https://api.w3.org/specifications/css-contain-1/versions/20240625",
         "title": "Recommendation"
       },
       "series": {
@@ -13292,8 +13514,8 @@
       }
     },
     "isLatest": true,
-    "date": "2022-10-25",
-    "year": "2022",
+    "date": "2024-06-25",
+    "year": "2024",
     "translations": {}
   },
   {
@@ -43740,7 +43962,7 @@
             "title": "XSL Transformations (XSLT) Version 1.0",
             "shortlink": "https://www.w3.org/TR/xslt-10/",
             "errata": "https://www.w3.org/1999/11/REC-xslt-19991116-errata",
-            "process-rules": "https://www.w3.org/2023/Process-20231103/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
                 "href": "https://api.w3.org/specifications/xslt/versions/19991116"
@@ -45342,134 +45564,6 @@
     "translations": {}
   },
   {
-    "shortlink": "https://www.w3.org/TR/geolocation-API/",
-    "description": "<p>This specification defines an API that provides Web pages scripted access to geographical location information associated with the hosting device.</p>",
-    "title": "Geolocation API Specification 2nd Edition",
-    "shortname": "geolocation-API",
-    "editor-draft": "https://w3c.github.io/geolocation-api/",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/geolocation-API"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/geolocation-API/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/geolocation-API/versions/20081222",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/geolocation-API/versions/20161108",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/geolocation"
-      }
-    },
-    "isLatest": true,
-    "date": "2016-11-08",
-    "year": "2016",
-    "translations": {
-      "ja": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://www.asahi-net.or.jp/~ax2s-kmtn/internet/geo/REC-geolocation-API-20161108.html",
-        "title": "ジオロケーションAPI仕様 第2版",
-        "language": "ja",
-        "translators": [
-          {
-            "id": 112316,
-            "name": "Shuji Kamitsuna",
-            "given": "Shuji",
-            "family": "Kamitsuna",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2016-11-15T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Geolocation API Specification 2nd Edition",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "editor-draft": "https://w3c.github.io/geolocation-api/",
-            "uri": "https://www.w3.org/TR/2016/REC-geolocation-API-20161108/",
-            "date": "2016-11-08",
-            "informative": false,
-            "title": "Geolocation API Specification 2nd Edition",
-            "shortlink": "https://www.w3.org/TR/geolocation-API/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=geolocation-API",
-            "errata": "https://www.w3.org/2008/geolocation/geoapi-errata.html#1st-edition",
-            "process-rules": "https://www.w3.org/2015/Process-20150901/",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/geolocation-API/versions/20161108"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/geolocation-API/versions/20161108/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/geolocation-API/versions/20161108/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/geolocation-API"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/geolocation-API/versions/20161108/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/234/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/234"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/234/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/447"
-          }
-        },
-        "origTitle": "Geolocation API Specification 2nd Edition",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
-  },
-  {
     "shortlink": "https://www.w3.org/TR/xpath-30/",
     "description": "<p>XPath 3.0 (renamed from XPath 2.1 to align with the family of \"3.0\" specifications) is an expression language that allows the processing of values conforming to the data model defined in [XQuery and XPath Data Model (XDM) 3.0]. Some of the important new features since XPath 2.0 are: <ul> <li>Literal function items, inline functions, dynamic function invocations, and function item coercion</li> <li>Clarification of rules associated with sequence type matching</li> <li>let expressions</li> <li>EQNames (QNames with a namespace URI instead of a namespace prefix)</li> <li>Support for union types in casting and function arguments</li> </ul> </p>",
     "title": "XML Path Language (XPath) 3.0",
@@ -46506,9 +46600,9 @@
   {
     "shortlink": "https://www.w3.org/TR/geolocation/",
     "description": "<p>The Geolocation API provides access to geographical location information associated with the hosting device.</p>",
-    "title": "Geolocation API",
+    "title": "Geolocation",
     "shortname": "geolocation",
-    "editor-draft": "https://w3c.github.io/geolocation-api/",
+    "editor-draft": "https://w3c.github.io/geolocation/",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/geolocation"
@@ -46521,21 +46615,25 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/geolocation/versions/20220901",
+        "href": "https://api.w3.org/specifications/geolocation/versions/20240702",
         "title": "Recommendation"
+      },
+      "supersedes": {
+        "href": "https://api.w3.org/specifications/geolocation/supersedes"
       },
       "series": {
         "href": "https://api.w3.org/specification-series/geolocation"
       }
     },
     "isLatest": true,
-    "date": "2022-09-01",
-    "year": "2022",
+    "date": "2024-07-02",
+    "year": "2024",
     "translations": {
       "ja": {
         "states": [
           "published",
-          "needs_update"
+          "needs_update",
+          "outdated"
         ],
         "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/geo/REC-geolocation-20220901.html",
         "title": "ジオロケーションAPI",
@@ -46581,7 +46679,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/geolocation-api/",
+            "editor-draft": "https://w3c.github.io/geolocation/",
             "uri": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
             "date": "2022-09-01",
             "informative": false,
@@ -46604,6 +46702,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/geolocation/versions/20220901/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/geolocation/versions/20220901/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/198/translations"
               }
@@ -46624,7 +46725,7 @@
           }
         },
         "origTitle": "Geolocation API",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false

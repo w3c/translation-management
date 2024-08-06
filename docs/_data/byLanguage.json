@@ -1073,6 +1073,324 @@
         ]
       },
       {
+        "title": "Activity Streams 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/activitystreams/core/",
+          "uri": "https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/",
+          "date": "2017-05-23",
+          "informative": false,
+          "title": "Activity Streams 2.0",
+          "shortlink": "https://www.w3.org/TR/activitystreams-core/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+          "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+          "process-rules": "https://www.w3.org/2017/Process-20170301/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/activitystreams-core"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/314/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/314"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/314/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2017-05-23",
+        "id": "s-activitystreams-core",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JulSep/0001.html",
+            "title": "Intent to translate Activity Streams 2.0 into Japanese",
+            "language": "ja",
+            "translators": [
+              {
+                "id": 143615,
+                "name": "Kentaro Shirakata",
+                "given": "Kentaro",
+                "family": "Shirakata",
+                "connected-accounts": [
+                  {
+                    "created": "2023-04-06T15:18:43+00:00",
+                    "service": "github",
+                    "identifier": "53912",
+                    "nickname": "argrath",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/53912?v=4",
+                    "href": "https://github.com/argrath",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+                      }
+                    }
+                  }
+                ],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/specifications"
+                  },
+                  "participations": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Activity Streams 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "editor-draft": "https://w3c.github.io/activitystreams/core/",
+                "uri": "https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/",
+                "date": "2017-05-23",
+                "informative": false,
+                "title": "Activity Streams 2.0",
+                "shortlink": "https://www.w3.org/TR/activitystreams-core/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+                "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+                "process-rules": "https://www.w3.org/2017/Process-20170301/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/314/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/314"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/314/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/629"
+              }
+            },
+            "origTitle": "Activity Streams 2.0",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ]
+      },
+      {
+        "title": "Activity Vocabulary",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/activitystreams/vocabulary/",
+          "uri": "https://www.w3.org/TR/2017/REC-activitystreams-vocabulary-20170523/",
+          "date": "2017-05-23",
+          "informative": false,
+          "title": "Activity Vocabulary",
+          "shortlink": "https://www.w3.org/TR/activitystreams-vocabulary/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+          "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+          "process-rules": "https://www.w3.org/2017/Process-20170301/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/315/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/315"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/315/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2017-05-23",
+        "id": "s-activitystreams-vocabulary",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JulSep/0001.html",
+            "title": "Intent to translate Activity Vocabulary into Japanese",
+            "language": "ja",
+            "translators": [
+              {
+                "id": 143615,
+                "name": "Kentaro Shirakata",
+                "given": "Kentaro",
+                "family": "Shirakata",
+                "connected-accounts": [
+                  {
+                    "created": "2023-04-06T15:18:43+00:00",
+                    "service": "github",
+                    "identifier": "53912",
+                    "nickname": "argrath",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/53912?v=4",
+                    "href": "https://github.com/argrath",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+                      }
+                    }
+                  }
+                ],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/specifications"
+                  },
+                  "participations": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Activity Vocabulary",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "editor-draft": "https://w3c.github.io/activitystreams/vocabulary/",
+                "uri": "https://www.w3.org/TR/2017/REC-activitystreams-vocabulary-20170523/",
+                "date": "2017-05-23",
+                "informative": false,
+                "title": "Activity Vocabulary",
+                "shortlink": "https://www.w3.org/TR/activitystreams-vocabulary/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+                "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+                "process-rules": "https://www.w3.org/2017/Process-20170301/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/315/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/315"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/315/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/630"
+              }
+            },
+            "origTitle": "Activity Vocabulary",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ]
+      },
+      {
         "title": "ActivityPub",
         "spec-version": {
           "status": "Recommendation",
@@ -5048,7 +5366,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/geolocation-api/",
+          "editor-draft": "https://w3c.github.io/geolocation/",
           "uri": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
           "date": "2022-09-01",
           "informative": false,
@@ -5071,6 +5389,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/geolocation/versions/20220901/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/geolocation/versions/20220901/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/198/translations"
             }
@@ -5084,14 +5405,15 @@
             "href": "https://api.w3.org/callsfortranslation/198/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2022-09-01",
         "id": "s-geolocation",
         "translations": [
           {
             "states": [
               "published",
-              "needs_update"
+              "needs_update",
+              "outdated"
             ],
             "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/geo/REC-geolocation-20220901.html",
             "title": "ジオロケーションAPI",
@@ -5137,7 +5459,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/geolocation-api/",
+                "editor-draft": "https://w3c.github.io/geolocation/",
                 "uri": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
                 "date": "2022-09-01",
                 "informative": false,
@@ -5160,6 +5482,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/geolocation/versions/20220901/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/geolocation/versions/20220901/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/198/translations"
                   }
@@ -5180,7 +5505,7 @@
               }
             },
             "origTitle": "Geolocation API",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -5324,12 +5649,7 @@
               "self": {
                 "href": "https://api.w3.org/translations/447"
               }
-            },
-            "origTitle": "Geolocation API Specification 2nd Edition",
-            "isOutdated": false,
-            "isPublished": true,
-            "isPending": false,
-            "isInReview": false
+            }
           }
         ]
       },
@@ -21762,7 +22082,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 103
+    "latestRecsTotal": 104
   },
   "ru": {
     "list": [
@@ -70940,7 +71260,7 @@
           "title": "XSL Transformations (XSLT) Version 1.0",
           "shortlink": "https://www.w3.org/TR/xslt-10/",
           "errata": "https://www.w3.org/1999/11/REC-xslt-19991116-errata",
-          "process-rules": "https://www.w3.org/2023/Process-20231103/",
+          "process-rules": "https://www.w3.org/policies/process/20231103/",
           "_links": {
             "self": {
               "href": "https://api.w3.org/specifications/xslt/versions/19991116"
@@ -71027,7 +71347,7 @@
                 "title": "XSL Transformations (XSLT) Version 1.0",
                 "shortlink": "https://www.w3.org/TR/xslt-10/",
                 "errata": "https://www.w3.org/1999/11/REC-xslt-19991116-errata",
-                "process-rules": "https://www.w3.org/2023/Process-20231103/",
+                "process-rules": "https://www.w3.org/policies/process/20231103/",
                 "_links": {
                   "self": {
                     "href": "https://api.w3.org/specifications/xslt/versions/19991116"
