@@ -630,6 +630,9 @@
           "predecessor-version": {
             "href": "https://api.w3.org/specifications/payment-request/versions/20220908/predecessors"
           },
+          "successor-version": {
+            "href": "https://api.w3.org/specifications/payment-request/versions/20220908/successors"
+          },
           "translations": {
             "href": "https://api.w3.org/callsfortranslation/303/translations"
           }
@@ -648,12 +651,7 @@
       "self": {
         "href": "https://api.w3.org/translations/621"
       }
-    },
-    "origTitle": "Payment Request API",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
+    }
   },
   {
     "states": [

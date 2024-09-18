@@ -4202,7 +4202,119 @@
     "isLatest": true,
     "date": "2024-04-11",
     "year": "2024",
-    "translations": {}
+    "translations": {
+      "ar": {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JulSep/0007.html",
+        "title": "Intent to translate CSS Box Model Module Level 3 in Arabic",
+        "language": "ar",
+        "translators": [
+          {
+            "id": 160012,
+            "name": "Mahmoud Saadawy",
+            "given": "Mahmoud",
+            "family": "Saadawy",
+            "country-code": "EG",
+            "country-division": "Cairo",
+            "city": "New Cairo",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/specifications"
+              },
+              "photos": [
+                {
+                  "href": "https://www.w3.org/thumbnails/360/avatar-images/oynutfj0adc0wowocs0k880oksgs8ks.webp?x-version=1",
+                  "name": "large"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/100/avatar-images/oynutfj0adc0wowocs0k880oksgs8ks.webp?x-version=1",
+                  "name": "thumbnail"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/48/avatar-images/oynutfj0adc0wowocs0k880oksgs8ks.webp?x-version=1",
+                  "name": "tiny"
+                }
+              ],
+              "participations": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "CSS Box Model Module Level 3",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://drafts.csswg.org/css-box-3/",
+            "uri": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/",
+            "date": "2024-04-11",
+            "informative": false,
+            "title": "CSS Box Model Module Level 3",
+            "shortlink": "https://www.w3.org/TR/css-box-3/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/css-box-3/versions/20240411"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/css-box-3/versions/20240411/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/css-box-3/versions/20240411/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/css-box-3"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/css-box-3/versions/20240411/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/316/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/316"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/316/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/631"
+          }
+        },
+        "origTitle": "CSS Box Model Module Level 3",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      }
+    }
   },
   {
     "shortlink": "https://www.w3.org/TR/css-cascade-3/",
@@ -11115,7 +11227,8 @@
             "date": "2014-01-16",
             "informative": false,
             "title": "JSON-LD 1.0",
-            "shortlink": "https://www.w3.org/TR/json-ld/",
+            "shortlink": "https://www.w3.org/TR/json-ld1/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
                 "href": "https://api.w3.org/specifications/json-ld/versions/20140116"
@@ -20535,6 +20648,37 @@
     }
   },
   {
+    "shortlink": "https://www.w3.org/TR/ttml1/",
+    "description": "<p>This document specifies the distribution format exchange profile (DFXP) of the timed text authoring format (TT AF) in terms of a vocabulary and semantics thereof.</p> <p>The timed text authoring format is a content type that represents timed text media for the purpose of interchange among authoring systems. Timed text is textual information that is intrinsically or extrinsically associated with timing information.</p> <p>The Distribution Format Exchange Profile is intended to be used for the purpose of transcoding or exchanging timed text information among legacy distribution content formats presently in use for subtitling and captioning functions.</p> <p>In addition to being used for interchange among legacy distribution content formats, DFXP content may be used directly as a distribution format, for example, providing a standard content format to reference from a <code>&lt;text&gt;</code> or <code>&lt;textstream&gt;</code> media object element in a [SMIL 2.1] document.</p>",
+    "title": "Timed Text Markup Language 1 (TTML1) (Third Edition)",
+    "shortname": "ttml1",
+    "editor-draft": "https://w3c.github.io/ttml1/index.html",
+    "series-version": "1",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/ttml1"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/ttml1/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/ttml1/versions/20041101",
+        "title": "Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/ttml1/versions/20181108",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/ttml"
+      }
+    },
+    "isLatest": true,
+    "date": "2018-11-08",
+    "year": "2018",
+    "translations": {}
+  },
+  {
     "shortlink": "https://www.w3.org/TR/SMIL2/",
     "description": "<p>This document specifies the second version of the Synchronized Multimedia Integration Language (SMIL, pronounced \"smile\"). SMIL 2.1 has the following design goals:</p> <ul> <li>Define an XML-based language that allows authors to write interactive multimedia presentations. Using SMIL, an author can describe the temporal behaviour of a multimedia presentation, associate hyperlinks with media objects and describe the layout of the presentation on a screen.</li> <li>Allow reusing of SMIL syntax and semantics in other XML-based languages, in particular those who need to represent timing and synchronization. For example, SMIL components are used for integrating timing into XHTML <span>[XHTML10]</span> and into SVG <span>[SVG]</span>.</li> <li>Extend the functionalities contained in the SMIL 2.0 [SMIL20] into new or revised SMIL 2.1 modules.</li> <li>Define new SMIL 2.1 Mobile Profiles incorporating features useful within the mobile industry.</li> </ul>",
     "title": "Synchronized Multimedia Integration Language (SMIL 2.1)",
@@ -27141,135 +27285,6 @@
     "translations": {}
   },
   {
-    "shortlink": "https://www.w3.org/TR/payment-request/",
-    "description": "<p>This specification standardizes an API to allow merchants (i.e. web sites selling physical or digital goods) to utilize one or more payment methods with minimal integration. User agents (e.g., browsers) facilitate the payment flow between merchant and user.</p>",
-    "title": "Payment Request API",
-    "shortname": "payment-request",
-    "editor-draft": "https://w3c.github.io/payment-request/",
-    "series-version": "1.0",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/payment-request"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/payment-request/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/payment-request/versions/20160421",
-        "title": "First Public Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/payment-request/versions/20220908",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/payment-request"
-      }
-    },
-    "isLatest": true,
-    "date": "2022-09-08",
-    "year": "2022",
-    "translations": {
-      "ja": {
-        "states": [
-          "published"
-        ],
-        "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-request-20220908.html",
-        "title": "決済リクエストAPI",
-        "language": "ja",
-        "translators": [
-          {
-            "id": 112316,
-            "name": "Shuji Kamitsuna",
-            "given": "Shuji",
-            "family": "Kamitsuna",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2023-12-27T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Payment Request API",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "editor-draft": "https://w3c.github.io/payment-request/",
-            "uri": "https://www.w3.org/TR/2022/REC-payment-request-20220908/",
-            "date": "2022-09-08",
-            "informative": false,
-            "title": "Payment Request API",
-            "shortlink": "https://www.w3.org/TR/payment-request/",
-            "translation": "https://www.w3.org/Translations/?technology=payment-request",
-            "errata": "https://www.w3.org/Payments/WG/errata.html",
-            "process-rules": "https://www.w3.org/2021/Process-20211102/",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/payment-request/versions/20220908"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/payment-request/versions/20220908/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/payment-request/versions/20220908/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/payment-request"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/payment-request/versions/20220908/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/303/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/303"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/303/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/621"
-          }
-        },
-        "origTitle": "Payment Request API",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
-  },
-  {
     "shortlink": "https://www.w3.org/TR/payment-method-id/",
     "description": "<p>The Payment Request API requires that merchants supply a list of identifiers for supported payment methods. This document defines those identifier strings and how they are created.</p>",
     "title": "Payment Method Identifiers",
@@ -27583,6 +27598,132 @@
     "date": "2003-11-10",
     "year": "2003",
     "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/xmlschema-1/",
+    "description": "<p>Add content here.</p>",
+    "title": "XML Schema Part 1: Structures Second Edition",
+    "shortname": "xmlschema-1",
+    "series-version": "1",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/xmlschema-1"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/xmlschema-1/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/xmlschema-1/versions/19990506",
+        "title": "Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/xmlschema-1/versions/20041028",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/xmlschema"
+      }
+    },
+    "isLatest": true,
+    "date": "2004-10-28",
+    "year": "2004",
+    "translations": {
+      "de": {
+        "states": [
+          "published",
+          "outdated"
+        ],
+        "uri": "http://www.edition-w3c.de/TR/2001/REC-xmlschema-1-20010502/",
+        "title": "XML Schema Teil 1: Strukturen",
+        "language": "de",
+        "translators": [
+          {
+            "id": 15951,
+            "name": "Mario Jeckle",
+            "given": "Mario",
+            "family": "Jeckle",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "XML Schema Part 1: Structures",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2001/REC-xmlschema-1-20010502/",
+            "date": "2001-05-02",
+            "informative": false,
+            "title": "XML Schema Part 1: Structures",
+            "shortlink": "https://www.w3.org/TR/xmlschema-1/",
+            "errata": "https://www.w3.org/2001/05/xmlschema-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xmlschema-1"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/29/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/29"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/29/translations"
+            }
+          }
+        },
+        "comments": "Other translation authors: Toby Baier, Michael Ebert, Andreas Geissel, Nik Klever, Elke Meier, Sebastian Werner",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/41"
+          }
+        },
+        "origTitle": "XML Schema Part 1: Structures",
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    }
   },
   {
     "shortlink": "https://www.w3.org/TR/xlink/",
@@ -33951,37 +34092,6 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/ttml1/",
-    "description": "<p>This document specifies the distribution format exchange profile (DFXP) of the timed text authoring format (TT AF) in terms of a vocabulary and semantics thereof.</p> <p>The timed text authoring format is a content type that represents timed text media for the purpose of interchange among authoring systems. Timed text is textual information that is intrinsically or extrinsically associated with timing information.</p> <p>The Distribution Format Exchange Profile is intended to be used for the purpose of transcoding or exchanging timed text information among legacy distribution content formats presently in use for subtitling and captioning functions.</p> <p>In addition to being used for interchange among legacy distribution content formats, DFXP content may be used directly as a distribution format, for example, providing a standard content format to reference from a <code>&lt;text&gt;</code> or <code>&lt;textstream&gt;</code> media object element in a [SMIL 2.1] document.</p>",
-    "title": "Timed Text Markup Language 1 (TTML1) (Third Edition)",
-    "shortname": "ttml1",
-    "editor-draft": "https://w3c.github.io/ttml1/index.html",
-    "series-version": "1",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/ttml1"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/ttml1/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/ttml1/versions/20041101",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/ttml1/versions/20181108",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/ttml"
-      }
-    },
-    "isLatest": true,
-    "date": "2018-11-08",
-    "year": "2018",
-    "translations": {}
-  },
-  {
     "shortlink": "https://www.w3.org/TR/voicexml21/",
     "description": "<p> <em>VoiceXML 2.1</em> specifies a set of features commonly implemented by Voice Extensible Markup Language platforms. This specification is designed to be fully backwards-compatible with VoiceXML 2.0 [VXML2]. <span>This specification describes only the set of additional features.</span> </p>",
     "title": "Voice Extensible Markup Language (VoiceXML) 2.1",
@@ -39200,7 +39310,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/WOFF2/versions/20220310",
+        "href": "https://api.w3.org/specifications/WOFF2/versions/20240808",
         "title": "Recommendation"
       },
       "series": {
@@ -39208,12 +39318,13 @@
       }
     },
     "isLatest": true,
-    "date": "2022-03-10",
-    "year": "2022",
+    "date": "2024-08-08",
+    "year": "2024",
     "translations": {
       "tl": {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0012.html",
         "title": "Intent to translate WOFF File Format 2.0 in Tagalog/Filipino",
@@ -39297,6 +39408,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WOFF2/versions/20220310/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WOFF2/versions/20220310/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/290/translations"
               }
@@ -39317,7 +39431,7 @@
           }
         },
         "origTitle": "WOFF File Format 2.0",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
@@ -42003,135 +42117,6 @@
     "translations": {}
   },
   {
-    "shortlink": "https://www.w3.org/TR/vocab-dcat-2/",
-    "description": "<p>DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web. This document defines the schema and provides examples for its use.</p>",
-    "title": "Data Catalog Vocabulary (DCAT) - Version 2",
-    "shortname": "vocab-dcat-2",
-    "editor-draft": "https://w3c.github.io/dxwg/dcat/",
-    "series-version": "2",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/vocab-dcat-2"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/vocab-dcat-2/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20180508",
-        "title": "First Public Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20200204",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/vocab-dcat"
-      }
-    },
-    "isLatest": true,
-    "date": "2020-02-04",
-    "year": "2020",
-    "translations": {
-      "ja": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://www.asahi-net.or.jp/~ax2s-kmtn/internet/rdf/REC-vocab-dcat-2-20200204.html",
-        "title": "データ・カタログ語彙(DCAT) - 第2版",
-        "language": "ja",
-        "translators": [
-          {
-            "id": 112316,
-            "name": "Shuji Kamitsuna",
-            "given": "Shuji",
-            "family": "Kamitsuna",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2020-03-09T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Data Catalog Vocabulary (DCAT) - Version 2",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "editor-draft": "https://w3c.github.io/dxwg/dcat/",
-            "uri": "https://www.w3.org/TR/2020/REC-vocab-dcat-2-20200204/",
-            "date": "2020-02-04",
-            "informative": false,
-            "title": "Data Catalog Vocabulary (DCAT) - Version 2",
-            "shortlink": "https://www.w3.org/TR/vocab-dcat-2/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=vocab-dcat-2",
-            "errata": "https://w3c.github.io/dxwg/errata/",
-            "process-rules": "https://www.w3.org/2019/Process-20190301/",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20200204"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20200204/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20200204/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/vocab-dcat-2"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20200204/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/267/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/267"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/267/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/543"
-          }
-        },
-        "origTitle": "Data Catalog Vocabulary (DCAT) - Version 2",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
-  },
-  {
     "shortlink": "https://www.w3.org/TR/wai-aria-1.2/",
     "description": "<p>Accessibility of web content requires semantic information about widgets, structures, and behaviors, in order to allow assistive technologies to convey appropriate information to persons with disabilities. This specification provides an ontology of roles, states, and properties that define accessible user interface elements and can be used to improve the accessibility and interoperability of web content and applications. These semantics are designed to allow an author to properly convey user interface behaviors and structural information to assistive technologies in document-level markup. This version adds features new since WAI-ARIA 1.1 [wai-aria-1.1] to improve interoperability with assistive technologies to form a more consistent accessibility model for [HTML] and [SVG2]. This specification complements both [HTML] and [SVG2].</p>\r\n<p>This document is part of the WAI-ARIA suite described in the WAI-ARIA Overview.</p>",
     "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.2",
@@ -43001,130 +42986,38 @@
     "translations": {}
   },
   {
-    "shortlink": "https://www.w3.org/TR/xmlschema-1/",
-    "description": "<p>Add content here.</p>",
-    "title": "XML Schema Part 1: Structures Second Edition",
-    "shortname": "xmlschema-1",
-    "series-version": "1",
+    "shortlink": "https://www.w3.org/TR/vocab-dcat-3/",
+    "description": "<p>DCAT is an RDF vocabulary designed to facilitate interoperability between data catalogs published on the Web. This document defines the schema and provides examples for its use.</p>",
+    "title": "Data Catalog Vocabulary (DCAT) - Version 3",
+    "shortname": "vocab-dcat-3",
+    "editor-draft": "https://w3c.github.io/dxwg/dcat/",
+    "series-version": "3",
     "_links": {
       "self": {
-        "href": "https://api.w3.org/specifications/xmlschema-1"
+        "href": "https://api.w3.org/specifications/vocab-dcat-3"
       },
       "version-history": {
-        "href": "https://api.w3.org/specifications/xmlschema-1/versions"
+        "href": "https://api.w3.org/specifications/vocab-dcat-3/versions"
       },
       "first-version": {
-        "href": "https://api.w3.org/specifications/xmlschema-1/versions/19990506",
-        "title": "Working Draft"
+        "href": "https://api.w3.org/specifications/vocab-dcat-3/versions/20201217",
+        "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/xmlschema-1/versions/20041028",
+        "href": "https://api.w3.org/specifications/vocab-dcat-3/versions/20240822",
         "title": "Recommendation"
       },
+      "supersedes": {
+        "href": "https://api.w3.org/specifications/vocab-dcat-3/supersedes"
+      },
       "series": {
-        "href": "https://api.w3.org/specification-series/xmlschema"
+        "href": "https://api.w3.org/specification-series/vocab-dcat"
       }
     },
     "isLatest": true,
-    "date": "2004-10-28",
-    "year": "2004",
-    "translations": {
-      "de": {
-        "states": [
-          "published",
-          "outdated"
-        ],
-        "uri": "http://www.edition-w3c.de/TR/2001/REC-xmlschema-1-20010502/",
-        "title": "XML Schema Teil 1: Strukturen",
-        "language": "de",
-        "translators": [
-          {
-            "id": 15951,
-            "name": "Mario Jeckle",
-            "given": "Mario",
-            "family": "Jeckle",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "authorized": false,
-        "call-for-translation": {
-          "title": "XML Schema Part 1: Structures",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2001/REC-xmlschema-1-20010502/",
-            "date": "2001-05-02",
-            "informative": false,
-            "title": "XML Schema Part 1: Structures",
-            "shortlink": "https://www.w3.org/TR/xmlschema-1/",
-            "errata": "https://www.w3.org/2001/05/xmlschema-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xmlschema-1"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xmlschema-1/versions/20010502/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/29/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/29"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/29/translations"
-            }
-          }
-        },
-        "comments": "Other translation authors: Toby Baier, Michael Ebert, Andreas Geissel, Nik Klever, Elke Meier, Sebastian Werner",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/41"
-          }
-        },
-        "origTitle": "XML Schema Part 1: Structures",
-        "isOutdated": true,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
+    "date": "2024-08-22",
+    "year": "2024",
+    "translations": {}
   },
   {
     "shortlink": "https://www.w3.org/TR/xmlschema-2/",
@@ -46615,7 +46508,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/geolocation/versions/20240702",
+        "href": "https://api.w3.org/specifications/geolocation/versions/20240916",
         "title": "Recommendation"
       },
       "supersedes": {
@@ -46626,7 +46519,7 @@
       }
     },
     "isLatest": true,
-    "date": "2024-07-02",
+    "date": "2024-09-16",
     "year": "2024",
     "translations": {
       "ja": {

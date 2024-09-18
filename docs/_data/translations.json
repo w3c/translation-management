@@ -7099,6 +7099,164 @@
     ]
   },
   {
+    "title": "CSS Box Model Module Level 3",
+    "spec-version": {
+      "status": "Recommendation",
+      "rec-track": true,
+      "editor-draft": "https://drafts.csswg.org/css-box-3/",
+      "uri": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/",
+      "date": "2024-04-11",
+      "informative": false,
+      "title": "CSS Box Model Module Level 3",
+      "shortlink": "https://www.w3.org/TR/css-box-3/",
+      "process-rules": "https://www.w3.org/policies/process/20231103/",
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/specifications/css-box-3/versions/20240411"
+        },
+        "editors": {
+          "href": "https://api.w3.org/specifications/css-box-3/versions/20240411/editors"
+        },
+        "deliverers": {
+          "href": "https://api.w3.org/specifications/css-box-3/versions/20240411/deliverers"
+        },
+        "specification": {
+          "href": "https://api.w3.org/specifications/css-box-3"
+        },
+        "predecessor-version": {
+          "href": "https://api.w3.org/specifications/css-box-3/versions/20240411/predecessors"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/316/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/callsfortranslation/316"
+      },
+      "translations": {
+        "href": "https://api.w3.org/callsfortranslation/316/translations"
+      }
+    },
+    "isLatest": true,
+    "date": "2024-04-11",
+    "id": "s-css-box-3",
+    "translations": [
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JulSep/0007.html",
+        "title": "Intent to translate CSS Box Model Module Level 3 in Arabic",
+        "language": "ar",
+        "translators": [
+          {
+            "id": 160012,
+            "name": "Mahmoud Saadawy",
+            "given": "Mahmoud",
+            "family": "Saadawy",
+            "country-code": "EG",
+            "country-division": "Cairo",
+            "city": "New Cairo",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/specifications"
+              },
+              "photos": [
+                {
+                  "href": "https://www.w3.org/thumbnails/360/avatar-images/oynutfj0adc0wowocs0k880oksgs8ks.webp?x-version=1",
+                  "name": "large"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/100/avatar-images/oynutfj0adc0wowocs0k880oksgs8ks.webp?x-version=1",
+                  "name": "thumbnail"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/48/avatar-images/oynutfj0adc0wowocs0k880oksgs8ks.webp?x-version=1",
+                  "name": "tiny"
+                }
+              ],
+              "participations": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/oynutfj0adc0wowocs0k880oksgs8ks/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "CSS Box Model Module Level 3",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://drafts.csswg.org/css-box-3/",
+            "uri": "https://www.w3.org/TR/2024/REC-css-box-3-20240411/",
+            "date": "2024-04-11",
+            "informative": false,
+            "title": "CSS Box Model Module Level 3",
+            "shortlink": "https://www.w3.org/TR/css-box-3/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/css-box-3/versions/20240411"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/css-box-3/versions/20240411/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/css-box-3/versions/20240411/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/css-box-3"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/css-box-3/versions/20240411/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/316/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/316"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/316/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/631"
+          }
+        },
+        "origTitle": "CSS Box Model Module Level 3",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      }
+    ]
+  },
+  {
     "title": "CSS Color Module Level 3",
     "spec-version": {
       "status": "Recommendation",
@@ -8991,6 +9149,9 @@
         "predecessor-version": {
           "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20200204/predecessors"
         },
+        "successor-version": {
+          "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20200204/successors"
+        },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/267/translations"
         }
@@ -9004,7 +9165,7 @@
         "href": "https://api.w3.org/callsfortranslation/267/translations"
       }
     },
-    "isLatest": true,
+    "isLatest": false,
     "date": "2020-02-04",
     "id": "s-vocab-dcat-2",
     "translations": [
@@ -9080,6 +9241,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20200204/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/vocab-dcat-2/versions/20200204/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/267/translations"
               }
@@ -9098,12 +9262,7 @@
           "self": {
             "href": "https://api.w3.org/translations/543"
           }
-        },
-        "origTitle": "Data Catalog Vocabulary (DCAT) - Version 2",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
+        }
       }
     ]
   },
@@ -19171,7 +19330,8 @@
       "date": "2014-01-16",
       "informative": false,
       "title": "JSON-LD 1.0",
-      "shortlink": "https://www.w3.org/TR/json-ld/",
+      "shortlink": "https://www.w3.org/TR/json-ld1/",
+      "process-rules": "https://www.w3.org/policies/process/20231103/",
       "_links": {
         "self": {
           "href": "https://api.w3.org/specifications/json-ld/versions/20140116"
@@ -19206,7 +19366,7 @@
     },
     "isLatest": false,
     "date": "2014-01-16",
-    "id": "s-json-ld",
+    "id": "s-json-ld1",
     "translations": [
       {
         "states": [
@@ -19260,7 +19420,8 @@
             "date": "2014-01-16",
             "informative": false,
             "title": "JSON-LD 1.0",
-            "shortlink": "https://www.w3.org/TR/json-ld/",
+            "shortlink": "https://www.w3.org/TR/json-ld1/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
                 "href": "https://api.w3.org/specifications/json-ld/versions/20140116"
@@ -29991,6 +30152,9 @@
         "predecessor-version": {
           "href": "https://api.w3.org/specifications/payment-request/versions/20220908/predecessors"
         },
+        "successor-version": {
+          "href": "https://api.w3.org/specifications/payment-request/versions/20220908/successors"
+        },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/303/translations"
         }
@@ -30004,7 +30168,7 @@
         "href": "https://api.w3.org/callsfortranslation/303/translations"
       }
     },
-    "isLatest": true,
+    "isLatest": false,
     "date": "2022-09-08",
     "id": "s-payment-request",
     "translations": [
@@ -30080,6 +30244,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/payment-request/versions/20220908/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/payment-request/versions/20220908/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/303/translations"
               }
@@ -30098,12 +30265,7 @@
           "self": {
             "href": "https://api.w3.org/translations/621"
           }
-        },
-        "origTitle": "Payment Request API",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
+        }
       }
     ]
   },
@@ -55264,6 +55426,9 @@
         "predecessor-version": {
           "href": "https://api.w3.org/specifications/WOFF2/versions/20220310/predecessors"
         },
+        "successor-version": {
+          "href": "https://api.w3.org/specifications/WOFF2/versions/20220310/successors"
+        },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/290/translations"
         }
@@ -55277,13 +55442,14 @@
         "href": "https://api.w3.org/callsfortranslation/290/translations"
       }
     },
-    "isLatest": true,
+    "isLatest": false,
     "date": "2022-03-10",
     "id": "s-WOFF2",
     "translations": [
       {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2022JulSep/0012.html",
         "title": "Intent to translate WOFF File Format 2.0 in Tagalog/Filipino",
@@ -55367,6 +55533,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WOFF2/versions/20220310/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WOFF2/versions/20220310/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/290/translations"
               }
@@ -55387,7 +55556,7 @@
           }
         },
         "origTitle": "WOFF File Format 2.0",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
