@@ -11763,14 +11763,13 @@
             "href": "https://api.w3.org/callsfortranslation/200/translations"
           }
         },
-        "isLatest": false,
+        "isLatest": true,
         "date": "2013-12-12",
         "id": "s-performance-timeline",
         "translations": [
           {
             "states": [
-              "published",
-              "outdated"
+              "published"
             ],
             "uri": "https://triple-underscore.github.io/performance-timeline-ja.html",
             "title": "Performance Timeline — パフォーマンス タイムライン",
@@ -11826,7 +11825,7 @@
               }
             },
             "origTitle": "Performance Timeline",
-            "isOutdated": true,
+            "isOutdated": false,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -22086,7 +22085,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 102
+    "latestRecsTotal": 103
   },
   "ru": {
     "list": [
@@ -59193,6 +59192,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
+          "editor-draft": "https://www.w3.org/WAI/AU/ATAG20/",
           "uri": "https://www.w3.org/TR/2015/REC-ATAG20-20150924/",
           "date": "2015-09-24",
           "informative": false,
@@ -59250,6 +59250,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
+                "editor-draft": "https://www.w3.org/WAI/AU/ATAG20/",
                 "uri": "https://www.w3.org/TR/2015/REC-ATAG20-20150924/",
                 "date": "2015-09-24",
                 "informative": false,
@@ -59316,6 +59317,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
+              "editor-draft": "https://www.w3.org/WAI/AU/ATAG20/",
               "uri": "https://www.w3.org/TR/2015/REC-ATAG20-20150924/",
               "date": "2015-09-24",
               "informative": false,
@@ -66541,14 +66543,13 @@
             "href": "https://api.w3.org/callsfortranslation/200/translations"
           }
         },
-        "isLatest": false,
+        "isLatest": true,
         "date": "2013-12-12",
         "id": "s-performance-timeline",
         "translations": [
           {
             "states": [
-              "published",
-              "outdated"
+              "published"
             ],
             "uri": "http://techhtml.github.io/performance-timeline/",
             "title": "성능 타임라인 (Performance Timeline)",
@@ -66635,7 +66636,7 @@
               }
             },
             "origTitle": "Performance Timeline",
-            "isOutdated": true,
+            "isOutdated": false,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -68174,6 +68175,228 @@
         }
       },
       {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+          "date": "2023-10-05",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "shortlink": "https://www.w3.org/TR/WCAG22/",
+          "process-rules": "https://www.w3.org/2023/Process-20230612/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG22"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/301"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/301/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2023-10-05",
+        "id": "s-WCAG22",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0002.html",
+            "title": "Intent to translate WCAG 2.2 in Korean",
+            "language": "ko",
+            "translators": [
+              {
+                "id": 97089,
+                "name": "Seak-Zoon Roh",
+                "given": "Seak-Zoon",
+                "family": "Roh",
+                "work-title": "Professor",
+                "biography": "2005- Present, Professor, Dept. of Education, College of Education, Sunshin University, Seoul, Korea",
+                "connected-accounts": [],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/specifications"
+                  },
+                  "photos": [
+                    {
+                      "href": "https://www.w3.org/thumbnails/360/avatar-images/raxxpsywexc8gs4g4c0c00gosw4s8s4.webp?x-version=1",
+                      "name": "large"
+                    },
+                    {
+                      "href": "https://www.w3.org/thumbnails/100/avatar-images/raxxpsywexc8gs4g4c0c00gosw4s8s4.webp?x-version=1",
+                      "name": "thumbnail"
+                    },
+                    {
+                      "href": "https://www.w3.org/thumbnails/48/avatar-images/raxxpsywexc8gs4g4c0c00gosw4s8s4.webp?x-version=1",
+                      "name": "tiny"
+                    }
+                  ],
+                  "participations": {
+                    "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+                "date": "2023-10-05",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+                "shortlink": "https://www.w3.org/TR/WCAG22/",
+                "process-rules": "https://www.w3.org/2023/Process-20230612/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG22"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/301/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/301"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/301/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/632"
+              }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "https://www.w3.org/Translations/WCAG22-it/",
+          "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
+          "language": "it",
+          "translators": [],
+          "published": "2023-12-05T00:00:00+00:00",
+          "updated": "2023-12-05T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "IWA (Web International Association)",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+              "date": "2023-10-05",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "shortlink": "https://www.w3.org/TR/WCAG22/",
+              "process-rules": "https://www.w3.org/2023/Process-20230612/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG22"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/301/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/301"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/612"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
+      },
+      {
         "title": "Web Content Accessibility Guidelines 1.0",
         "spec-version": {
           "status": "Retired",
@@ -68749,7 +68972,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 8
+    "latestRecsTotal": 10
   },
   "nl": {
     "list": [

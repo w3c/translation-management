@@ -288,7 +288,7 @@
   {
     "shortlink": "https://www.w3.org/TR/REC-MathML/",
     "description": "<p>This specification defines the Mathematical Markup Language, or  MathML. MathML is an XML application for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the Web, just as  HTML has enabled this functionality for text.</p>",
-    "title": "Mathematical Markup Language (MathML) 1.01 Specification",
+    "title": "Mathematical Markup Language (MathML™) 1.01 Specification",
     "shortname": "REC-MathML",
     "series-version": "1.01",
     "_links": {
@@ -6983,6 +6983,7 @@
     "description": "<p>This specification provides guidelines for designing Web content authoring tools that are more accessible for people with disabilities. An authoring tool that conforms to these guidelines will promote accessibility by providing an accessible user interface to authors with disabilities as well as enabling, supporting, and promoting the production of accessible Web content by all authors.</p><p>The \"Authoring Tool Accessibility Guidelines 2.0\" (<acronym>ATAG</acronym> 2.0) is part of a series of accessibility guidelines published by the <acronym>W3C</acronym> Web Accessibility Initiative (<acronym>WAI</acronym>).</p>",
     "title": "Authoring Tool Accessibility Guidelines (ATAG) 2.0",
     "shortname": "ATAG20",
+    "editor-draft": "https://www.w3.org/WAI/AU/ATAG20/",
     "series-version": "2.0",
     "_links": {
       "self": {
@@ -7026,6 +7027,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
+            "editor-draft": "https://www.w3.org/WAI/AU/ATAG20/",
             "uri": "https://www.w3.org/TR/2015/REC-ATAG20-20150924/",
             "date": "2015-09-24",
             "informative": false,
@@ -11121,6 +11123,7 @@
     "description": "<p>This specification defines a longdesc attribute to link extended descriptions with images in HTML5-based content.</p>",
     "title": "HTML5 Image Description Extension (longdesc)",
     "shortname": "html-longdesc",
+    "editor-draft": "https://dvcs.w3.org/hg/html-proposals/raw-file/default/longdesc1/longdesc.html",
     "series-version": "5",
     "_links": {
       "self": {
@@ -11276,7 +11279,7 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/media-source/",
+    "shortlink": "https://www.w3.org/TR/media-source-1/",
     "description": "<p>This specification extends the HTMLMediaElement interface to allow JavaScript to generate media streams for playback.</p>",
     "title": "Media Source Extensions™",
     "shortname": "media-source-1",
@@ -20692,8 +20695,8 @@
         "href": "https://api.w3.org/specifications/SMIL2/versions"
       },
       "first-version": {
-        "href": "https://api.w3.org/specifications/SMIL2/versions/20041105",
-        "title": "Proposed Edited Recommendation"
+        "href": "https://api.w3.org/specifications/SMIL2/versions/20050201",
+        "title": "Last Call Working Draft"
       },
       "latest-version": {
         "href": "https://api.w3.org/specifications/SMIL2/versions/20051213",
@@ -25272,21 +25275,20 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/performance-timeline-1/versions/20240216",
-        "title": "Candidate Recommendation Draft"
+        "href": "https://api.w3.org/specifications/performance-timeline-1/versions/20131212",
+        "title": "Recommendation"
       },
       "series": {
         "href": "https://api.w3.org/specification-series/performance-timeline"
       }
     },
     "isLatest": true,
-    "date": "2024-02-16",
-    "year": "2024",
+    "date": "2013-12-12",
+    "year": "2013",
     "translations": {
       "ja": {
         "states": [
-          "published",
-          "outdated"
+          "published"
         ],
         "uri": "https://triple-underscore.github.io/performance-timeline-ja.html",
         "title": "Performance Timeline — パフォーマンス タイムライン",
@@ -25342,15 +25344,14 @@
           }
         },
         "origTitle": "Performance Timeline",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       },
       "ko": {
         "states": [
-          "published",
-          "outdated"
+          "published"
         ],
         "uri": "http://techhtml.github.io/performance-timeline/",
         "title": "성능 타임라인 (Performance Timeline)",
@@ -25437,7 +25438,7 @@
           }
         },
         "origTitle": "Performance Timeline",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
@@ -36496,6 +36497,7 @@
     "description": "<p>This specification defines an application programming interface (API) for widgets that provides, amongst other things, functionality for accessing a widget’s metadata and persistently storing data.</p>",
     "title": "Widget Interface",
     "shortname": "widgets-apis",
+    "editor-draft": "https://w3c.github.io/packaged-webapps/api/Overview.html",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/widgets-apis"
@@ -38042,9 +38044,9 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/user-timing/",
+    "shortlink": "https://www.w3.org/TR/user-timing-1/",
     "description": "<p> This specification defines an interface to help web developers measure the performance of their applications by giving them access to high precision timestamps. </p>",
-    "title": "User Timing Level 3",
+    "title": "User Timing",
     "shortname": "user-timing-1",
     "editor-draft": "https://w3c.github.io/user-timing/",
     "_links": {
@@ -38059,16 +38061,16 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/user-timing-1/versions/20231114",
-        "title": "Candidate Recommendation Draft"
+        "href": "https://api.w3.org/specifications/user-timing-1/versions/20190226",
+        "title": "Retired"
       },
       "series": {
         "href": "https://api.w3.org/specification-series/user-timing"
       }
     },
-    "isLatest": true,
-    "date": "2023-11-14",
-    "year": "2023",
+    "isLatest": false,
+    "date": "2019-02-26",
+    "year": "2019",
     "translations": {
       "ja": {
         "states": [
@@ -38595,7 +38597,7 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/webrtc/versions/20230306",
+        "href": "https://api.w3.org/specifications/webrtc/versions/20241008",
         "title": "Recommendation"
       },
       "series": {
@@ -38603,8 +38605,8 @@
       }
     },
     "isLatest": true,
-    "date": "2023-03-06",
-    "year": "2023",
+    "date": "2024-10-08",
+    "year": "2024",
     "translations": {}
   },
   {
@@ -39441,7 +39443,7 @@
   {
     "shortlink": "https://www.w3.org/TR/ttml2/",
     "description": "<p>This document specifies the Second Edition of the Timed Text Markup Language (TTML), Version 2, also known as TTML2 (2e), in terms of a vocabulary and semantics thereof.</p>\r\n\r\n<p>The Timed Text Markup Language is a content type that represents timed text media for the purpose of interchange among authoring systems. Timed text is textual information that is intrinsically or extrinsically associated with timing information.</p>\r\n\r\n<p>It is intended to be used for the purpose of transcoding or exchanging timed text information among legacy distribution content formats presently in use for subtitling and captioning functions.</p>\r\n\r\n<p>In addition to being used for interchange among legacy distribution content formats, TTML Content may be used directly as a distribution format, for example, providing a standard content format to reference from a &lt;track&gt; element in an [HTML] document, or a &lt;text&gt; or &lt;textstream&gt; media element in a [SMIL 3.0] document.</p>",
-    "title": "Timed Text Markup Language 2 (TTML2)",
+    "title": "Timed Text Markup Language 2 (TTML2) (2nd Edition)",
     "shortname": "ttml2",
     "editor-draft": "https://w3c.github.io/ttml2/index.html",
     "series-version": "2",
@@ -42856,6 +42858,116 @@
         "isOutdated": false,
         "isPublished": true,
         "isPending": false,
+        "isInReview": false
+      },
+      "ko": {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0002.html",
+        "title": "Intent to translate WCAG 2.2 in Korean",
+        "language": "ko",
+        "translators": [
+          {
+            "id": 97089,
+            "name": "Seak-Zoon Roh",
+            "given": "Seak-Zoon",
+            "family": "Roh",
+            "work-title": "Professor",
+            "biography": "2005- Present, Professor, Dept. of Education, College of Education, Sunshin University, Seoul, Korea",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/specifications"
+              },
+              "photos": [
+                {
+                  "href": "https://www.w3.org/thumbnails/360/avatar-images/raxxpsywexc8gs4g4c0c00gosw4s8s4.webp?x-version=1",
+                  "name": "large"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/100/avatar-images/raxxpsywexc8gs4g4c0c00gosw4s8s4.webp?x-version=1",
+                  "name": "thumbnail"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/48/avatar-images/raxxpsywexc8gs4g4c0c00gosw4s8s4.webp?x-version=1",
+                  "name": "tiny"
+                }
+              ],
+              "participations": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/632"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
         "isInReview": false
       },
       "pt-br": {
@@ -46416,7 +46528,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/epub-33/versions/20230525",
+        "href": "https://api.w3.org/specifications/epub-33/versions/20241017",
         "title": "Recommendation"
       },
       "series": {
@@ -46424,8 +46536,8 @@
       }
     },
     "isLatest": true,
-    "date": "2023-05-25",
-    "year": "2023",
+    "date": "2024-10-17",
+    "year": "2024",
     "translations": {}
   },
   {
@@ -46447,7 +46559,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/epub-rs-33/versions/20230525",
+        "href": "https://api.w3.org/specifications/epub-rs-33/versions/20241017",
         "title": "Recommendation"
       },
       "series": {
@@ -46455,8 +46567,8 @@
       }
     },
     "isLatest": true,
-    "date": "2023-05-25",
-    "year": "2023",
+    "date": "2024-10-17",
+    "year": "2024",
     "translations": {}
   },
   {
@@ -46478,7 +46590,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/epub-a11y-11/versions/20230525",
+        "href": "https://api.w3.org/specifications/epub-a11y-11/versions/20241017",
         "title": "Recommendation"
       },
       "series": {
@@ -46486,8 +46598,8 @@
       }
     },
     "isLatest": true,
-    "date": "2023-05-25",
-    "year": "2023",
+    "date": "2024-10-17",
+    "year": "2024",
     "translations": {}
   },
   {
