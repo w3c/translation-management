@@ -7358,6 +7358,133 @@
     }
   },
   {
+    "shortlink": "https://www.w3.org/TR/cors/",
+    "description": "<p>This document defines a mechanism to enable client-side cross-origin requests.</p>",
+    "title": "Cross-Origin Resource Sharing",
+    "shortname": "cors",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/cors"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/cors/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/cors/versions/20050613",
+        "title": "Note"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/cors/versions/20200602",
+        "title": "Retired"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/cors"
+      }
+    },
+    "isLatest": false,
+    "date": "2020-06-02",
+    "year": "2020",
+    "translations": {
+      "ja": {
+        "states": [
+          "published",
+          "outdated"
+        ],
+        "uri": "https://lv7777.github.io/w3c_cors/Cross-Origin%20Resource%20Sharing.htm",
+        "title": "Cross-Origin Resource Sharing",
+        "language": "ja",
+        "translators": [
+          {
+            "id": 90516,
+            "name": "ryouyu oonuma",
+            "given": "ryouyu",
+            "family": "oonuma",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "published": "2016-12-31T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Cross-Origin Resource Sharing",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2014/REC-cors-20140116/",
+            "date": "2014-01-16",
+            "informative": false,
+            "title": "Cross-Origin Resource Sharing",
+            "shortlink": "https://www.w3.org/TR/cors/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/cors/versions/20140116"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/cors/versions/20140116/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/cors/versions/20140116/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/cors"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/cors/versions/20140116/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/cors/versions/20140116/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/232/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/232"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/232/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/445"
+          }
+        },
+        "origTitle": "Cross-Origin Resource Sharing",
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    }
+  },
+  {
     "shortlink": "https://www.w3.org/TR/its/",
     "description": "<p>This document defines data categories and their implementation as a set of elements and attributes called the <em>Internationalization Tag Set (ITS)</em>. ITS is designed to be used with schemas to support the internationalization and localization of schemas and documents. An implementation is provided for three schema languages: XML DTD, XML Schema and RELAX NG. </p>",
     "title": "Internationalization Tag Set (ITS) Version 1.0",
@@ -8732,133 +8859,6 @@
     "date": "2010-12-14",
     "year": "2010",
     "translations": {}
-  },
-  {
-    "shortlink": "https://www.w3.org/TR/cors/",
-    "description": "<p>This document defines a mechanism to enable client-side cross-origin requests.</p>",
-    "title": "Cross-Origin Resource Sharing",
-    "shortname": "cors",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/cors"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/cors/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/cors/versions/20090317",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/cors/versions/20200602",
-        "title": "Retired"
-      },
-      "supersedes": {
-        "href": "https://api.w3.org/specifications/cors/supersedes"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/cors"
-      }
-    },
-    "isLatest": false,
-    "date": "2020-06-02",
-    "year": "2020",
-    "translations": {
-      "ja": {
-        "states": [
-          "published",
-          "outdated"
-        ],
-        "uri": "https://lv7777.github.io/w3c_cors/Cross-Origin%20Resource%20Sharing.htm",
-        "title": "Cross-Origin Resource Sharing",
-        "language": "ja",
-        "translators": [
-          {
-            "id": 90516,
-            "name": "ryouyu oonuma",
-            "given": "ryouyu",
-            "family": "oonuma",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/7zchnztojh8g4s8wc448ook4sc8kgow/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2016-12-31T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Cross-Origin Resource Sharing",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2014/REC-cors-20140116/",
-            "date": "2014-01-16",
-            "informative": false,
-            "title": "Cross-Origin Resource Sharing",
-            "shortlink": "https://www.w3.org/TR/cors/",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/cors/versions/20140116"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/cors/versions/20140116/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/cors/versions/20140116/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/cors"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/cors/versions/20140116/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/232/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/232"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/232/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/445"
-          }
-        },
-        "origTitle": "Cross-Origin Resource Sharing",
-        "isOutdated": true,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
   },
   {
     "shortlink": "https://www.w3.org/TR/emotionml/",
@@ -10304,6 +10304,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/notifications/versions/20151022/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/notifications/versions/20151022/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/223/translations"
               }
@@ -10398,6 +10401,9 @@
               },
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/notifications/versions/20151022/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/notifications/versions/20151022/successors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/223/translations"
@@ -30648,7 +30654,7 @@
         "translators": [],
         "published": "2010-12-03T00:00:00+00:00",
         "authorized": true,
-        "lto_name": "The Bartiméus Accessibility Foundation",
+        "lto_name": "Accessibility Foundation",
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
           "spec-version": {

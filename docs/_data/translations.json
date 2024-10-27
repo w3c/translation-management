@@ -6875,6 +6875,9 @@
         "predecessor-version": {
           "href": "https://api.w3.org/specifications/cors/versions/20140116/predecessors"
         },
+        "successor-version": {
+          "href": "https://api.w3.org/specifications/cors/versions/20140116/successors"
+        },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/232/translations"
         }
@@ -6960,6 +6963,9 @@
               },
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/cors/versions/20140116/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/cors/versions/20140116/successors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/232/translations"
@@ -47533,6 +47539,64 @@
         "isPublished": true,
         "isPending": false,
         "isInReview": false
+      },
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0005.html",
+        "title": "Intent to translate Verifiable Credentials Data Model v1.1 into Simplified Chinese",
+        "language": "zh",
+        "translators": [],
+        "authorized": true,
+        "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
+        "call-for-translation": {
+          "title": "Verifiable Credentials Data Model v1.1",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/vc-data-model/",
+            "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
+            "date": "2022-03-03",
+            "informative": false,
+            "title": "Verifiable Credentials Data Model v1.1",
+            "shortlink": "https://www.w3.org/TR/vc-data-model/",
+            "process-rules": "https://www.w3.org/2021/Process-20211102/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/289/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/289"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/289/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/633"
+          }
+        }
       }
     ]
   },
@@ -49509,7 +49573,7 @@
         "translators": [],
         "published": "2010-12-03T00:00:00+00:00",
         "authorized": true,
-        "lto_name": "The Bartiméus Accessibility Foundation",
+        "lto_name": "Accessibility Foundation",
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
           "spec-version": {
@@ -53825,6 +53889,9 @@
         "predecessor-version": {
           "href": "https://api.w3.org/specifications/notifications/versions/20151022/predecessors"
         },
+        "successor-version": {
+          "href": "https://api.w3.org/specifications/notifications/versions/20151022/successors"
+        },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/223/translations"
         }
@@ -53911,6 +53978,9 @@
               },
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/notifications/versions/20151022/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/notifications/versions/20151022/successors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/223/translations"
@@ -54006,6 +54076,9 @@
               },
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/notifications/versions/20151022/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/notifications/versions/20151022/successors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/223/translations"
