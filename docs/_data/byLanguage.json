@@ -19913,6 +19913,239 @@
         ]
       },
       {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+          "date": "2008-12-11",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "shortlink": "https://www.w3.org/TR/WCAG20/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG20"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/149/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/149"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2008-12-11",
+        "id": "s-WCAG20",
+        "translations": [
+          {
+            "states": [
+              "published"
+            ],
+            "uri": "https://waic.jp/translations/WCAG20/Overview.html",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "language": "ja",
+            "translators": [],
+            "published": "2024-10-27T00:00:00+00:00",
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "comments": "<p>Translators: WAIC (Web Accessibility Infrastructure Committee)</p>",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/636"
+              }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "isOutdated": false,
+            "isPublished": true,
+            "isPending": false,
+            "isInReview": false
+          },
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/0198.html",
+            "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.0 in Japanese",
+            "language": "ja",
+            "translators": [],
+            "authorized": true,
+            "lto_name": "JIS Web Accessibility Committee of INSTAC",
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/642"
+              }
+            }
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "http://www.w3.org/Translations/WCAG20-fr",
+          "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
+          "language": "fr",
+          "translators": [],
+          "published": "2009-06-26T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Association BrailleNet",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+              "date": "2008-12-11",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "shortlink": "https://www.w3.org/TR/WCAG20/",
+              "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+              "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG20"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/149"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/149/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/311"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
+      },
+      {
         "title": "Web Mention",
         "spec-version": {
           "status": "Recommendation",
@@ -22097,7 +22330,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 103
+    "latestRecsTotal": 104
   },
   "ru": {
     "list": [
@@ -31870,6 +32103,64 @@
             "isPublished": true,
             "isPending": false,
             "isInReview": false
+          },
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "http://www.sidar.org/traducciones/wcag20/es/",
+            "title": "Pautas de Accesibilidad para el Contenido Web (WCAG) 2.0",
+            "language": "es",
+            "translators": [],
+            "authorized": true,
+            "lto_name": "Fundación Sidar - Acceso Universal",
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/635"
+              }
+            }
           }
         ],
         "hasAuthorizedTranslations": {
@@ -56551,9 +56842,183 @@
             "isInReview": false
           }
         ]
+      },
+      {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+          "date": "2008-12-11",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "shortlink": "https://www.w3.org/TR/WCAG20/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG20"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/149/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/149"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2008-12-11",
+        "id": "s-WCAG20",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2010OctDec/0022.html",
+            "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.0 in Czech",
+            "language": "cs",
+            "translators": [],
+            "authorized": true,
+            "lto_name": "TyfloCentrum Brno, o. p. s.",
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/640"
+              }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "http://www.w3.org/Translations/WCAG20-fr",
+          "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
+          "language": "fr",
+          "translators": [],
+          "published": "2009-06-26T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Association BrailleNet",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+              "date": "2008-12-11",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "shortlink": "https://www.w3.org/TR/WCAG20/",
+              "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+              "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG20"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/149"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/149/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/311"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
       }
     ],
-    "latestRecsTotal": 1
+    "latestRecsTotal": 2
   },
   "pt-br": {
     "list": [
@@ -67948,6 +68413,239 @@
         ]
       },
       {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+          "date": "2008-12-11",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "shortlink": "https://www.w3.org/TR/WCAG20/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG20"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/149/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/149"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2008-12-11",
+        "id": "s-WCAG20",
+        "translations": [
+          {
+            "states": [
+              "published"
+            ],
+            "uri": "https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/",
+            "title": "웹 콘텐츠 접근성 지침 2.0",
+            "language": "ko",
+            "translators": [],
+            "published": "2024-10-27T00:00:00+00:00",
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "comments": "<p>Translators: Youngsik Park</p>",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/637"
+              }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "isOutdated": false,
+            "isPublished": true,
+            "isPending": false,
+            "isInReview": false
+          },
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2009JanMar/att-0077/00-part",
+            "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.0 in Korean",
+            "language": "ko",
+            "translators": [],
+            "authorized": true,
+            "lto_name": "Korea Agency for Digital Opportunity & Promotion (KADO)",
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/643"
+              }
+            }
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "http://www.w3.org/Translations/WCAG20-fr",
+          "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
+          "language": "fr",
+          "translators": [],
+          "published": "2009-06-26T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Association BrailleNet",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+              "date": "2008-12-11",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "shortlink": "https://www.w3.org/TR/WCAG20/",
+              "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+              "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG20"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/149"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/149/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/311"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
+      },
+      {
         "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
         "spec-version": {
           "status": "Recommendation",
@@ -68990,7 +69688,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 10
+    "latestRecsTotal": 11
   },
   "nl": {
     "list": [
@@ -71800,6 +72498,180 @@
         ]
       },
       {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+          "date": "2008-12-11",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "shortlink": "https://www.w3.org/TR/WCAG20/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG20"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/149/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/149"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2008-12-11",
+        "id": "s-WCAG20",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "http://www.alecso.org/wcag2.0/",
+            "title": "المبادئ التوجيهية للنفاذ إلى محتوى الويب WCAG2.0",
+            "language": "ar",
+            "translators": [],
+            "authorized": true,
+            "lto_name": "Arab League Educational, Cultural and Scientific Organisation",
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/634"
+              }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "http://www.w3.org/Translations/WCAG20-fr",
+          "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
+          "language": "fr",
+          "translators": [],
+          "published": "2009-06-26T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Association BrailleNet",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+              "date": "2008-12-11",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "shortlink": "https://www.w3.org/TR/WCAG20/",
+              "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+              "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG20"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/149"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/149/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/311"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
+      },
+      {
         "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
         "spec-version": {
           "status": "Recommendation",
@@ -72167,7 +73039,7 @@
         }
       }
     ],
-    "latestRecsTotal": 2
+    "latestRecsTotal": 3
   },
   "tl": {
     "list": [
@@ -75348,6 +76220,180 @@
         ]
       },
       {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+          "date": "2008-12-11",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "shortlink": "https://www.w3.org/TR/WCAG20/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG20"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/149/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/149"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2008-12-11",
+        "id": "s-WCAG20",
+        "translations": [
+          {
+            "states": [
+              "review"
+            ],
+            "uri": "https://web.archive.org/web/20190323003504/http://fdc.org.pl/wcag2/",
+            "title": "Wytyczne dla dostępności treści internetowych 2.0 (WCAG 2.0)",
+            "language": "pl",
+            "translators": [],
+            "authorized": true,
+            "lto_name": "Fundacja Instytut Rozwoju Regionalnego",
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/638"
+              }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": false,
+            "isInReview": true
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "http://www.w3.org/Translations/WCAG20-fr",
+          "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
+          "language": "fr",
+          "translators": [],
+          "published": "2009-06-26T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Association BrailleNet",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+              "date": "2008-12-11",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "shortlink": "https://www.w3.org/TR/WCAG20/",
+              "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+              "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG20"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/149"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/149/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/311"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
+      },
+      {
         "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
         "spec-version": {
           "status": "Recommendation",
@@ -76415,7 +77461,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 7
+    "latestRecsTotal": 8
   },
   "lt": {
     "list": [
@@ -76544,9 +77590,183 @@
             }
           }
         ]
+      },
+      {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+          "date": "2008-12-11",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "shortlink": "https://www.w3.org/TR/WCAG20/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG20"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/149/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/149"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2008-12-11",
+        "id": "s-WCAG20",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2011JulSep/0063.html",
+            "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.0 in Lithuanian",
+            "language": "lt",
+            "translators": [],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "comments": "<p>Translators: Vita Barzdaitytė</p>",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/644"
+              }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "http://www.w3.org/Translations/WCAG20-fr",
+          "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
+          "language": "fr",
+          "translators": [],
+          "published": "2009-06-26T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Association BrailleNet",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+              "date": "2008-12-11",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "shortlink": "https://www.w3.org/TR/WCAG20/",
+              "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+              "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG20"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/149"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/149/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/311"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
       }
     ],
-    "latestRecsTotal": 1
+    "latestRecsTotal": 2
   },
   "fa": {
     "list": [
@@ -77894,13 +79114,15 @@
         "translations": [
           {
             "states": [
-              "published"
+              "published",
+              "needs_update"
             ],
             "uri": "http://www.w3.org/Translations/WCAG20-sv/WCAG20-sv-20121023/",
-            "title": "Riktlinjer för tillgängligt webbinnehåll (WCAG 2.0)",
+            "title": "Riktlinjer för tillgängligt webbinnehåll (WCAG) 2.0",
             "language": "sv",
             "translators": [],
             "published": "2012-10-23T00:00:00+00:00",
+            "updated": "2024-10-27T00:00:00+00:00",
             "authorized": true,
             "lto_name": "Funka Nu AB",
             "call-for-translation": {
@@ -82916,11 +84138,12 @@
             "states": [
               "published"
             ],
-            "uri": "http://www.fatcow.com/resources/wai-be.html",
+            "uri": "https://web.archive.org/web/20180919212803/http://www.fatcow.com/resources/wai-be.html",
             "title": "Кіраўніцтва па забеспячэнні даступнасці Web-кантэнту (WCAG) 2.0",
             "language": "be",
             "translators": [],
             "published": "2010-11-14T00:00:00+00:00",
+            "updated": "2024-10-27T00:00:00+00:00",
             "authorized": false,
             "call-for-translation": {
               "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -82964,7 +84187,7 @@
                 }
               }
             },
-            "comments": "Translation authors: FatCow Web Hosting team",
+            "comments": "<p>Translators: FatCow Web Hosting team</p>",
             "_links": {
               "self": {
                 "href": "https://api.w3.org/translations/326"
@@ -83469,7 +84692,7 @@
               "published"
             ],
             "uri": "http://www.w3.org/Translations/WCAG20-ca/",
-            "title": "Directrius per a l'accessibilitat del contingut web, versió 2.0",
+            "title": "Directrius per a l'accessibilitat del contingut web (WCAG), versió 2.0",
             "language": "ca",
             "translators": [],
             "published": "2011-03-24T00:00:00+00:00",
@@ -85035,6 +86258,737 @@
     ],
     "latestRecsTotal": 1
   },
+  "hr": {
+    "list": [
+      {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+          "date": "2008-12-11",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "shortlink": "https://www.w3.org/TR/WCAG20/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG20"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/149/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/149"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2008-12-11",
+        "id": "s-WCAG20",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2009OctDec/0188.html",
+            "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.0 in Croatian",
+            "language": "hr",
+            "translators": [],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "comments": "<p>Translators: Petra Percinic</p>",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/639"
+              }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "http://www.w3.org/Translations/WCAG20-fr",
+          "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
+          "language": "fr",
+          "translators": [],
+          "published": "2009-06-26T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Association BrailleNet",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+              "date": "2008-12-11",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "shortlink": "https://www.w3.org/TR/WCAG20/",
+              "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+              "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG20"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/149"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/149/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/311"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
+      },
+      {
+        "title": "Web Content Accessibility Guidelines 1.0",
+        "spec-version": {
+          "status": "Retired",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/",
+          "date": "1999-05-05",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines 1.0",
+          "shortlink": "https://www.w3.org/TR/WAI-WEBCONTENT/",
+          "errata": "https://www.w3.org/WAI/GL/WAI-WEBCONTENT-ERRATA",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/16/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/16"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/16/translations"
+          }
+        },
+        "isLatest": false,
+        "date": "1999-05-05",
+        "id": "s-WAI-WEBCONTENT",
+        "translations": [
+          {
+            "states": [
+              "published",
+              "outdated"
+            ],
+            "uri": "http://www.ffzg.hr/infoz/dzs/smjer/",
+            "title": "Smjernice za osiguravanje pristupačnosti mrežnih sadržaja 1.0",
+            "language": "hr",
+            "translators": [
+              {
+                "id": 111639,
+                "name": "Koraljka Golub",
+                "given": "Koraljka",
+                "family": "Golub",
+                "connected-accounts": [],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/specifications"
+                  },
+                  "participations": {
+                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines 1.0",
+              "spec-version": {
+                "status": "Retired",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/",
+                "date": "1999-05-05",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines 1.0",
+                "shortlink": "https://www.w3.org/TR/WAI-WEBCONTENT/",
+                "errata": "https://www.w3.org/WAI/GL/WAI-WEBCONTENT-ERRATA",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/16/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/16"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/16/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/27"
+              }
+            },
+            "origTitle": "Web Content Accessibility Guidelines 1.0",
+            "isOutdated": true,
+            "isPublished": true,
+            "isPending": false,
+            "isInReview": false
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published",
+            "outdated"
+          ],
+          "uri": "http://www.w3.org/2006/11/WCAG_ca/",
+          "title": "Directrius per a l'accessibilitat al contingut web, versió 1.0",
+          "language": "ca",
+          "translators": [],
+          "published": "2006-12-20T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Facultat de Biblioteconomia i Documentació - Universitat de Barcelona",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines 1.0",
+            "spec-version": {
+              "status": "Retired",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/",
+              "date": "1999-05-05",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines 1.0",
+              "shortlink": "https://www.w3.org/TR/WAI-WEBCONTENT/",
+              "errata": "https://www.w3.org/WAI/GL/WAI-WEBCONTENT-ERRATA",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/16/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/16"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/16/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/249"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines 1.0",
+          "isOutdated": true,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
+      }
+    ],
+    "latestRecsTotal": 1
+  },
+  "hi": {
+    "list": [
+      {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+          "date": "2008-12-11",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "shortlink": "https://www.w3.org/TR/WCAG20/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG20"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/149/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/149"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2008-12-11",
+        "id": "s-WCAG20",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2009AprJun/0147.html",
+            "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.0 in Hindi",
+            "language": "hi",
+            "translators": [],
+            "authorized": true,
+            "lto_name": "Centre for Internet and Society",
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/641"
+              }
+            }
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "http://www.w3.org/Translations/WCAG20-fr",
+          "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
+          "language": "fr",
+          "translators": [],
+          "published": "2009-06-26T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Association BrailleNet",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+              "date": "2008-12-11",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "shortlink": "https://www.w3.org/TR/WCAG20/",
+              "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+              "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG20"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/149"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/149/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/311"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
+      }
+    ],
+    "latestRecsTotal": 1
+  },
+  "ro": {
+    "list": [
+      {
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+          "date": "2008-12-11",
+          "informative": false,
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "shortlink": "https://www.w3.org/TR/WCAG20/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/WCAG20"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/149/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/149"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2008-12-11",
+        "id": "s-WCAG20",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2010JanMar/0031.html",
+            "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.0 in Romanian",
+            "language": "ro",
+            "translators": [],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+                "date": "2008-12-11",
+                "informative": false,
+                "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+                "shortlink": "https://www.w3.org/TR/WCAG20/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+                "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/WCAG20"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/149/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/149"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "comments": "<p>Translators: Sorin Velescu</p>",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/645"
+              }
+            }
+          }
+        ],
+        "hasAuthorizedTranslations": {
+          "states": [
+            "published"
+          ],
+          "uri": "http://www.w3.org/Translations/WCAG20-fr",
+          "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
+          "language": "fr",
+          "translators": [],
+          "published": "2009-06-26T00:00:00+00:00",
+          "authorized": true,
+          "lto_name": "Association BrailleNet",
+          "call-for-translation": {
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+            "spec-version": {
+              "status": "Recommendation",
+              "rec-track": true,
+              "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+              "date": "2008-12-11",
+              "informative": false,
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+              "shortlink": "https://www.w3.org/TR/WCAG20/",
+              "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+              "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+                },
+                "editors": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+                },
+                "deliverers": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+                },
+                "specification": {
+                  "href": "https://api.w3.org/specifications/WCAG20"
+                },
+                "predecessor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/149/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/callsfortranslation/149"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/149/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/translations/311"
+            }
+          },
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
+        }
+      }
+    ],
+    "latestRecsTotal": 1
+  },
   "sk": {
     "list": [
       {
@@ -85412,215 +87366,6 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
-          "isOutdated": true,
-          "isPublished": true,
-          "isPending": false,
-          "isInReview": false
-        }
-      }
-    ],
-    "latestRecsTotal": 0
-  },
-  "hr": {
-    "list": [
-      {
-        "title": "Web Content Accessibility Guidelines 1.0",
-        "spec-version": {
-          "status": "Retired",
-          "rec-track": true,
-          "uri": "https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/",
-          "date": "1999-05-05",
-          "informative": false,
-          "title": "Web Content Accessibility Guidelines 1.0",
-          "shortlink": "https://www.w3.org/TR/WAI-WEBCONTENT/",
-          "errata": "https://www.w3.org/WAI/GL/WAI-WEBCONTENT-ERRATA",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/16/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/16"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/16/translations"
-          }
-        },
-        "isLatest": false,
-        "date": "1999-05-05",
-        "id": "s-WAI-WEBCONTENT",
-        "translations": [
-          {
-            "states": [
-              "published",
-              "outdated"
-            ],
-            "uri": "http://www.ffzg.hr/infoz/dzs/smjer/",
-            "title": "Smjernice za osiguravanje pristupačnosti mrežnih sadržaja 1.0",
-            "language": "hr",
-            "translators": [
-              {
-                "id": 111639,
-                "name": "Koraljka Golub",
-                "given": "Koraljka",
-                "family": "Golub",
-                "connected-accounts": [],
-                "discr": "user",
-                "_links": {
-                  "self": {
-                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8"
-                  },
-                  "affiliations": {
-                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/affiliations"
-                  },
-                  "groups": {
-                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/groups"
-                  },
-                  "specifications": {
-                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/specifications"
-                  },
-                  "participations": {
-                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/participations"
-                  },
-                  "chair_of_groups": {
-                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/chair-of-groups"
-                  },
-                  "team_contact_of_groups": {
-                    "href": "https://api.w3.org/users/2rcromvl7okkggw44w0oksc48o04gs8/team-contact-of-groups"
-                  }
-                }
-              }
-            ],
-            "authorized": false,
-            "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines 1.0",
-              "spec-version": {
-                "status": "Retired",
-                "rec-track": true,
-                "uri": "https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/",
-                "date": "1999-05-05",
-                "informative": false,
-                "title": "Web Content Accessibility Guidelines 1.0",
-                "shortlink": "https://www.w3.org/TR/WAI-WEBCONTENT/",
-                "errata": "https://www.w3.org/WAI/GL/WAI-WEBCONTENT-ERRATA",
-                "_links": {
-                  "self": {
-                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505"
-                  },
-                  "editors": {
-                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/editors"
-                  },
-                  "deliverers": {
-                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/deliverers"
-                  },
-                  "specification": {
-                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT"
-                  },
-                  "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/predecessors"
-                  },
-                  "translations": {
-                    "href": "https://api.w3.org/callsfortranslation/16/translations"
-                  }
-                }
-              },
-              "_links": {
-                "self": {
-                  "href": "https://api.w3.org/callsfortranslation/16"
-                },
-                "translations": {
-                  "href": "https://api.w3.org/callsfortranslation/16/translations"
-                }
-              }
-            },
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/translations/27"
-              }
-            },
-            "origTitle": "Web Content Accessibility Guidelines 1.0",
-            "isOutdated": true,
-            "isPublished": true,
-            "isPending": false,
-            "isInReview": false
-          }
-        ],
-        "hasAuthorizedTranslations": {
-          "states": [
-            "published",
-            "outdated"
-          ],
-          "uri": "http://www.w3.org/2006/11/WCAG_ca/",
-          "title": "Directrius per a l'accessibilitat al contingut web, versió 1.0",
-          "language": "ca",
-          "translators": [],
-          "published": "2006-12-20T00:00:00+00:00",
-          "authorized": true,
-          "lto_name": "Facultat de Biblioteconomia i Documentació - Universitat de Barcelona",
-          "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines 1.0",
-            "spec-version": {
-              "status": "Retired",
-              "rec-track": true,
-              "uri": "https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/",
-              "date": "1999-05-05",
-              "informative": false,
-              "title": "Web Content Accessibility Guidelines 1.0",
-              "shortlink": "https://www.w3.org/TR/WAI-WEBCONTENT/",
-              "errata": "https://www.w3.org/WAI/GL/WAI-WEBCONTENT-ERRATA",
-              "_links": {
-                "self": {
-                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505"
-                },
-                "editors": {
-                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/editors"
-                },
-                "deliverers": {
-                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/deliverers"
-                },
-                "specification": {
-                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT"
-                },
-                "predecessor-version": {
-                  "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/predecessors"
-                },
-                "translations": {
-                  "href": "https://api.w3.org/callsfortranslation/16/translations"
-                }
-              }
-            },
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/callsfortranslation/16"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/16/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/translations/249"
-            }
-          },
-          "origTitle": "Web Content Accessibility Guidelines 1.0",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,

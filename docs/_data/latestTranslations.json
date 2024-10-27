@@ -3,6 +3,134 @@
     "states": [
       "published"
     ],
+    "uri": "https://waic.jp/translations/WCAG20/Overview.html",
+    "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+    "language": "ja",
+    "translators": [],
+    "published": "2024-10-27T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+        "date": "2008-12-11",
+        "informative": false,
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "shortlink": "https://www.w3.org/TR/WCAG20/",
+        "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+        "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/WCAG20"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/149"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/149/translations"
+        }
+      }
+    },
+    "comments": "<p>Translators: WAIC (Web Accessibility Infrastructure Committee)</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/636"
+      }
+    },
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
+    "uri": "https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/",
+    "title": "웹 콘텐츠 접근성 지침 2.0",
+    "language": "ko",
+    "translators": [],
+    "published": "2024-10-27T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
+        "date": "2008-12-11",
+        "informative": false,
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "shortlink": "https://www.w3.org/TR/WCAG20/",
+        "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
+        "errata": "https://www.w3.org/WAI/WCAG20/errata/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/WCAG20"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/149/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/149"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/149/translations"
+        }
+      }
+    },
+    "comments": "<p>Translators: Youngsik Park</p>",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/637"
+      }
+    },
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://www.w3.org/Translations/WCAG22-nl/",
     "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
     "language": "nl",
@@ -1215,213 +1343,6 @@
       }
     },
     "origTitle": "Digital Publishing WAI-ARIA Module 1.0",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published",
-      "outdated"
-    ],
-    "uri": "https://momdo.github.io/html-aria/",
-    "title": "ARIA in HTML 日本語訳",
-    "language": "ja",
-    "translators": [
-      {
-        "id": 115881,
-        "name": "Naoki Nakamura",
-        "given": "Naoki",
-        "family": "Nakamura",
-        "connected-accounts": [
-          {
-            "created": "2023-08-27T08:29:01+00:00",
-            "service": "github",
-            "identifier": "8347177",
-            "nickname": "momdo",
-            "profile-picture": "https://avatars.githubusercontent.com/u/8347177?v=4",
-            "href": "https://github.com/momdo",
-            "_links": {
-              "user": {
-                "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
-              }
-            }
-          }
-        ],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2023-06-08T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "ARIA in HTML",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/html-aria/",
-        "uri": "https://www.w3.org/TR/2023/REC-html-aria-20230531/",
-        "date": "2023-05-31",
-        "informative": false,
-        "title": "ARIA in HTML",
-        "shortlink": "https://www.w3.org/TR/html-aria/",
-        "process-rules": "https://www.w3.org/2021/Process-20211102/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/html-aria/versions/20230531"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/html-aria/versions/20230531/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/html-aria/versions/20230531/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/html-aria"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/html-aria/versions/20230531/predecessors"
-          },
-          "successor-version": {
-            "href": "https://api.w3.org/specifications/html-aria/versions/20230531/successors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/299/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/299"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/299/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/608"
-      }
-    },
-    "origTitle": "ARIA in HTML",
-    "isOutdated": true,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "http://takamu.sakura.ne.jp/xml-entity-names-ja/index.html",
-    "title": "文字に対するXML実体の定義(第3版)",
-    "language": "ja",
-    "translators": [
-      {
-        "id": 112318,
-        "name": "Yosikazu Takamura",
-        "given": "Yosikazu",
-        "family": "Takamura",
-        "connected-accounts": [],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/81k3hvyq73ks04cos4kks4ckkwsww0g"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/81k3hvyq73ks04cos4kks4ckkwsww0g/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/81k3hvyq73ks04cos4kks4ckkwsww0g/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/81k3hvyq73ks04cos4kks4ckkwsww0g/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/81k3hvyq73ks04cos4kks4ckkwsww0g/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/81k3hvyq73ks04cos4kks4ckkwsww0g/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/81k3hvyq73ks04cos4kks4ckkwsww0g/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2023-05-24T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "XML Entity Definitions for Characters (3rd Edition)",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "uri": "https://www.w3.org/TR/2023/REC-xml-entity-names-20230307/",
-        "date": "2023-03-07",
-        "informative": false,
-        "title": "XML Entity Definitions for Characters (3rd Edition)",
-        "shortlink": "https://www.w3.org/TR/xml-entity-names/",
-        "process-rules": "https://www.w3.org/2021/Process-20211102/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/xml-entity-names/versions/20230307"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/xml-entity-names/versions/20230307/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/xml-entity-names/versions/20230307/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/xml-entity-names"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/xml-entity-names/versions/20230307/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/296/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/296"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/296/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/605"
-      }
-    },
-    "origTitle": "XML Entity Definitions for Characters (3rd Edition)",
     "isOutdated": false,
     "isPublished": true,
     "isPending": false,
