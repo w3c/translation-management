@@ -49629,8 +49629,7 @@
       },
       {
         "states": [
-          "published",
-          "draft"
+          "published"
         ],
         "uri": "https://web.archive.org/web/20180919212803/http://www.fatcow.com/resources/wai-be.html",
         "title": "Кіраўніцтва па забеспячэнні даступнасці Web-кантэнту (WCAG) 2.0",
@@ -49689,7 +49688,7 @@
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
         "isOutdated": false,
         "isPublished": true,
-        "isPending": true,
+        "isPending": false,
         "isInReview": false
       },
       {
@@ -50453,8 +50452,7 @@
       },
       {
         "states": [
-          "published",
-          "needs_update"
+          "published"
         ],
         "uri": "https://waic.jp/translations/WCAG20/Overview.html",
         "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -50518,8 +50516,7 @@
       },
       {
         "states": [
-          "published",
-          "needs_update"
+          "published"
         ],
         "uri": "https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/",
         "title": "웹 콘텐츠 접근성 지침 2.0",
@@ -51530,12 +51527,11 @@
       },
       {
         "states": [
-          "draft",
-          "outdated"
+          "draft"
         ],
-        "uri": "http://www.a12e.tk/wcag/wcag21-pt-PT.html",
-        "title": "Candidate Authorized Translation in Portuguese",
-        "language": "pt",
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0023.html",
+        "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.1 in Portuguese",
+        "language": "pt-pt",
         "translators": [],
         "authorized": true,
         "lto_name": "Unidade ACESSO of Fundação para a Ciência e a Tecnologia, IP (Public Agency from the Ministry of Education and Science)",
@@ -51590,12 +51586,7 @@
           "self": {
             "href": "https://api.w3.org/translations/528"
           }
-        },
-        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
-        "isOutdated": true,
-        "isPublished": false,
-        "isPending": true,
-        "isInReview": false
+        }
       },
       {
         "states": [

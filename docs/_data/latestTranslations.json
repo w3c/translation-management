@@ -1,8 +1,7 @@
 [
   {
     "states": [
-      "published",
-      "needs_update"
+      "published"
     ],
     "uri": "https://waic.jp/translations/WCAG20/Overview.html",
     "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -66,8 +65,7 @@
   },
   {
     "states": [
-      "published",
-      "needs_update"
+      "published"
     ],
     "uri": "https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/",
     "title": "웹 콘텐츠 접근성 지침 2.0",
