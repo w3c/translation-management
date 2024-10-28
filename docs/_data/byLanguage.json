@@ -58663,8 +58663,7 @@
         "translations": [
           {
             "states": [
-              "published",
-              "needs_update"
+              "published"
             ],
             "uri": "https://www.w3.org/Translations/WCAG20-pt-br/",
             "title": "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0",
@@ -79558,15 +79557,14 @@
         "translations": [
           {
             "states": [
-              "published",
-              "needs_update"
+              "published"
             ],
-            "uri": "http://www.w3.org/Translations/WCAG20-sv/WCAG20-sv-20121023/",
+            "uri": "https://www.w3.org/Translations/WCAG20-sv/",
             "title": "Riktlinjer för tillgängligt webbinnehåll (WCAG) 2.0",
             "language": "sv",
             "translators": [],
             "published": "2012-10-23T00:00:00+00:00",
-            "updated": "2024-10-27T00:00:00+00:00",
+            "updated": "2024-10-28T00:00:00+00:00",
             "authorized": true,
             "lto_name": "Funka Nu AB",
             "call-for-translation": {
@@ -86692,8 +86690,7 @@
         "translations": [
           {
             "states": [
-              "published",
-              "needs_update"
+              "published"
             ],
             "uri": "https://www.w3.org/Translations/WCAG20-pt-PT/",
             "title": "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0",
@@ -87804,7 +87801,7 @@
               "draft"
             ],
             "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0018.html",
-            "title": "Intent to translate WCAG 2.1 into Traditional Chinese",
+            "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.1 in Traditional Chinese",
             "language": "zh-hant_tw",
             "translators": [],
             "authorized": true,

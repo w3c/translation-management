@@ -31906,8 +31906,7 @@
       },
       "pt-br": {
         "states": [
-          "published",
-          "needs_update"
+          "published"
         ],
         "uri": "https://www.w3.org/Translations/WCAG20-pt-br/",
         "title": "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0",
@@ -32036,15 +32035,14 @@
       },
       "sv": {
         "states": [
-          "published",
-          "needs_update"
+          "published"
         ],
-        "uri": "http://www.w3.org/Translations/WCAG20-sv/WCAG20-sv-20121023/",
+        "uri": "https://www.w3.org/Translations/WCAG20-sv/",
         "title": "Riktlinjer för tillgängligt webbinnehåll (WCAG) 2.0",
         "language": "sv",
         "translators": [],
         "published": "2012-10-23T00:00:00+00:00",
-        "updated": "2024-10-27T00:00:00+00:00",
+        "updated": "2024-10-28T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Funka Nu AB",
         "call-for-translation": {
