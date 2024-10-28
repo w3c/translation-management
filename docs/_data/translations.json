@@ -49629,14 +49629,15 @@
       },
       {
         "states": [
-          "published"
+          "published",
+          "draft"
         ],
         "uri": "https://web.archive.org/web/20180919212803/http://www.fatcow.com/resources/wai-be.html",
         "title": "Кіраўніцтва па забеспячэнні даступнасці Web-кантэнту (WCAG) 2.0",
         "language": "be",
         "translators": [],
         "published": "2010-11-14T00:00:00+00:00",
-        "updated": "2024-10-27T00:00:00+00:00",
+        "updated": "2024-10-28T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -49680,7 +49681,6 @@
             }
           }
         },
-        "comments": "<p>Translators: FatCow Web Hosting team</p>",
         "_links": {
           "self": {
             "href": "https://api.w3.org/translations/326"
@@ -49689,7 +49689,7 @@
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
         "isOutdated": false,
         "isPublished": true,
-        "isPending": false,
+        "isPending": true,
         "isInReview": false
       },
       {
@@ -50453,13 +50453,15 @@
       },
       {
         "states": [
-          "published"
+          "published",
+          "needs_update"
         ],
         "uri": "https://waic.jp/translations/WCAG20/Overview.html",
         "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
         "language": "ja",
         "translators": [],
         "published": "2024-10-27T00:00:00+00:00",
+        "updated": "2024-10-28T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -50503,7 +50505,6 @@
             }
           }
         },
-        "comments": "<p>Translators: WAIC (Web Accessibility Infrastructure Committee)</p>",
         "_links": {
           "self": {
             "href": "https://api.w3.org/translations/636"
@@ -50517,13 +50518,15 @@
       },
       {
         "states": [
-          "published"
+          "published",
+          "needs_update"
         ],
         "uri": "https://web.archive.org/web/20121107021930/http://archi.ssu.ac.kr/WCAG20/",
         "title": "웹 콘텐츠 접근성 지침 2.0",
         "language": "ko",
         "translators": [],
         "published": "2024-10-27T00:00:00+00:00",
+        "updated": "2024-10-28T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -50567,7 +50570,6 @@
             }
           }
         },
-        "comments": "<p>Translators: Youngsik Park</p>",
         "_links": {
           "self": {
             "href": "https://api.w3.org/translations/637"
