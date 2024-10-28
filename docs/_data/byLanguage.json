@@ -25498,7 +25498,7 @@
               "draft",
               "outdated"
             ],
-            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2020OctDec/0007.html",
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2020OctDec/0024.html",
             "title": "Intent to translate WCAG 2.1 in Russian",
             "language": "ru",
             "translators": [],
@@ -25550,7 +25550,7 @@
                 }
               }
             },
-            "comments": "Translator: Eugene Altovsky",
+            "comments": "<p>Translator: Eugene Altovsky</p>",
             "_links": {
               "self": {
                 "href": "https://api.w3.org/translations/569"
