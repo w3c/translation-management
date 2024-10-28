@@ -40482,6 +40482,75 @@
         "isPending": false,
         "isInReview": false
       },
+      "zh-hant": {
+        "states": [
+          "draft",
+          "outdated"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0018.html",
+        "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.1 in Traditional Chinese",
+        "language": "zh-hant",
+        "translators": [],
+        "authorized": true,
+        "lto_name": "ministry of digital affairs, moda",
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
+            "date": "2018-06-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
+            "shortlink": "https://www.w3.org/TR/WCAG21/",
+            "translation": "https://www.w3.org/WAI/standards-guidelines/wcag/translations/",
+            "errata": "https://www.w3.org/WAI/WCAG21/errata/",
+            "process-rules": "https://www.w3.org/2018/Process-20180201/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG21/versions/20180605"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG21"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/255/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/255"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/255/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/610"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
+        "isOutdated": true,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
       "da": {
         "states": [
           "published",

@@ -52722,11 +52722,12 @@
       },
       {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023JulSep/0018.html",
         "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.1 in Traditional Chinese",
-        "language": "zh-hant_tw",
+        "language": "zh-hant",
         "translators": [],
         "authorized": true,
         "lto_name": "ministry of digital affairs, moda",
@@ -52781,7 +52782,12 @@
           "self": {
             "href": "https://api.w3.org/translations/610"
           }
-        }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
+        "isOutdated": true,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
       },
       {
         "states": [
