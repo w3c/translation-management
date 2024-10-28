@@ -50144,14 +50144,17 @@
       },
       {
         "states": [
-          "published"
+          "published",
+          "needs_update"
         ],
-        "uri": "http://www.w3.org/Translations/WCAG20-pt-PT/",
+        "uri": "https://www.w3.org/Translations/WCAG20-pt-PT/",
         "title": "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0",
-        "language": "pt",
+        "language": "pt-pt",
         "translators": [],
         "published": "2014-10-24T00:00:00+00:00",
-        "authorized": false,
+        "updated": "2024-10-28T00:00:00+00:00",
+        "authorized": true,
+        "lto_name": "DSI/Unidade ACESSO da FCT, IP",
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
           "spec-version": {
@@ -50194,7 +50197,6 @@
             }
           }
         },
-        "comments": "Translation authors: DSI/Unidade ACESSO da FCT, IP",
         "_links": {
           "self": {
             "href": "https://api.w3.org/translations/418"
@@ -50267,13 +50269,15 @@
       },
       {
         "states": [
-          "published"
+          "published",
+          "needs_update"
         ],
-        "uri": "http://www.w3.org/Translations/WCAG20-pt-br/",
+        "uri": "https://www.w3.org/Translations/WCAG20-pt-br/",
         "title": "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0",
         "language": "pt-br",
         "translators": [],
         "published": "2014-10-24T00:00:00+00:00",
+        "updated": "2024-10-28T00:00:00+00:00",
         "authorized": true,
         "lto_name": "W3C Brazil Office",
         "call-for-translation": {
