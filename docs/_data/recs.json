@@ -30460,7 +30460,7 @@
         "language": "be",
         "translators": [],
         "published": "2010-11-14T00:00:00+00:00",
-        "updated": "2024-10-28T00:00:00+00:00",
+        "updated": "2024-10-29T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -30504,6 +30504,7 @@
             }
           }
         },
+        "comments": "Translators: FatCow Web Hosting team",
         "_links": {
           "self": {
             "href": "https://api.w3.org/translations/326"
@@ -31481,7 +31482,7 @@
         "language": "ja",
         "translators": [],
         "published": "2024-10-27T00:00:00+00:00",
-        "updated": "2024-10-28T00:00:00+00:00",
+        "updated": "2024-10-29T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -31525,6 +31526,7 @@
             }
           }
         },
+        "comments": "Translators: WAIC (Web Accessibility Infrastructure Committee)",
         "_links": {
           "self": {
             "href": "https://api.w3.org/translations/636"
@@ -31545,7 +31547,7 @@
         "language": "ko",
         "translators": [],
         "published": "2024-10-27T00:00:00+00:00",
-        "updated": "2024-10-28T00:00:00+00:00",
+        "updated": "2024-10-29T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -31589,6 +31591,7 @@
             }
           }
         },
+        "comments": "Translators: Youngsik Park",
         "_links": {
           "self": {
             "href": "https://api.w3.org/translations/637"
