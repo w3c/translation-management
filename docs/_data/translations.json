@@ -50199,7 +50199,12 @@
           "self": {
             "href": "https://api.w3.org/translations/418"
           }
-        }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
       },
       {
         "states": [
@@ -50826,7 +50831,12 @@
           "self": {
             "href": "https://api.w3.org/translations/641"
           }
-        }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
       },
       {
         "states": [
@@ -51063,7 +51073,12 @@
           "self": {
             "href": "https://api.w3.org/translations/645"
           }
-        }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
       }
     ],
     "hasAuthorizedTranslations": {
@@ -51530,7 +51545,8 @@
       },
       {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2018OctDec/0023.html",
         "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.1 in Portuguese",
@@ -51589,7 +51605,12 @@
           "self": {
             "href": "https://api.w3.org/translations/528"
           }
-        }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
+        "isOutdated": true,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
       },
       {
         "states": [
