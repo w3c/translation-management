@@ -69,6 +69,10 @@
         "name":"Greek",
         "nativeName":"Ελληνικά"
     },
+    "hi":{
+        "name":"Hindi",
+        "nativeName":"हिन्दी"
+    },
     "fa":{
         "name":"Persian",
         "nativeName":"فارسی"
@@ -109,10 +113,17 @@
         "name":"Portuguese",
         "nativeName":"Português"
     },
+    "pt-pt":{
+        "name":"Portuguese (Portugal)",
+        "nativeName":"Português (Portugal)"
+    },
     "pt-br":{
-        "name":"Brazilian Portuguese",
-        "nativeName":"Português-BR",
-        "sortName": "Portuguese (Brazilian)"
+        "name":"Portuguese (Brazil)",
+        "nativeName":"Português (Brasil)"
+    },
+    "ro":{
+        "name":"Romanian",
+        "nativeName":"Română"
     },
     "ru":{
         "name":"Russian",
