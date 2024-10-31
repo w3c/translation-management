@@ -29677,7 +29677,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 9
+    "latestRecsTotal": 10
   },
   "es": {
     "list": [
@@ -57140,7 +57140,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 57
+    "latestRecsTotal": 58
   },
   "cs": {
     "list": [
@@ -59987,7 +59987,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 9
+    "latestRecsTotal": 10
   },
   "zh-hans": {
     "list": [
@@ -63787,7 +63787,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 14
+    "latestRecsTotal": 16
   },
   "zh-hant": {
     "list": [
@@ -66090,7 +66090,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 7
+    "latestRecsTotal": 8
   },
   "ko": {
     "list": [
@@ -71596,7 +71596,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 2
+    "latestRecsTotal": 3
   },
   "tr": {
     "list": [
@@ -72971,7 +72971,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 5
+    "latestRecsTotal": 6
   },
   "ar": {
     "list": [
@@ -73675,7 +73675,7 @@
         }
       }
     ],
-    "latestRecsTotal": 3
+    "latestRecsTotal": 4
   },
   "tl": {
     "list": [
@@ -75854,7 +75854,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 5
+    "latestRecsTotal": 6
   },
   "pl": {
     "list": [
@@ -78097,7 +78097,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 8
+    "latestRecsTotal": 9
   },
   "lt": {
     "list": [
@@ -80071,7 +80071,7 @@
         }
       }
     ],
-    "latestRecsTotal": 3
+    "latestRecsTotal": 4
   },
   "pt": {
     "list": [
@@ -82479,7 +82479,7 @@
         }
       }
     ],
-    "latestRecsTotal": 6
+    "latestRecsTotal": 7
   },
   "el": {
     "list": [
@@ -85023,7 +85023,7 @@
         }
       }
     ],
-    "latestRecsTotal": 1
+    "latestRecsTotal": 2
   },
   "ca": {
     "list": [
@@ -85885,7 +85885,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 2
+    "latestRecsTotal": 4
   },
   "no": {
     "list": [
@@ -86461,7 +86461,7 @@
         }
       }
     ],
-    "latestRecsTotal": 1
+    "latestRecsTotal": 2
   },
   "et": {
     "list": [
@@ -87013,7 +87013,7 @@
         }
       }
     ],
-    "latestRecsTotal": 1
+    "latestRecsTotal": 2
   },
   "hr": {
     "list": [
@@ -87950,6 +87950,6 @@
         }
       }
     ],
-    "latestRecsTotal": 0
+    "latestRecsTotal": 1
   }
 }

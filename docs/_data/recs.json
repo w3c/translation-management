@@ -38689,7 +38689,7 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/user-timing-1/",
+    "shortlink": "https://www.w3.org/TR/user-timing/",
     "description": "<p> This specification defines an interface to help web developers measure the performance of their applications by giving them access to high precision timestamps. </p>",
     "title": "User Timing",
     "shortname": "user-timing-1",
@@ -38706,16 +38706,16 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/user-timing-1/versions/20190226",
-        "title": "Retired"
+        "href": "https://api.w3.org/specifications/user-timing-1/versions/20241031",
+        "title": "Candidate Recommendation Draft"
       },
       "series": {
         "href": "https://api.w3.org/specification-series/user-timing"
       }
     },
-    "isLatest": false,
-    "date": "2019-02-26",
-    "year": "2019",
+    "isLatest": true,
+    "date": "2024-10-31",
+    "year": "2024",
     "translations": {
       "ja": {
         "states": [
