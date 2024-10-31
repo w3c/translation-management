@@ -67,11 +67,12 @@ const langs = require('../docs/_data/lang.json');
           y.translations = x.translations.filter(t => t.language === l)
           return y;
         });
-      acc[l].latestRecsTotal = acc[l].list.filter(x => x.isLatest).length;
+      acc[l].latestRecsTotal = acc[l].list.filter(x => x.isLatest || x.translations.find(t => t.authorized)).length;
       return acc;
     }, {});
     await fs.writeFile("../docs/_data/byLanguage.json", JSON.stringify(byLanguage, null, 2));
   } catch (err) {
-    console.error(err);
+    console.trace(err);
+    process.exit(2);
   }
 })();
