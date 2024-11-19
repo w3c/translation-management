@@ -12860,6 +12860,116 @@
     "date": "2018-01-23",
     "year": "2018",
     "translations": {
+      "zh-hans": {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0010.html",
+        "title": "Intent to translate ActivityPub in Simplified Chinese",
+        "language": "zh-hans",
+        "translators": [
+          {
+            "id": 161962,
+            "name": "Icarus J",
+            "given": "Icarus",
+            "family": "J",
+            "connected-accounts": [
+              {
+                "created": "2024-11-14T11:09:39+00:00",
+                "service": "github",
+                "identifier": "46210502",
+                "nickname": "CDN18",
+                "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
+                "href": "https://github.com/CDN18",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "ActivityPub",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/activitypub/",
+            "uri": "https://www.w3.org/TR/2018/REC-activitypub-20180123/",
+            "date": "2018-01-23",
+            "informative": false,
+            "title": "ActivityPub",
+            "shortlink": "https://www.w3.org/TR/activitypub/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=activitypub",
+            "errata": "https://www.w3.org/wiki/ActivityPub_errata",
+            "process-rules": "https://www.w3.org/2017/Process-20170301/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/activitypub/versions/20180123"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/activitypub/versions/20180123/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/activitypub/versions/20180123/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/activitypub"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/activitypub/versions/20180123/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/304/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/304"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/304/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/648"
+          }
+        },
+        "origTitle": "ActivityPub",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
       "ja": {
         "states": [
           "published"
@@ -25653,6 +25763,7 @@
             "connected-accounts": [
               {
                 "created": "2022-06-14T09:22:45+00:00",
+                "updated": "2024-11-14T17:28:20+00:00",
                 "service": "github",
                 "identifier": "2235222",
                 "nickname": "Antoine-Zimmermann",
@@ -27581,7 +27692,7 @@
     "description": "<p>This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-color, grayscale, and truecolor images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits.</p>\r\n<p>PNG is designed to work well in online viewing applications, such as the World Wide Web, so it is fully streamable with a progressive display option. PNG is robust, providing both full file integrity checking and simple detection of common transmission errors. Also, PNG can store gamma and chromaticity data for improved color matching on heterogeneous platforms.</p>\r\n<p>This specification defines an Internet Media Type image/png.</p>",
     "title": "Portable Network Graphics (PNG) Specification (Second Edition)",
     "shortname": "png-2",
-    "editor-draft": "https://w3c.github.io/PNG-spec/",
+    "editor-draft": "https://w3c.github.io/png/",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/png-2"
@@ -38689,7 +38800,7 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/user-timing/",
+    "shortlink": "https://www.w3.org/TR/user-timing-1/",
     "description": "<p> This specification defines an interface to help web developers measure the performance of their applications by giving them access to high precision timestamps. </p>",
     "title": "User Timing",
     "shortname": "user-timing-1",
@@ -38706,16 +38817,16 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/user-timing-1/versions/20241031",
-        "title": "Candidate Recommendation Draft"
+        "href": "https://api.w3.org/specifications/user-timing-1/versions/20190226",
+        "title": "Retired"
       },
       "series": {
         "href": "https://api.w3.org/specification-series/user-timing"
       }
     },
-    "isLatest": true,
-    "date": "2024-10-31",
-    "year": "2024",
+    "isLatest": false,
+    "date": "2019-02-26",
+    "year": "2019",
     "translations": {
       "ja": {
         "states": [
@@ -39127,21 +39238,21 @@
     "shortlink": "https://www.w3.org/TR/webaudio/",
     "description": "<p>This specification describes a high-level JavaScript API for processing and synthesizing audio in web applications. The primary paradigm is of an audio routing graph, where a number of AudioNode objects are connected together to define the overall audio rendering. The actual processing will primarily take place in the underlying implementation (typically optimized Assembly / C / C++ code), but direct JavaScript processing and synthesis is also supported.</p>",
     "title": "Web Audio API",
-    "shortname": "webaudio",
+    "shortname": "webaudio-1.0",
     "editor-draft": "https://webaudio.github.io/web-audio-api/",
     "_links": {
       "self": {
-        "href": "https://api.w3.org/specifications/webaudio"
+        "href": "https://api.w3.org/specifications/webaudio-1.0"
       },
       "version-history": {
-        "href": "https://api.w3.org/specifications/webaudio/versions"
+        "href": "https://api.w3.org/specifications/webaudio-1.0/versions"
       },
       "first-version": {
-        "href": "https://api.w3.org/specifications/webaudio/versions/20111215",
+        "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20111215",
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/webaudio/versions/20210617",
+        "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20210617",
         "title": "Recommendation"
       },
       "series": {
@@ -39178,22 +39289,22 @@
             "process-rules": "https://www.w3.org/2018/Process-20180201/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918/editors"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918/deliverers"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/webaudio"
+                "href": "https://api.w3.org/specifications/webaudio-1.0"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918/predecessors"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/predecessors"
               },
               "successor-version": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918/successors"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/successors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/253/translations"

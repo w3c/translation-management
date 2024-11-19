@@ -2103,6 +2103,116 @@
         "isPublished": true,
         "isPending": false,
         "isInReview": false
+      },
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0010.html",
+        "title": "Intent to translate ActivityPub in Simplified Chinese",
+        "language": "zh-hans",
+        "translators": [
+          {
+            "id": 161962,
+            "name": "Icarus J",
+            "given": "Icarus",
+            "family": "J",
+            "connected-accounts": [
+              {
+                "created": "2024-11-14T11:09:39+00:00",
+                "service": "github",
+                "identifier": "46210502",
+                "nickname": "CDN18",
+                "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
+                "href": "https://github.com/CDN18",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "ActivityPub",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/activitypub/",
+            "uri": "https://www.w3.org/TR/2018/REC-activitypub-20180123/",
+            "date": "2018-01-23",
+            "informative": false,
+            "title": "ActivityPub",
+            "shortlink": "https://www.w3.org/TR/activitypub/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=activitypub",
+            "errata": "https://www.w3.org/wiki/ActivityPub_errata",
+            "process-rules": "https://www.w3.org/2017/Process-20170301/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/activitypub/versions/20180123"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/activitypub/versions/20180123/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/activitypub/versions/20180123/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/activitypub"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/activitypub/versions/20180123/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/304/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/304"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/304/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/648"
+          }
+        },
+        "origTitle": "ActivityPub",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
       }
     ]
   },
@@ -31894,6 +32004,7 @@
             "connected-accounts": [
               {
                 "created": "2022-06-14T09:22:45+00:00",
+                "updated": "2024-11-14T17:28:20+00:00",
                 "service": "github",
                 "identifier": "2235222",
                 "nickname": "Antoine-Zimmermann",
@@ -48853,22 +48964,22 @@
       "process-rules": "https://www.w3.org/2018/Process-20180201/",
       "_links": {
         "self": {
-          "href": "https://api.w3.org/specifications/webaudio/versions/20180918"
+          "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918"
         },
         "editors": {
-          "href": "https://api.w3.org/specifications/webaudio/versions/20180918/editors"
+          "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/editors"
         },
         "deliverers": {
-          "href": "https://api.w3.org/specifications/webaudio/versions/20180918/deliverers"
+          "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/deliverers"
         },
         "specification": {
-          "href": "https://api.w3.org/specifications/webaudio"
+          "href": "https://api.w3.org/specifications/webaudio-1.0"
         },
         "predecessor-version": {
-          "href": "https://api.w3.org/specifications/webaudio/versions/20180918/predecessors"
+          "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/predecessors"
         },
         "successor-version": {
-          "href": "https://api.w3.org/specifications/webaudio/versions/20180918/successors"
+          "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/successors"
         },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/253/translations"
@@ -48913,22 +49024,22 @@
             "process-rules": "https://www.w3.org/2018/Process-20180201/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918/editors"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918/deliverers"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/webaudio"
+                "href": "https://api.w3.org/specifications/webaudio-1.0"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918/predecessors"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/predecessors"
               },
               "successor-version": {
-                "href": "https://api.w3.org/specifications/webaudio/versions/20180918/successors"
+                "href": "https://api.w3.org/specifications/webaudio-1.0/versions/20180918/successors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/253/translations"
