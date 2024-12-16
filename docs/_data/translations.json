@@ -2326,10 +2326,10 @@
       },
       {
         "states": [
-          "draft"
+          "published"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0010.html",
-        "title": "Intent to translate ActivityPub in Simplified Chinese",
+        "uri": "https://w3c.wholetrans.org/activitypub/",
+        "title": "ActivityPub",
         "language": "zh-hans",
         "translators": [
           {
@@ -2378,6 +2378,7 @@
             }
           }
         ],
+        "published": "2024-12-16T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "ActivityPub",
@@ -2430,8 +2431,8 @@
         },
         "origTitle": "ActivityPub",
         "isOutdated": false,
-        "isPublished": false,
-        "isPending": true,
+        "isPublished": true,
+        "isPending": false,
         "isInReview": false
       }
     ]
@@ -10517,10 +10518,10 @@
       },
       {
         "states": [
-          "draft"
+          "review"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023AprJun/0000.html",
-        "title": "Intent to translate Decentralized Identifiers (DIDs) v1.0 in Simplified Chinese",
+        "uri": "https://translated-did-core.github.io",
+        "title": "分布式标识（Decentralized Identifiers，DIDs) v1.0",
         "language": "zh-hans",
         "translators": [],
         "authorized": true,
@@ -10577,8 +10578,8 @@
         "origTitle": "Decentralized Identifiers (DIDs) v1.0",
         "isOutdated": false,
         "isPublished": false,
-        "isPending": true,
-        "isInReview": false
+        "isPending": false,
+        "isInReview": true
       },
       {
         "states": [
@@ -32224,11 +32225,11 @@
             "connected-accounts": [
               {
                 "created": "2022-06-14T09:22:45+00:00",
-                "updated": "2024-12-16T08:28:21+00:00",
+                "updated": "2024-12-16T13:28:43+00:00",
                 "service": "github",
                 "identifier": "2235222",
                 "nickname": "Antoine-Zimmermann",
-                "profile-picture": "https://private-avatars.githubusercontent.com/u/2235222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMzgzNDAsIm5iZiI6MTczNDMzNzE0MCwicGF0aCI6Ii91LzIyMzUyMj",
+                "profile-picture": "https://private-avatars.githubusercontent.com/u/2235222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNTYzNDAsIm5iZiI6MTczNDM1NTE0MCwicGF0aCI6Ii91LzIyMzUyMj",
                 "href": "https://github.com/Antoine-Zimmermann",
                 "_links": {
                   "user": {

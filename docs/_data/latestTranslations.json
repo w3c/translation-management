@@ -3,6 +3,117 @@
     "states": [
       "published"
     ],
+    "uri": "https://w3c.wholetrans.org/activitypub/",
+    "title": "ActivityPub",
+    "language": "zh-hans",
+    "translators": [
+      {
+        "id": 161962,
+        "name": "Icarus J",
+        "given": "Icarus",
+        "family": "J",
+        "connected-accounts": [
+          {
+            "created": "2024-11-14T11:09:39+00:00",
+            "service": "github",
+            "identifier": "46210502",
+            "nickname": "CDN18",
+            "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
+            "href": "https://github.com/CDN18",
+            "_links": {
+              "user": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+              }
+            }
+          }
+        ],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2024-12-16T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "ActivityPub",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://w3c.github.io/activitypub/",
+        "uri": "https://www.w3.org/TR/2018/REC-activitypub-20180123/",
+        "date": "2018-01-23",
+        "informative": false,
+        "title": "ActivityPub",
+        "shortlink": "https://www.w3.org/TR/activitypub/",
+        "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=activitypub",
+        "errata": "https://www.w3.org/wiki/ActivityPub_errata",
+        "process-rules": "https://www.w3.org/2017/Process-20170301/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/activitypub/versions/20180123"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/activitypub/versions/20180123/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/activitypub/versions/20180123/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/activitypub"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/activitypub/versions/20180123/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/304/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/304"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/304/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/648"
+      }
+    },
+    "origTitle": "ActivityPub",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://waic.jp/translations/WCAG20/Overview.html",
     "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
     "language": "ja",
@@ -1246,117 +1357,6 @@
       }
     },
     "origTitle": "Accessible Rich Internet Applications (WAI-ARIA) 1.2",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "https://momdo.github.io/dpub-aria-1.0/",
-    "title": "Digital Publishing WAI-ARIA Module 1.0日本語訳",
-    "language": "ja",
-    "translators": [
-      {
-        "id": 115881,
-        "name": "Naoki Nakamura",
-        "given": "Naoki",
-        "family": "Nakamura",
-        "connected-accounts": [
-          {
-            "created": "2023-08-27T08:29:01+00:00",
-            "service": "github",
-            "identifier": "8347177",
-            "nickname": "momdo",
-            "profile-picture": "https://avatars.githubusercontent.com/u/8347177?v=4",
-            "href": "https://github.com/momdo",
-            "_links": {
-              "user": {
-                "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
-              }
-            }
-          }
-        ],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2023-06-08T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "Digital Publishing WAI-ARIA Module 1.0",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/dpub-aria/",
-        "uri": "https://www.w3.org/TR/2017/REC-dpub-aria-1.0-20171214/",
-        "date": "2017-12-14",
-        "informative": false,
-        "title": "Digital Publishing WAI-ARIA Module 1.0",
-        "shortlink": "https://www.w3.org/TR/dpub-aria-1.0/",
-        "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=dpub-aria-1.0",
-        "errata": "https://www.w3.org/WAI/ARIA/1.1/errata/dpub",
-        "process-rules": "https://www.w3.org/2017/Process-20170301/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/dpub-aria-1.0/versions/20171214"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/dpub-aria-1.0/versions/20171214/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/dpub-aria-1.0/versions/20171214/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/dpub-aria-1.0"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/dpub-aria-1.0/versions/20171214/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/298/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/298"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/298/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/607"
-      }
-    },
-    "origTitle": "Digital Publishing WAI-ARIA Module 1.0",
     "isOutdated": false,
     "isPublished": true,
     "isPending": false,
