@@ -131,7 +131,8 @@
   },
   {
     "states": [
-      "published"
+      "published",
+      "outdated"
     ],
     "uri": "https://www.w3.org/Translations/WCAG22-nl/",
     "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
@@ -168,6 +169,9 @@
           "predecessor-version": {
             "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
           },
+          "successor-version": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+          },
           "translations": {
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
@@ -188,14 +192,15 @@
       }
     },
     "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-    "isOutdated": false,
+    "isOutdated": true,
     "isPublished": true,
     "isPending": false,
     "isInReview": false
   },
   {
     "states": [
-      "published"
+      "published",
+      "outdated"
     ],
     "uri": "https://www.w3.org/Translations/WCAG22-ca/",
     "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
@@ -232,6 +237,9 @@
           "predecessor-version": {
             "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
           },
+          "successor-version": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+          },
           "translations": {
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
@@ -252,7 +260,7 @@
       }
     },
     "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-    "isOutdated": false,
+    "isOutdated": true,
     "isPublished": true,
     "isPending": false,
     "isInReview": false
@@ -979,7 +987,8 @@
   },
   {
     "states": [
-      "published"
+      "published",
+      "outdated"
     ],
     "uri": "https://www.w3.org/Translations/WCAG22-it/",
     "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -1017,6 +1026,9 @@
           "predecessor-version": {
             "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
           },
+          "successor-version": {
+            "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+          },
           "translations": {
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
@@ -1037,7 +1049,7 @@
       }
     },
     "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-    "isOutdated": false,
+    "isOutdated": true,
     "isPublished": true,
     "isPending": false,
     "isInReview": false

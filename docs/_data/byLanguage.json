@@ -25449,7 +25449,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -25509,7 +25509,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -25581,7 +25581,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -25663,6 +25663,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
@@ -25676,13 +25679,14 @@
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2023-10-05",
         "id": "s-WCAG22",
         "translations": [
           {
             "states": [
-              "draft"
+              "draft",
+              "outdated"
             ],
             "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0006.html",
             "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.2 in Russian",
@@ -25763,6 +25767,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/301/translations"
                   }
@@ -25783,7 +25790,7 @@
               }
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": false,
             "isPending": true,
             "isInReview": false
@@ -25791,7 +25798,8 @@
         ],
         "hasAuthorizedTranslations": {
           "states": [
-            "published"
+            "published",
+            "outdated"
           ],
           "uri": "https://www.w3.org/Translations/WCAG22-it/",
           "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -25829,6 +25837,9 @@
                 "predecessor-version": {
                   "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                 },
+                "successor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                },
                 "translations": {
                   "href": "https://api.w3.org/callsfortranslation/301/translations"
                 }
@@ -25849,7 +25860,7 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "isOutdated": false,
+          "isOutdated": true,
           "isPublished": true,
           "isPending": false,
           "isInReview": false
@@ -26503,7 +26514,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 16
+    "latestRecsTotal": 15
   },
   "it": {
     "list": [
@@ -28680,7 +28691,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -28742,7 +28753,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -28813,7 +28824,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -28895,6 +28906,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
@@ -28908,13 +28922,14 @@
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2023-10-05",
         "id": "s-WCAG22",
         "translations": [
           {
             "states": [
-              "published"
+              "published",
+              "outdated"
             ],
             "uri": "https://www.w3.org/Translations/WCAG22-it/",
             "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -28952,6 +28967,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/301/translations"
                   }
@@ -28972,7 +28990,7 @@
               }
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -28980,7 +28998,8 @@
         ],
         "hasAuthorizedTranslations": {
           "states": [
-            "published"
+            "published",
+            "outdated"
           ],
           "uri": "https://www.w3.org/Translations/WCAG22-it/",
           "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -29018,6 +29037,9 @@
                 "predecessor-version": {
                   "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                 },
+                "successor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                },
                 "translations": {
                   "href": "https://api.w3.org/callsfortranslation/301/translations"
                 }
@@ -29038,7 +29060,7 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "isOutdated": false,
+          "isOutdated": true,
           "isPublished": true,
           "isPending": false,
           "isInReview": false
@@ -32454,7 +32476,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -32546,7 +32568,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -32617,7 +32639,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -36932,7 +36954,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -36992,7 +37014,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -37063,7 +37085,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -37122,6 +37144,324 @@
   },
   "zh-hans": {
     "list": [
+      {
+        "title": "Activity Streams 2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/activitystreams/core/",
+          "uri": "https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/",
+          "date": "2017-05-23",
+          "informative": false,
+          "title": "Activity Streams 2.0",
+          "shortlink": "https://www.w3.org/TR/activitystreams-core/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+          "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+          "process-rules": "https://www.w3.org/2017/Process-20170301/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/activitystreams-core"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/314/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/314"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/314/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2017-05-23",
+        "id": "s-activitystreams-core",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0026.html",
+            "title": "Intent to translate Activity Streams 2.0 into Simplified Chinese",
+            "language": "zh-hans",
+            "translators": [
+              {
+                "id": 161962,
+                "name": "Icarus J",
+                "given": "Icarus",
+                "family": "J",
+                "connected-accounts": [
+                  {
+                    "created": "2024-11-14T11:09:39+00:00",
+                    "service": "github",
+                    "identifier": "46210502",
+                    "nickname": "CDN18",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
+                    "href": "https://github.com/CDN18",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                      }
+                    }
+                  }
+                ],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/specifications"
+                  },
+                  "participations": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Activity Streams 2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "editor-draft": "https://w3c.github.io/activitystreams/core/",
+                "uri": "https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/",
+                "date": "2017-05-23",
+                "informative": false,
+                "title": "Activity Streams 2.0",
+                "shortlink": "https://www.w3.org/TR/activitystreams-core/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+                "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+                "process-rules": "https://www.w3.org/2017/Process-20170301/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/314/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/314"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/314/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/650"
+              }
+            },
+            "origTitle": "Activity Streams 2.0",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ]
+      },
+      {
+        "title": "Activity Vocabulary",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/activitystreams/vocabulary/",
+          "uri": "https://www.w3.org/TR/2017/REC-activitystreams-vocabulary-20170523/",
+          "date": "2017-05-23",
+          "informative": false,
+          "title": "Activity Vocabulary",
+          "shortlink": "https://www.w3.org/TR/activitystreams-vocabulary/",
+          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+          "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+          "process-rules": "https://www.w3.org/2017/Process-20170301/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/315/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/315"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/315/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2017-05-23",
+        "id": "s-activitystreams-vocabulary",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0026.html",
+            "title": "Intent to translate Activity Vocabulary into Simplified Chinese",
+            "language": "zh-hans",
+            "translators": [
+              {
+                "id": 161962,
+                "name": "Icarus J",
+                "given": "Icarus",
+                "family": "J",
+                "connected-accounts": [
+                  {
+                    "created": "2024-11-14T11:09:39+00:00",
+                    "service": "github",
+                    "identifier": "46210502",
+                    "nickname": "CDN18",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
+                    "href": "https://github.com/CDN18",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                      }
+                    }
+                  }
+                ],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/specifications"
+                  },
+                  "participations": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Activity Vocabulary",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "editor-draft": "https://w3c.github.io/activitystreams/vocabulary/",
+                "uri": "https://www.w3.org/TR/2017/REC-activitystreams-vocabulary-20170523/",
+                "date": "2017-05-23",
+                "informative": false,
+                "title": "Activity Vocabulary",
+                "shortlink": "https://www.w3.org/TR/activitystreams-vocabulary/",
+                "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+                "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+                "process-rules": "https://www.w3.org/2017/Process-20170301/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/315/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/315"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/315/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/649"
+              }
+            },
+            "origTitle": "Activity Vocabulary",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ]
+      },
       {
         "title": "ActivityPub",
         "spec-version": {
@@ -39717,8 +40057,7 @@
         "translations": [
           {
             "states": [
-              "published",
-              "outdated"
+              "published"
             ],
             "uri": "https://w3c-html-ig-zh.github.io/vibration/",
             "title": "振动接口",
@@ -39820,12 +40159,7 @@
               "self": {
                 "href": "https://api.w3.org/translations/487"
               }
-            },
-            "origTitle": "Vibration API",
-            "isOutdated": true,
-            "isPublished": true,
-            "isPending": false,
-            "isInReview": false
+            }
           }
         ]
       },
@@ -40009,7 +40343,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -40071,7 +40405,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -40142,7 +40476,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -40224,6 +40558,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
@@ -40237,13 +40574,14 @@
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2023-10-05",
         "id": "s-WCAG22",
         "translations": [
           {
             "states": [
-              "draft"
+              "draft",
+              "outdated"
             ],
             "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0006.html",
             "title": "Intent to translate WCAG 2.2 in Simplified Chinese",
@@ -40279,6 +40617,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/301/translations"
                   }
@@ -40299,7 +40640,7 @@
               }
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": false,
             "isPending": true,
             "isInReview": false
@@ -40307,7 +40648,8 @@
         ],
         "hasAuthorizedTranslations": {
           "states": [
-            "published"
+            "published",
+            "outdated"
           ],
           "uri": "https://www.w3.org/Translations/WCAG22-it/",
           "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -40345,6 +40687,9 @@
                 "predecessor-version": {
                   "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                 },
+                "successor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                },
                 "translations": {
                   "href": "https://api.w3.org/callsfortranslation/301/translations"
                 }
@@ -40365,7 +40710,7 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "isOutdated": false,
+          "isOutdated": true,
           "isPublished": true,
           "isPending": false,
           "isInReview": false
@@ -41077,7 +41422,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 17
+    "latestRecsTotal": 19
   },
   "de": {
     "list": [
@@ -43835,7 +44180,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -43897,7 +44242,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -43969,7 +44314,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -52629,11 +52974,11 @@
                 "connected-accounts": [
                   {
                     "created": "2022-06-14T09:22:45+00:00",
-                    "updated": "2024-11-14T17:28:20+00:00",
+                    "updated": "2024-12-16T08:28:21+00:00",
                     "service": "github",
                     "identifier": "2235222",
                     "nickname": "Antoine-Zimmermann",
-                    "profile-picture": "https://avatars.githubusercontent.com/u/2235222?v=4",
+                    "profile-picture": "https://private-avatars.githubusercontent.com/u/2235222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMzgzNDAsIm5iZiI6MTczNDMzNzE0MCwicGF0aCI6Ii91LzIyMzUyMj",
                     "href": "https://github.com/Antoine-Zimmermann",
                     "_links": {
                       "user": {
@@ -57297,7 +57642,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -57359,7 +57704,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -57430,7 +57775,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -57512,6 +57857,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
@@ -57525,13 +57873,14 @@
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2023-10-05",
         "id": "s-WCAG22",
         "translations": [
           {
             "states": [
-              "review"
+              "review",
+              "outdated"
             ],
             "uri": "https://wcag.access42.net/22/",
             "title": "Candidate Authorized French Translation of WCAG 2.2",
@@ -57567,6 +57916,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/301/translations"
                   }
@@ -57587,7 +57939,7 @@
               }
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": false,
             "isPending": false,
             "isInReview": true
@@ -57595,7 +57947,8 @@
         ],
         "hasAuthorizedTranslations": {
           "states": [
-            "published"
+            "published",
+            "outdated"
           ],
           "uri": "https://www.w3.org/Translations/WCAG22-it/",
           "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -57633,6 +57986,9 @@
                 "predecessor-version": {
                   "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                 },
+                "successor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                },
                 "translations": {
                   "href": "https://api.w3.org/callsfortranslation/301/translations"
                 }
@@ -57653,7 +58009,7 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "isOutdated": false,
+          "isOutdated": true,
           "isPublished": true,
           "isPending": false,
           "isInReview": false
@@ -62758,7 +63114,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -62819,7 +63175,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -62890,7 +63246,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -62972,6 +63328,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
@@ -62985,13 +63344,14 @@
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2023-10-05",
         "id": "s-WCAG22",
         "translations": [
           {
             "states": [
-              "review"
+              "review",
+              "outdated"
             ],
             "uri": "https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/",
             "title": "Candidate Authorized Portuguese (Brazil) Translation of WCAG 2.2",
@@ -63027,6 +63387,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/301/translations"
                   }
@@ -63047,7 +63410,7 @@
               }
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": false,
             "isPending": false,
             "isInReview": true
@@ -63055,7 +63418,8 @@
         ],
         "hasAuthorizedTranslations": {
           "states": [
-            "published"
+            "published",
+            "outdated"
           ],
           "uri": "https://www.w3.org/Translations/WCAG22-it/",
           "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -63093,6 +63457,9 @@
                 "predecessor-version": {
                   "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                 },
+                "successor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                },
                 "translations": {
                   "href": "https://api.w3.org/callsfortranslation/301/translations"
                 }
@@ -63113,7 +63480,7 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "isOutdated": false,
+          "isOutdated": true,
           "isPublished": true,
           "isPending": false,
           "isInReview": false
@@ -63124,6 +63491,7 @@
         "spec-version": {
           "status": "Note",
           "rec-track": false,
+          "editor-draft": "https://w3c.github.io/timezone/",
           "uri": "https://www.w3.org/TR/2005/NOTE-timezone-20051013/",
           "date": "2005-10-13",
           "informative": false,
@@ -63210,6 +63578,7 @@
               "spec-version": {
                 "status": "Note",
                 "rec-track": false,
+                "editor-draft": "https://w3c.github.io/timezone/",
                 "uri": "https://www.w3.org/TR/2005/NOTE-timezone-20051013/",
                 "date": "2005-10-13",
                 "informative": false,
@@ -65378,7 +65747,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -65439,7 +65808,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -65510,7 +65879,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -67929,22 +68298,22 @@
           "process-rules": "http://www.w3.org/2005/10/Process-20051014/",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/pointerevents/versions/20150224"
+              "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/editors"
+              "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/deliverers"
+              "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/pointerevents"
+              "href": "https://api.w3.org/specifications/pointerevents1"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/predecessors"
+              "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/predecessors"
             },
             "successor-version": {
-              "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/successors"
+              "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/successors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/224/translations"
@@ -68020,22 +68389,22 @@
                 "process-rules": "http://www.w3.org/2005/10/Process-20051014/",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/pointerevents/versions/20150224"
+                    "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/editors"
+                    "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/deliverers"
+                    "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/pointerevents"
+                    "href": "https://api.w3.org/specifications/pointerevents1"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/predecessors"
+                    "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/predecessors"
                   },
                   "successor-version": {
-                    "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/successors"
+                    "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/successors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/224/translations"
@@ -69111,8 +69480,7 @@
         "translations": [
           {
             "states": [
-              "published",
-              "outdated"
+              "published"
             ],
             "uri": "http://techhtml.github.io/vibration/",
             "title": "진동 API (Vibration API)",
@@ -69198,12 +69566,7 @@
               "self": {
                 "href": "https://api.w3.org/translations/436"
               }
-            },
-            "origTitle": "Vibration API",
-            "isOutdated": true,
-            "isPublished": true,
-            "isPending": false,
-            "isInReview": false
+            }
           }
         ]
       },
@@ -69446,7 +69809,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -69555,7 +69918,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -69626,7 +69989,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -69708,6 +70071,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
@@ -69721,13 +70087,14 @@
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2023-10-05",
         "id": "s-WCAG22",
         "translations": [
           {
             "states": [
-              "draft"
+              "draft",
+              "outdated"
             ],
             "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0002.html",
             "title": "Intent to translate WCAG 2.2 in Korean",
@@ -69810,6 +70177,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/301/translations"
                   }
@@ -69830,7 +70200,7 @@
               }
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": false,
             "isPending": true,
             "isInReview": false
@@ -69838,7 +70208,8 @@
         ],
         "hasAuthorizedTranslations": {
           "states": [
-            "published"
+            "published",
+            "outdated"
           ],
           "uri": "https://www.w3.org/Translations/WCAG22-it/",
           "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -69876,6 +70247,9 @@
                 "predecessor-version": {
                   "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                 },
+                "successor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                },
                 "translations": {
                   "href": "https://api.w3.org/callsfortranslation/301/translations"
                 }
@@ -69896,7 +70270,7 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "isOutdated": false,
+          "isOutdated": true,
           "isPublished": true,
           "isPending": false,
           "isInReview": false
@@ -70484,7 +70858,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 11
+    "latestRecsTotal": 10
   },
   "nl": {
     "list": [
@@ -70966,7 +71340,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -71028,7 +71402,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -71099,7 +71473,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -71181,6 +71555,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
@@ -71194,13 +71571,14 @@
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2023-10-05",
         "id": "s-WCAG22",
         "translations": [
           {
             "states": [
-              "published"
+              "published",
+              "outdated"
             ],
             "uri": "https://www.w3.org/Translations/WCAG22-nl/",
             "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
@@ -71237,6 +71615,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/301/translations"
                   }
@@ -71257,7 +71638,7 @@
               }
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -71265,7 +71646,8 @@
         ],
         "hasAuthorizedTranslations": {
           "states": [
-            "published"
+            "published",
+            "outdated"
           ],
           "uri": "https://www.w3.org/Translations/WCAG22-it/",
           "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -71303,6 +71685,9 @@
                 "predecessor-version": {
                   "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                 },
+                "successor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                },
                 "translations": {
                   "href": "https://api.w3.org/callsfortranslation/301/translations"
                 }
@@ -71323,7 +71708,7 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "isOutdated": false,
+          "isOutdated": true,
           "isPublished": true,
           "isPending": false,
           "isInReview": false
@@ -72514,7 +72899,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -72575,7 +72960,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -72646,7 +73031,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -73472,7 +73857,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -73534,7 +73919,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -73605,7 +73990,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -73687,6 +74072,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
@@ -73700,13 +74088,14 @@
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2023-10-05",
         "id": "s-WCAG22",
         "translations": [
           {
             "states": [
-              "draft"
+              "draft",
+              "outdated"
             ],
             "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0026.htmlv",
             "title": "Intent to translate WCAG 2.2 in Arabic",
@@ -73742,6 +74131,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/301/translations"
                   }
@@ -73762,7 +74154,7 @@
               }
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": false,
             "isPending": true,
             "isInReview": false
@@ -73770,7 +74162,8 @@
         ],
         "hasAuthorizedTranslations": {
           "states": [
-            "published"
+            "published",
+            "outdated"
           ],
           "uri": "https://www.w3.org/Translations/WCAG22-it/",
           "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -73808,6 +74201,9 @@
                 "predecessor-version": {
                   "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                 },
+                "successor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                },
                 "translations": {
                   "href": "https://api.w3.org/callsfortranslation/301/translations"
                 }
@@ -73828,7 +74224,7 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "isOutdated": false,
+          "isOutdated": true,
           "isPublished": true,
           "isPending": false,
           "isInReview": false
@@ -75350,7 +75746,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -75412,7 +75808,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -75483,7 +75879,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -77194,7 +77590,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -77256,7 +77652,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -77327,7 +77723,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -80044,7 +80440,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -80105,7 +80501,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -80176,7 +80572,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -82451,7 +82847,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -82513,7 +82909,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -82584,7 +82980,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -84206,7 +84602,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -84299,7 +84695,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -84370,7 +84766,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -84995,7 +85391,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -85057,7 +85453,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -85128,7 +85524,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -85367,7 +85763,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -85429,7 +85825,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -85500,7 +85896,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -85582,6 +85978,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
@@ -85595,13 +85994,14 @@
             "href": "https://api.w3.org/callsfortranslation/301/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2023-10-05",
         "id": "s-WCAG22",
         "translations": [
           {
             "states": [
-              "published"
+              "published",
+              "outdated"
             ],
             "uri": "https://www.w3.org/Translations/WCAG22-ca/",
             "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
@@ -85638,6 +86038,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/301/translations"
                   }
@@ -85658,7 +86061,7 @@
               }
             },
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -85666,7 +86069,8 @@
         ],
         "hasAuthorizedTranslations": {
           "states": [
-            "published"
+            "published",
+            "outdated"
           ],
           "uri": "https://www.w3.org/Translations/WCAG22-it/",
           "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -85704,6 +86108,9 @@
                 "predecessor-version": {
                   "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
                 },
+                "successor-version": {
+                  "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                },
                 "translations": {
                   "href": "https://api.w3.org/callsfortranslation/301/translations"
                 }
@@ -85724,7 +86131,7 @@
             }
           },
           "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "isOutdated": false,
+          "isOutdated": true,
           "isPublished": true,
           "isPending": false,
           "isInReview": false
@@ -86229,7 +86636,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -86291,7 +86698,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -86362,7 +86769,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -86986,7 +87393,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -87047,7 +87454,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -87118,7 +87525,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,
@@ -87923,7 +88330,7 @@
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
           "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
           "date": "2018-06-05",
           "informative": false,
@@ -87984,7 +88391,7 @@
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
-                "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+                "editor-draft": "https://w3c.github.io/wcag/guidelines/",
                 "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
                 "date": "2018-06-05",
                 "informative": false,
@@ -88055,7 +88462,7 @@
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
-              "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+              "editor-draft": "https://w3c.github.io/wcag/guidelines/",
               "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
               "date": "2018-06-05",
               "informative": false,

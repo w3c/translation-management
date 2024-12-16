@@ -11465,6 +11465,116 @@
     "date": "2017-05-23",
     "year": "2017",
     "translations": {
+      "zh-hans": {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0026.html",
+        "title": "Intent to translate Activity Streams 2.0 into Simplified Chinese",
+        "language": "zh-hans",
+        "translators": [
+          {
+            "id": 161962,
+            "name": "Icarus J",
+            "given": "Icarus",
+            "family": "J",
+            "connected-accounts": [
+              {
+                "created": "2024-11-14T11:09:39+00:00",
+                "service": "github",
+                "identifier": "46210502",
+                "nickname": "CDN18",
+                "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
+                "href": "https://github.com/CDN18",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Activity Streams 2.0",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/activitystreams/core/",
+            "uri": "https://www.w3.org/TR/2017/REC-activitystreams-core-20170523/",
+            "date": "2017-05-23",
+            "informative": false,
+            "title": "Activity Streams 2.0",
+            "shortlink": "https://www.w3.org/TR/activitystreams-core/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+            "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+            "process-rules": "https://www.w3.org/2017/Process-20170301/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/activitystreams-core"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/activitystreams-core/versions/20170523/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/314/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/314"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/314/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/650"
+          }
+        },
+        "origTitle": "Activity Streams 2.0",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
       "ja": {
         "states": [
           "draft"
@@ -11606,6 +11716,116 @@
     "date": "2017-05-23",
     "year": "2017",
     "translations": {
+      "zh-hans": {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0026.html",
+        "title": "Intent to translate Activity Vocabulary into Simplified Chinese",
+        "language": "zh-hans",
+        "translators": [
+          {
+            "id": 161962,
+            "name": "Icarus J",
+            "given": "Icarus",
+            "family": "J",
+            "connected-accounts": [
+              {
+                "created": "2024-11-14T11:09:39+00:00",
+                "service": "github",
+                "identifier": "46210502",
+                "nickname": "CDN18",
+                "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
+                "href": "https://github.com/CDN18",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Activity Vocabulary",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/activitystreams/vocabulary/",
+            "uri": "https://www.w3.org/TR/2017/REC-activitystreams-vocabulary-20170523/",
+            "date": "2017-05-23",
+            "informative": false,
+            "title": "Activity Vocabulary",
+            "shortlink": "https://www.w3.org/TR/activitystreams-vocabulary/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+            "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+            "process-rules": "https://www.w3.org/2017/Process-20170301/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/315/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/315"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/315/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/649"
+          }
+        },
+        "origTitle": "Activity Vocabulary",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
       "ja": {
         "states": [
           "draft"
@@ -12261,7 +12481,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/html-aria/versions/20240507",
+        "href": "https://api.w3.org/specifications/html-aria/versions/20241213",
         "title": "Recommendation"
       },
       "series": {
@@ -12269,7 +12489,7 @@
       }
     },
     "isLatest": true,
-    "date": "2024-05-07",
+    "date": "2024-12-13",
     "year": "2024",
     "translations": {
       "ja": {
@@ -25763,11 +25983,11 @@
             "connected-accounts": [
               {
                 "created": "2022-06-14T09:22:45+00:00",
-                "updated": "2024-11-14T17:28:20+00:00",
+                "updated": "2024-12-16T08:28:21+00:00",
                 "service": "github",
                 "identifier": "2235222",
                 "nickname": "Antoine-Zimmermann",
-                "profile-picture": "https://avatars.githubusercontent.com/u/2235222?v=4",
+                "profile-picture": "https://private-avatars.githubusercontent.com/u/2235222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMzgzNDAsIm5iZiI6MTczNDMzNzE0MCwicGF0aCI6Ii91LzIyMzUyMj",
                 "href": "https://github.com/Antoine-Zimmermann",
                 "_links": {
                   "user": {
@@ -26967,21 +27187,21 @@
     "shortlink": "https://www.w3.org/TR/pointerevents/",
     "description": "<p>Defines events and interfaces for handling hardware agnostic pointer input from devices such as mouse, pen or touchscreen.</p>",
     "title": "Pointer Events",
-    "shortname": "pointerevents",
+    "shortname": "pointerevents1",
     "editor-draft": "https://dvcs.w3.org/hg/pointerevents/raw-file/tip/pointerEvents.html",
     "_links": {
       "self": {
-        "href": "https://api.w3.org/specifications/pointerevents"
+        "href": "https://api.w3.org/specifications/pointerevents1"
       },
       "version-history": {
-        "href": "https://api.w3.org/specifications/pointerevents/versions"
+        "href": "https://api.w3.org/specifications/pointerevents1/versions"
       },
       "first-version": {
-        "href": "https://api.w3.org/specifications/pointerevents/versions/20121211",
+        "href": "https://api.w3.org/specifications/pointerevents1/versions/20121211",
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/pointerevents/versions/20190404",
+        "href": "https://api.w3.org/specifications/pointerevents1/versions/20190404",
         "title": "Retired"
       },
       "series": {
@@ -27049,22 +27269,22 @@
             "process-rules": "http://www.w3.org/2005/10/Process-20051014/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/pointerevents/versions/20150224"
+                "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/editors"
+                "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/deliverers"
+                "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/deliverers"
               },
               "specification": {
-                "href": "https://api.w3.org/specifications/pointerevents"
+                "href": "https://api.w3.org/specifications/pointerevents1"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/predecessors"
+                "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/predecessors"
               },
               "successor-version": {
-                "href": "https://api.w3.org/specifications/pointerevents/versions/20150224/successors"
+                "href": "https://api.w3.org/specifications/pointerevents1/versions/20150224/successors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/224/translations"
@@ -27836,6 +28056,132 @@
           }
         },
         "origTitle": "XML Schema Part 1: Structures",
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    }
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/xmlschema-2/",
+    "description": "<p> <em>XML Schema: Datatypes</em> is part 2 of the specification of the XML Schema language. It defines facilities for defining datatypes to be used in XML Schemas as well as other XML specifications. The datatype language, which is itself represented in XML 1.0, provides a superset of the capabilities found in XML 1.0 document type definitions (DTDs) for specifying datatypes on elements and attributes. </p>",
+    "title": "XML Schema Part 2: Datatypes Second Edition",
+    "shortname": "xmlschema-2",
+    "series-version": "2",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/xmlschema-2"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/xmlschema-2/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/xmlschema-2/versions/19990506",
+        "title": "Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/xmlschema-2/versions/20041028",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/xmlschema"
+      }
+    },
+    "isLatest": true,
+    "date": "2004-10-28",
+    "year": "2004",
+    "translations": {
+      "de": {
+        "states": [
+          "published",
+          "outdated"
+        ],
+        "uri": "http://www.edition-w3c.de/TR/2001/REC-xmlschema-2-20010502/",
+        "title": "XML Schema Teil 2: Datentypen",
+        "language": "de",
+        "translators": [
+          {
+            "id": 15951,
+            "name": "Mario Jeckle",
+            "given": "Mario",
+            "family": "Jeckle",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "XML Schema Part 2: Datatypes",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2001/REC-xmlschema-2-20010502/",
+            "date": "2001-05-02",
+            "informative": false,
+            "title": "XML Schema Part 2: Datatypes",
+            "shortlink": "https://www.w3.org/TR/xmlschema-2/",
+            "errata": "https://www.w3.org/2001/05/xmlschema-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xmlschema-2"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/26/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/26"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/26/translations"
+            }
+          }
+        },
+        "comments": "Other translation authors: Toby Baier, Michael Ebert, Andreas Geissel, Nik Klever, Elke Meier, Sebastian Werner",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/38"
+          }
+        },
+        "origTitle": "XML Schema Part 2: Datatypes",
         "isOutdated": true,
         "isPublished": true,
         "isPending": false,
@@ -38996,246 +39342,7 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/vibration/",
-    "description": "<p>An API to control the device's vibrator.</p>",
-    "title": "Vibration API (Second Edition)",
-    "shortname": "vibration",
-    "editor-draft": "https://w3c.github.io/vibration/",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/vibration"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/vibration/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/vibration/versions/20111117",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/vibration/versions/20161018",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/vibration"
-      }
-    },
-    "isLatest": true,
-    "date": "2016-10-18",
-    "year": "2016",
-    "translations": {
-      "zh-hans": {
-        "states": [
-          "published",
-          "outdated"
-        ],
-        "uri": "https://w3c-html-ig-zh.github.io/vibration/",
-        "title": "振动接口",
-        "language": "zh-hans",
-        "translators": [
-          {
-            "id": 64561,
-            "name": "Zhiqiang Zhang",
-            "given": "Zhiqiang",
-            "family": "Zhang",
-            "work-title": "Senior Software Engineer",
-            "connected-accounts": [
-              {
-                "created": "2017-10-20T04:05:52+00:00",
-                "updated": "2021-01-21T10:44:59+00:00",
-                "service": "github",
-                "identifier": "1644501",
-                "nickname": "zqzhang",
-                "profile-picture": "https://avatars.githubusercontent.com/u/1644501?v=4",
-                "href": "https://github.com/zqzhang",
-                "_links": {
-                  "user": {
-                    "href": "https://api.w3.org/users/3ibfzjjkreyos8o0ggwg8kowccswwc0"
-                  }
-                }
-              }
-            ],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/3ibfzjjkreyos8o0ggwg8kowccswwc0"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/3ibfzjjkreyos8o0ggwg8kowccswwc0/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/3ibfzjjkreyos8o0ggwg8kowccswwc0/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/3ibfzjjkreyos8o0ggwg8kowccswwc0/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/3ibfzjjkreyos8o0ggwg8kowccswwc0/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/3ibfzjjkreyos8o0ggwg8kowccswwc0/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/3ibfzjjkreyos8o0ggwg8kowccswwc0/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2015-06-03T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Vibration API",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "editor-draft": "https://w3c.github.io/vibration/",
-            "uri": "https://www.w3.org/TR/2015/REC-vibration-20150210/",
-            "date": "2015-02-10",
-            "informative": false,
-            "title": "Vibration API",
-            "shortlink": "https://www.w3.org/TR/vibration/",
-            "process-rules": "http://www.w3.org/2005/10/Process-20051014/",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/vibration/versions/20150210"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/vibration/versions/20150210/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/vibration/versions/20150210/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/vibration"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/vibration/versions/20150210/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/218/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/218"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/218/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/487"
-          }
-        },
-        "origTitle": "Vibration API",
-        "isOutdated": true,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      },
-      "ko": {
-        "states": [
-          "published",
-          "outdated"
-        ],
-        "uri": "http://techhtml.github.io/vibration/",
-        "title": "진동 API (Vibration API)",
-        "language": "ko",
-        "translators": [
-          {
-            "id": 70450,
-            "name": "Eun Cho",
-            "given": "Eun",
-            "family": "Cho",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/d906yw6av88ccs08kcgwgcskkw4wc0c"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/d906yw6av88ccs08kcgwgcskkw4wc0c/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/d906yw6av88ccs08kcgwgcskkw4wc0c/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/d906yw6av88ccs08kcgwgcskkw4wc0c/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/d906yw6av88ccs08kcgwgcskkw4wc0c/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/d906yw6av88ccs08kcgwgcskkw4wc0c/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/d906yw6av88ccs08kcgwgcskkw4wc0c/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2015-12-07T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Vibration API",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "editor-draft": "https://w3c.github.io/vibration/",
-            "uri": "https://www.w3.org/TR/2015/REC-vibration-20150210/",
-            "date": "2015-02-10",
-            "informative": false,
-            "title": "Vibration API",
-            "shortlink": "https://www.w3.org/TR/vibration/",
-            "process-rules": "http://www.w3.org/2005/10/Process-20051014/",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/vibration/versions/20150210"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/vibration/versions/20150210/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/vibration/versions/20150210/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/vibration"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/vibration/versions/20150210/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/218/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/218"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/218/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/436"
-          }
-        },
-        "origTitle": "Vibration API",
-        "isOutdated": true,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
-  },
-  {
-    "shortlink": "https://www.w3.org/TR/webaudio/",
+    "shortlink": "https://www.w3.org/TR/webaudio-1.0/",
     "description": "<p>This specification describes a high-level JavaScript API for processing and synthesizing audio in web applications. The primary paradigm is of an audio routing graph, where a number of AudioNode objects are connected together to define the overall audio rendering. The actual processing will primarily take place in the underlying implementation (typically optimized Assembly / C / C++ code), but direct JavaScript processing and synthesis is also supported.</p>",
     "title": "Web Audio API",
     "shortname": "webaudio-1.0",
@@ -40483,7 +40590,7 @@
     "description": "<p>Web Content Accessibility Guidelines (WCAG) 2.1 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity, and combinations of these. These guidelines address accessibility of web content on desktops, laptops, tablets, and mobile devices. Following these guidelines will also often make your Web content more usable to users in general.</p>",
     "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
     "shortname": "WCAG21",
-    "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+    "editor-draft": "https://w3c.github.io/wcag/guidelines/",
     "series-version": "2.1",
     "_links": {
       "self": {
@@ -40497,7 +40604,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/WCAG21/versions/20230921",
+        "href": "https://api.w3.org/specifications/WCAG21/versions/20241212",
         "title": "Recommendation"
       },
       "series": {
@@ -40505,8 +40612,8 @@
       }
     },
     "isLatest": true,
-    "date": "2023-09-21",
-    "year": "2023",
+    "date": "2024-12-12",
+    "year": "2024",
     "translations": {
       "ar": {
         "states": [
@@ -40525,7 +40632,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -40593,7 +40700,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -40663,7 +40770,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -40733,7 +40840,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -40802,7 +40909,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -40872,7 +40979,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -40942,7 +41049,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41042,7 +41149,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41112,7 +41219,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41182,7 +41289,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41252,7 +41359,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41354,7 +41461,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41424,7 +41531,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41541,7 +41648,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41611,7 +41718,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41681,7 +41788,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41750,7 +41857,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41819,7 +41926,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41887,7 +41994,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -41957,7 +42064,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -42026,7 +42133,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -42095,7 +42202,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -42165,7 +42272,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/",
             "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
             "date": "2018-06-05",
             "informative": false,
@@ -43392,7 +43499,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/WCAG22/versions/20231005",
+        "href": "https://api.w3.org/specifications/WCAG22/versions/20241212",
         "title": "Recommendation"
       },
       "series": {
@@ -43400,12 +43507,13 @@
       }
     },
     "isLatest": true,
-    "date": "2023-10-05",
-    "year": "2023",
+    "date": "2024-12-12",
+    "year": "2024",
     "translations": {
       "ar": {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0026.htmlv",
         "title": "Intent to translate WCAG 2.2 in Arabic",
@@ -43441,6 +43549,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
@@ -43461,14 +43572,15 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
       },
       "ca": {
         "states": [
-          "published"
+          "published",
+          "outdated"
         ],
         "uri": "https://www.w3.org/Translations/WCAG22-ca/",
         "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
@@ -43505,6 +43617,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
@@ -43525,14 +43640,15 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       },
       "zh-hans": {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0006.html",
         "title": "Intent to translate WCAG 2.2 in Simplified Chinese",
@@ -43568,6 +43684,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
@@ -43588,14 +43707,15 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
       },
       "nl": {
         "states": [
-          "published"
+          "published",
+          "outdated"
         ],
         "uri": "https://www.w3.org/Translations/WCAG22-nl/",
         "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
@@ -43632,6 +43752,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
@@ -43652,14 +43775,15 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       },
       "fr": {
         "states": [
-          "review"
+          "review",
+          "outdated"
         ],
         "uri": "https://wcag.access42.net/22/",
         "title": "Candidate Authorized French Translation of WCAG 2.2",
@@ -43695,6 +43819,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
@@ -43715,14 +43842,15 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": false,
         "isInReview": true
       },
       "it": {
         "states": [
-          "published"
+          "published",
+          "outdated"
         ],
         "uri": "https://www.w3.org/Translations/WCAG22-it/",
         "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -43760,6 +43888,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
@@ -43780,14 +43911,15 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       },
       "ko": {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0002.html",
         "title": "Intent to translate WCAG 2.2 in Korean",
@@ -43870,6 +44002,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
@@ -43890,14 +44025,15 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
       },
       "pt-br": {
         "states": [
-          "review"
+          "review",
+          "outdated"
         ],
         "uri": "https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/",
         "title": "Candidate Authorized Portuguese (Brazil) Translation of WCAG 2.2",
@@ -43933,6 +44069,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
@@ -43953,14 +44092,15 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": false,
         "isInReview": true
       },
       "ru": {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0006.html",
         "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.2 in Russian",
@@ -44041,6 +44181,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
@@ -44061,7 +44204,7 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
@@ -44163,132 +44306,6 @@
     "date": "2024-08-22",
     "year": "2024",
     "translations": {}
-  },
-  {
-    "shortlink": "https://www.w3.org/TR/xmlschema-2/",
-    "description": "<p> <em>XML Schema: Datatypes</em> is part 2 of the specification of the XML Schema language. It defines facilities for defining datatypes to be used in XML Schemas as well as other XML specifications. The datatype language, which is itself represented in XML 1.0, provides a superset of the capabilities found in XML 1.0 document type definitions (DTDs) for specifying datatypes on elements and attributes. </p>",
-    "title": "XML Schema Part 2: Datatypes Second Edition",
-    "shortname": "xmlschema-2",
-    "series-version": "2",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/xmlschema-2"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/xmlschema-2/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/xmlschema-2/versions/19990506",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/xmlschema-2/versions/20041028",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/xmlschema"
-      }
-    },
-    "isLatest": true,
-    "date": "2004-10-28",
-    "year": "2004",
-    "translations": {
-      "de": {
-        "states": [
-          "published",
-          "outdated"
-        ],
-        "uri": "http://www.edition-w3c.de/TR/2001/REC-xmlschema-2-20010502/",
-        "title": "XML Schema Teil 2: Datentypen",
-        "language": "de",
-        "translators": [
-          {
-            "id": 15951,
-            "name": "Mario Jeckle",
-            "given": "Mario",
-            "family": "Jeckle",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/kbi73c7brio8wgwgs4csogckk4sk8g4/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "authorized": false,
-        "call-for-translation": {
-          "title": "XML Schema Part 2: Datatypes",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2001/REC-xmlschema-2-20010502/",
-            "date": "2001-05-02",
-            "informative": false,
-            "title": "XML Schema Part 2: Datatypes",
-            "shortlink": "https://www.w3.org/TR/xmlschema-2/",
-            "errata": "https://www.w3.org/2001/05/xmlschema-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xmlschema-2"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xmlschema-2/versions/20010502/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/26/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/26"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/26/translations"
-            }
-          }
-        },
-        "comments": "Other translation authors: Toby Baier, Michael Ebert, Andreas Geissel, Nik Klever, Elke Meier, Sebastian Werner",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/38"
-          }
-        },
-        "origTitle": "XML Schema Part 2: Datatypes",
-        "isOutdated": true,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
   },
   {
     "shortlink": "https://www.w3.org/TR/xml-stylesheet/",
