@@ -18,6 +18,8 @@ description: Translations of W3C Specifications
 baseurl: "/translations" # the subpath of your site, e.g. /blog
 
 # Build settings
+plugins:
+  - jekyll-remote-theme
 remote_theme: w3c/w3c-jekyll-theme
 
 defaults:
