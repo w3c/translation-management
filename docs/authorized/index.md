@@ -9,8 +9,8 @@ See also the [broader list of translations of W3C Recommendations](../) (includi
 {% assign cfts = site.data.translations | sort: "date"|reverse %}
 {%- for cft in cfts -%}
 {% if cft.hasAuthorizedTranslations %}
-<section id="{{cft.id}}">
-  <h2 class="txt-mars"><a href="{{cft['spec-version'].uri}}">{{cft.title}}</a><a class='self-link' href='#{{cft.id}}'></a></h2>
+<section>
+  <h2 id="{{cft.id}}" class="txt-mars"><a href="{{cft['spec-version'].uri}}">{{cft.title}}</a></h2>
   <ul>
     {% for translation in cft.translations -%}
     {%- if translation.states contains 'published' and translation.authorized -%}

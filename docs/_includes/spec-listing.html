@@ -1,5 +1,5 @@
-<section id="{{cft.id}}">
-  <h3><a href="{{cft['spec-version'].uri}}">{{cft.title}}</a><a class='self-link' href='#{{cft.id}}'></a></h3>
+<section>
+  <h3 id="{{cft.id}}"><a href="{{cft['spec-version'].uri}}">{{cft.title}}</a></h3>
   <ul>
     {% for translation in cft.translations -%}
     {%- if translation.states contains 'published' -%}
