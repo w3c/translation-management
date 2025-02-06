@@ -43,7 +43,7 @@ W3C encourages translations of the following resources:
 ## Review criteria for volunteer translations  {#criteria}
 
 - W3C expects translations to be in HTML, with [valid markup](https://validator.w3.org/), [valid CSS](https://jigsaw.w3.org/css-validator/) and [valid links](https://validator.w3.org/checklink).
-- **Do not change or adapt or add to the meaning of the English version in your translation**. If you have suggestions for changes to the English version, provide them to the technical report editors as indicated in Status of this Document section of the technical report.
+- **Do not change, adapt or add to the meaning of the English version in your translation**. If you have suggestions for changes to the English version, provide them to the technical report editors as indicated in Status of this Document section of the technical report.
 - As documented in the [translation policy](https://www.w3.org/copyright/intellectual-rights/#translate), translations of W3C specifications need to:
 
   - have a prominent link back to the original specification, and
