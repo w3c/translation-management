@@ -13,6 +13,7 @@ const tbodies = [...document.querySelector("table").querySelectorAll("tbody")];
 const rows = [...document.querySelector("table").querySelectorAll("tr")];
 
 const filterInput = document.createElement("input");
+filterInput.setAttribute("type", "search");
 filterInput.setAttribute("aria-label", "Filter list of specifications by title or URL");
 filterInput.setAttribute("aria-controls", tbodies.map(x => x.id).join(" "));
 

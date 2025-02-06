@@ -1,11 +1,8 @@
-<span dir="auto" lang="{{translation.language}}">{{site.data.lang[translation.language].nativeName}}</span> ({{site.data.lang[translation.language].name}}){% if translation.authorized %}<span aria-labelledby="Authorized Translation" aria-role="img"> Authorized</span>{% endif %}: <a hreflang="{{translation.language}}" href="{{translation.uri}}"><cite dir="auto" dir=auto lang={{translation.language}}>{{translation.title}}</cite></a>
-          {% if translation.authorized %}
-           &mdash; Lead Translation Organization: {{ translation['lto_name'] }}
-          {% else %}
-          {% if translation.translators.size > 0 %}
-           &mdash; Translators: {% for translator in translation.translators %}{{translator.name}}{% endfor %}
-          {% else %}
-          &mdash; {{ translation.comments | replace: "Translation author", "Translator"}}
-          {% endif %}
-          {% endif %}
-
+<strong><span dir="auto" lang="{{translation.language}}">{{site.data.lang[translation.language].nativeName}}</span> ({{site.data.lang[translation.language].name}}){% if translation.authorized %} <span aria-labelledby="Authorized Translation" aria-role="img">Authorized</span>{% endif %}:</strong> <cite dir="auto" lang="{{translation.language}}"><a hreflang="{{translation.language}}" href="{{translation.uri}}">{{translation.title}}</a></cite><br>
+{%- if translation.authorized -%}
+Lead Translation Organization: {{ translation['lto_name'] }}
+{%- elsif translation.translators.size > 0 -%}
+Translators: {% for translator in translation.translators %}{{translator.name}}{% endfor %}
+{%- else -%}
+{{ translation.comments | replace: "Translation author", "Translator"}}
+{%- endif -%}

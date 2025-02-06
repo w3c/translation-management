@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
+# This config file is meant for settings that affect your whole site, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
@@ -14,32 +14,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "W3C Specification Translations"
-email: dom@w3.org
 description: Translations of W3C Specifications
-baseurl: "/Translations/" # the subpath of your site, e.g. /blog
-url: "https://www.w3.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: w3cdevs
-github_username:  w3c
+baseurl: "/translations" # the subpath of your site, e.g. /blog
 
 # Build settings
-markdown: kramdown
-theme: minima
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-remote-theme
+remote_theme: w3c/w3c-jekyll-theme
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default" # by default, use the default layout from the theme
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
-   - Gemfile
-   - Gemfile.lock
-   - node_modules
-   - package.json
-   - package-lock.json
-   - config.json
-   - config.json.dist
-   - fetch-translation-data.js
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - README.md
+  - "**/README.md"

@@ -7,7 +7,7 @@ layout: null
   <channel rdf:about=''>
     <title>W3C Translations</title>
     <description>Recent translations of W3C specifications</description>
-    <link>https://www.w3.org/Translations/</link>
+    <link>https://www.w3.org/translations/</link>
     <dc:date>{{site.data.latestTranslations[0].published}}</dc:date>
     {% assign translations = site.data.latestTranslations %}
     <items>
