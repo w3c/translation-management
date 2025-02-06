@@ -120,10 +120,10 @@ dl.legend dt { width: 2.5em; padding: 0.5em; text-align: center; margin-right: 1
 table { border-collapse: collapse; }
 th, tfoot td { border-right: 1px black solid; }
 tfoot td { text-align: right; }
-th[scope="row"] { text-align: right; font-weight: normal; border-left: 0; }
+th[scope="row"] { padding: 0.5em; text-align: right; font-weight: normal; }
 tbody { border-bottom: 1px solid black; }
 tbody td { padding: 0; text-align: center; vertical-align: middle; border-right: thin gray solid; }
-tbody td.num { padding: 0.75em; text-align: right; }
+tbody td.num { padding: 0.5em; text-align: right; }
 tbody td a { display: block; margin: 0; width: 100%; height: 100%; }
 
 tbody tr.hidden { display: none; }
