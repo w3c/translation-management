@@ -128,7 +128,7 @@ tbody td a { display: block; margin: 0; width: 100%; height: 100%; }
 
 tbody tr.hidden { display: none; }
 
-thead tr th.lang { position: sticky; top: 0; z-index: 10; background-color: transparent;}
+thead tr th.lang { position: sticky; top: 0; background-color: transparent;}
 
 th.lang {
   /* Something you can count on */
@@ -150,7 +150,6 @@ th.lang > div {
   width: 30px;
 }
 th.lang > div > span {
-  z-index: 11;
   background-color: #024488;
   padding: 6px 10px;
   border-bottom: 1px solid gray;
