@@ -128,7 +128,7 @@ tbody td a { display: block; margin: 0; width: 100%; height: 100%; }
 
 tbody tr.hidden { display: none; }
 
-thead tr th.lang { position: sticky; top: 0; z-index: 10;}
+thead tr th.lang { position: sticky; top: 0; z-index: 10; background-color: transparent;}
 
 th.lang {
   /* Something you can count on */
@@ -136,11 +136,15 @@ th.lang {
   white-space: nowrap;
   border-right: none;
 }
-
+.table-wrap {
+    width: 100rem !important;
+    max-width: 100rem !important;
+    max-height: 500px;
+}
 th.lang > div {
   transform:
     /* Magic Numbers */
-    translate(17px, 51px)
+    translate(17px, 50px)
     /* 315 is really 360 - 45 */
     rotate(315deg);
   width: 30px;
