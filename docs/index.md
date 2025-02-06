@@ -1,29 +1,31 @@
 ---
 title: Translations of W3C standards and drafts
-layout: template
-description: List of translated W3C Recommendations (authorized and volunteer translations)
-feed: https://www.w3.org/Translations/feed.xml
+description: List of translated W3C standards and drafts (authorized and volunteer translations)
+feed: https://www.w3.org/translations/feed/
 ---
-<h1>Translations of Current <a href="https://www.w3.org/TR/">W3C standards and drafts</a></h1>
 
-<p>See also <strong><a href="https://www.w3.org/Consortium/Translation/">how to contribute</a></strong> to W3C translation efforts.</p>
-<p><a href="{{page.feed}}"><img src="https://www.w3.org/2008/site/images/icons/rss30" alt="RSS feed"></a></p>
-  {% assign cfts = site.data.translations %}
-  {%- for cft in cfts -%}
+## Translations of current W3C standards and drafts  {#current}
+
+This is the list of translations of current [W3C standards and drafts](https://www.w3.org/TR/). [<img class="icon" src="https://www.w3.org/assets/website-2021/svg/rss.svg" width="30" height="30" alt="RSS feed" aria-hidden="true">]({{page.feed}})
+
+See also [**how to contribute**](contribute/) to W3C translation efforts.
+
+{% assign cfts = site.data.translations %}
+{%- for cft in cfts -%}
   {%- if cft.isLatest -%}
     {% include spec-listing.html %}
-  {%- endif -%}
-  {%- endfor -%}
+  {% endif -%}
+{%- endfor %}
 
-<h1>Translations of Historical Technical Reports</h1>
+## Translations of historical W3C standards and drafts  {#historical}
+
 <details>
-<summary>For reference or inspiration, translations of historical Technical Reports are listed below.</summary>
-<p>Historical technical reports are ones that have been superseded or marked as obsolete.</p>
+  <summary>For reference or inspiration, translations of historical standards and drafts are listed below.</summary>
+  <p>Historical technical reports are ones that have been superseded or marked as obsolete.</p>
+
   {%- for cft in site.data.translations -%}
-  {%- if cft.isLatest -%}
-  {%- else -%}
+  {%- unless cft.isLatest -%}
     {% include spec-listing.html %}
-  {%- endif -%}
+  {% endunless -%}
   {%- endfor -%}
 </details>
-<script src="show-details.js"></script>

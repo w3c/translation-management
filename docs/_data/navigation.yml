@@ -1,0 +1,10 @@
+pages:
+
+- title: Translations of W3C standards and drafts
+  url: /translations/
+  html: /
+
+- title: Contributing to W3C Translations
+  url: /translations/contribute/
+  html: /contribute/
+

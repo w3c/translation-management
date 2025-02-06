@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
+# This config file is meant for settings that affect your whole site, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
@@ -14,17 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "W3C Specification Translations"
-email: dom@w3.org
 description: Translations of W3C Specifications
 baseurl: "/translations" # the subpath of your site, e.g. /blog
-url: "https://www.w3.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: w3cdevs
-github_username:  w3c
 
 # Build settings
 remote_theme: w3c/w3c-jekyll-theme
-#plugins:
-#  - jekyll-feed
 
 defaults:
   -
