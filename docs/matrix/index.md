@@ -139,7 +139,7 @@ th.lang {
 .table-wrap {
     width: 70vw !important;
     max-width: 70vw !important;
-    max-height: 500px;
+    max-height: 1000px;
 }
 th.lang > div {
   transform:
