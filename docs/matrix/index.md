@@ -137,8 +137,8 @@ th.lang {
   border-right: none;
 }
 .table-wrap {
-    width: 100rem !important;
-    max-width: 100rem !important;
+    width: 70vw !important;
+    max-width: 70vw !important;
     max-height: 500px;
 }
 th.lang > div {
