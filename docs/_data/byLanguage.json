@@ -2277,19 +2277,19 @@
           "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-20110607-errata.html",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/20110607"
+              "href": "https://api.w3.org/specifications/CSS2/versions/20110607"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/20110607/editors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/20110607/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/20110607/deliverers"
+              "href": "https://api.w3.org/specifications/CSS2/versions/20110607/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/CSS21"
+              "href": "https://api.w3.org/specifications/CSS2"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/20110607/predecessors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/20110607/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/207/translations"
@@ -2333,19 +2333,19 @@
                 "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-20110607-errata.html",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/20110607"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/20110607"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/20110607/editors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/20110607/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/20110607/deliverers"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/20110607/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/CSS21"
+                    "href": "https://api.w3.org/specifications/CSS2"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/20110607/predecessors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/20110607/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/207/translations"
@@ -4191,19 +4191,19 @@
           "process-rules": "https://www.w3.org/2021/Process-20211102/",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/did-core"
+              "href": "https://api.w3.org/specifications/did-1.0"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -4280,19 +4280,19 @@
                 "process-rules": "https://www.w3.org/2021/Process-20211102/",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/did-core"
+                    "href": "https://api.w3.org/specifications/did-1.0"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -11769,13 +11769,14 @@
             "href": "https://api.w3.org/callsfortranslation/200/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2013-12-12",
         "id": "s-performance-timeline",
         "translations": [
           {
             "states": [
-              "published"
+              "published",
+              "outdated"
             ],
             "uri": "https://triple-underscore.github.io/performance-timeline-ja.html",
             "title": "Performance Timeline — パフォーマンス タイムライン",
@@ -11831,7 +11832,7 @@
               }
             },
             "origTitle": "Performance Timeline",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -22331,7 +22332,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 104
+    "latestRecsTotal": 103
   },
   "ru": {
     "list": [
@@ -27236,22 +27237,22 @@
           "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/CSS21"
+              "href": "https://api.w3.org/specifications/CSS2"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
             },
             "successor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -27327,22 +27328,22 @@
                 "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/CSS21"
+                    "href": "https://api.w3.org/specifications/CSS2"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
                   },
                   "successor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -29996,22 +29997,22 @@
           "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/CSS21"
+              "href": "https://api.w3.org/specifications/CSS2"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
             },
             "successor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -30086,22 +30087,22 @@
                 "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/CSS21"
+                    "href": "https://api.w3.org/specifications/CSS2"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
                   },
                   "successor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -37207,11 +37208,12 @@
                 "connected-accounts": [
                   {
                     "created": "2024-11-14T11:09:39+00:00",
+                    "updated": "2024-12-22T22:35:11+00:00",
                     "service": "github",
                     "identifier": "46210502",
-                    "nickname": "CDN18",
+                    "nickname": "cdn0x12",
                     "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
-                    "href": "https://github.com/CDN18",
+                    "href": "https://github.com/cdn0x12",
                     "_links": {
                       "user": {
                         "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
@@ -37366,11 +37368,12 @@
                 "connected-accounts": [
                   {
                     "created": "2024-11-14T11:09:39+00:00",
+                    "updated": "2024-12-22T22:35:11+00:00",
                     "service": "github",
                     "identifier": "46210502",
-                    "nickname": "CDN18",
+                    "nickname": "cdn0x12",
                     "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
-                    "href": "https://github.com/CDN18",
+                    "href": "https://github.com/cdn0x12",
                     "_links": {
                       "user": {
                         "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
@@ -37525,11 +37528,12 @@
                 "connected-accounts": [
                   {
                     "created": "2024-11-14T11:09:39+00:00",
+                    "updated": "2024-12-22T22:35:11+00:00",
                     "service": "github",
                     "identifier": "46210502",
-                    "nickname": "CDN18",
+                    "nickname": "cdn0x12",
                     "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
-                    "href": "https://github.com/CDN18",
+                    "href": "https://github.com/cdn0x12",
                     "_links": {
                       "user": {
                         "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
@@ -37936,19 +37940,19 @@
           "process-rules": "https://www.w3.org/2021/Process-20211102/",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/did-core"
+              "href": "https://api.w3.org/specifications/did-1.0"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -37993,19 +37997,19 @@
                 "process-rules": "https://www.w3.org/2021/Process-20211102/",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/did-core"
+                    "href": "https://api.w3.org/specifications/did-1.0"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -41573,22 +41577,22 @@
           "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/CSS21"
+              "href": "https://api.w3.org/specifications/CSS2"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
             },
             "successor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -41663,22 +41667,22 @@
                 "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/CSS21"
+                    "href": "https://api.w3.org/specifications/CSS2"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
                   },
                   "successor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -43169,7 +43173,7 @@
                 "connected-accounts": [
                   {
                     "created": "2018-03-06T22:05:02+00:00",
-                    "updated": "2021-01-21T10:45:24+00:00",
+                    "updated": "2024-12-20T09:24:48+00:00",
                     "service": "github",
                     "identifier": "1700772",
                     "nickname": "j9t",
@@ -43759,7 +43763,7 @@
                 "connected-accounts": [
                   {
                     "created": "2018-03-06T22:05:02+00:00",
-                    "updated": "2021-01-21T10:45:24+00:00",
+                    "updated": "2024-12-20T09:24:48+00:00",
                     "service": "github",
                     "identifier": "1700772",
                     "nickname": "j9t",
@@ -46643,7 +46647,7 @@
                 "connected-accounts": [
                   {
                     "created": "2018-03-06T22:05:02+00:00",
-                    "updated": "2021-01-21T10:45:24+00:00",
+                    "updated": "2024-12-20T09:24:48+00:00",
                     "service": "github",
                     "identifier": "1700772",
                     "nickname": "j9t",
@@ -46817,7 +46821,7 @@
                 "connected-accounts": [
                   {
                     "created": "2018-03-06T22:05:02+00:00",
-                    "updated": "2021-01-21T10:45:24+00:00",
+                    "updated": "2024-12-20T09:24:48+00:00",
                     "service": "github",
                     "identifier": "1700772",
                     "nickname": "j9t",
@@ -47693,22 +47697,22 @@
           "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/CSS21"
+              "href": "https://api.w3.org/specifications/CSS2"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
             },
             "successor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -47783,22 +47787,22 @@
                 "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/CSS21"
+                    "href": "https://api.w3.org/specifications/CSS2"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
                   },
                   "successor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -52975,11 +52979,11 @@
                 "connected-accounts": [
                   {
                     "created": "2022-06-14T09:22:45+00:00",
-                    "updated": "2024-12-16T13:28:43+00:00",
+                    "updated": "2024-12-20T18:28:14+00:00",
                     "service": "github",
                     "identifier": "2235222",
                     "nickname": "Antoine-Zimmermann",
-                    "profile-picture": "https://private-avatars.githubusercontent.com/u/2235222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNTYzNDAsIm5iZiI6MTczNDM1NTE0MCwicGF0aCI6Ii91LzIyMzUyMj",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/2235222?v=4",
                     "href": "https://github.com/Antoine-Zimmermann",
                     "_links": {
                       "user": {
@@ -62392,19 +62396,19 @@
           "process-rules": "https://www.w3.org/2021/Process-20211102/",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/did-core"
+              "href": "https://api.w3.org/specifications/did-1.0"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -62494,19 +62498,19 @@
                 "process-rules": "https://www.w3.org/2021/Process-20211102/",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/did-core"
+                    "href": "https://api.w3.org/specifications/did-1.0"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -66898,22 +66902,22 @@
           "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/CSS21"
+              "href": "https://api.w3.org/specifications/CSS2"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
             },
             "successor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -66956,22 +66960,22 @@
                 "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/CSS21"
+                    "href": "https://api.w3.org/specifications/CSS2"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
                   },
                   "successor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -67448,19 +67452,19 @@
           "process-rules": "https://www.w3.org/2021/Process-20211102/",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/did-core"
+              "href": "https://api.w3.org/specifications/did-1.0"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -67551,19 +67555,19 @@
                 "process-rules": "https://www.w3.org/2021/Process-20211102/",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/did-core"
+                    "href": "https://api.w3.org/specifications/did-1.0"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -68185,13 +68189,14 @@
             "href": "https://api.w3.org/callsfortranslation/200/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2013-12-12",
         "id": "s-performance-timeline",
         "translations": [
           {
             "states": [
-              "published"
+              "published",
+              "outdated"
             ],
             "uri": "http://techhtml.github.io/performance-timeline/",
             "title": "성능 타임라인 (Performance Timeline)",
@@ -68278,7 +68283,7 @@
               }
             },
             "origTitle": "Performance Timeline",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -70859,7 +70864,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 10
+    "latestRecsTotal": 9
   },
   "nl": {
     "list": [
@@ -72160,22 +72165,22 @@
           "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/CSS21"
+              "href": "https://api.w3.org/specifications/CSS2"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
             },
             "successor-version": {
-              "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+              "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -72251,22 +72256,22 @@
                 "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-19980512-errata.html",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/editors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/deliverers"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/CSS21"
+                    "href": "https://api.w3.org/specifications/CSS2"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/predecessors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/predecessors"
                   },
                   "successor-version": {
-                    "href": "https://api.w3.org/specifications/CSS21/versions/19980512/successors"
+                    "href": "https://api.w3.org/specifications/CSS2/versions/19980512/successors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/18/translations"
@@ -74419,19 +74424,19 @@
           "process-rules": "https://www.w3.org/2021/Process-20211102/",
           "_links": {
             "self": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
             },
             "editors": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
             },
             "deliverers": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
             },
             "specification": {
-              "href": "https://api.w3.org/specifications/did-core"
+              "href": "https://api.w3.org/specifications/did-1.0"
             },
             "predecessor-version": {
-              "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+              "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
             },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -74524,19 +74529,19 @@
                 "process-rules": "https://www.w3.org/2021/Process-20211102/",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
                   },
                   "editors": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
                   },
                   "deliverers": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
                   },
                   "specification": {
-                    "href": "https://api.w3.org/specifications/did-core"
+                    "href": "https://api.w3.org/specifications/did-1.0"
                   },
                   "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+                    "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
                   },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -79665,6 +79670,177 @@
       }
     ],
     "latestRecsTotal": 2
+  },
+  "zh-hans_cn": {
+    "list": [
+      {
+        "title": "Ethical Web Principles",
+        "spec-version": {
+          "status": "Statement",
+          "rec-track": false,
+          "editor-draft": "https://w3ctag.github.io/ethical-web-principles/",
+          "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/",
+          "date": "2024-12-12",
+          "informative": true,
+          "title": "Ethical Web Principles",
+          "shortlink": "https://www.w3.org/TR/ethical-web-principles/",
+          "process-rules": "https://www.w3.org/policies/process/20231103/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/317/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/317"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/317/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2024-12-12",
+        "id": "s-ethical-web-principles",
+        "translations": [
+          {
+            "states": [
+              "published"
+            ],
+            "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/translations/Overview-zh.html",
+            "title": "Web伦理原则",
+            "language": "zh-hans_cn",
+            "translators": [
+              {
+                "id": 40190,
+                "name": "An Qi (Angel) Li",
+                "email": "angel@w3.org",
+                "given": "An Qi (Angel)",
+                "family": "Li",
+                "connected-accounts": [
+                  {
+                    "created": "2021-11-26T07:33:02+00:00",
+                    "service": "github",
+                    "identifier": "5843153",
+                    "nickname": "lianqi",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/5843153?v=4",
+                    "href": "https://github.com/lianqi",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk"
+                      }
+                    }
+                  }
+                ],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/specifications"
+                  },
+                  "photos": [
+                    {
+                      "href": "https://www.w3.org/thumbnails/360/avatar-images/39i97qy0fi4g8kok48gw8s444sskwsk.webp?x-version=1",
+                      "name": "large"
+                    },
+                    {
+                      "href": "https://www.w3.org/thumbnails/100/avatar-images/39i97qy0fi4g8kok48gw8s444sskwsk.webp?x-version=1",
+                      "name": "thumbnail"
+                    },
+                    {
+                      "href": "https://www.w3.org/thumbnails/48/avatar-images/39i97qy0fi4g8kok48gw8s444sskwsk.webp?x-version=1",
+                      "name": "tiny"
+                    }
+                  ],
+                  "participations": {
+                    "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "published": "2025-02-24T00:00:00+00:00",
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Ethical Web Principles",
+              "spec-version": {
+                "status": "Statement",
+                "rec-track": false,
+                "editor-draft": "https://w3ctag.github.io/ethical-web-principles/",
+                "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/",
+                "date": "2024-12-12",
+                "informative": true,
+                "title": "Ethical Web Principles",
+                "shortlink": "https://www.w3.org/TR/ethical-web-principles/",
+                "process-rules": "https://www.w3.org/policies/process/20231103/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/ethical-web-principles"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/317/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/317"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/317/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/651"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "latestRecsTotal": 1
   },
   "sv": {
     "list": [

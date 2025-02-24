@@ -3,6 +3,125 @@
     "states": [
       "published"
     ],
+    "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/translations/Overview-zh.html",
+    "title": "Web伦理原则",
+    "language": "zh-hans_cn",
+    "translators": [
+      {
+        "id": 40190,
+        "name": "An Qi (Angel) Li",
+        "email": "angel@w3.org",
+        "given": "An Qi (Angel)",
+        "family": "Li",
+        "connected-accounts": [
+          {
+            "created": "2021-11-26T07:33:02+00:00",
+            "service": "github",
+            "identifier": "5843153",
+            "nickname": "lianqi",
+            "profile-picture": "https://avatars.githubusercontent.com/u/5843153?v=4",
+            "href": "https://github.com/lianqi",
+            "_links": {
+              "user": {
+                "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk"
+              }
+            }
+          }
+        ],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/specifications"
+          },
+          "photos": [
+            {
+              "href": "https://www.w3.org/thumbnails/360/avatar-images/39i97qy0fi4g8kok48gw8s444sskwsk.webp?x-version=1",
+              "name": "large"
+            },
+            {
+              "href": "https://www.w3.org/thumbnails/100/avatar-images/39i97qy0fi4g8kok48gw8s444sskwsk.webp?x-version=1",
+              "name": "thumbnail"
+            },
+            {
+              "href": "https://www.w3.org/thumbnails/48/avatar-images/39i97qy0fi4g8kok48gw8s444sskwsk.webp?x-version=1",
+              "name": "tiny"
+            }
+          ],
+          "participations": {
+            "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2025-02-24T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "Ethical Web Principles",
+      "spec-version": {
+        "status": "Statement",
+        "rec-track": false,
+        "editor-draft": "https://w3ctag.github.io/ethical-web-principles/",
+        "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/",
+        "date": "2024-12-12",
+        "informative": true,
+        "title": "Ethical Web Principles",
+        "shortlink": "https://www.w3.org/TR/ethical-web-principles/",
+        "process-rules": "https://www.w3.org/policies/process/20231103/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/ethical-web-principles"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/317/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/317"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/317/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/651"
+      }
+    }
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://w3c.wholetrans.org/activitypub/",
     "title": "ActivityPub",
     "language": "zh-hans",
@@ -15,11 +134,12 @@
         "connected-accounts": [
           {
             "created": "2024-11-14T11:09:39+00:00",
+            "updated": "2024-12-22T22:35:11+00:00",
             "service": "github",
             "identifier": "46210502",
-            "nickname": "CDN18",
+            "nickname": "cdn0x12",
             "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
-            "href": "https://github.com/CDN18",
+            "href": "https://github.com/cdn0x12",
             "_links": {
               "user": {
                 "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
@@ -448,19 +568,19 @@
         "process-rules": "https://www.w3.org/2021/Process-20211102/",
         "_links": {
           "self": {
-            "href": "https://api.w3.org/specifications/did-core/versions/20220719"
+            "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
           },
           "editors": {
-            "href": "https://api.w3.org/specifications/did-core/versions/20220719/editors"
+            "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
           },
           "deliverers": {
-            "href": "https://api.w3.org/specifications/did-core/versions/20220719/deliverers"
+            "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
           },
           "specification": {
-            "href": "https://api.w3.org/specifications/did-core"
+            "href": "https://api.w3.org/specifications/did-1.0"
           },
           "predecessor-version": {
-            "href": "https://api.w3.org/specifications/did-core/versions/20220719/predecessors"
+            "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
           },
           "translations": {
             "href": "https://api.w3.org/callsfortranslation/288/translations"
@@ -1252,114 +1372,5 @@
         "href": "https://api.w3.org/translations/609"
       }
     }
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "https://momdo.github.io/wai-aria-1.2/",
-    "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.2 日本語訳",
-    "language": "ja",
-    "translators": [
-      {
-        "id": 115881,
-        "name": "Naoki Nakamura",
-        "given": "Naoki",
-        "family": "Nakamura",
-        "connected-accounts": [
-          {
-            "created": "2023-08-27T08:29:01+00:00",
-            "service": "github",
-            "identifier": "8347177",
-            "nickname": "momdo",
-            "profile-picture": "https://avatars.githubusercontent.com/u/8347177?v=4",
-            "href": "https://github.com/momdo",
-            "_links": {
-              "user": {
-                "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
-              }
-            }
-          }
-        ],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2023-06-08T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.2",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/aria/",
-        "uri": "https://www.w3.org/TR/2023/REC-wai-aria-1.2-20230606/",
-        "date": "2023-06-06",
-        "informative": false,
-        "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.2",
-        "shortlink": "https://www.w3.org/TR/wai-aria-1.2/",
-        "process-rules": "https://www.w3.org/2021/Process-20211102/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/wai-aria-1.2/versions/20230606"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/wai-aria-1.2/versions/20230606/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/wai-aria-1.2/versions/20230606/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/wai-aria-1.2"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/wai-aria-1.2/versions/20230606/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/297/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/297"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/297/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/606"
-      }
-    },
-    "origTitle": "Accessible Rich Internet Applications (WAI-ARIA) 1.2",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
   }
 ]
