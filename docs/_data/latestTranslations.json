@@ -5,7 +5,7 @@
     ],
     "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/translations/Overview-zh.html",
     "title": "Web伦理原则",
-    "language": "zh-hans_cn",
+    "language": "zh-hans",
     "translators": [
       {
         "id": 40190,
@@ -69,6 +69,7 @@
       }
     ],
     "published": "2025-02-24T00:00:00+00:00",
+    "updated": "2025-02-24T00:00:00+00:00",
     "authorized": false,
     "call-for-translation": {
       "title": "Ethical Web Principles",
