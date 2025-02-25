@@ -10,7 +10,7 @@ const langs = require('../docs/_data/lang.json');
 
   let recs;
   try {
-    recs = await w3c.specificationsByStatus('Recommendation').fetch({embed: true});
+    recs = (await w3c.specificationsByStatus('Recommendation').fetch({embed: true})).concat(await w3c.specificationsByStatus('Statement').fetch({embed: true}));
   } catch (err) {
     return console.log(err);
   }
