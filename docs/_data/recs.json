@@ -23645,7 +23645,7 @@
       },
       "first-version": {
         "href": "https://api.w3.org/specifications/REC-PICS-labels/versions/19961031",
-        "title": "Retired"
+        "title": "Recommendation"
       },
       "latest-version": {
         "href": "https://api.w3.org/specifications/REC-PICS-labels/versions/20091124",
@@ -23672,7 +23672,7 @@
         "call-for-translation": {
           "title": "PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols",
           "spec-version": {
-            "status": "Retired",
+            "status": "Recommendation",
             "rec-track": true,
             "uri": "https://www.w3.org/TR/REC-PICS-labels-961031",
             "date": "1996-10-31",
@@ -23738,7 +23738,7 @@
       },
       "first-version": {
         "href": "https://api.w3.org/specifications/REC-PICS-services/versions/19961031",
-        "title": "Retired"
+        "title": "Recommendation"
       },
       "latest-version": {
         "href": "https://api.w3.org/specifications/REC-PICS-services/versions/20091124",
@@ -23765,7 +23765,7 @@
         "call-for-translation": {
           "title": "PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions",
           "spec-version": {
-            "status": "Retired",
+            "status": "Recommendation",
             "rec-track": true,
             "uri": "https://www.w3.org/TR/REC-PICS-services-961031",
             "date": "1996-10-31",
@@ -23858,7 +23858,7 @@
         "call-for-translation": {
           "title": "PICSRules 1.1 Specification",
           "spec-version": {
-            "status": "Retired",
+            "status": "Recommendation",
             "rec-track": true,
             "uri": "https://www.w3.org/TR/REC-PICSRules-971229",
             "date": "1997-12-29",
@@ -47884,76 +47884,14 @@
     "translations": {
       "zh-hans": {
         "states": [
-          "published"
+          "review"
         ],
-        "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/translations/Overview-zh.html",
+        "uri": "https://w3c-beihang.github.io/public-translations/ethical-web-principles/index-zh.html",
         "title": "Web伦理原则",
         "language": "zh-hans",
-        "translators": [
-          {
-            "id": 40190,
-            "name": "An Qi (Angel) Li",
-            "email": "angel@w3.org",
-            "given": "An Qi (Angel)",
-            "family": "Li",
-            "connected-accounts": [
-              {
-                "created": "2021-11-26T07:33:02+00:00",
-                "service": "github",
-                "identifier": "5843153",
-                "nickname": "lianqi",
-                "profile-picture": "https://avatars.githubusercontent.com/u/5843153?v=4",
-                "href": "https://github.com/lianqi",
-                "_links": {
-                  "user": {
-                    "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk"
-                  }
-                }
-              }
-            ],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/specifications"
-              },
-              "photos": [
-                {
-                  "href": "https://www.w3.org/thumbnails/360/avatar-images/39i97qy0fi4g8kok48gw8s444sskwsk.webp?x-version=1",
-                  "name": "large"
-                },
-                {
-                  "href": "https://www.w3.org/thumbnails/100/avatar-images/39i97qy0fi4g8kok48gw8s444sskwsk.webp?x-version=1",
-                  "name": "thumbnail"
-                },
-                {
-                  "href": "https://www.w3.org/thumbnails/48/avatar-images/39i97qy0fi4g8kok48gw8s444sskwsk.webp?x-version=1",
-                  "name": "tiny"
-                }
-              ],
-              "participations": {
-                "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/39i97qy0fi4g8kok48gw8s444sskwsk/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2025-02-24T00:00:00+00:00",
-        "updated": "2025-02-24T00:00:00+00:00",
-        "authorized": false,
+        "translators": [],
+        "authorized": true,
+        "lto_name": "Translator: Anqi Li",
         "call-for-translation": {
           "title": "Ethical Web Principles",
           "spec-version": {
@@ -47998,14 +47936,14 @@
         },
         "_links": {
           "self": {
-            "href": "https://api.w3.org/translations/651"
+            "href": "https://api.w3.org/translations/652"
           }
         },
         "origTitle": "Ethical Web Principles",
         "isOutdated": false,
-        "isPublished": true,
+        "isPublished": false,
         "isPending": false,
-        "isInReview": false
+        "isInReview": true
       }
     }
   }

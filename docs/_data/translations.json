@@ -13170,6 +13170,116 @@
     ]
   },
   {
+    "title": "Ethical Web Principles",
+    "spec-version": {
+      "status": "Statement",
+      "rec-track": false,
+      "editor-draft": "https://w3ctag.github.io/ethical-web-principles/",
+      "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/",
+      "date": "2024-12-12",
+      "informative": true,
+      "title": "Ethical Web Principles",
+      "shortlink": "https://www.w3.org/TR/ethical-web-principles/",
+      "process-rules": "https://www.w3.org/policies/process/20231103/",
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212"
+        },
+        "editors": {
+          "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/editors"
+        },
+        "deliverers": {
+          "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/deliverers"
+        },
+        "specification": {
+          "href": "https://api.w3.org/specifications/ethical-web-principles"
+        },
+        "predecessor-version": {
+          "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/predecessors"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/317/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/callsfortranslation/317"
+      },
+      "translations": {
+        "href": "https://api.w3.org/callsfortranslation/317/translations"
+      }
+    },
+    "isLatest": true,
+    "date": "2024-12-12",
+    "id": "s-ethical-web-principles",
+    "translations": [
+      {
+        "states": [
+          "review"
+        ],
+        "uri": "https://w3c-beihang.github.io/public-translations/ethical-web-principles/index-zh.html",
+        "title": "Web伦理原则",
+        "language": "zh-hans",
+        "translators": [],
+        "authorized": true,
+        "lto_name": "Translator: Anqi Li",
+        "call-for-translation": {
+          "title": "Ethical Web Principles",
+          "spec-version": {
+            "status": "Statement",
+            "rec-track": false,
+            "editor-draft": "https://w3ctag.github.io/ethical-web-principles/",
+            "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/",
+            "date": "2024-12-12",
+            "informative": true,
+            "title": "Ethical Web Principles",
+            "shortlink": "https://www.w3.org/TR/ethical-web-principles/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/317/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/317"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/317/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/652"
+          }
+        },
+        "origTitle": "Ethical Web Principles",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": false,
+        "isInReview": true
+      }
+    ]
+  },
+  {
     "title": "Exclusive XML Canonicalization Version 1.0",
     "spec-version": {
       "status": "Recommendation",
@@ -30820,7 +30930,7 @@
   {
     "title": "PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols",
     "spec-version": {
-      "status": "Retired",
+      "status": "Recommendation",
       "rec-track": true,
       "uri": "https://www.w3.org/TR/REC-PICS-labels-961031",
       "date": "1996-10-31",
@@ -30873,7 +30983,7 @@
         "call-for-translation": {
           "title": "PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols",
           "spec-version": {
-            "status": "Retired",
+            "status": "Recommendation",
             "rec-track": true,
             "uri": "https://www.w3.org/TR/REC-PICS-labels-961031",
             "date": "1996-10-31",
@@ -30927,7 +31037,7 @@
   {
     "title": "PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions",
     "spec-version": {
-      "status": "Retired",
+      "status": "Recommendation",
       "rec-track": true,
       "uri": "https://www.w3.org/TR/REC-PICS-services-961031",
       "date": "1996-10-31",
@@ -30980,7 +31090,7 @@
         "call-for-translation": {
           "title": "PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions",
           "spec-version": {
-            "status": "Retired",
+            "status": "Recommendation",
             "rec-track": true,
             "uri": "https://www.w3.org/TR/REC-PICS-services-961031",
             "date": "1996-10-31",
@@ -31276,7 +31386,7 @@
   {
     "title": "PICSRules 1.1 Specification",
     "spec-version": {
-      "status": "Retired",
+      "status": "Recommendation",
       "rec-track": true,
       "uri": "https://www.w3.org/TR/REC-PICSRules-971229",
       "date": "1997-12-29",
@@ -31332,7 +31442,7 @@
         "call-for-translation": {
           "title": "PICSRules 1.1 Specification",
           "spec-version": {
-            "status": "Retired",
+            "status": "Recommendation",
             "rec-track": true,
             "uri": "https://www.w3.org/TR/REC-PICSRules-971229",
             "date": "1997-12-29",
