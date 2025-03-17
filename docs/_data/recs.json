@@ -8105,7 +8105,7 @@
     "translations": {}
   },
   {
-    "shortlink": "https://www.w3.org/TR/CSS21/",
+    "shortlink": "https://www.w3.org/TR/CSS2/",
     "description": "<p>CSS 2.1 is derived from and is intended to replace CSS2. It supports media-specific style sheets so that authors may tailor the presentation of their documents to visual browsers, aural devices, printers, braille devices, handheld devices, etc. It also supports content positioning, table layout, features for internationalization and some properties related to user interface. CSS 2.1 corrects a few errors in CSS2 (the most important being a new definition of the height/width of absolutely positioned elements, more influence for HTML's \"style\" attribute and a new calculation of the 'clip' property), and adds a few highly requested features which have already been widely implemented. But most of all CSS 2.1 represents a \"snapshot\" of CSS usage: it consists of all CSS features that are implemented interoperably at the date of publication of the Recommendation.</p>",
     "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
     "shortname": "CSS2",
@@ -39453,7 +39453,6 @@
     "title": "WebRTC: Real-Time Communication in Browsers",
     "shortname": "webrtc",
     "editor-draft": "https://w3c.github.io/webrtc-pc/",
-    "series-version": "1.0",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/webrtc"
@@ -39466,7 +39465,7 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/webrtc/versions/20241008",
+        "href": "https://api.w3.org/specifications/webrtc/versions/20250313",
         "title": "Recommendation"
       },
       "series": {
@@ -39474,8 +39473,8 @@
       }
     },
     "isLatest": true,
-    "date": "2024-10-08",
-    "year": "2024",
+    "date": "2025-03-13",
+    "year": "2025",
     "translations": {}
   },
   {
@@ -43788,13 +43787,14 @@
       },
       "fr": {
         "states": [
-          "review",
+          "published",
           "outdated"
         ],
-        "uri": "https://wcag.access42.net/22/",
-        "title": "Candidate Authorized French Translation of WCAG 2.2",
+        "uri": "https://www.w3.org/Translations/WCAG22-fr/",
+        "title": "Règles pour l’accessibilité des contenus Web (WCAG) 2.2",
         "language": "fr",
         "translators": [],
+        "published": "2025-03-17T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Access42",
         "call-for-translation": {
@@ -43849,9 +43849,9 @@
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": true,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       },
       "it": {
         "states": [

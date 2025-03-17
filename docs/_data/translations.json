@@ -5492,7 +5492,7 @@
       "date": "2011-06-07",
       "informative": false,
       "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
-      "shortlink": "https://www.w3.org/TR/CSS21/",
+      "shortlink": "https://www.w3.org/TR/CSS2/",
       "translation": "https://www.w3.org/2005/11/Translations/Query?titleMatch=CSS;lang=any;search1=Submit",
       "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-20110607-errata.html",
       "_links": {
@@ -5526,7 +5526,7 @@
     },
     "isLatest": true,
     "date": "2011-06-07",
-    "id": "s-CSS21",
+    "id": "s-CSS2",
     "translations": [
       {
         "states": [
@@ -5548,7 +5548,7 @@
             "date": "2011-06-07",
             "informative": false,
             "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
-            "shortlink": "https://www.w3.org/TR/CSS21/",
+            "shortlink": "https://www.w3.org/TR/CSS2/",
             "translation": "https://www.w3.org/2005/11/Translations/Query?titleMatch=CSS;lang=any;search1=Submit",
             "errata": "https://www.w3.org/Style/css2-updates/REC-CSS2-20110607-errata.html",
             "_links": {
@@ -53599,13 +53599,14 @@
       },
       {
         "states": [
-          "review",
+          "published",
           "outdated"
         ],
-        "uri": "https://wcag.access42.net/22/",
-        "title": "Candidate Authorized French Translation of WCAG 2.2",
+        "uri": "https://www.w3.org/Translations/WCAG22-fr/",
+        "title": "Règles pour l’accessibilité des contenus Web (WCAG) 2.2",
         "language": "fr",
         "translators": [],
+        "published": "2025-03-17T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Access42",
         "call-for-translation": {
@@ -53660,9 +53661,9 @@
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": true,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       },
       {
         "states": [
