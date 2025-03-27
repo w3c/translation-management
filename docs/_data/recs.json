@@ -12483,7 +12483,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/html-aria/versions/20250213",
+        "href": "https://api.w3.org/specifications/html-aria/versions/20250326",
         "title": "Recommendation"
       },
       "series": {
@@ -12491,7 +12491,7 @@
       }
     },
     "isLatest": true,
-    "date": "2025-02-13",
+    "date": "2025-03-26",
     "year": "2025",
     "translations": {
       "ja": {
@@ -44038,13 +44038,14 @@
       },
       "pt-br": {
         "states": [
-          "review",
+          "published",
           "outdated"
         ],
-        "uri": "https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/",
-        "title": "Candidate Authorized Portuguese (Brazil) Translation of WCAG 2.2",
+        "uri": "https://www.w3.org/Translations/WCAG22-pt-BR/",
+        "title": "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2",
         "language": "pt-br",
         "translators": [],
+        "published": "2025-03-27T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Ceweb.br",
         "call-for-translation": {
@@ -44099,9 +44100,9 @@
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": true,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       },
       "ru": {
         "states": [
@@ -47584,7 +47585,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/epub-33/versions/20250107",
+        "href": "https://api.w3.org/specifications/epub-33/versions/20250327",
         "title": "Recommendation"
       },
       "series": {
@@ -47592,7 +47593,7 @@
       }
     },
     "isLatest": true,
-    "date": "2025-01-07",
+    "date": "2025-03-27",
     "year": "2025",
     "translations": {}
   },

@@ -53735,13 +53735,14 @@
       },
       {
         "states": [
-          "review",
+          "published",
           "outdated"
         ],
-        "uri": "https://www.w3c.br/traducoes/wcag/wcag22-pt-BR/",
-        "title": "Candidate Authorized Portuguese (Brazil) Translation of WCAG 2.2",
+        "uri": "https://www.w3.org/Translations/WCAG22-pt-BR/",
+        "title": "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2",
         "language": "pt-br",
         "translators": [],
+        "published": "2025-03-27T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Ceweb.br",
         "call-for-translation": {
@@ -53796,9 +53797,9 @@
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
         "isOutdated": true,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       },
       {
         "states": [
