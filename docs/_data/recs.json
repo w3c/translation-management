@@ -12483,7 +12483,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/html-aria/versions/20250326",
+        "href": "https://api.w3.org/specifications/html-aria/versions/20250409",
         "title": "Recommendation"
       },
       "series": {
@@ -12491,7 +12491,7 @@
       }
     },
     "isLatest": true,
-    "date": "2025-03-26",
+    "date": "2025-04-09",
     "year": "2025",
     "translations": {
       "ja": {
@@ -14410,7 +14410,7 @@
     "description": "<p>This document specifies the DID syntax, a common data model, core properties, serialized representations, DID operations, and an explanation of the process of resolving DIDs to the resources that they represent.</p>",
     "title": "Decentralized Identifiers (DIDs) v1.0",
     "shortname": "did-1.0",
-    "editor-draft": "https://w3c.github.io/did-core/",
+    "editor-draft": "https://w3c.github.io/did/",
     "series-version": "1.0",
     "_links": {
       "self": {
@@ -14450,7 +14450,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -14547,7 +14547,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -14658,7 +14658,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -14768,7 +14768,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -14881,7 +14881,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -47677,7 +47677,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/geolocation/versions/20240916",
+        "href": "https://api.w3.org/specifications/geolocation/versions/20250411",
         "title": "Recommendation"
       },
       "supersedes": {
@@ -47688,8 +47688,8 @@
       }
     },
     "isLatest": true,
-    "date": "2024-09-16",
-    "year": "2024",
+    "date": "2025-04-11",
+    "year": "2025",
     "translations": {
       "ja": {
         "states": [
@@ -47885,12 +47885,13 @@
     "translations": {
       "zh-hans": {
         "states": [
-          "review"
+          "published"
         ],
-        "uri": "https://w3c-beihang.github.io/public-translations/ethical-web-principles/index-zh.html",
+        "uri": "https://www.w3.org/Translations/ethical-web-principles-zh/Overview.html",
         "title": "Web伦理原则",
         "language": "zh-hans",
         "translators": [],
+        "published": "2025-04-16T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Translator: Anqi Li",
         "call-for-translation": {
@@ -47942,9 +47943,9 @@
         },
         "origTitle": "Ethical Web Principles",
         "isOutdated": false,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       }
     }
   }

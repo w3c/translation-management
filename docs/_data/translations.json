@@ -10157,7 +10157,7 @@
     "spec-version": {
       "status": "Recommendation",
       "rec-track": true,
-      "editor-draft": "https://w3c.github.io/did-core/",
+      "editor-draft": "https://w3c.github.io/did/",
       "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
       "date": "2022-07-19",
       "informative": false,
@@ -10246,7 +10246,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -10356,7 +10356,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -10469,7 +10469,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -10534,7 +10534,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -10645,7 +10645,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/did-core/",
+            "editor-draft": "https://w3c.github.io/did/",
             "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
             "date": "2022-07-19",
             "informative": false,
@@ -13216,12 +13216,13 @@
     "translations": [
       {
         "states": [
-          "review"
+          "published"
         ],
-        "uri": "https://w3c-beihang.github.io/public-translations/ethical-web-principles/index-zh.html",
+        "uri": "https://www.w3.org/Translations/ethical-web-principles-zh/Overview.html",
         "title": "Web伦理原则",
         "language": "zh-hans",
         "translators": [],
+        "published": "2025-04-16T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Translator: Anqi Li",
         "call-for-translation": {
@@ -13273,11 +13274,75 @@
         },
         "origTitle": "Ethical Web Principles",
         "isOutdated": false,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       }
-    ]
+    ],
+    "hasAuthorizedTranslations": {
+      "states": [
+        "published"
+      ],
+      "uri": "https://www.w3.org/Translations/ethical-web-principles-zh/Overview.html",
+      "title": "Web伦理原则",
+      "language": "zh-hans",
+      "translators": [],
+      "published": "2025-04-16T00:00:00+00:00",
+      "authorized": true,
+      "lto_name": "Translator: Anqi Li",
+      "call-for-translation": {
+        "title": "Ethical Web Principles",
+        "spec-version": {
+          "status": "Statement",
+          "rec-track": false,
+          "editor-draft": "https://w3ctag.github.io/ethical-web-principles/",
+          "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/",
+          "date": "2024-12-12",
+          "informative": true,
+          "title": "Ethical Web Principles",
+          "shortlink": "https://www.w3.org/TR/ethical-web-principles/",
+          "process-rules": "https://www.w3.org/policies/process/20231103/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/317/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/317"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/317/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/translations/652"
+        }
+      },
+      "origTitle": "Ethical Web Principles",
+      "isOutdated": false,
+      "isPublished": true,
+      "isPending": false,
+      "isInReview": false
+    }
   },
   {
     "title": "Exclusive XML Canonicalization Version 1.0",
@@ -32734,6 +32799,7 @@
     "spec-version": {
       "status": "Note",
       "rec-track": false,
+      "editor-draft": "https://w3c.github.io/rdf-primer/spec/",
       "uri": "https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624/",
       "date": "2014-06-24",
       "informative": false,
@@ -32786,6 +32852,7 @@
           "spec-version": {
             "status": "Note",
             "rec-track": false,
+            "editor-draft": "https://w3c.github.io/rdf-primer/spec/",
             "uri": "https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624/",
             "date": "2014-06-24",
             "informative": false,
@@ -32842,6 +32909,7 @@
           "spec-version": {
             "status": "Note",
             "rec-track": false,
+            "editor-draft": "https://w3c.github.io/rdf-primer/spec/",
             "uri": "https://www.w3.org/TR/2014/NOTE-rdf11-primer-20140624/",
             "date": "2014-06-24",
             "informative": false,
