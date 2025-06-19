@@ -4482,6 +4482,166 @@
         ]
       },
       {
+        "title": "Digital Publishing WAI-ARIA Module 1.1",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/dpub-aria/",
+          "uri": "https://www.w3.org/TR/2025/REC-dpub-aria-1.1-20250612/",
+          "date": "2025-06-12",
+          "informative": false,
+          "title": "Digital Publishing WAI-ARIA Module 1.1",
+          "shortlink": "https://www.w3.org/TR/dpub-aria-1.1/",
+          "translation": "https://www.w3.org/Translations/?technology=dpub-aria-1.1",
+          "errata": "https://www.w3.org/WAI/ARIA/1.1/errata/dpub",
+          "process-rules": "https://www.w3.org/policies/process/20231103/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/dpub-aria-1.1"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/318/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/318"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/318/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2025-06-12",
+        "id": "s-dpub-aria-1.1",
+        "translations": [
+          {
+            "states": [
+              "published"
+            ],
+            "uri": "https://momdo.github.io/dpub-aria-1.1/",
+            "title": "Digital Publishing WAI-ARIA Module 1.1 日本語訳",
+            "language": "ja",
+            "translators": [
+              {
+                "id": 115881,
+                "name": "Naoki Nakamura",
+                "given": "Naoki",
+                "family": "Nakamura",
+                "connected-accounts": [
+                  {
+                    "created": "2023-08-27T08:29:01+00:00",
+                    "service": "github",
+                    "identifier": "8347177",
+                    "nickname": "momdo",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/8347177?v=4",
+                    "href": "https://github.com/momdo",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
+                      }
+                    }
+                  }
+                ],
+                "discr": "user",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
+                  },
+                  "affiliations": {
+                    "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/affiliations"
+                  },
+                  "groups": {
+                    "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/groups"
+                  },
+                  "specifications": {
+                    "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/specifications"
+                  },
+                  "participations": {
+                    "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/participations"
+                  },
+                  "chair_of_groups": {
+                    "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/chair-of-groups"
+                  },
+                  "team_contact_of_groups": {
+                    "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/team-contact-of-groups"
+                  }
+                }
+              }
+            ],
+            "published": "2025-06-19T00:00:00+00:00",
+            "authorized": false,
+            "call-for-translation": {
+              "title": "Digital Publishing WAI-ARIA Module 1.1",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "editor-draft": "https://w3c.github.io/dpub-aria/",
+                "uri": "https://www.w3.org/TR/2025/REC-dpub-aria-1.1-20250612/",
+                "date": "2025-06-12",
+                "informative": false,
+                "title": "Digital Publishing WAI-ARIA Module 1.1",
+                "shortlink": "https://www.w3.org/TR/dpub-aria-1.1/",
+                "translation": "https://www.w3.org/Translations/?technology=dpub-aria-1.1",
+                "errata": "https://www.w3.org/WAI/ARIA/1.1/errata/dpub",
+                "process-rules": "https://www.w3.org/policies/process/20231103/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/dpub-aria-1.1"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/318/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/318"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/318/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/653"
+              }
+            },
+            "origTitle": "Digital Publishing WAI-ARIA Module 1.1",
+            "isOutdated": false,
+            "isPublished": true,
+            "isPending": false,
+            "isInReview": false
+          }
+        ]
+      },
+      {
         "title": "Document Object Model (DOM) Level 1",
         "spec-version": {
           "status": "Recommendation",
@@ -22332,7 +22492,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 103
+    "latestRecsTotal": 104
   },
   "ru": {
     "list": [
@@ -31554,7 +31714,23 @@
                 "given": "Eva",
                 "family": "Méndez",
                 "work-title": "Dr",
-                "connected-accounts": [],
+                "country-code": "ES",
+                "country-division": "Madrid",
+                "connected-accounts": [
+                  {
+                    "created": "2025-05-13T11:51:55+00:00",
+                    "service": "github",
+                    "identifier": "8916940",
+                    "nickname": "evamen",
+                    "profile-picture": "https://avatars.githubusercontent.com/u/8916940?v=4",
+                    "href": "https://github.com/evamen",
+                    "_links": {
+                      "user": {
+                        "href": "https://api.w3.org/users/r5dru2dfpiosw040gwsskooockgwc04"
+                      }
+                    }
+                  }
+                ],
                 "discr": "user",
                 "_links": {
                   "self": {
@@ -37202,25 +37378,10 @@
             "translators": [
               {
                 "id": 161962,
-                "name": "Icarus J",
-                "given": "Icarus",
-                "family": "J",
-                "connected-accounts": [
-                  {
-                    "created": "2024-11-14T11:09:39+00:00",
-                    "updated": "2024-12-22T22:35:11+00:00",
-                    "service": "github",
-                    "identifier": "46210502",
-                    "nickname": "cdn0x12",
-                    "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
-                    "href": "https://github.com/cdn0x12",
-                    "_links": {
-                      "user": {
-                        "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
-                      }
-                    }
-                  }
-                ],
+                "name": "Moved to cdn0x12",
+                "given": "Moved to",
+                "family": "cdn0x12",
+                "connected-accounts": [],
                 "discr": "user",
                 "_links": {
                   "self": {
@@ -37362,25 +37523,10 @@
             "translators": [
               {
                 "id": 161962,
-                "name": "Icarus J",
-                "given": "Icarus",
-                "family": "J",
-                "connected-accounts": [
-                  {
-                    "created": "2024-11-14T11:09:39+00:00",
-                    "updated": "2024-12-22T22:35:11+00:00",
-                    "service": "github",
-                    "identifier": "46210502",
-                    "nickname": "cdn0x12",
-                    "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
-                    "href": "https://github.com/cdn0x12",
-                    "_links": {
-                      "user": {
-                        "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
-                      }
-                    }
-                  }
-                ],
+                "name": "Moved to cdn0x12",
+                "given": "Moved to",
+                "family": "cdn0x12",
+                "connected-accounts": [],
                 "discr": "user",
                 "_links": {
                   "self": {
@@ -37522,25 +37668,10 @@
             "translators": [
               {
                 "id": 161962,
-                "name": "Icarus J",
-                "given": "Icarus",
-                "family": "J",
-                "connected-accounts": [
-                  {
-                    "created": "2024-11-14T11:09:39+00:00",
-                    "updated": "2024-12-22T22:35:11+00:00",
-                    "service": "github",
-                    "identifier": "46210502",
-                    "nickname": "cdn0x12",
-                    "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
-                    "href": "https://github.com/cdn0x12",
-                    "_links": {
-                      "user": {
-                        "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
-                      }
-                    }
-                  }
-                ],
+                "name": "Moved to cdn0x12",
+                "given": "Moved to",
+                "family": "cdn0x12",
+                "connected-accounts": [],
                 "discr": "user",
                 "_links": {
                   "self": {
@@ -55400,7 +55531,6 @@
                 "given": "Carine",
                 "family": "Bournez",
                 "country-code": "FR",
-                "city": "Nice",
                 "connected-accounts": [
                   {
                     "created": "2017-03-20T12:42:43+00:00",
@@ -55560,7 +55690,6 @@
                 "given": "Carine",
                 "family": "Bournez",
                 "country-code": "FR",
-                "city": "Nice",
                 "connected-accounts": [
                   {
                     "created": "2017-03-20T12:42:43+00:00",
@@ -55720,7 +55849,6 @@
                 "given": "Carine",
                 "family": "Bournez",
                 "country-code": "FR",
-                "city": "Nice",
                 "connected-accounts": [
                   {
                     "created": "2017-03-20T12:42:43+00:00",

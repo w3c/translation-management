@@ -3,6 +3,117 @@
     "states": [
       "published"
     ],
+    "uri": "https://momdo.github.io/dpub-aria-1.1/",
+    "title": "Digital Publishing WAI-ARIA Module 1.1 日本語訳",
+    "language": "ja",
+    "translators": [
+      {
+        "id": 115881,
+        "name": "Naoki Nakamura",
+        "given": "Naoki",
+        "family": "Nakamura",
+        "connected-accounts": [
+          {
+            "created": "2023-08-27T08:29:01+00:00",
+            "service": "github",
+            "identifier": "8347177",
+            "nickname": "momdo",
+            "profile-picture": "https://avatars.githubusercontent.com/u/8347177?v=4",
+            "href": "https://github.com/momdo",
+            "_links": {
+              "user": {
+                "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
+              }
+            }
+          }
+        ],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/hch144qn83s48sc80owkgs88kw4swkw/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2025-06-19T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "Digital Publishing WAI-ARIA Module 1.1",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://w3c.github.io/dpub-aria/",
+        "uri": "https://www.w3.org/TR/2025/REC-dpub-aria-1.1-20250612/",
+        "date": "2025-06-12",
+        "informative": false,
+        "title": "Digital Publishing WAI-ARIA Module 1.1",
+        "shortlink": "https://www.w3.org/TR/dpub-aria-1.1/",
+        "translation": "https://www.w3.org/Translations/?technology=dpub-aria-1.1",
+        "errata": "https://www.w3.org/WAI/ARIA/1.1/errata/dpub",
+        "process-rules": "https://www.w3.org/policies/process/20231103/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/dpub-aria-1.1"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/dpub-aria-1.1/versions/20250612/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/318/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/318"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/318/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/653"
+      }
+    },
+    "origTitle": "Digital Publishing WAI-ARIA Module 1.1",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://www.w3.org/Translations/ethical-web-principles-zh/Overview.html",
     "title": "Web伦理原则",
     "language": "zh-hans",
@@ -209,25 +320,10 @@
     "translators": [
       {
         "id": 161962,
-        "name": "Icarus J",
-        "given": "Icarus",
-        "family": "J",
-        "connected-accounts": [
-          {
-            "created": "2024-11-14T11:09:39+00:00",
-            "updated": "2024-12-22T22:35:11+00:00",
-            "service": "github",
-            "identifier": "46210502",
-            "nickname": "cdn0x12",
-            "profile-picture": "https://avatars.githubusercontent.com/u/46210502?v=4",
-            "href": "https://github.com/cdn0x12",
-            "_links": {
-              "user": {
-                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
-              }
-            }
-          }
-        ],
+        "name": "Moved to cdn0x12",
+        "given": "Moved to",
+        "family": "cdn0x12",
+        "connected-accounts": [],
         "discr": "user",
         "_links": {
           "self": {
@@ -1195,103 +1291,6 @@
       }
     },
     "origTitle": "CSS Namespaces Module Level 3",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "https://shebang.pl/css/atrybuty-stylu-css/",
-    "title": "Atrybuty stylu CSS",
-    "language": "pl",
-    "translators": [
-      {
-        "id": 150789,
-        "name": "Łukasz Piwko",
-        "given": "Łukasz",
-        "family": "Piwko",
-        "country-code": "PL",
-        "country-division": "Mazovia",
-        "city": "Sokolow Podlaski",
-        "connected-accounts": [],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2023-12-21T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "CSS Style Attributes",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://drafts.csswg.org/css-style-attr/",
-        "uri": "https://www.w3.org/TR/2013/REC-css-style-attr-20131107/",
-        "date": "2013-11-07",
-        "informative": false,
-        "title": "CSS Style Attributes",
-        "shortlink": "https://www.w3.org/TR/css-style-attr/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/css-style-attr"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/css-style-attr/versions/20131107/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/216/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/216"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/216/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/618"
-      }
-    },
-    "origTitle": "CSS Style Attributes",
     "isOutdated": false,
     "isPublished": true,
     "isPending": false,
