@@ -16616,7 +16616,7 @@
             "name": "José Manuel Alonso",
             "given": "José Manuel",
             "family": "Alonso",
-            "work-title": "Program Manager",
+            "work-title": "Senior Advisor",
             "country-code": "ES",
             "country-division": "Asturias",
             "city": "Oviedo",
@@ -27534,36 +27534,6 @@
     "translations": {}
   },
   {
-    "shortlink": "https://www.w3.org/TR/tabular-metadata/",
-    "description": "<p>Validation, conversion, display and search of tabular data on the web requires additional metadata that describes how the data should be interpreted. This document defines a vocabulary for metadata that annotates tabular data. This can be used to provide metadata at various levels, from collections of data from CSV documents and how they relate to each other down to individual cells within a table.</p>",
-    "title": "Metadata Vocabulary for Tabular Data",
-    "shortname": "tabular-metadata",
-    "editor-draft": "https://w3c.github.io/csvw/metadata/",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/tabular-metadata"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/tabular-metadata/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/tabular-metadata/versions/20140710",
-        "title": "First Public Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/tabular-metadata/versions/20151217",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/tabular-metadata"
-      }
-    },
-    "isLatest": true,
-    "date": "2015-12-17",
-    "year": "2015",
-    "translations": {}
-  },
-  {
     "shortlink": "https://www.w3.org/TR/shacl/",
     "description": "<p>SHACL (Shapes Constraint Language) is a language for describing and constraining the contents of RDF graphs. SHACL groups these descriptions and constraints into \"shapes\", which specify conditions that apply at a given RDF node. Shapes provide a high-level vocabulary to identify predicates and their associated cardinalities, datatypes and other constraints. Additional constraints can be associated with shapes using SPARQL and similar extension languages. These extension languages can also be used to define new high-level vocabulary terms. SHACL shapes can be used to communicate information about data structures associated with some process or interface, generate or validate data, or drive user interfaces. This document defines the SHACL language and its underlying semantics.</p>",
     "title": "Shapes Constraint Language (SHACL)",
@@ -27974,6 +27944,36 @@
     "isLatest": true,
     "date": "2018-01-23",
     "year": "2018",
+    "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/png-3/",
+    "description": "<p>This document describes PNG (Portable Network Graphics), an extensible file format for the lossless, portable, well-compressed storage of static and animated raster images. PNG provides a patent-free replacement for GIF and can also replace many common uses of TIFF. Indexed-colour, greyscale, and truecolour images are supported, plus an optional alpha channel. Sample depths range from 1 to 16 bits.</p>",
+    "title": "Portable Network Graphics (PNG) Specification (Third Edition)",
+    "shortname": "png-3",
+    "editor-draft": "https://w3c.github.io/png/",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/png-3"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/png-3/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/png-3/versions/20221025",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/png-3/versions/20250624",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/png"
+      }
+    },
+    "isLatest": true,
+    "date": "2025-06-24",
+    "year": "2025",
     "translations": {}
   },
   {
@@ -33432,131 +33432,6 @@
           }
         },
         "origTitle": "Namespaces in XML 1.1 (Second Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
-  },
-  {
-    "shortlink": "https://www.w3.org/TR/xmldsig-filter2/",
-    "description": "<p>XML Signature [XML-DSig] recommends a standard means for specifying information content to be digitally signed and for representing the resulting digital signatures in XML. Some applications require the ability to specify a subset of a given XML document as the information content to be signed. The XML Signature specification meets this requirement with the XPath transform. However, this transform can be difficult to implement efficiently with existing technologies. This specification defines a new XML Signature transform to facilitate the development of efficient document subsetting implementations that interoperate under similar performance profiles.</p>",
-    "title": "XML-Signature XPath Filter 2.0",
-    "shortname": "xmldsig-filter2",
-    "series-version": "2.0",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/xmldsig-filter2"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/xmldsig-filter2/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20020425",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/xmldsig-filter"
-      }
-    },
-    "isLatest": true,
-    "date": "2002-11-08",
-    "year": "2002",
-    "translations": {
-      "es": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://www.w3c.es/Traducciones/es/TR/2002/REC-xmldsig-filter2-20021108/",
-        "title": "Firma XML del Filtro XPath 2.0",
-        "language": "es",
-        "translators": [
-          {
-            "id": 111655,
-            "name": "Oscar Manrique",
-            "given": "Oscar",
-            "family": "Manrique",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "authorized": false,
-        "call-for-translation": {
-          "title": "XML-Signature XPath Filter 2.0",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2002/REC-xmldsig-filter2-20021108/",
-            "date": "2002-11-08",
-            "informative": false,
-            "title": "XML-Signature XPath Filter 2.0",
-            "shortlink": "https://www.w3.org/TR/xmldsig-filter2/",
-            "translation": "https://www.w3.org/Signature/2002/02/xmldsig-translations",
-            "errata": "https://www.w3.org/2002/11/xpath-filter2-errata.html",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xmldsig-filter2"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/90/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/90"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/90/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/127"
-          }
-        },
-        "origTitle": "XML-Signature XPath Filter 2.0",
         "isOutdated": false,
         "isPublished": true,
         "isPending": false,
@@ -39930,6 +39805,36 @@
     }
   },
   {
+    "shortlink": "https://www.w3.org/TR/tabular-metadata/",
+    "description": "<p>Validation, conversion, display and search of tabular data on the web requires additional metadata that describes how the data should be interpreted. This document defines a vocabulary for metadata that annotates tabular data. This can be used to provide metadata at various levels, from collections of data from CSV documents and how they relate to each other down to individual cells within a table.</p>",
+    "title": "Metadata Vocabulary for Tabular Data",
+    "shortname": "tabular-metadata",
+    "editor-draft": "https://w3c.github.io/csvw/metadata/",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/tabular-metadata"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/tabular-metadata/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/tabular-metadata/versions/20140710",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/tabular-metadata/versions/20151217",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/tabular-metadata"
+      }
+    },
+    "isLatest": true,
+    "date": "2015-12-17",
+    "year": "2015",
+    "translations": {}
+  },
+  {
     "shortlink": "https://www.w3.org/TR/ttml2/",
     "description": "<p>This document specifies the Second Edition of the Timed Text Markup Language (TTML), Version 2, also known as TTML2 (2e), in terms of a vocabulary and semantics thereof.</p>\r\n\r\n<p>The Timed Text Markup Language is a content type that represents timed text media for the purpose of interchange among authoring systems. Timed text is textual information that is intrinsically or extrinsically associated with timing information.</p>\r\n\r\n<p>It is intended to be used for the purpose of transcoding or exchanging timed text information among legacy distribution content formats presently in use for subtitling and captioning functions.</p>\r\n\r\n<p>In addition to being used for interchange among legacy distribution content formats, TTML Content may be used directly as a distribution format, for example, providing a standard content format to reference from a &lt;track&gt; element in an [HTML] document, or a &lt;text&gt; or &lt;textstream&gt; media element in a [SMIL 3.0] document.</p>",
     "title": "Timed Text Markup Language 2 (TTML2) (2nd Edition)",
@@ -40124,7 +40029,7 @@
     "description": "<p>The Semantic Sensor Network Ontology (commonly known as \"SSN\" is an ontology for describing sensors and the observations they make of the physical world. SSN is published in a modular architecture that supports the judicious use of \"just enough\" ontology for diverse applications, including satellite imagery, large scale scientific monitoring, industrial and household infrastructure, citizen observers, and Web of Things.</p>",
     "title": "Semantic Sensor Network Ontology",
     "shortname": "vocab-ssn",
-    "editor-draft": "https://w3c.github.io/sdw/ssn/",
+    "editor-draft": "https://w3c.github.io/sdw-sosa-ssn/ssn/",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/vocab-ssn"
@@ -43169,8 +43074,7 @@
     "translations": {
       "ar": {
         "states": [
-          "draft",
-          "outdated"
+          "draft"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0026.htmlv",
         "title": "Intent to translate WCAG 2.2 in Arabic",
@@ -43184,30 +43088,27 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-            "date": "2023-10-05",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
@@ -43229,15 +43130,14 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
       },
       "ca": {
         "states": [
-          "published",
-          "outdated"
+          "published"
         ],
         "uri": "https://www.w3.org/Translations/WCAG22-ca/",
         "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
@@ -43252,30 +43152,27 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-            "date": "2023-10-05",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
@@ -43297,15 +43194,14 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       },
       "zh-hans": {
         "states": [
-          "draft",
-          "outdated"
+          "draft"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0006.html",
         "title": "Intent to translate WCAG 2.2 in Simplified Chinese",
@@ -43319,30 +43215,27 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-            "date": "2023-10-05",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
@@ -43364,15 +43257,14 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
       },
       "nl": {
         "states": [
-          "published",
-          "outdated"
+          "published"
         ],
         "uri": "https://www.w3.org/Translations/WCAG22-nl/",
         "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
@@ -43387,30 +43279,27 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-            "date": "2023-10-05",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
@@ -43432,21 +43321,22 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       },
       "fr": {
         "states": [
-          "published",
-          "outdated"
+          "unpublished",
+          "needs_update"
         ],
-        "uri": "https://www.w3.org/Translations/WCAG22-fr/",
-        "title": "Règles pour l’accessibilité des contenus Web (WCAG) 2.2",
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2025JulSep/0004.html",
+        "title": "Intent to update the French translation of WCAG 2.2",
         "language": "fr",
         "translators": [],
         "published": "2025-03-17T00:00:00+00:00",
+        "updated": "2025-07-23T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Access42",
         "call-for-translation": {
@@ -43455,30 +43345,27 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-            "date": "2023-10-05",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
@@ -43500,15 +43387,14 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": true,
-        "isPublished": true,
+        "isOutdated": false,
+        "isPublished": false,
         "isPending": false,
         "isInReview": false
       },
       "it": {
         "states": [
-          "published",
-          "outdated"
+          "published"
         ],
         "uri": "https://www.w3.org/Translations/WCAG22-it/",
         "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
@@ -43524,30 +43410,27 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-            "date": "2023-10-05",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
@@ -43569,15 +43452,14 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       },
       "ko": {
         "states": [
-          "draft",
-          "outdated"
+          "draft"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0002.html",
         "title": "Intent to translate WCAG 2.2 in Korean",
@@ -43638,30 +43520,27 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-            "date": "2023-10-05",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
@@ -43683,15 +43562,14 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
       },
       "pt-br": {
         "states": [
-          "published",
-          "outdated"
+          "published"
         ],
         "uri": "https://www.w3.org/Translations/WCAG22-pt-BR/",
         "title": "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2",
@@ -43706,30 +43584,27 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-            "date": "2023-10-05",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
@@ -43751,15 +43626,14 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       },
       "ru": {
         "states": [
-          "draft",
-          "outdated"
+          "draft"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0006.html",
         "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.2 in Russian",
@@ -43818,30 +43692,27 @@
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-            "date": "2023-10-05",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
               },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/301/translations"
@@ -43863,7 +43734,7 @@
           }
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "isOutdated": true,
+        "isOutdated": false,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
@@ -45943,6 +45814,131 @@
     "translations": {}
   },
   {
+    "shortlink": "https://www.w3.org/TR/xmldsig-filter2/",
+    "description": "<p>XML Signature [XML-DSig] recommends a standard means for specifying information content to be digitally signed and for representing the resulting digital signatures in XML. Some applications require the ability to specify a subset of a given XML document as the information content to be signed. The XML Signature specification meets this requirement with the XPath transform. However, this transform can be difficult to implement efficiently with existing technologies. This specification defines a new XML Signature transform to facilitate the development of efficient document subsetting implementations that interoperate under similar performance profiles.</p>",
+    "title": "XML-Signature XPath Filter 2.0",
+    "shortname": "xmldsig-filter2",
+    "series-version": "2.0",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/xmldsig-filter2"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/xmldsig-filter2/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20020425",
+        "title": "Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/xmldsig-filter"
+      }
+    },
+    "isLatest": true,
+    "date": "2002-11-08",
+    "year": "2002",
+    "translations": {
+      "es": {
+        "states": [
+          "published"
+        ],
+        "uri": "http://www.w3c.es/Traducciones/es/TR/2002/REC-xmldsig-filter2-20021108/",
+        "title": "Firma XML del Filtro XPath 2.0",
+        "language": "es",
+        "translators": [
+          {
+            "id": 111655,
+            "name": "Oscar Manrique",
+            "given": "Oscar",
+            "family": "Manrique",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/crk73ruy4igc00w8wgoswskcksw8kgo/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "XML-Signature XPath Filter 2.0",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2002/REC-xmldsig-filter2-20021108/",
+            "date": "2002-11-08",
+            "informative": false,
+            "title": "XML-Signature XPath Filter 2.0",
+            "shortlink": "https://www.w3.org/TR/xmldsig-filter2/",
+            "translation": "https://www.w3.org/Signature/2002/02/xmldsig-translations",
+            "errata": "https://www.w3.org/2002/11/xpath-filter2-errata.html",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xmldsig-filter2"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xmldsig-filter2/versions/20021108/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/90/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/90"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/90/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/127"
+          }
+        },
+        "origTitle": "XML-Signature XPath Filter 2.0",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    }
+  },
+  {
     "shortlink": "https://www.w3.org/TR/xptr-framework/",
     "description": "<p>This specification defines the XML Pointer Language (XPointer) Framework, an extensible system for XML addressing that underlies additional XPointer scheme specifications. The framework is intended to be used as a basis for fragment identifiers for any resource whose Internet media type is one of <code>text/xml</code>, <code>application/xml</code>, <code>text/xml-external-parsed-entity</code>, or <code>application/xml-external-parsed-entity</code>. Other XML-based media types are also encouraged to use this framework in defining their own fragment identifier languages.</p>",
     "title": "XPointer Framework",
@@ -47894,7 +47890,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/geolocation/versions/20250411",
+        "href": "https://api.w3.org/specifications/geolocation/versions/20250711",
         "title": "Recommendation"
       },
       "supersedes": {
@@ -47905,7 +47901,7 @@
       }
     },
     "isLatest": true,
-    "date": "2025-04-11",
+    "date": "2025-07-11",
     "year": "2025",
     "translations": {
       "ja": {
