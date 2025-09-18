@@ -852,7 +852,7 @@
         "date": "2022-03-03",
         "informative": false,
         "title": "Verifiable Credentials Data Model v1.1",
-        "shortlink": "https://www.w3.org/TR/vc-data-model/",
+        "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
         "process-rules": "https://www.w3.org/2021/Process-20211102/",
         "_links": {
           "self": {

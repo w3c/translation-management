@@ -10837,7 +10837,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/html-aria/versions/20250409",
+        "href": "https://api.w3.org/specifications/html-aria/versions/20250805",
         "title": "Recommendation"
       },
       "series": {
@@ -10845,7 +10845,7 @@
       }
     },
     "isLatest": true,
-    "date": "2025-04-09",
+    "date": "2025-08-05",
     "year": "2025",
     "translations": {
       "ja": {
@@ -16474,6 +16474,8 @@
             "email": "carine@w3.org",
             "given": "Carine",
             "family": "Bournez",
+            "work-title": "Principal, Team Contact",
+            "biography": "Engineer, Software dev, Team contact. Accept-Language: fr, en, es, jp, de, la, eo",
             "country-code": "FR",
             "connected-accounts": [
               {
@@ -16730,6 +16732,8 @@
             "email": "carine@w3.org",
             "given": "Carine",
             "family": "Bournez",
+            "work-title": "Principal, Team Contact",
+            "biography": "Engineer, Software dev, Team contact. Accept-Language: fr, en, es, jp, de, la, eo",
             "country-code": "FR",
             "connected-accounts": [
               {
@@ -16968,6 +16972,8 @@
             "email": "carine@w3.org",
             "given": "Carine",
             "family": "Bournez",
+            "work-title": "Principal, Team Contact",
+            "biography": "Engineer, Software dev, Team contact. Accept-Language: fr, en, es, jp, de, la, eo",
             "country-code": "FR",
             "connected-accounts": [
               {
@@ -36739,6 +36745,7 @@
     "description": "<p>This document defines several sets of names which are assigned to Unicode characters. Each of these sets is also implemented as a file of XML entity declarations.</p>",
     "title": "XML Entity Definitions for Characters (3rd Edition)",
     "shortname": "xml-entity-names",
+    "editor-draft": "https://w3c.github.io/xml-entities/",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/xml-entity-names"
@@ -36809,6 +36816,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
+            "editor-draft": "https://w3c.github.io/xml-entities/",
             "uri": "https://www.w3.org/TR/2023/REC-xml-entity-names-20230307/",
             "date": "2023-03-07",
             "informative": false,
@@ -40025,24 +40033,24 @@
     "translations": {}
   },
   {
-    "shortlink": "https://www.w3.org/TR/vocab-ssn/",
+    "shortlink": "https://www.w3.org/TR/vocab-ssn-2017/",
     "description": "<p>The Semantic Sensor Network Ontology (commonly known as \"SSN\" is an ontology for describing sensors and the observations they make of the physical world. SSN is published in a modular architecture that supports the judicious use of \"just enough\" ontology for diverse applications, including satellite imagery, large scale scientific monitoring, industrial and household infrastructure, citizen observers, and Web of Things.</p>",
     "title": "Semantic Sensor Network Ontology",
-    "shortname": "vocab-ssn",
+    "shortname": "vocab-ssn-2017",
     "editor-draft": "https://w3c.github.io/sdw-sosa-ssn/ssn/",
     "_links": {
       "self": {
-        "href": "https://api.w3.org/specifications/vocab-ssn"
+        "href": "https://api.w3.org/specifications/vocab-ssn-2017"
       },
       "version-history": {
-        "href": "https://api.w3.org/specifications/vocab-ssn/versions"
+        "href": "https://api.w3.org/specifications/vocab-ssn-2017/versions"
       },
       "first-version": {
-        "href": "https://api.w3.org/specifications/vocab-ssn/versions/20160531",
+        "href": "https://api.w3.org/specifications/vocab-ssn-2017/versions/20160531",
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/vocab-ssn/versions/20171019",
+        "href": "https://api.w3.org/specifications/vocab-ssn-2017/versions/20171019",
         "title": "Recommendation"
       },
       "series": {
@@ -41859,7 +41867,7 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/vc-data-model/",
+    "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
     "description": "<p>Driver's licenses are used to claim that we are capable of operating a motor vehicle, university degrees can be used to claim our education status, and government-issued passports enable holders to travel between countries. This specification provides a standard way to express these sorts of claims on the Web in a way that is cryptographically secure, privacy respecting, and automatically verifiable.</p>",
     "title": "Verifiable Credentials Data Model v1.1",
     "shortname": "vc-data-model-1.1",
@@ -41940,7 +41948,7 @@
             "date": "2022-03-03",
             "informative": false,
             "title": "Verifiable Credentials Data Model v1.1",
-            "shortlink": "https://www.w3.org/TR/vc-data-model/",
+            "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
             "process-rules": "https://www.w3.org/2021/Process-20211102/",
             "_links": {
               "self": {
@@ -42049,7 +42057,7 @@
             "date": "2022-03-03",
             "informative": false,
             "title": "Verifiable Credentials Data Model v1.1",
-            "shortlink": "https://www.w3.org/TR/vc-data-model/",
+            "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
             "process-rules": "https://www.w3.org/2021/Process-20211102/",
             "_links": {
               "self": {
@@ -42160,7 +42168,7 @@
             "date": "2022-03-03",
             "informative": false,
             "title": "Verifiable Credentials Data Model v1.1",
-            "shortlink": "https://www.w3.org/TR/vc-data-model/",
+            "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
             "process-rules": "https://www.w3.org/2021/Process-20211102/",
             "_links": {
               "self": {
@@ -47349,7 +47357,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/geolocation/versions/20250711",
+        "href": "https://api.w3.org/specifications/geolocation/versions/20250818",
         "title": "Recommendation"
       },
       "supersedes": {
@@ -47360,7 +47368,7 @@
       }
     },
     "isLatest": true,
-    "date": "2025-07-11",
+    "date": "2025-08-18",
     "year": "2025",
     "translations": {
       "ja": {
@@ -47835,5 +47843,35 @@
         "isInReview": false
       }
     }
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/w3c-vision/",
+    "description": "<p>The W3C Vision articulates the values that underpin W3C’s mission, what W3C is, what it does and why that matters, and the principles by which it operates and makes decisions.</p>",
+    "title": "Vision for W3C",
+    "shortname": "w3c-vision",
+    "editor-draft": "https://w3c.github.io/AB-public/Vision",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/w3c-vision"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/w3c-vision/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/w3c-vision/versions/20230725",
+        "title": "Draft Note"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/w3c-vision/versions/20250729",
+        "title": "Statement"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/w3c-vision"
+      }
+    },
+    "isLatest": true,
+    "date": "2025-07-29",
+    "year": "2025",
+    "translations": {}
   }
 ]
