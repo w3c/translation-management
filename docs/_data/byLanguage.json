@@ -40327,6 +40327,226 @@
         ]
       },
       {
+        "title": "Verifiable Credentials Data Model v1.1",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/vc-data-model/",
+          "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
+          "date": "2022-03-03",
+          "informative": false,
+          "title": "Verifiable Credentials Data Model v1.1",
+          "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
+          "process-rules": "https://www.w3.org/2021/Process-20211102/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/vc-data-model-1.1"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/289/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/289"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/289/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2022-03-03",
+        "id": "s-vc-data-model-1.1",
+        "translations": [
+          {
+            "states": [
+              "draft"
+            ],
+            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0005.html",
+            "title": "Intent to translate Verifiable Credentials Data Model v1.1 into Simplified Chinese",
+            "language": "zh-hans",
+            "translators": [],
+            "authorized": true,
+            "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
+            "call-for-translation": {
+              "title": "Verifiable Credentials Data Model v1.1",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "editor-draft": "https://w3c.github.io/vc-data-model/",
+                "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
+                "date": "2022-03-03",
+                "informative": false,
+                "title": "Verifiable Credentials Data Model v1.1",
+                "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
+                "process-rules": "https://www.w3.org/2021/Process-20211102/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-1.1"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/289/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/289"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/289/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/633"
+              }
+            },
+            "origTitle": "Verifiable Credentials Data Model v1.1",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
+          }
+        ]
+      },
+      {
+        "title": "Verifiable Credentials Data Model v2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/vc-data-model/",
+          "uri": "https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/",
+          "date": "2025-05-15",
+          "informative": false,
+          "title": "Verifiable Credentials Data Model v2.0",
+          "shortlink": "https://www.w3.org/TR/vc-data-model-2.0/",
+          "process-rules": "https://www.w3.org/policies/process/20231103/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/321/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/321"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/321/translations"
+          }
+        },
+        "isLatest": true,
+        "date": "2025-05-15",
+        "id": "s-vc-data-model-2.0",
+        "translations": [
+          {
+            "states": [
+              "review"
+            ],
+            "uri": "https://www.w3.org/Translations/VC20-zh-CAT/Overview.html",
+            "title": "Candidate Authorized Translation (CAT) of Verifiable Credentials Data Model v2.0 into Simplified Chinese",
+            "language": "zh-hans",
+            "translators": [],
+            "authorized": true,
+            "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
+            "call-for-translation": {
+              "title": "Verifiable Credentials Data Model v2.0",
+              "spec-version": {
+                "status": "Recommendation",
+                "rec-track": true,
+                "editor-draft": "https://w3c.github.io/vc-data-model/",
+                "uri": "https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/",
+                "date": "2025-05-15",
+                "informative": false,
+                "title": "Verifiable Credentials Data Model v2.0",
+                "shortlink": "https://www.w3.org/TR/vc-data-model-2.0/",
+                "process-rules": "https://www.w3.org/policies/process/20231103/",
+                "_links": {
+                  "self": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515"
+                  },
+                  "editors": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/editors"
+                  },
+                  "deliverers": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/deliverers"
+                  },
+                  "specification": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-2.0"
+                  },
+                  "predecessor-version": {
+                    "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/predecessors"
+                  },
+                  "translations": {
+                    "href": "https://api.w3.org/callsfortranslation/321/translations"
+                  }
+                }
+              },
+              "_links": {
+                "self": {
+                  "href": "https://api.w3.org/callsfortranslation/321"
+                },
+                "translations": {
+                  "href": "https://api.w3.org/callsfortranslation/321/translations"
+                }
+              }
+            },
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/translations/657"
+              }
+            },
+            "origTitle": "Verifiable Credentials Data Model v2.0",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": false,
+            "isInReview": true
+          }
+        ]
+      },
+      {
         "title": "Vibration API",
         "spec-version": {
           "status": "Recommendation",
@@ -41738,7 +41958,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 20
+    "latestRecsTotal": 22
   },
   "de": {
     "list": [
@@ -84715,226 +84935,6 @@
       }
     ],
     "latestRecsTotal": 11
-  },
-  "zh": {
-    "list": [
-      {
-        "title": "Verifiable Credentials Data Model v1.1",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "editor-draft": "https://w3c.github.io/vc-data-model/",
-          "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
-          "date": "2022-03-03",
-          "informative": false,
-          "title": "Verifiable Credentials Data Model v1.1",
-          "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
-          "process-rules": "https://www.w3.org/2021/Process-20211102/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/vc-data-model-1.1"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/289/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/289"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/289/translations"
-          }
-        },
-        "isLatest": true,
-        "date": "2022-03-03",
-        "id": "s-vc-data-model-1.1",
-        "translations": [
-          {
-            "states": [
-              "draft"
-            ],
-            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0005.html",
-            "title": "Intent to translate Verifiable Credentials Data Model v1.1 into Simplified Chinese",
-            "language": "zh",
-            "translators": [],
-            "authorized": true,
-            "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
-            "call-for-translation": {
-              "title": "Verifiable Credentials Data Model v1.1",
-              "spec-version": {
-                "status": "Recommendation",
-                "rec-track": true,
-                "editor-draft": "https://w3c.github.io/vc-data-model/",
-                "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
-                "date": "2022-03-03",
-                "informative": false,
-                "title": "Verifiable Credentials Data Model v1.1",
-                "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
-                "process-rules": "https://www.w3.org/2021/Process-20211102/",
-                "_links": {
-                  "self": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
-                  },
-                  "editors": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
-                  },
-                  "deliverers": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
-                  },
-                  "specification": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-1.1"
-                  },
-                  "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
-                  },
-                  "translations": {
-                    "href": "https://api.w3.org/callsfortranslation/289/translations"
-                  }
-                }
-              },
-              "_links": {
-                "self": {
-                  "href": "https://api.w3.org/callsfortranslation/289"
-                },
-                "translations": {
-                  "href": "https://api.w3.org/callsfortranslation/289/translations"
-                }
-              }
-            },
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/translations/633"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "latestRecsTotal": 1
-  },
-  "zh-hans_cn": {
-    "list": [
-      {
-        "title": "Verifiable Credentials Data Model v2.0",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "editor-draft": "https://w3c.github.io/vc-data-model/",
-          "uri": "https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/",
-          "date": "2025-05-15",
-          "informative": false,
-          "title": "Verifiable Credentials Data Model v2.0",
-          "shortlink": "https://www.w3.org/TR/vc-data-model-2.0/",
-          "process-rules": "https://www.w3.org/policies/process/20231103/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/321/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/321"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/321/translations"
-          }
-        },
-        "isLatest": true,
-        "date": "2025-05-15",
-        "id": "s-vc-data-model-2.0",
-        "translations": [
-          {
-            "states": [
-              "review"
-            ],
-            "uri": "https://www.w3.org/Translations/VC20-zh-CAT/Overview.html",
-            "title": "Candidate Authorized Translation (CAT) of Verifiable Credentials Data Model v2.0 into Simplified Chinese",
-            "language": "zh-hans_cn",
-            "translators": [],
-            "authorized": true,
-            "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
-            "call-for-translation": {
-              "title": "Verifiable Credentials Data Model v2.0",
-              "spec-version": {
-                "status": "Recommendation",
-                "rec-track": true,
-                "editor-draft": "https://w3c.github.io/vc-data-model/",
-                "uri": "https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/",
-                "date": "2025-05-15",
-                "informative": false,
-                "title": "Verifiable Credentials Data Model v2.0",
-                "shortlink": "https://www.w3.org/TR/vc-data-model-2.0/",
-                "process-rules": "https://www.w3.org/policies/process/20231103/",
-                "_links": {
-                  "self": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515"
-                  },
-                  "editors": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/editors"
-                  },
-                  "deliverers": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/deliverers"
-                  },
-                  "specification": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-2.0"
-                  },
-                  "predecessor-version": {
-                    "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/predecessors"
-                  },
-                  "translations": {
-                    "href": "https://api.w3.org/callsfortranslation/321/translations"
-                  }
-                }
-              },
-              "_links": {
-                "self": {
-                  "href": "https://api.w3.org/callsfortranslation/321"
-                },
-                "translations": {
-                  "href": "https://api.w3.org/callsfortranslation/321/translations"
-                }
-              }
-            },
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/translations/657"
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "latestRecsTotal": 1
   },
   "he": {
     "list": [
