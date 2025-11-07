@@ -1,13 +1,15 @@
 [
   {
     "states": [
-      "published"
+      "published",
+      "needs_update"
     ],
-    "uri": "https://www.w3.org/Translations/VC20-zh/",
+    "uri": "https://www.w3.org/Translations/vc-data-model-2.0-zh/",
     "title": "可验证凭证数据模型 v2.0",
     "language": "zh-hans",
     "translators": [],
     "published": "2025-11-07T00:00:00+00:00",
+    "updated": "2025-11-07T00:00:00+00:00",
     "authorized": true,
     "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
     "call-for-translation": {
