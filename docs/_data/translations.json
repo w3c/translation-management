@@ -13009,22 +13009,8 @@
             "given": "Makoto",
             "family": "Murata",
             "work-title": "Dr",
-            "biography": "Graduated from Kyoto University in 1982.\nPh.D. from Tsukuba University.\nProject Professor in Keio University from 2017",
-            "connected-accounts": [
-              {
-                "created": "2021-09-08T13:58:55+00:00",
-                "service": "github",
-                "identifier": "5499496",
-                "nickname": "murata2makoto",
-                "profile-picture": "https://avatars.githubusercontent.com/u/5499496?v=4",
-                "href": "https://github.com/murata2makoto",
-                "_links": {
-                  "user": {
-                    "href": "https://api.w3.org/users/43jddg2m3j6s4kc0g848kogcw8g88o4"
-                  }
-                }
-              }
-            ],
+            "biography": "Graduated from Kyoto University in 1982.\r\nPh.D. from Tsukuba University.",
+            "connected-accounts": [],
             "discr": "user",
             "_links": {
               "self": {
@@ -13176,22 +13162,8 @@
             "given": "Makoto",
             "family": "Murata",
             "work-title": "Dr",
-            "biography": "Graduated from Kyoto University in 1982.\nPh.D. from Tsukuba University.\nProject Professor in Keio University from 2017",
-            "connected-accounts": [
-              {
-                "created": "2021-09-08T13:58:55+00:00",
-                "service": "github",
-                "identifier": "5499496",
-                "nickname": "murata2makoto",
-                "profile-picture": "https://avatars.githubusercontent.com/u/5499496?v=4",
-                "href": "https://github.com/murata2makoto",
-                "_links": {
-                  "user": {
-                    "href": "https://api.w3.org/users/43jddg2m3j6s4kc0g848kogcw8g88o4"
-                  }
-                }
-              }
-            ],
+            "biography": "Graduated from Kyoto University in 1982.\r\nPh.D. from Tsukuba University.",
+            "connected-accounts": [],
             "discr": "user",
             "_links": {
               "self": {
@@ -41549,7 +41521,7 @@
         "states": [
           "published"
         ],
-        "uri": "http://www.chinaw3c.org/REC-sparql11-overview-20130321-cn.html",
+        "uri": "https://www.w3.org/2013/03/REC-sparql11-overview-20130321-cn/",
         "title": "SPARQL 1.1概述",
         "language": "zh-hans",
         "translators": [
@@ -48301,12 +48273,13 @@
     "translations": [
       {
         "states": [
-          "review"
+          "published"
         ],
-        "uri": "https://www.w3.org/Translations/VC20-zh-CAT/Overview.html",
-        "title": "Candidate Authorized Translation (CAT) of Verifiable Credentials Data Model v2.0 into Simplified Chinese",
+        "uri": "https://www.w3.org/Translations/VC20-zh/",
+        "title": "可验证凭证数据模型 v2.0",
         "language": "zh-hans",
         "translators": [],
+        "published": "2025-11-07T00:00:00+00:00",
         "authorized": true,
         "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
         "call-for-translation": {
@@ -48358,11 +48331,75 @@
         },
         "origTitle": "Verifiable Credentials Data Model v2.0",
         "isOutdated": false,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       }
-    ]
+    ],
+    "hasAuthorizedTranslations": {
+      "states": [
+        "published"
+      ],
+      "uri": "https://www.w3.org/Translations/VC20-zh/",
+      "title": "可验证凭证数据模型 v2.0",
+      "language": "zh-hans",
+      "translators": [],
+      "published": "2025-11-07T00:00:00+00:00",
+      "authorized": true,
+      "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
+      "call-for-translation": {
+        "title": "Verifiable Credentials Data Model v2.0",
+        "spec-version": {
+          "status": "Recommendation",
+          "rec-track": true,
+          "editor-draft": "https://w3c.github.io/vc-data-model/",
+          "uri": "https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/",
+          "date": "2025-05-15",
+          "informative": false,
+          "title": "Verifiable Credentials Data Model v2.0",
+          "shortlink": "https://www.w3.org/TR/vc-data-model-2.0/",
+          "process-rules": "https://www.w3.org/policies/process/20231103/",
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515"
+            },
+            "editors": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/editors"
+            },
+            "deliverers": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/deliverers"
+            },
+            "specification": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0"
+            },
+            "predecessor-version": {
+              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/predecessors"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/321/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/callsfortranslation/321"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/321/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/translations/657"
+        }
+      },
+      "origTitle": "Verifiable Credentials Data Model v2.0",
+      "isOutdated": false,
+      "isPublished": true,
+      "isPending": false,
+      "isInReview": false
+    }
   },
   {
     "title": "Vibration API",

@@ -3,6 +3,70 @@
     "states": [
       "published"
     ],
+    "uri": "https://www.w3.org/Translations/VC20-zh/",
+    "title": "可验证凭证数据模型 v2.0",
+    "language": "zh-hans",
+    "translators": [],
+    "published": "2025-11-07T00:00:00+00:00",
+    "authorized": true,
+    "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
+    "call-for-translation": {
+      "title": "Verifiable Credentials Data Model v2.0",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://w3c.github.io/vc-data-model/",
+        "uri": "https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/",
+        "date": "2025-05-15",
+        "informative": false,
+        "title": "Verifiable Credentials Data Model v2.0",
+        "shortlink": "https://www.w3.org/TR/vc-data-model-2.0/",
+        "process-rules": "https://www.w3.org/policies/process/20231103/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/vc-data-model-2.0"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/321/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/321"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/321/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/657"
+      }
+    },
+    "origTitle": "Verifiable Credentials Data Model v2.0",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://momdo.github.io/dpub-aria-1.1/",
     "title": "Digital Publishing WAI-ARIA Module 1.1 日本語訳",
     "language": "ja",
@@ -1200,102 +1264,5 @@
         "href": "https://api.w3.org/translations/621"
       }
     }
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "https://shebang.pl/css/modul-przestrzenie-nazw-css-poziom-3/",
-    "title": "Moduł Przestrzenie nazw CSS, poziom 3",
-    "language": "pl",
-    "translators": [
-      {
-        "id": 150789,
-        "name": "Łukasz Piwko",
-        "given": "Łukasz",
-        "family": "Piwko",
-        "country-code": "PL",
-        "country-division": "Mazovia",
-        "city": "Sokolow Podlaski",
-        "connected-accounts": [],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/jt5v97hq3404cc4ss8sos4wggk4wsks/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2023-12-21T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "CSS Namespaces Module Level 3",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://drafts.csswg.org/css-namespaces/",
-        "uri": "https://www.w3.org/TR/2014/REC-css-namespaces-3-20140320/",
-        "date": "2014-03-20",
-        "informative": false,
-        "title": "CSS Namespaces Module Level 3",
-        "shortlink": "https://www.w3.org/TR/css-namespaces-3/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/css-namespaces-3"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/css-namespaces-3/versions/20140320/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/208/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/208"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/208/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/617"
-      }
-    },
-    "origTitle": "CSS Namespaces Module Level 3",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
   }
 ]

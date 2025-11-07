@@ -26466,7 +26466,7 @@
         "states": [
           "published"
         ],
-        "uri": "http://www.chinaw3c.org/REC-sparql11-overview-20130321-cn.html",
+        "uri": "https://www.w3.org/2013/03/REC-sparql11-overview-20130321-cn/",
         "title": "SPARQL 1.1概述",
         "language": "zh-hans",
         "translators": [
@@ -40037,7 +40037,7 @@
     "description": "<p>The Semantic Sensor Network Ontology (commonly known as \"SSN\" is an ontology for describing sensors and the observations they make of the physical world. SSN is published in a modular architecture that supports the judicious use of \"just enough\" ontology for diverse applications, including satellite imagery, large scale scientific monitoring, industrial and household infrastructure, citizen observers, and Web of Things.</p>",
     "title": "Semantic Sensor Network Ontology",
     "shortname": "vocab-ssn-2017",
-    "editor-draft": "https://w3c.github.io/sdw-sosa-ssn/ssn/",
+    "editor-draft": "https://w3c.github.io/sdw/ssn/",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/vocab-ssn-2017"
@@ -43399,12 +43399,13 @@
     "translations": {
       "zh-hans": {
         "states": [
-          "review"
+          "published"
         ],
-        "uri": "https://www.w3.org/Translations/VC20-zh-CAT/Overview.html",
-        "title": "Candidate Authorized Translation (CAT) of Verifiable Credentials Data Model v2.0 into Simplified Chinese",
+        "uri": "https://www.w3.org/Translations/VC20-zh/",
+        "title": "可验证凭证数据模型 v2.0",
         "language": "zh-hans",
         "translators": [],
+        "published": "2025-11-07T00:00:00+00:00",
         "authorized": true,
         "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
         "call-for-translation": {
@@ -43456,9 +43457,9 @@
         },
         "origTitle": "Verifiable Credentials Data Model v2.0",
         "isOutdated": false,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       }
     }
   },
@@ -47484,7 +47485,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/geolocation/versions/20250818",
+        "href": "https://api.w3.org/specifications/geolocation/versions/20251029",
         "title": "Recommendation"
       },
       "supersedes": {
@@ -47495,7 +47496,7 @@
       }
     },
     "isLatest": true,
-    "date": "2025-08-18",
+    "date": "2025-10-29",
     "year": "2025",
     "translations": {
       "ja": {
