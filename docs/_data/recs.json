@@ -43148,13 +43148,13 @@
           "draft"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2025JulSep/0004.html",
-        "title": "Intent to update the French translation of WCAG 2.2",
+        "title": "Intent to translate WCAG 2.2 (W3C Recommendation 12 December 2024) into French",
         "language": "fr",
         "translators": [],
         "authorized": true,
         "lto_name": "Access42",
         "call-for-translation": {
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
@@ -43200,7 +43200,70 @@
             "href": "https://api.w3.org/translations/656"
           }
         },
-        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
+        "isOutdated": false,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
+      "hu": {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2025OctDec/0005.html",
+        "title": "Intent to translate WCAG 2.2 (W3C Recommendation 12 December 2024) into Hungarian",
+        "language": "hu",
+        "translators": [],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/320/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/320"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/320/translations"
+            }
+          }
+        },
+        "comments": "Translator: Pallinger Péter",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/658"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
         "isOutdated": false,
         "isPublished": false,
         "isPending": true,
@@ -43211,13 +43274,13 @@
           "draft"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2025JulSep/0013.html",
-        "title": "Intent to translate WCAG 2.2 into Thai",
+        "title": "Intent to translate WCAG 2.2 (W3C Recommendation 12 December 2024) into Thai",
         "language": "th",
         "translators": [],
         "authorized": true,
         "lto_name": "National Science and Technology Development Agency (NSTDA)",
         "call-for-translation": {
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
@@ -43263,7 +43326,7 @@
             "href": "https://api.w3.org/translations/655"
           }
         },
-        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
         "isOutdated": false,
         "isPublished": false,
         "isPending": true,

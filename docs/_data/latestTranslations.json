@@ -253,7 +253,7 @@
     "authorized": true,
     "lto_name": "Ceweb.br",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -302,7 +302,7 @@
         "href": "https://api.w3.org/translations/615"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
@@ -323,7 +323,7 @@
     "authorized": true,
     "lto_name": "Access42",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -372,7 +372,7 @@
         "href": "https://api.w3.org/translations/613"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
@@ -618,7 +618,7 @@
     "authorized": true,
     "lto_name": "Accessibility Foundation",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -667,7 +667,7 @@
         "href": "https://api.w3.org/translations/614"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
@@ -686,7 +686,7 @@
     "authorized": true,
     "lto_name": "Facultat de Matemàtiques i Informàtica - Universitat de Barcelona",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -735,7 +735,7 @@
         "href": "https://api.w3.org/translations/620"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
