@@ -54521,6 +54521,73 @@
         "isPublished": false,
         "isPending": true,
         "isInReview": false
+      },
+      {
+        "states": [
+          "review",
+          "outdated"
+        ],
+        "uri": "https://www.nectec.or.th/standard/WCAG/REC-WCAG22-20231005-TH/",
+        "title": "Candidate Authorized Translation of WCAG 2.2 into Thai",
+        "language": "th",
+        "translators": [],
+        "authorized": true,
+        "lto_name": "National Science and Technology Development Agency (NSTDA)",
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/659"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
+        "isOutdated": true,
+        "isPublished": false,
+        "isPending": false,
+        "isInReview": true
       }
     ],
     "hasAuthorizedTranslations": {
@@ -54640,10 +54707,10 @@
     "translations": [
       {
         "states": [
-          "draft"
+          "review"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2025JulSep/0013.html",
-        "title": "Intent to translate WCAG 2.2 (W3C Recommendation 12 December 2024) into Thai",
+        "uri": "https://www.nectec.or.th/standard/WCAG/REC-WCAG22-20241212-TH/",
+        "title": "Candidate Authorized Translation of WCAG 2.2 into Thai",
         "language": "th",
         "translators": [],
         "authorized": true,
@@ -54698,8 +54765,8 @@
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
         "isOutdated": false,
         "isPublished": false,
-        "isPending": true,
-        "isInReview": false
+        "isPending": false,
+        "isInReview": true
       },
       {
         "states": [

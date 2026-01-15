@@ -43271,10 +43271,10 @@
       },
       "th": {
         "states": [
-          "draft"
+          "review"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2025JulSep/0013.html",
-        "title": "Intent to translate WCAG 2.2 (W3C Recommendation 12 December 2024) into Thai",
+        "uri": "https://www.nectec.or.th/standard/WCAG/REC-WCAG22-20241212-TH/",
+        "title": "Candidate Authorized Translation of WCAG 2.2 into Thai",
         "language": "th",
         "translators": [],
         "authorized": true,
@@ -43329,8 +43329,8 @@
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
         "isOutdated": false,
         "isPublished": false,
-        "isPending": true,
-        "isInReview": false
+        "isPending": false,
+        "isInReview": true
       }
     }
   },
@@ -47458,7 +47458,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/epub-33/versions/20250327",
+        "href": "https://api.w3.org/specifications/epub-33/versions/20260113",
         "title": "Recommendation"
       },
       "series": {
@@ -47466,8 +47466,8 @@
       }
     },
     "isLatest": true,
-    "date": "2025-03-27",
-    "year": "2025",
+    "date": "2026-01-13",
+    "year": "2026",
     "translations": {}
   },
   {
