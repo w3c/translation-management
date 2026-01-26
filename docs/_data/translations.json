@@ -1787,44 +1787,45 @@
       },
       {
         "states": [
-          "draft"
+          "published"
         ],
-        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0026.html",
-        "title": "Intent to translate Activity Streams 2.0 into Simplified Chinese",
+        "uri": "https://w3c.wholetrans.org/activitystreams-core/",
+        "title": "Activity Streams 2.0",
         "language": "zh-hans",
         "translators": [
           {
-            "id": 161962,
-            "name": "Moved to cdn0x12",
-            "given": "Moved to",
-            "family": "cdn0x12",
+            "id": 166738,
+            "name": "cdn0x12 -",
+            "given": "cdn0x12",
+            "family": "-",
             "connected-accounts": [],
             "discr": "user",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg"
               },
               "affiliations": {
-                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/affiliations"
+                "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/affiliations"
               },
               "groups": {
-                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/groups"
+                "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/groups"
               },
               "specifications": {
-                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/specifications"
+                "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/specifications"
               },
               "participations": {
-                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/participations"
+                "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/participations"
               },
               "chair_of_groups": {
-                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/chair-of-groups"
+                "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/chair-of-groups"
               },
               "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/team-contact-of-groups"
+                "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/team-contact-of-groups"
               }
             }
           }
         ],
+        "published": "2026-01-26T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Activity Streams 2.0",
@@ -1877,8 +1878,8 @@
         },
         "origTitle": "Activity Streams 2.0",
         "isOutdated": false,
-        "isPublished": false,
-        "isPending": true,
+        "isPublished": true,
+        "isPending": false,
         "isInReview": false
       }
     ]
