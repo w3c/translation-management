@@ -25774,7 +25774,7 @@
         }
       },
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -25878,7 +25878,7 @@
             ],
             "authorized": false,
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -25927,7 +25927,7 @@
                 "href": "https://api.w3.org/translations/646"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": false,
             "isPending": true,
@@ -25948,7 +25948,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -25997,7 +25997,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,
@@ -29017,7 +29017,7 @@
         }
       },
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -29078,7 +29078,7 @@
             "authorized": true,
             "lto_name": "IWA (Web International Association)",
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -29127,7 +29127,7 @@
                 "href": "https://api.w3.org/translations/612"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": true,
             "isPending": false,
@@ -29148,7 +29148,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -29197,7 +29197,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,
@@ -37603,44 +37603,45 @@
         "translations": [
           {
             "states": [
-              "draft"
+              "published"
             ],
-            "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0026.html",
-            "title": "Intent to translate Activity Vocabulary into Simplified Chinese",
+            "uri": "https://w3c.wholetrans.org/activitystreams-vocabulary/",
+            "title": "Activity Vocabulary",
             "language": "zh-hans",
             "translators": [
               {
-                "id": 161962,
-                "name": "Moved to cdn0x12",
-                "given": "Moved to",
-                "family": "cdn0x12",
+                "id": 166738,
+                "name": "cdn0x12 -",
+                "given": "cdn0x12",
+                "family": "-",
                 "connected-accounts": [],
                 "discr": "user",
                 "_links": {
                   "self": {
-                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg"
+                    "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg"
                   },
                   "affiliations": {
-                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/affiliations"
+                    "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/affiliations"
                   },
                   "groups": {
-                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/groups"
+                    "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/groups"
                   },
                   "specifications": {
-                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/specifications"
+                    "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/specifications"
                   },
                   "participations": {
-                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/participations"
+                    "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/participations"
                   },
                   "chair_of_groups": {
-                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/chair-of-groups"
+                    "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/chair-of-groups"
                   },
                   "team_contact_of_groups": {
-                    "href": "https://api.w3.org/users/b9az7f5m57sok8oc8cso8cgook4ckkg/team-contact-of-groups"
+                    "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/team-contact-of-groups"
                   }
                 }
               }
             ],
+            "published": "2026-03-10T00:00:00+00:00",
             "authorized": false,
             "call-for-translation": {
               "title": "Activity Vocabulary",
@@ -37693,8 +37694,8 @@
             },
             "origTitle": "Activity Vocabulary",
             "isOutdated": false,
-            "isPublished": false,
-            "isPending": true,
+            "isPublished": true,
+            "isPending": false,
             "isInReview": false
           }
         ]
@@ -41219,7 +41220,7 @@
         }
       },
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -41278,7 +41279,7 @@
             "authorized": true,
             "lto_name": "Zhejiang University",
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -41327,7 +41328,7 @@
                 "href": "https://api.w3.org/translations/611"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": false,
             "isPending": true,
@@ -41348,7 +41349,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -41397,7 +41398,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,
@@ -58380,7 +58381,7 @@
         "translations": [
           {
             "states": [
-              "draft",
+              "review",
               "outdated"
             ],
             "uri": "https://wcag.access42.net/21/REC-WCAG21-20250506.html",
@@ -58444,8 +58445,8 @@
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
             "isOutdated": true,
             "isPublished": false,
-            "isPending": true,
-            "isInReview": false
+            "isPending": false,
+            "isInReview": true
           }
         ],
         "hasAuthorizedTranslations": {
@@ -58520,7 +58521,7 @@
         }
       },
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -58582,7 +58583,7 @@
             "authorized": true,
             "lto_name": "Access42",
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -58631,7 +58632,7 @@
                 "href": "https://api.w3.org/translations/613"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": true,
             "isPending": false,
@@ -58652,7 +58653,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -58701,7 +58702,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,
@@ -58755,7 +58756,7 @@
         "translations": [
           {
             "states": [
-              "draft"
+              "review"
             ],
             "uri": "https://wcag.access42.net/22/REC-WCAG22-20241212.html",
             "title": "Candidate Authorized Translation (CAT) of WCAG 2.2 into French",
@@ -58813,8 +58814,8 @@
             "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
             "isOutdated": false,
             "isPublished": false,
-            "isPending": true,
-            "isInReview": false
+            "isPending": false,
+            "isInReview": true
           }
         ]
       },
@@ -64104,7 +64105,7 @@
         }
       },
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -64164,7 +64165,7 @@
             "authorized": true,
             "lto_name": "Ceweb.br",
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -64213,7 +64214,7 @@
                 "href": "https://api.w3.org/translations/615"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": true,
             "isPending": false,
@@ -64234,7 +64235,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -64283,7 +64284,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,
@@ -70855,7 +70856,7 @@
         }
       },
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -70961,7 +70962,7 @@
             ],
             "authorized": false,
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -71010,7 +71011,7 @@
                 "href": "https://api.w3.org/translations/632"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": false,
             "isPending": true,
@@ -71031,7 +71032,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -71080,7 +71081,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,
@@ -72339,7 +72340,7 @@
         }
       },
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -72399,7 +72400,7 @@
             "authorized": true,
             "lto_name": "Accessibility Foundation",
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -72448,7 +72449,7 @@
                 "href": "https://api.w3.org/translations/614"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": true,
             "isPending": false,
@@ -72469,7 +72470,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -72518,7 +72519,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,
@@ -74856,7 +74857,7 @@
         }
       },
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -74915,7 +74916,7 @@
             "authorized": true,
             "lto_name": "Mada Qatar Assistive Technology Center",
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -74964,7 +74965,7 @@
                 "href": "https://api.w3.org/translations/616"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": false,
             "isPending": true,
@@ -74985,7 +74986,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -75034,7 +75035,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,
@@ -86656,7 +86657,7 @@
         }
       },
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -86716,7 +86717,7 @@
             "authorized": true,
             "lto_name": "Facultat de Matemàtiques i Informàtica - Universitat de Barcelona",
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -86765,7 +86766,7 @@
                 "href": "https://api.w3.org/translations/620"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": true,
             "isPending": false,
@@ -86786,7 +86787,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -86835,7 +86836,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,
@@ -89227,7 +89228,7 @@
   "th": {
     "list": [
       {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
         "spec-version": {
           "status": "Recommendation",
           "rec-track": true,
@@ -89286,7 +89287,7 @@
             "authorized": true,
             "lto_name": "National Science and Technology Development Agency (NSTDA)",
             "call-for-translation": {
-              "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+              "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
               "spec-version": {
                 "status": "Recommendation",
                 "rec-track": true,
@@ -89335,7 +89336,7 @@
                 "href": "https://api.w3.org/translations/659"
               }
             },
-            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "isOutdated": true,
             "isPublished": false,
             "isPending": false,
@@ -89356,7 +89357,7 @@
           "authorized": true,
           "lto_name": "IWA (Web International Association)",
           "call-for-translation": {
-            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
             "spec-version": {
               "status": "Recommendation",
               "rec-track": true,
@@ -89405,7 +89406,7 @@
               "href": "https://api.w3.org/translations/612"
             }
           },
-          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
           "isOutdated": true,
           "isPublished": true,
           "isPending": false,

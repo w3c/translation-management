@@ -3,6 +3,103 @@
     "states": [
       "published"
     ],
+    "uri": "https://w3c.wholetrans.org/activitystreams-vocabulary/",
+    "title": "Activity Vocabulary",
+    "language": "zh-hans",
+    "translators": [
+      {
+        "id": 166738,
+        "name": "cdn0x12 -",
+        "given": "cdn0x12",
+        "family": "-",
+        "connected-accounts": [],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/86gvvl5h0084wogwgwss0ok8gkg04gg/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2026-03-10T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "Activity Vocabulary",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "editor-draft": "https://w3c.github.io/activitystreams/vocabulary/",
+        "uri": "https://www.w3.org/TR/2017/REC-activitystreams-vocabulary-20170523/",
+        "date": "2017-05-23",
+        "informative": false,
+        "title": "Activity Vocabulary",
+        "shortlink": "https://www.w3.org/TR/activitystreams-vocabulary/",
+        "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/activitystreams-vocabulary/",
+        "errata": "https://github.com/w3c/activitystreams/blob/master/ERRATA.md",
+        "process-rules": "https://www.w3.org/2017/Process-20170301/",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/activitystreams-vocabulary"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/activitystreams-vocabulary/versions/20170523/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/315/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/315"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/315/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/649"
+      }
+    },
+    "origTitle": "Activity Vocabulary",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://w3c.wholetrans.org/activitystreams-core/",
     "title": "Activity Streams 2.0",
     "language": "zh-hans",
@@ -350,7 +447,7 @@
     "authorized": true,
     "lto_name": "Ceweb.br",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -399,7 +496,7 @@
         "href": "https://api.w3.org/translations/615"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
@@ -420,7 +517,7 @@
     "authorized": true,
     "lto_name": "Access42",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -469,7 +566,7 @@
         "href": "https://api.w3.org/translations/613"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
@@ -715,7 +812,7 @@
     "authorized": true,
     "lto_name": "Accessibility Foundation",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -764,7 +861,7 @@
         "href": "https://api.w3.org/translations/614"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
@@ -783,7 +880,7 @@
     "authorized": true,
     "lto_name": "Facultat de Matemàtiques i Informàtica - Universitat de Barcelona",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -832,7 +929,7 @@
         "href": "https://api.w3.org/translations/620"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
@@ -1165,106 +1262,6 @@
     },
     "origTitle": "ActivityPub",
     "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published",
-      "outdated"
-    ],
-    "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/css/REC-mediaqueries-3-20220405.html",
-    "title": "メディア・クエリ レベル3",
-    "language": "ja",
-    "translators": [
-      {
-        "id": 112316,
-        "name": "Shuji Kamitsuna",
-        "given": "Shuji",
-        "family": "Kamitsuna",
-        "connected-accounts": [],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2024-01-11T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "Media Queries Level 3",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://drafts.csswg.org/mediaqueries-3/",
-        "uri": "https://www.w3.org/TR/2022/REC-mediaqueries-3-20220405/",
-        "date": "2022-04-05",
-        "informative": false,
-        "title": "Media Queries Level 3",
-        "shortlink": "https://www.w3.org/TR/mediaqueries-3/",
-        "errata": "https://www.w3.org/Style/2022/REC-mediaqueries-3-20220405-errata.html",
-        "process-rules": "https://www.w3.org/2021/Process-20211102/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/mediaqueries-3"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/predecessors"
-          },
-          "successor-version": {
-            "href": "https://api.w3.org/specifications/mediaqueries-3/versions/20220405/successors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/291/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/291"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/291/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/623"
-      }
-    },
-    "origTitle": "Media Queries Level 3",
-    "isOutdated": true,
     "isPublished": true,
     "isPending": false,
     "isInReview": false
