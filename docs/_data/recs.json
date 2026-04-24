@@ -5221,7 +5221,7 @@
         "title": "Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/css-ui-3/versions/20180621",
+        "href": "https://api.w3.org/specifications/css-ui-3/versions/20260407",
         "title": "Recommendation"
       },
       "supersedes": {
@@ -5232,12 +5232,13 @@
       }
     },
     "isLatest": true,
-    "date": "2018-06-21",
-    "year": "2018",
+    "date": "2026-04-07",
+    "year": "2026",
     "translations": {
       "ja": {
         "states": [
-          "published"
+          "published",
+          "outdated"
         ],
         "uri": "https://momdo.github.io/css-ui/",
         "title": "CSS Basic User Interface Module Level 3 (CSS3 UI) 日本語訳",
@@ -5274,6 +5275,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/css-ui-3/versions/20180621/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/css-ui-3/versions/20180621/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/249/translations"
               }
@@ -5295,7 +5299,7 @@
           }
         },
         "origTitle": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
@@ -8407,7 +8411,7 @@
         "states": [
           "published"
         ],
-        "uri": "http://sherdim.ru/pts/semantic_web/REC-navigation-timing-20121217.ru.html",
+        "uri": "https://sherdim.ru/pts/semantic_web/REC-navigation-timing-20121217.ru.html",
         "title": "Tайминг навигации",
         "language": "ru",
         "translators": [
@@ -8445,6 +8449,7 @@
           }
         ],
         "published": "2013-02-07T00:00:00+00:00",
+        "updated": "2026-04-24T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Navigation Timing",
@@ -10839,7 +10844,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/html-aria/versions/20250805",
+        "href": "https://api.w3.org/specifications/html-aria/versions/20260415",
         "title": "Recommendation"
       },
       "series": {
@@ -10847,8 +10852,8 @@
       }
     },
     "isLatest": true,
-    "date": "2025-08-05",
-    "year": "2025",
+    "date": "2026-04-15",
+    "year": "2026",
     "translations": {
       "ja": {
         "states": [
@@ -17517,7 +17522,7 @@
         "states": [
           "published"
         ],
-        "uri": "http://sherdim.rsu.ru/pts/semantic_web/REC-owl-features-20040210_ru.html",
+        "uri": "https://sherdim.ru/pts/semantic_web/REC-owl-features-20040210_ru.html",
         "title": "OWL, язык веб-онтологий. Краткий обзор",
         "language": "ru",
         "translators": [
@@ -17554,6 +17559,8 @@
             }
           }
         ],
+        "published": "2026-04-24T00:00:00+00:00",
+        "updated": "2026-04-24T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "OWL Web Ontology Language Overview",
@@ -18181,7 +18188,7 @@
         "states": [
           "published"
         ],
-        "uri": "http://sherdim.rsu.ru/pts/semantic_web/REC-owl-guide-20040210_ru.html",
+        "uri": "https://sherdim.ru/pts/semantic_web/REC-owl-guide-20040210_ru.html",
         "title": "OWL, язык веб-онтологий. Руководство",
         "language": "ru",
         "translators": [
@@ -18219,6 +18226,7 @@
           }
         ],
         "published": "2004-10-12T00:00:00+00:00",
+        "updated": "2026-04-24T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "OWL Web Ontology Language Guide",
@@ -47566,141 +47574,6 @@
     "date": "2024-10-17",
     "year": "2024",
     "translations": {}
-  },
-  {
-    "shortlink": "https://www.w3.org/TR/geolocation/",
-    "description": "<p>The Geolocation API provides access to geographical location information associated with the hosting device.</p>",
-    "title": "Geolocation",
-    "shortname": "geolocation",
-    "editor-draft": "https://w3c.github.io/geolocation/",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/geolocation"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/geolocation/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/geolocation/versions/20210527",
-        "title": "First Public Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/geolocation/versions/20251029",
-        "title": "Recommendation"
-      },
-      "supersedes": {
-        "href": "https://api.w3.org/specifications/geolocation/supersedes"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/geolocation"
-      }
-    },
-    "isLatest": true,
-    "date": "2025-10-29",
-    "year": "2025",
-    "translations": {
-      "ja": {
-        "states": [
-          "published",
-          "needs_update",
-          "outdated"
-        ],
-        "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/geo/REC-geolocation-20220901.html",
-        "title": "ジオロケーションAPI",
-        "language": "ja",
-        "translators": [
-          {
-            "id": 112316,
-            "name": "Shuji Kamitsuna",
-            "given": "Shuji",
-            "family": "Kamitsuna",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/pfpkj72292os0owwc04gggc484oggkw/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2023-03-27T00:00:00+00:00",
-        "updated": "2023-03-27T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Geolocation API",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "editor-draft": "https://w3c.github.io/geolocation/",
-            "uri": "https://www.w3.org/TR/2022/REC-geolocation-20220901/",
-            "date": "2022-09-01",
-            "informative": false,
-            "title": "Geolocation API",
-            "shortlink": "https://www.w3.org/TR/geolocation/",
-            "process-rules": "https://www.w3.org/2021/Process-20211102/",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/geolocation/versions/20220901"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/geolocation/versions/20220901/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/geolocation/versions/20220901/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/geolocation"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/geolocation/versions/20220901/predecessors"
-              },
-              "successor-version": {
-                "href": "https://api.w3.org/specifications/geolocation/versions/20220901/successors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/198/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/198"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/198/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/602"
-          }
-        },
-        "origTitle": "Geolocation API",
-        "isOutdated": true,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
   },
   {
     "shortlink": "https://www.w3.org/TR/imsc-hrm/",

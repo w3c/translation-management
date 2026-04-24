@@ -3,6 +3,103 @@
     "states": [
       "published"
     ],
+    "uri": "https://sherdim.ru/pts/semantic_web/REC-owl-features-20040210_ru.html",
+    "title": "OWL, язык веб-онтологий. Краткий обзор",
+    "language": "ru",
+    "translators": [
+      {
+        "id": 49227,
+        "name": "Dmitry Sherbina",
+        "given": "Dmitry",
+        "family": "Sherbina",
+        "work-title": "Reseacher",
+        "connected-accounts": [],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/6d8uj8x0x88w0o4kw0cog4wwsgkw04o"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/6d8uj8x0x88w0o4kw0cog4wwsgkw04o/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/6d8uj8x0x88w0o4kw0cog4wwsgkw04o/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/6d8uj8x0x88w0o4kw0cog4wwsgkw04o/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/6d8uj8x0x88w0o4kw0cog4wwsgkw04o/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/6d8uj8x0x88w0o4kw0cog4wwsgkw04o/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/6d8uj8x0x88w0o4kw0cog4wwsgkw04o/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2026-04-24T00:00:00+00:00",
+    "updated": "2026-04-24T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "OWL Web Ontology Language Overview",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "uri": "https://www.w3.org/TR/2004/REC-owl-features-20040210/",
+        "date": "2004-02-10",
+        "informative": false,
+        "title": "OWL Web Ontology Language Overview",
+        "shortlink": "https://www.w3.org/TR/owl-features/",
+        "translation": "https://www.w3.org/2001/sw/RDFCore/translation/owl-features",
+        "errata": "https://www.w3.org/2001/sw/WebOnt/errata#owl-features",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/owl-features/versions/20040210"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/owl-features/versions/20040210/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/owl-features/versions/20040210/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/owl-features"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/owl-features/versions/20040210/predecessors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/50/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/50"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/50/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/148"
+      }
+    },
+    "origTitle": "OWL Web Ontology Language Overview",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published"
+    ],
     "uri": "https://w3c.wholetrans.org/activitystreams-vocabulary/",
     "title": "Activity Vocabulary",
     "language": "zh-hans",
@@ -1150,117 +1247,6 @@
       }
     },
     "origTitle": "Verifiable Credentials Data Model v1.1",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "https://argrath.github.io/activitypub/",
-    "title": "ActivityPub",
-    "language": "ja",
-    "translators": [
-      {
-        "id": 143615,
-        "name": "Kentaro Shirakata",
-        "given": "Kentaro",
-        "family": "Shirakata",
-        "connected-accounts": [
-          {
-            "created": "2023-04-06T15:18:43+00:00",
-            "service": "github",
-            "identifier": "53912",
-            "nickname": "argrath",
-            "profile-picture": "https://avatars.githubusercontent.com/u/53912?v=4",
-            "href": "https://github.com/argrath",
-            "_links": {
-              "user": {
-                "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
-              }
-            }
-          }
-        ],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/phlhq1i33dw40w8wkkow0kog4884s0g/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2024-02-26T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "ActivityPub",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/activitypub/",
-        "uri": "https://www.w3.org/TR/2018/REC-activitypub-20180123/",
-        "date": "2018-01-23",
-        "informative": false,
-        "title": "ActivityPub",
-        "shortlink": "https://www.w3.org/TR/activitypub/",
-        "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=activitypub",
-        "errata": "https://www.w3.org/wiki/ActivityPub_errata",
-        "process-rules": "https://www.w3.org/2017/Process-20170301/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/activitypub/versions/20180123"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/activitypub/versions/20180123/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/activitypub/versions/20180123/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/activitypub"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/activitypub/versions/20180123/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/304/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/304"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/304/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/622"
-      }
-    },
-    "origTitle": "ActivityPub",
     "isOutdated": false,
     "isPublished": true,
     "isPending": false,

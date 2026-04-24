@@ -2942,6 +2942,9 @@
             "predecessor-version": {
               "href": "https://api.w3.org/specifications/css-ui-3/versions/20180621/predecessors"
             },
+            "successor-version": {
+              "href": "https://api.w3.org/specifications/css-ui-3/versions/20180621/successors"
+            },
             "translations": {
               "href": "https://api.w3.org/callsfortranslation/249/translations"
             }
@@ -2955,13 +2958,14 @@
             "href": "https://api.w3.org/callsfortranslation/249/translations"
           }
         },
-        "isLatest": true,
+        "isLatest": false,
         "date": "2018-06-21",
         "id": "s-css-ui-3",
         "translations": [
           {
             "states": [
-              "published"
+              "published",
+              "outdated"
             ],
             "uri": "https://momdo.github.io/css-ui/",
             "title": "CSS Basic User Interface Module Level 3 (CSS3 UI) 日本語訳",
@@ -2998,6 +3002,9 @@
                   "predecessor-version": {
                     "href": "https://api.w3.org/specifications/css-ui-3/versions/20180621/predecessors"
                   },
+                  "successor-version": {
+                    "href": "https://api.w3.org/specifications/css-ui-3/versions/20180621/successors"
+                  },
                   "translations": {
                     "href": "https://api.w3.org/callsfortranslation/249/translations"
                   }
@@ -3019,7 +3026,7 @@
               }
             },
             "origTitle": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
-            "isOutdated": false,
+            "isOutdated": true,
             "isPublished": true,
             "isPending": false,
             "isInReview": false
@@ -5551,8 +5558,7 @@
           {
             "states": [
               "published",
-              "needs_update",
-              "outdated"
+              "needs_update"
             ],
             "uri": "https://www.asahi-net.or.jp/~ax2s-kmtn/internet/geo/REC-geolocation-20220901.html",
             "title": "ジオロケーションAPI",
@@ -5642,12 +5648,7 @@
               "self": {
                 "href": "https://api.w3.org/translations/602"
               }
-            },
-            "origTitle": "Geolocation API",
-            "isOutdated": true,
-            "isPublished": true,
-            "isPending": false,
-            "isInReview": false
+            }
           }
         ]
       },
@@ -22469,7 +22470,7 @@
         ]
       }
     ],
-    "latestRecsTotal": 104
+    "latestRecsTotal": 103
   },
   "ru": {
     "list": [
@@ -24266,7 +24267,7 @@
             "states": [
               "published"
             ],
-            "uri": "http://sherdim.ru/pts/semantic_web/REC-navigation-timing-20121217.ru.html",
+            "uri": "https://sherdim.ru/pts/semantic_web/REC-navigation-timing-20121217.ru.html",
             "title": "Tайминг навигации",
             "language": "ru",
             "translators": [
@@ -24304,6 +24305,7 @@
               }
             ],
             "published": "2013-02-07T00:00:00+00:00",
+            "updated": "2026-04-24T00:00:00+00:00",
             "authorized": false,
             "call-for-translation": {
               "title": "Navigation Timing",
@@ -24521,7 +24523,7 @@
             "states": [
               "published"
             ],
-            "uri": "http://sherdim.rsu.ru/pts/semantic_web/REC-owl-guide-20040210_ru.html",
+            "uri": "https://sherdim.ru/pts/semantic_web/REC-owl-guide-20040210_ru.html",
             "title": "OWL, язык веб-онтологий. Руководство",
             "language": "ru",
             "translators": [
@@ -24559,6 +24561,7 @@
               }
             ],
             "published": "2004-10-12T00:00:00+00:00",
+            "updated": "2026-04-24T00:00:00+00:00",
             "authorized": false,
             "call-for-translation": {
               "title": "OWL Web Ontology Language Guide",
@@ -24664,7 +24667,7 @@
             "states": [
               "published"
             ],
-            "uri": "http://sherdim.rsu.ru/pts/semantic_web/REC-owl-features-20040210_ru.html",
+            "uri": "https://sherdim.ru/pts/semantic_web/REC-owl-features-20040210_ru.html",
             "title": "OWL, язык веб-онтологий. Краткий обзор",
             "language": "ru",
             "translators": [
@@ -24701,6 +24704,8 @@
                 }
               }
             ],
+            "published": "2026-04-24T00:00:00+00:00",
+            "updated": "2026-04-24T00:00:00+00:00",
             "authorized": false,
             "call-for-translation": {
               "title": "OWL Web Ontology Language Overview",
