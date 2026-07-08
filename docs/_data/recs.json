@@ -14658,8 +14658,7 @@
       },
       "pl": {
         "states": [
-          "published",
-          "needs_update"
+          "published"
         ],
         "uri": "https://michalgorny.net/w3c-pl/ruby/ruby",
         "title": "Notacja ruby",

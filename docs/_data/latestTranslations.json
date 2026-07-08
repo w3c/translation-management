@@ -2,7 +2,6 @@
   {
     "states": [
       "published",
-      "needs_update",
       "outdated"
     ],
     "uri": "https://michalgorny.net/w3c-pl/xhtml-mod/overview",
@@ -42,6 +41,7 @@
       }
     ],
     "published": "2026-07-08T00:00:00+00:00",
+    "updated": "2026-07-08T00:00:00+00:00",
     "authorized": false,
     "call-for-translation": {
       "title": "Modularization of XHTML™",
@@ -101,7 +101,6 @@
   {
     "states": [
       "published",
-      "needs_update",
       "outdated"
     ],
     "uri": "https://michalgorny.net/w3c-pl/xhtml1/xhtml1",
@@ -141,6 +140,7 @@
       }
     ],
     "published": "2026-07-08T00:00:00+00:00",
+    "updated": "2026-07-08T00:00:00+00:00",
     "authorized": false,
     "call-for-translation": {
       "title": "XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)",
