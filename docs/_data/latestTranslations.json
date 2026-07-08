@@ -1,6 +1,207 @@
 [
   {
     "states": [
+      "published",
+      "needs_update",
+      "outdated"
+    ],
+    "uri": "https://michalgorny.net/w3c-pl/xhtml-mod/overview",
+    "title": "Modularyzacja XHTML™",
+    "language": "pl",
+    "translators": [
+      {
+        "id": 112279,
+        "name": "Michał Górny",
+        "given": "Michał",
+        "family": "Górny",
+        "connected-accounts": [],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2026-07-08T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "Modularization of XHTML™",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "uri": "https://www.w3.org/TR/2001/REC-xhtml-modularization-20010410/",
+        "date": "2001-04-10",
+        "informative": false,
+        "title": "Modularization of XHTML™",
+        "shortlink": "https://www.w3.org/TR/xhtml-modularization/",
+        "errata": "https://www.w3.org/2001/04/REC-xhtml-modularization-20010410-errata",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/xhtml-modularization/versions/20010410"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/xhtml-modularization/versions/20010410/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/xhtml-modularization/versions/20010410/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/xhtml-modularization"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/xhtml-modularization/versions/20010410/predecessors"
+          },
+          "successor-version": {
+            "href": "https://api.w3.org/specifications/xhtml-modularization/versions/20010410/successors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/24/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/24"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/24/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/142"
+      }
+    },
+    "origTitle": "Modularization of XHTML™",
+    "isOutdated": true,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
+      "published",
+      "needs_update",
+      "outdated"
+    ],
+    "uri": "https://michalgorny.net/w3c-pl/xhtml1/xhtml1",
+    "title": "XHTML™ 1.0: Rozszerzalny hipertekstowy język znaczników (wydanie drugie). Przeformułowanie HTML 4 w XML 1.0",
+    "language": "pl",
+    "translators": [
+      {
+        "id": 112279,
+        "name": "Michał Górny",
+        "given": "Michał",
+        "family": "Górny",
+        "connected-accounts": [],
+        "discr": "user",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k"
+          },
+          "affiliations": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/affiliations"
+          },
+          "groups": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/groups"
+          },
+          "specifications": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/specifications"
+          },
+          "participations": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/participations"
+          },
+          "chair_of_groups": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/chair-of-groups"
+          },
+          "team_contact_of_groups": {
+            "href": "https://api.w3.org/users/tfqvtiagxr4k0ww8g8kwckcg4cgo88k/team-contact-of-groups"
+          }
+        }
+      }
+    ],
+    "published": "2026-07-08T00:00:00+00:00",
+    "authorized": false,
+    "call-for-translation": {
+      "title": "XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)",
+      "spec-version": {
+        "status": "Recommendation",
+        "rec-track": true,
+        "uri": "https://www.w3.org/TR/2002/REC-xhtml1-20020801/",
+        "date": "2002-08-01",
+        "informative": false,
+        "title": "XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)",
+        "shortlink": "https://www.w3.org/TR/xhtml1/",
+        "errata": "https://www.w3.org/2002/08/REC-xhtml1-20020801-errata",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/specifications/xhtml1/versions/20020801"
+          },
+          "editors": {
+            "href": "https://api.w3.org/specifications/xhtml1/versions/20020801/editors"
+          },
+          "deliverers": {
+            "href": "https://api.w3.org/specifications/xhtml1/versions/20020801/deliverers"
+          },
+          "specification": {
+            "href": "https://api.w3.org/specifications/xhtml1"
+          },
+          "previous-edition": {
+            "href": "https://api.w3.org/specifications/xhtml1/versions/20000126"
+          },
+          "predecessor-version": {
+            "href": "https://api.w3.org/specifications/xhtml1/versions/20020801/predecessors"
+          },
+          "successor-version": {
+            "href": "https://api.w3.org/specifications/xhtml1/versions/20020801/successors"
+          },
+          "translations": {
+            "href": "https://api.w3.org/callsfortranslation/35/translations"
+          }
+        }
+      },
+      "_links": {
+        "self": {
+          "href": "https://api.w3.org/callsfortranslation/35"
+        },
+        "translations": {
+          "href": "https://api.w3.org/callsfortranslation/35/translations"
+        }
+      }
+    },
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/translations/141"
+      }
+    },
+    "origTitle": "XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)",
+    "isOutdated": true,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
+  },
+  {
+    "states": [
       "published"
     ],
     "uri": "https://sherdim.ru/pts/semantic_web/REC-owl-features-20040210_ru.html",
@@ -1028,226 +1229,6 @@
     },
     "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
     "isOutdated": true,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "https://lukasjhan.github.io/did-core/",
-    "title": "탈중앙 식별자 Decentralized Identifiers (DIDs) v1.0",
-    "language": "ko",
-    "translators": [
-      {
-        "id": 154263,
-        "name": "Lukas.J Han",
-        "given": "Lukas.J",
-        "family": "Han",
-        "connected-accounts": [
-          {
-            "created": "2024-03-20T02:18:22+00:00",
-            "service": "github",
-            "identifier": "86042901",
-            "nickname": "lukasjhan",
-            "profile-picture": "https://avatars.githubusercontent.com/u/86042901?v=4",
-            "href": "https://github.com/lukasjhan",
-            "_links": {
-              "user": {
-                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
-              }
-            }
-          }
-        ],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2024-05-20T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "Decentralized Identifiers (DIDs) v1.0",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/did/",
-        "uri": "https://www.w3.org/TR/2022/REC-did-core-20220719/",
-        "date": "2022-07-19",
-        "informative": false,
-        "title": "Decentralized Identifiers (DIDs) v1.0",
-        "shortlink": "https://www.w3.org/TR/did-core/",
-        "translation": "https://www.w3.org/Translations/?technology=did-core",
-        "errata": "https://w3c.github.io/did-core/errata.html",
-        "process-rules": "https://www.w3.org/2021/Process-20211102/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/did-1.0/versions/20220719"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/did-1.0"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/did-1.0/versions/20220719/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/288/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/288"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/288/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/625"
-      }
-    },
-    "origTitle": "Decentralized Identifiers (DIDs) v1.0",
-    "isOutdated": false,
-    "isPublished": true,
-    "isPending": false,
-    "isInReview": false
-  },
-  {
-    "states": [
-      "published"
-    ],
-    "uri": "https://lukasjhan.github.io/vc-data-model/",
-    "title": "검증가능한 크리덴셜 데이터 모델 (Verifiable Credentials Data Model v1.1)",
-    "language": "ko",
-    "translators": [
-      {
-        "id": 154263,
-        "name": "Lukas.J Han",
-        "given": "Lukas.J",
-        "family": "Han",
-        "connected-accounts": [
-          {
-            "created": "2024-03-20T02:18:22+00:00",
-            "service": "github",
-            "identifier": "86042901",
-            "nickname": "lukasjhan",
-            "profile-picture": "https://avatars.githubusercontent.com/u/86042901?v=4",
-            "href": "https://github.com/lukasjhan",
-            "_links": {
-              "user": {
-                "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
-              }
-            }
-          }
-        ],
-        "discr": "user",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8"
-          },
-          "affiliations": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/affiliations"
-          },
-          "groups": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/groups"
-          },
-          "specifications": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/specifications"
-          },
-          "participations": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/participations"
-          },
-          "chair_of_groups": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/chair-of-groups"
-          },
-          "team_contact_of_groups": {
-            "href": "https://api.w3.org/users/tqwumkp9v5csog8ccgcw8occk0okcc8/team-contact-of-groups"
-          }
-        }
-      }
-    ],
-    "published": "2024-05-20T00:00:00+00:00",
-    "authorized": false,
-    "call-for-translation": {
-      "title": "Verifiable Credentials Data Model v1.1",
-      "spec-version": {
-        "status": "Recommendation",
-        "rec-track": true,
-        "editor-draft": "https://w3c.github.io/vc-data-model/",
-        "uri": "https://www.w3.org/TR/2022/REC-vc-data-model-20220303/",
-        "date": "2022-03-03",
-        "informative": false,
-        "title": "Verifiable Credentials Data Model v1.1",
-        "shortlink": "https://www.w3.org/TR/vc-data-model-1.1/",
-        "process-rules": "https://www.w3.org/2021/Process-20211102/",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303"
-          },
-          "editors": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/editors"
-          },
-          "deliverers": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/deliverers"
-          },
-          "specification": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1"
-          },
-          "predecessor-version": {
-            "href": "https://api.w3.org/specifications/vc-data-model-1.1/versions/20220303/predecessors"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/289/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/callsfortranslation/289"
-        },
-        "translations": {
-          "href": "https://api.w3.org/callsfortranslation/289/translations"
-        }
-      }
-    },
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/translations/628"
-      }
-    },
-    "origTitle": "Verifiable Credentials Data Model v1.1",
-    "isOutdated": false,
     "isPublished": true,
     "isPending": false,
     "isInReview": false

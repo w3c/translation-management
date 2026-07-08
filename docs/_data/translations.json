@@ -23046,9 +23046,10 @@
       {
         "states": [
           "published",
+          "needs_update",
           "outdated"
         ],
-        "uri": "http://podziemie.net/w3c/xhtml-mod/overview",
+        "uri": "https://michalgorny.net/w3c-pl/xhtml-mod/overview",
         "title": "Modularyzacja XHTML™",
         "language": "pl",
         "translators": [
@@ -23084,6 +23085,7 @@
             }
           }
         ],
+        "published": "2026-07-08T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Modularization of XHTML™",
@@ -31838,6 +31840,9 @@
         "predecessor-version": {
           "href": "https://api.w3.org/specifications/pointerevents2/versions/20190404/predecessors"
         },
+        "successor-version": {
+          "href": "https://api.w3.org/specifications/pointerevents2/versions/20190404/successors"
+        },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/262/translations"
         }
@@ -31851,13 +31856,14 @@
         "href": "https://api.w3.org/callsfortranslation/262/translations"
       }
     },
-    "isLatest": true,
+    "isLatest": false,
     "date": "2019-04-04",
     "id": "s-pointerevents2",
     "translations": [
       {
         "states": [
-          "published"
+          "published",
+          "outdated"
         ],
         "uri": "https://triple-underscore.github.io/pointerevents-ja.html",
         "title": "Pointer Events — Level 2",
@@ -31893,6 +31899,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/pointerevents2/versions/20190404/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/pointerevents2/versions/20190404/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/262/translations"
               }
@@ -31914,7 +31923,7 @@
           }
         },
         "origTitle": "Pointer Events Level 2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
@@ -36905,8 +36914,7 @@
             "city": "Beijing",
             "connected-accounts": [
               {
-                "created": "2017-08-09T01:59:03+00:00",
-                "updated": "2021-01-21T10:44:38+00:00",
+                "created": "2026-06-24T05:23:23+00:00",
                 "service": "github",
                 "identifier": "2863444",
                 "nickname": "xfq",
@@ -38625,9 +38633,10 @@
       },
       {
         "states": [
-          "published"
+          "published",
+          "needs_update"
         ],
-        "uri": "http://podziemie.net/w3c/ruby/ruby",
+        "uri": "https://michalgorny.net/w3c-pl/ruby/ruby",
         "title": "Notacja ruby",
         "language": "pl",
         "translators": [
@@ -38664,6 +38673,7 @@
           }
         ],
         "published": "2005-12-30T00:00:00+00:00",
+        "updated": "2026-07-08T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Ruby Annotation",
@@ -59046,9 +59056,10 @@
       {
         "states": [
           "published",
+          "needs_update",
           "outdated"
         ],
-        "uri": "http://podziemie.net/w3c/xhtml1/xhtml1",
+        "uri": "https://michalgorny.net/w3c-pl/xhtml1/xhtml1",
         "title": "XHTML™ 1.0: Rozszerzalny hipertekstowy język znaczników (wydanie drugie). Przeformułowanie HTML 4 w XML 1.0",
         "language": "pl",
         "translators": [
@@ -59084,6 +59095,7 @@
             }
           }
         ],
+        "published": "2026-07-08T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)",
@@ -60422,9 +60434,10 @@
       {
         "states": [
           "published",
+          "needs_update",
           "outdated"
         ],
-        "uri": "http://podziemie.net/w3c/xhtml11/xhtml11",
+        "uri": "https://michalgorny.net/w3c-pl/xhtml11/xhtml11",
         "title": "XHTML™ 1.1 – XHTML oparty na modułach",
         "language": "pl",
         "translators": [
@@ -60461,6 +60474,7 @@
           }
         ],
         "published": "2005-12-30T00:00:00+00:00",
+        "updated": "2026-07-08T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "XHTML™ 1.1 - Module-based XHTML",

@@ -14658,9 +14658,10 @@
       },
       "pl": {
         "states": [
-          "published"
+          "published",
+          "needs_update"
         ],
-        "uri": "http://podziemie.net/w3c/ruby/ruby",
+        "uri": "https://michalgorny.net/w3c-pl/ruby/ruby",
         "title": "Notacja ruby",
         "language": "pl",
         "translators": [
@@ -14697,6 +14698,7 @@
           }
         ],
         "published": "2005-12-30T00:00:00+00:00",
+        "updated": "2026-07-08T00:00:00+00:00",
         "authorized": false,
         "call-for-translation": {
           "title": "Ruby Annotation",
@@ -21833,36 +21835,6 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/SVGTiny12/",
-    "description": "<p>This specification defines the features and syntax for Scalable Vector Graphics (SVG) Tiny, Version 1.2, a language for describing two-dimensional vector graphics in XML, combined with raster graphics and multimedia. Its goal is to provide the ability to create a whole range of graphical content, from static images to animations to interactive Web applications. SVG 1.2 Tiny is a profile of SVG intended for implementation on a range of devices, from cellphones and PDAs to laptop and desktop computers, and thus includes a subset of the features included in SVG 1.1 Full, along with new features to extend the capabilities of SVG. Further extensions are planned in the form of modules which will be compatible with SVG 1.2 Tiny, and which when combined with this specification, will match and exceed the capabilities of SVG 1.1 Full.</p>",
-    "title": "Scalable Vector Graphics (SVG) Tiny 1.2 Specification",
-    "shortname": "SVGTiny12",
-    "series-version": "1.2",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/SVGTiny12"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/SVGTiny12/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/SVGTiny12/versions/20031209",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/SVGTiny12/versions/20081222",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/SVGTiny"
-      }
-    },
-    "isLatest": true,
-    "date": "2008-12-22",
-    "year": "2008",
-    "translations": {}
-  },
-  {
     "shortlink": "https://www.w3.org/TR/owl2-mapping-to-rdf/",
     "description": "<p> </p>",
     "title": "OWL 2 Web Ontology Language Mapping to RDF Graphs (Second Edition)",
@@ -27598,20 +27570,21 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/pointerevents2/versions/20190404",
-        "title": "Recommendation"
+        "href": "https://api.w3.org/specifications/pointerevents2/versions/20260630",
+        "title": "Retired"
       },
       "series": {
         "href": "https://api.w3.org/specification-series/pointerevents"
       }
     },
-    "isLatest": true,
-    "date": "2019-04-04",
-    "year": "2019",
+    "isLatest": false,
+    "date": "2026-06-30",
+    "year": "2026",
     "translations": {
       "ja": {
         "states": [
-          "published"
+          "published",
+          "outdated"
         ],
         "uri": "https://triple-underscore.github.io/pointerevents-ja.html",
         "title": "Pointer Events — Level 2",
@@ -27647,6 +27620,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/pointerevents2/versions/20190404/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/pointerevents2/versions/20190404/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/262/translations"
               }
@@ -27668,7 +27644,7 @@
           }
         },
         "origTitle": "Pointer Events Level 2",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
@@ -27938,7 +27914,7 @@
     "description": "<p>An open, simple, web-scale and decentralized HTTP-based pubsub protocol. Publishers register a hub, and subscribers make a subscription request to their desired publisher's hub. Hubs manage subscription requests and distribution of new content to subscribers.</p>",
     "title": "WebSub",
     "shortname": "websub",
-    "editor-draft": "https://websub.net/draft",
+    "editor-draft": "https://w3c.github.io/websub/",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/websub"
@@ -27951,7 +27927,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/websub/versions/20180123",
+        "href": "https://api.w3.org/specifications/websub/versions/20260602",
         "title": "Recommendation"
       },
       "series": {
@@ -27959,8 +27935,39 @@
       }
     },
     "isLatest": true,
-    "date": "2018-01-23",
-    "year": "2018",
+    "date": "2026-06-02",
+    "year": "2026",
+    "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/pointerevents3/",
+    "description": "<p>The features in this specification extend or modify those found in Pointer Events, a W3C Recommendation that describes events and related interfaces for handling hardware agnostic pointer input from devices including a mouse, pen, touchscreen, etc. For compatibility with existing mouse based content, this specification also describes a mapping to fire Mouse Events for other pointer device types. </p>",
+    "title": "Pointer Events",
+    "shortname": "pointerevents3",
+    "editor-draft": "https://w3c.github.io/pointerevents/",
+    "series-version": "3",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/pointerevents3"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/pointerevents3/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/pointerevents3/versions/20191212",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/pointerevents3/versions/20260630",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/pointerevents"
+      }
+    },
+    "isLatest": true,
+    "date": "2026-06-30",
+    "year": "2026",
     "translations": {}
   },
   {
@@ -30448,201 +30455,6 @@
           }
         },
         "origTitle": "XML Information Set (Second Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
-  },
-  {
-    "shortlink": "https://www.w3.org/TR/xmlbase/",
-    "description": "<p>This document <span>describes</span> a facility, similar to that of HTML BASE, for defining base URIs for parts of XML documents.</p>",
-    "title": "XML Base (Second Edition)",
-    "shortname": "xmlbase",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/xmlbase"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/xmlbase/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/xmlbase/versions/19991220",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/xmlbase/versions/20090128",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/xmlbase"
-      }
-    },
-    "isLatest": true,
-    "date": "2009-01-28",
-    "year": "2009",
-    "translations": {
-      "de": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://www.schumacher-netz.de/TR/2009/REC-xmlbase_20090128.de.html",
-        "title": "XML Base (Zweite Auflage)",
-        "language": "de",
-        "translators": [
-          {
-            "id": 37623,
-            "name": "Stefan Schumacher",
-            "given": "Stefan",
-            "family": "Schumacher",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2009-11-18T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "XML Base (Second Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2009/REC-xmlbase-20090128/",
-            "date": "2009-01-28",
-            "informative": false,
-            "title": "XML Base (Second Edition)",
-            "shortlink": "https://www.w3.org/TR/xmlbase/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xmlbase",
-            "errata": "https://www.w3.org/2009/01/xmlbase-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xmlbase"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20010627"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/158/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/158"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/158/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/315"
-          }
-        },
-        "origTitle": "XML Base (Second Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      },
-      "uk": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://zajtcev.org/docs/w3c/ua/REC-xmlbase-20090128.html",
-        "title": "XML Base (Друге Видання)",
-        "language": "uk",
-        "translators": [],
-        "published": "2011-11-24T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "XML Base (Second Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2009/REC-xmlbase-20090128/",
-            "date": "2009-01-28",
-            "informative": false,
-            "title": "XML Base (Second Edition)",
-            "shortlink": "https://www.w3.org/TR/xmlbase/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xmlbase",
-            "errata": "https://www.w3.org/2009/01/xmlbase-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xmlbase"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20010627"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/158/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/158"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/158/translations"
-            }
-          }
-        },
-        "comments": "Translation authors: Dmitry Zajtcev",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/353"
-          }
-        },
-        "origTitle": "XML Base (Second Edition)",
         "isOutdated": false,
         "isPublished": true,
         "isPending": false,
@@ -36341,268 +36153,6 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/xml-names/",
-    "description": "<p>XML namespaces provide a simple method for qualifying element and attribute names used in Extensible Markup Language documents by associating them with namespaces identified by URI references.</p>",
-    "title": "Namespaces in XML 1.0 (Third Edition)",
-    "shortname": "xml-names",
-    "series-version": "1.0",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/xml-names"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/xml-names/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/xml-names/versions/19980119",
-        "title": "Note"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/xml-names/versions/20091208",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/xml-names"
-      }
-    },
-    "isLatest": true,
-    "date": "2009-12-08",
-    "year": "2009",
-    "translations": {
-      "ja": {
-        "states": [
-          "published"
-        ],
-        "uri": "https://triple-underscore.github.io/xml-names-ja.html",
-        "title": "XML 1.0 名前空間",
-        "language": "ja",
-        "translators": [],
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Namespaces in XML 1.0 (Third Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2009/REC-xml-names-20091208/",
-            "date": "2009-12-08",
-            "informative": false,
-            "title": "Namespaces in XML 1.0 (Third Edition)",
-            "shortlink": "https://www.w3.org/TR/xml-names/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names",
-            "errata": "https://www.w3.org/XML/2009/xml-names-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xml-names"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20060816"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/164/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/164"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/164/translations"
-            }
-          }
-        },
-        "comments": "Translation authors: triple-underscore",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/360"
-          }
-        },
-        "origTitle": "Namespaces in XML 1.0 (Third Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      },
-      "ru": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://genberm.narod.ru/xml/namespace/namespace1_0-3ed.html",
-        "title": "Пространства имен в ХМЛ 1.0 (третье издпние)",
-        "language": "ru",
-        "translators": [
-          {
-            "id": 112297,
-            "name": "Gennadiy Berman",
-            "given": "Gennadiy",
-            "family": "Berman",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2011-03-17T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Namespaces in XML 1.0 (Third Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2009/REC-xml-names-20091208/",
-            "date": "2009-12-08",
-            "informative": false,
-            "title": "Namespaces in XML 1.0 (Third Edition)",
-            "shortlink": "https://www.w3.org/TR/xml-names/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names",
-            "errata": "https://www.w3.org/XML/2009/xml-names-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xml-names"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20060816"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/164/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/164"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/164/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/331"
-          }
-        },
-        "origTitle": "Namespaces in XML 1.0 (Third Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      },
-      "uk": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://zajtcev.org/docs/w3c/ua/REC-xml-names-20091208-third-edition.html",
-        "title": "Простір імен у XML 1.0 (третє видання)",
-        "language": "uk",
-        "translators": [],
-        "published": "2011-11-24T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Namespaces in XML 1.0 (Third Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2009/REC-xml-names-20091208/",
-            "date": "2009-12-08",
-            "informative": false,
-            "title": "Namespaces in XML 1.0 (Third Edition)",
-            "shortlink": "https://www.w3.org/TR/xml-names/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names",
-            "errata": "https://www.w3.org/XML/2009/xml-names-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xml-names"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20060816"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/164/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/164"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/164/translations"
-            }
-          }
-        },
-        "comments": "Translation authors: Dmitry Zajtcev",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/352"
-          }
-        },
-        "origTitle": "Namespaces in XML 1.0 (Third Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
-  },
-  {
     "shortlink": "https://www.w3.org/TR/widgets/",
     "description": "<p>This specification standardizes a Zip-based packaging format for software known as widgets. Widgets are client-side applications that are authored using Web standards, but whose content can also be embedded into Web documents.</p>",
     "title": "Packaged Web Apps (Widgets) - Packaging and XML Configuration (Second Edition)",
@@ -36876,6 +36426,36 @@
         "isInReview": false
       }
     }
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/SVGTiny12/",
+    "description": "<p>This specification defines the features and syntax for Scalable Vector Graphics (SVG) Tiny, Version 1.2, a language for describing two-dimensional vector graphics in XML, combined with raster graphics and multimedia. Its goal is to provide the ability to create a whole range of graphical content, from static images to animations to interactive Web applications. SVG 1.2 Tiny is a profile of SVG intended for implementation on a range of devices, from cellphones and PDAs to laptop and desktop computers, and thus includes a subset of the features included in SVG 1.1 Full, along with new features to extend the capabilities of SVG. Further extensions are planned in the form of modules which will be compatible with SVG 1.2 Tiny, and which when combined with this specification, will match and exceed the capabilities of SVG 1.1 Full.</p>",
+    "title": "Scalable Vector Graphics (SVG) Tiny 1.2 Specification",
+    "shortname": "SVGTiny12",
+    "series-version": "1.2",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/SVGTiny12"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/SVGTiny12/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/SVGTiny12/versions/20031209",
+        "title": "Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/SVGTiny12/versions/20081222",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/SVGTiny"
+      }
+    },
+    "isLatest": true,
+    "date": "2008-12-22",
+    "year": "2008",
+    "translations": {}
   },
   {
     "shortlink": "https://www.w3.org/TR/WebIDL-1/",
@@ -43539,6 +43119,37 @@
     }
   },
   {
+    "shortlink": "https://www.w3.org/TR/ttml-imsc1.3/",
+    "description": "<p>This specification defines a text-only profile of ttml2 intended for subtitle and caption delivery applications worldwide.</p>",
+    "title": "IMSC Text Profile 1.3",
+    "shortname": "ttml-imsc1.3",
+    "editor-draft": "https://w3c.github.io/imsc/imsc1/spec/ttml-ww-profiles.html",
+    "series-version": "1.3",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/ttml-imsc1.3"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/ttml-imsc1.3/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/ttml-imsc1.3/versions/20250722",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/ttml-imsc1.3/versions/20260521",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/ttml-imsc"
+      }
+    },
+    "isLatest": true,
+    "date": "2026-05-21",
+    "year": "2026",
+    "translations": {}
+  },
+  {
     "shortlink": "https://www.w3.org/TR/xmlschema-1/",
     "description": "<p>Add content here.</p>",
     "title": "XML Schema Part 1: Structures Second Edition",
@@ -44537,6 +44148,201 @@
           }
         },
         "origTitle": "XSL Transformations (XSLT) Version 1.0",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    }
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/xmlbase/",
+    "description": "<p>This document <span>describes</span> a facility, similar to that of HTML BASE, for defining base URIs for parts of XML documents.</p>",
+    "title": "XML Base (Second Edition)",
+    "shortname": "xmlbase",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/xmlbase"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/xmlbase/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/xmlbase/versions/19991220",
+        "title": "Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/xmlbase/versions/20090128",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/xmlbase"
+      }
+    },
+    "isLatest": true,
+    "date": "2009-01-28",
+    "year": "2009",
+    "translations": {
+      "de": {
+        "states": [
+          "published"
+        ],
+        "uri": "http://www.schumacher-netz.de/TR/2009/REC-xmlbase_20090128.de.html",
+        "title": "XML Base (Zweite Auflage)",
+        "language": "de",
+        "translators": [
+          {
+            "id": 37623,
+            "name": "Stefan Schumacher",
+            "given": "Stefan",
+            "family": "Schumacher",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/mfmkkapk6dcw08o0ssk40ocgsgwko4g/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "published": "2009-11-18T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "XML Base (Second Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2009/REC-xmlbase-20090128/",
+            "date": "2009-01-28",
+            "informative": false,
+            "title": "XML Base (Second Edition)",
+            "shortlink": "https://www.w3.org/TR/xmlbase/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xmlbase",
+            "errata": "https://www.w3.org/2009/01/xmlbase-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xmlbase"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20010627"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/158/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/158"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/158/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/315"
+          }
+        },
+        "origTitle": "XML Base (Second Edition)",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "uk": {
+        "states": [
+          "published"
+        ],
+        "uri": "http://zajtcev.org/docs/w3c/ua/REC-xmlbase-20090128.html",
+        "title": "XML Base (Друге Видання)",
+        "language": "uk",
+        "translators": [],
+        "published": "2011-11-24T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "XML Base (Second Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2009/REC-xmlbase-20090128/",
+            "date": "2009-01-28",
+            "informative": false,
+            "title": "XML Base (Second Edition)",
+            "shortlink": "https://www.w3.org/TR/xmlbase/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xmlbase",
+            "errata": "https://www.w3.org/2009/01/xmlbase-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xmlbase"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20010627"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xmlbase/versions/20090128/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/158/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/158"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/158/translations"
+            }
+          }
+        },
+        "comments": "Translation authors: Dmitry Zajtcev",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/353"
+          }
+        },
+        "origTitle": "XML Base (Second Edition)",
         "isOutdated": false,
         "isPublished": true,
         "isPending": false,
@@ -46260,6 +46066,268 @@
     "date": "2012-04-05",
     "year": "2012",
     "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/xml-names/",
+    "description": "<p>XML namespaces provide a simple method for qualifying element and attribute names used in Extensible Markup Language documents by associating them with namespaces identified by URI references.</p>",
+    "title": "Namespaces in XML 1.0 (Third Edition)",
+    "shortname": "xml-names",
+    "series-version": "1.0",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/xml-names"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/xml-names/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/xml-names/versions/19980119",
+        "title": "Note"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/xml-names/versions/20091208",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/xml-names"
+      }
+    },
+    "isLatest": true,
+    "date": "2009-12-08",
+    "year": "2009",
+    "translations": {
+      "ja": {
+        "states": [
+          "published"
+        ],
+        "uri": "https://triple-underscore.github.io/xml-names-ja.html",
+        "title": "XML 1.0 名前空間",
+        "language": "ja",
+        "translators": [],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Namespaces in XML 1.0 (Third Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2009/REC-xml-names-20091208/",
+            "date": "2009-12-08",
+            "informative": false,
+            "title": "Namespaces in XML 1.0 (Third Edition)",
+            "shortlink": "https://www.w3.org/TR/xml-names/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names",
+            "errata": "https://www.w3.org/XML/2009/xml-names-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xml-names"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20060816"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/164/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/164"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/164/translations"
+            }
+          }
+        },
+        "comments": "Translation authors: triple-underscore",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/360"
+          }
+        },
+        "origTitle": "Namespaces in XML 1.0 (Third Edition)",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "ru": {
+        "states": [
+          "published"
+        ],
+        "uri": "http://genberm.narod.ru/xml/namespace/namespace1_0-3ed.html",
+        "title": "Пространства имен в ХМЛ 1.0 (третье издпние)",
+        "language": "ru",
+        "translators": [
+          {
+            "id": 112297,
+            "name": "Gennadiy Berman",
+            "given": "Gennadiy",
+            "family": "Berman",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/nrevyoyb2e8kg4ogggc8c48cwwwog8o/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "published": "2011-03-17T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Namespaces in XML 1.0 (Third Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2009/REC-xml-names-20091208/",
+            "date": "2009-12-08",
+            "informative": false,
+            "title": "Namespaces in XML 1.0 (Third Edition)",
+            "shortlink": "https://www.w3.org/TR/xml-names/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names",
+            "errata": "https://www.w3.org/XML/2009/xml-names-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xml-names"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20060816"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/164/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/164"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/164/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/331"
+          }
+        },
+        "origTitle": "Namespaces in XML 1.0 (Third Edition)",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "uk": {
+        "states": [
+          "published"
+        ],
+        "uri": "http://zajtcev.org/docs/w3c/ua/REC-xml-names-20091208-third-edition.html",
+        "title": "Простір імен у XML 1.0 (третє видання)",
+        "language": "uk",
+        "translators": [],
+        "published": "2011-11-24T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Namespaces in XML 1.0 (Third Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2009/REC-xml-names-20091208/",
+            "date": "2009-12-08",
+            "informative": false,
+            "title": "Namespaces in XML 1.0 (Third Edition)",
+            "shortlink": "https://www.w3.org/TR/xml-names/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names",
+            "errata": "https://www.w3.org/XML/2009/xml-names-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xml-names"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20060816"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xml-names/versions/20091208/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/164/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/164"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/164/translations"
+            }
+          }
+        },
+        "comments": "Translation authors: Dmitry Zajtcev",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/352"
+          }
+        },
+        "origTitle": "Namespaces in XML 1.0 (Third Edition)",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    }
   },
   {
     "shortlink": "https://www.w3.org/TR/xproc/",
