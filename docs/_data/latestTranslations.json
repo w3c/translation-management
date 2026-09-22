@@ -817,7 +817,7 @@
     "authorized": true,
     "lto_name": "Ceweb.br",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -866,7 +866,7 @@
         "href": "https://api.w3.org/translations/615"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
@@ -878,8 +878,8 @@
       "published",
       "outdated"
     ],
-    "uri": "https://www.w3.org/Translations/WCAG22-fr-20250317/",
-    "title": "Règles pour l’accessibilité des contenus Web (WCAG) 2.2",
+    "uri": "https://www.w3.org/Translations/WCAG22-fr/",
+    "title": "Règles pour l’accessibilité des contenus web (WCAG) 2.2",
     "language": "fr",
     "translators": [],
     "published": "2025-03-17T00:00:00+00:00",
@@ -887,7 +887,7 @@
     "authorized": true,
     "lto_name": "Access42",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -936,7 +936,7 @@
         "href": "https://api.w3.org/translations/613"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
@@ -1182,7 +1182,7 @@
     "authorized": true,
     "lto_name": "Accessibility Foundation",
     "call-for-translation": {
-      "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
       "spec-version": {
         "status": "Recommendation",
         "rec-track": true,
@@ -1231,7 +1231,7 @@
         "href": "https://api.w3.org/translations/614"
       }
     },
-    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 05 October 2023)",
+    "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
     "isOutdated": true,
     "isPublished": true,
     "isPending": false,
