@@ -42339,72 +42339,350 @@
     "date": "2024-12-12",
     "year": "2024",
     "translations": {
-      "fr": {
+      "ar": {
         "states": [
-          "review"
+          "draft",
+          "outdated"
         ],
-        "uri": "https://wcag.access42.net/22/REC-WCAG22-20241212.html",
-        "title": "Candidate Authorized Translation (CAT) of WCAG 2.2 into French",
-        "language": "fr",
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0026.htmlv",
+        "title": "Intent to translate WCAG 2.2 in Arabic",
+        "language": "ar",
         "translators": [],
         "authorized": true,
-        "lto_name": "Access42",
+        "lto_name": "Mada Qatar Assistive Technology Center",
         "call-for-translation": {
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
-            "date": "2024-12-12",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/policies/process/20231103/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
               },
               "translations": {
-                "href": "https://api.w3.org/callsfortranslation/320/translations"
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
             }
           },
           "_links": {
             "self": {
-              "href": "https://api.w3.org/callsfortranslation/320"
+              "href": "https://api.w3.org/callsfortranslation/301"
             },
             "translations": {
-              "href": "https://api.w3.org/callsfortranslation/320/translations"
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
           }
         },
         "_links": {
           "self": {
-            "href": "https://api.w3.org/translations/656"
+            "href": "https://api.w3.org/translations/616"
           }
         },
-        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
-        "isOutdated": false,
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
         "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
+      "ca": {
+        "states": [
+          "published",
+          "outdated"
+        ],
+        "uri": "https://www.w3.org/Translations/WCAG22-ca/",
+        "title": "Directrius per a l'accessibilitat del contingut web (WCAG) 2.2",
+        "language": "ca",
+        "translators": [],
+        "published": "2024-05-22T00:00:00+00:00",
+        "authorized": true,
+        "lto_name": "Facultat de Matemàtiques i Informàtica - Universitat de Barcelona",
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/620"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
+      },
+      "zh-hans": {
+        "states": [
+          "draft",
+          "outdated"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2023OctDec/0006.html",
+        "title": "Intent to translate WCAG 2.2 in Simplified Chinese",
+        "language": "zh-hans",
+        "translators": [],
+        "authorized": true,
+        "lto_name": "Zhejiang University",
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/611"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
+      "nl": {
+        "states": [
+          "published",
+          "outdated"
+        ],
+        "uri": "https://www.w3.org/Translations/WCAG22-nl/",
+        "title": "Richtlijnen voor Toegankelijkheid van Webcontent (WCAG) 2.2",
+        "language": "nl",
+        "translators": [],
+        "published": "2024-06-13T00:00:00+00:00",
+        "authorized": true,
+        "lto_name": "Accessibility Foundation",
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/614"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "fr": {
+        "states": [
+          "unpublished",
+          "published",
+          "outdated"
+        ],
+        "uri": "https://www.w3.org/Translations/WCAG22-fr/",
+        "title": "Règles pour l’accessibilité des contenus web (WCAG) 2.2",
+        "language": "fr",
+        "translators": [],
+        "published": "2025-03-17T00:00:00+00:00",
+        "updated": "2025-07-23T00:00:00+00:00",
+        "authorized": true,
+        "lto_name": "Access42",
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/613"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
       },
       "hu": {
         "states": [
-          "draft"
+          "draft",
+          "outdated"
         ],
         "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2025OctDec/0005.html",
         "title": "Intent to translate WCAG 2.2 (W3C Recommendation 12 December 2024) into Hungarian",
@@ -42412,118 +42690,487 @@
         "translators": [],
         "authorized": false,
         "call-for-translation": {
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
-            "date": "2024-12-12",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/policies/process/20231103/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
               },
               "translations": {
-                "href": "https://api.w3.org/callsfortranslation/320/translations"
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
             }
           },
           "_links": {
             "self": {
-              "href": "https://api.w3.org/callsfortranslation/320"
+              "href": "https://api.w3.org/callsfortranslation/301"
             },
             "translations": {
-              "href": "https://api.w3.org/callsfortranslation/320/translations"
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
           }
         },
-        "comments": "Translator: Pallinger Péter",
         "_links": {
           "self": {
-            "href": "https://api.w3.org/translations/658"
+            "href": "https://api.w3.org/translations/663"
           }
         },
-        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
-        "isOutdated": false,
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
+      "it": {
+        "states": [
+          "published",
+          "outdated"
+        ],
+        "uri": "https://www.w3.org/Translations/WCAG22-it/",
+        "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
+        "language": "it",
+        "translators": [],
+        "published": "2023-12-05T00:00:00+00:00",
+        "updated": "2023-12-05T00:00:00+00:00",
+        "authorized": true,
+        "lto_name": "IWA (Web International Association)",
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/612"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "ko": {
+        "states": [
+          "draft",
+          "outdated"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024OctDec/0002.html",
+        "title": "Intent to translate WCAG 2.2 in Korean",
+        "language": "ko",
+        "translators": [
+          {
+            "id": 97089,
+            "name": "Seak-Zoon Roh",
+            "given": "Seak-Zoon",
+            "family": "Roh",
+            "work-title": "Professor",
+            "biography": "2005- Present, Professor, Dept. of Education, College of Education, Sunshin University, Seoul, Korea",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/specifications"
+              },
+              "photos": [
+                {
+                  "href": "https://www.w3.org/thumbnails/360/avatar-images/raxxpsywexc8gs4g4c0c00gosw4s8s4.webp?x-version=1",
+                  "name": "large"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/100/avatar-images/raxxpsywexc8gs4g4c0c00gosw4s8s4.webp?x-version=1",
+                  "name": "thumbnail"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/48/avatar-images/raxxpsywexc8gs4g4c0c00gosw4s8s4.webp?x-version=1",
+                  "name": "tiny"
+                }
+              ],
+              "participations": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/raxxpsywexc8gs4g4c0c00gosw4s8s4/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/632"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
+        "isPublished": false,
+        "isPending": true,
+        "isInReview": false
+      },
+      "pt-br": {
+        "states": [
+          "published",
+          "outdated"
+        ],
+        "uri": "https://www.w3.org/Translations/WCAG22-pt-BR/",
+        "title": "Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.2",
+        "language": "pt-br",
+        "translators": [],
+        "published": "2025-03-27T00:00:00+00:00",
+        "authorized": true,
+        "lto_name": "Ceweb.br",
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/615"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "ru": {
+        "states": [
+          "draft",
+          "outdated"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2024JanMar/0006.html",
+        "title": "Intent to translate Web Content Accessibility Guidelines (WCAG) 2.2 in Russian",
+        "language": "ru",
+        "translators": [
+          {
+            "id": 152260,
+            "name": "Ilia Brykin",
+            "given": "Ilia",
+            "family": "Brykin",
+            "connected-accounts": [
+              {
+                "created": "2024-01-18T09:14:01+00:00",
+                "service": "github",
+                "identifier": "39484012",
+                "nickname": "ilia-brykin",
+                "profile-picture": "https://avatars.githubusercontent.com/u/39484012?v=4",
+                "href": "https://github.com/ilia-brykin",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/e4bqvi2abhko04ow0sgs44oc4004osc"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/e4bqvi2abhko04ow0sgs44oc4004osc"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/e4bqvi2abhko04ow0sgs44oc4004osc/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/e4bqvi2abhko04ow0sgs44oc4004osc/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/e4bqvi2abhko04ow0sgs44oc4004osc/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/e4bqvi2abhko04ow0sgs44oc4004osc/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/e4bqvi2abhko04ow0sgs44oc4004osc/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/e4bqvi2abhko04ow0sgs44oc4004osc/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/301"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/646"
+          }
+        },
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
         "isPublished": false,
         "isPending": true,
         "isInReview": false
       },
       "th": {
         "states": [
-          "review"
+          "review",
+          "outdated"
         ],
-        "uri": "https://www.nectec.or.th/standard/WCAG/REC-WCAG22-20241212-TH/",
-        "title": "Candidate Authorized Translation of WCAG 2.2 into Thai",
+        "uri": "https://www.nectec.or.th/standard/WCAG/REC-WCAG22-20231005-TH/",
+        "title": "Candidate Authorized Translation of WCAG 2.2 (W3C Recommendation 05 October 2023) into Thai",
         "language": "th",
         "translators": [],
         "authorized": true,
         "lto_name": "National Science and Technology Development Agency (NSTDA)",
         "call-for-translation": {
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
             "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
-            "date": "2024-12-12",
+            "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+            "date": "2023-10-05",
             "informative": false,
             "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
             "shortlink": "https://www.w3.org/TR/WCAG22/",
-            "process-rules": "https://www.w3.org/policies/process/20231103/",
+            "process-rules": "https://www.w3.org/2023/Process-20230612/",
             "_links": {
               "self": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
               },
               "editors": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
               },
               "deliverers": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
               },
               "specification": {
                 "href": "https://api.w3.org/specifications/WCAG22"
               },
               "predecessor-version": {
-                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
+              },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
               },
               "translations": {
-                "href": "https://api.w3.org/callsfortranslation/320/translations"
+                "href": "https://api.w3.org/callsfortranslation/301/translations"
               }
             }
           },
           "_links": {
             "self": {
-              "href": "https://api.w3.org/callsfortranslation/320"
+              "href": "https://api.w3.org/callsfortranslation/301"
             },
             "translations": {
-              "href": "https://api.w3.org/callsfortranslation/320/translations"
+              "href": "https://api.w3.org/callsfortranslation/301/translations"
             }
           }
         },
         "_links": {
           "self": {
-            "href": "https://api.w3.org/translations/655"
+            "href": "https://api.w3.org/translations/659"
           }
         },
-        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2 (W3C Recommendation 12 December 2024)",
-        "isOutdated": false,
+        "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+        "isOutdated": true,
         "isPublished": false,
         "isPending": false,
         "isInReview": true
