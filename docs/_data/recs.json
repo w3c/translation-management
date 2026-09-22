@@ -10844,7 +10844,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/html-aria/versions/20260415",
+        "href": "https://api.w3.org/specifications/html-aria/versions/20260811",
         "title": "Recommendation"
       },
       "series": {
@@ -10852,7 +10852,7 @@
       }
     },
     "isLatest": true,
-    "date": "2026-04-15",
+    "date": "2026-08-11",
     "year": "2026",
     "translations": {
       "ja": {
@@ -11247,7 +11247,7 @@
     "description": "<p>Defines a WAI-ARIA module of core roles, states and properties specific to web graphics. These semantics allow an author to express the logical structure of the graphic to assistive technologies, allowing assistive technologies to provide semantic navigation and adapt styling and interactive features.</p>",
     "title": "WAI-ARIA Graphics Module",
     "shortname": "graphics-aria-1.0",
-    "editor-draft": "https://w3c.github.io/graphics-aria/",
+    "editor-draft": "https://w3c.github.io/aria/graphics-aria/",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/graphics-aria-1.0"
@@ -11332,7 +11332,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/graphics-aria/",
+            "editor-draft": "https://w3c.github.io/aria/graphics-aria/",
             "uri": "https://www.w3.org/TR/2018/REC-graphics-aria-1.0-20181002/",
             "date": "2018-10-02",
             "informative": false,
@@ -12006,7 +12006,7 @@
     "description": "<p>Defines how user agents map the WAI-ARIA Graphics Module markup to platform accessibility APIs.</p>",
     "title": "Graphics Accessibility API Mappings",
     "shortname": "graphics-aam-1.0",
-    "editor-draft": "https://w3c.github.io/graphics-aam/",
+    "editor-draft": "https://w3c.github.io/aria/graphics-aam/",
     "_links": {
       "self": {
         "href": "https://api.w3.org/specifications/graphics-aam-1.0"
@@ -13089,7 +13089,7 @@
     "description": "<p>Enabling users of assistive technologies to find their way through web content requires embedding semantic metadata about web document structural divisions. This is particularly important for structural divisions of long-form documents and goes along with embedding semantic metadata about web-application widgets and behaviors for assistive technologies. This specification defines a set of WAI-ARIA roles specific to helping users of assistive technologies navigate through such long-form documents.</p>",
     "title": "Digital Publishing WAI-ARIA Module 1.1",
     "shortname": "dpub-aria-1.1",
-    "editor-draft": "https://w3c.github.io/dpub-aria/",
+    "editor-draft": "https://w3c.github.io/aria/dpub-aria/",
     "series-version": "1.1",
     "_links": {
       "self": {
@@ -13175,7 +13175,7 @@
           "spec-version": {
             "status": "Recommendation",
             "rec-track": true,
-            "editor-draft": "https://w3c.github.io/dpub-aria/",
+            "editor-draft": "https://w3c.github.io/aria/dpub-aria/",
             "uri": "https://www.w3.org/TR/2025/REC-dpub-aria-1.1-20250612/",
             "date": "2025-06-12",
             "informative": false,
@@ -13232,7 +13232,7 @@
     "description": "<p>The Digital Publishing Accessibility API Mappings (DPub-AAM) defines how user agents map the Digital Publishing WAI-ARIA Module [dpub-aria-1.1] markup to platform accessibility APIs. It is intended for user agent developers responsible for accessibility in their user agent so that they can support the accessibility content produced for digital publishing.</p>",
     "title": "Digital Publishing Accessibility API Mappings 1.1",
     "shortname": "dpub-aam-1.1",
-    "editor-draft": "https://w3c.github.io/dpub-aam/",
+    "editor-draft": "https://w3c.github.io/aria/dpub-aam/",
     "series-version": "1.1",
     "_links": {
       "self": {
@@ -32872,402 +32872,6 @@
     }
   },
   {
-    "shortlink": "https://www.w3.org/TR/xml-names11/",
-    "description": "<p>XML namespaces provide a simple method for qualifying element and attribute names used in Extensible Markup Language documents by associating them with namespaces identified by <span>IRI</span> references.</p>",
-    "title": "Namespaces in XML 1.1 (Second Edition)",
-    "shortname": "xml-names11",
-    "series-version": "1.1",
-    "_links": {
-      "self": {
-        "href": "https://api.w3.org/specifications/xml-names11"
-      },
-      "version-history": {
-        "href": "https://api.w3.org/specifications/xml-names11/versions"
-      },
-      "first-version": {
-        "href": "https://api.w3.org/specifications/xml-names11/versions/20020403",
-        "title": "Working Draft"
-      },
-      "latest-version": {
-        "href": "https://api.w3.org/specifications/xml-names11/versions/20060816",
-        "title": "Recommendation"
-      },
-      "series": {
-        "href": "https://api.w3.org/specification-series/xml-names"
-      }
-    },
-    "isLatest": true,
-    "date": "2006-08-16",
-    "year": "2006",
-    "translations": {
-      "fa": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://www.persianw3c.org/TR/2006/REC-xml-names11-20060816/",
-        "title": "فضاهای نامی در XML 1.1 (ویرایش دوم)",
-        "language": "fa",
-        "translators": [],
-        "published": "2008-09-28T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Namespaces in XML 1.1 (Second Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
-            "date": "2006-08-16",
-            "informative": false,
-            "title": "Namespaces in XML 1.1 (Second Edition)",
-            "shortlink": "https://www.w3.org/TR/xml-names11/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
-            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xml-names11"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/128/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/128"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/128/translations"
-            }
-          }
-        },
-        "comments": "Translation authors: Seyyed Abdul Qader Samadi",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/292"
-          }
-        },
-        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      },
-      "ja": {
-        "states": [
-          "published"
-        ],
-        "uri": "https://triple-underscore.github.io/xml-names-ja.html?1.1",
-        "title": "XML 1.1 名前空間（第２版",
-        "language": "ja",
-        "translators": [],
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Namespaces in XML 1.1 (Second Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
-            "date": "2006-08-16",
-            "informative": false,
-            "title": "Namespaces in XML 1.1 (Second Edition)",
-            "shortlink": "https://www.w3.org/TR/xml-names11/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
-            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xml-names11"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/128/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/128"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/128/translations"
-            }
-          }
-        },
-        "comments": "Translation authors: triple-underscore",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/362"
-          }
-        },
-        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      },
-      "ru": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://zajtcev.org/docs/w3c/ru/xml-names11-second-edition.html",
-        "title": "Пространства имен в XML 1.1 (Второе издание)",
-        "language": "ru",
-        "translators": [],
-        "published": "2011-04-08T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Namespaces in XML 1.1 (Second Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
-            "date": "2006-08-16",
-            "informative": false,
-            "title": "Namespaces in XML 1.1 (Second Edition)",
-            "shortlink": "https://www.w3.org/TR/xml-names11/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
-            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xml-names11"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/128/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/128"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/128/translations"
-            }
-          }
-        },
-        "comments": "Translation authors: Dmitry Zajtcev",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/335"
-          }
-        },
-        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      },
-      "tr": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://belgeler.org/recs/xml-names11/",
-        "title": "XML 1.1'de İsim-alanları (İkinci Düzeltme)",
-        "language": "tr",
-        "translators": [
-          {
-            "id": 112304,
-            "name": "Nilgün Belma Bugüner",
-            "given": "Nilgün",
-            "family": "Belma Bugüner",
-            "connected-accounts": [],
-            "discr": "user",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0"
-              },
-              "affiliations": {
-                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/affiliations"
-              },
-              "groups": {
-                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/groups"
-              },
-              "specifications": {
-                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/specifications"
-              },
-              "participations": {
-                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/participations"
-              },
-              "chair_of_groups": {
-                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/chair-of-groups"
-              },
-              "team_contact_of_groups": {
-                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/team-contact-of-groups"
-              }
-            }
-          }
-        ],
-        "published": "2007-06-08T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Namespaces in XML 1.1 (Second Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
-            "date": "2006-08-16",
-            "informative": false,
-            "title": "Namespaces in XML 1.1 (Second Edition)",
-            "shortlink": "https://www.w3.org/TR/xml-names11/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
-            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xml-names11"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/128/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/128"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/128/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/257"
-          }
-        },
-        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      },
-      "uk": {
-        "states": [
-          "published"
-        ],
-        "uri": "http://zajtcev.org/docs/w3c/ua/xml-names11-second-edition.html",
-        "title": "Простір імен в XML 1.1 (Друге видання)",
-        "language": "uk",
-        "translators": [],
-        "published": "2011-04-08T00:00:00+00:00",
-        "authorized": false,
-        "call-for-translation": {
-          "title": "Namespaces in XML 1.1 (Second Edition)",
-          "spec-version": {
-            "status": "Recommendation",
-            "rec-track": true,
-            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
-            "date": "2006-08-16",
-            "informative": false,
-            "title": "Namespaces in XML 1.1 (Second Edition)",
-            "shortlink": "https://www.w3.org/TR/xml-names11/",
-            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
-            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
-            "_links": {
-              "self": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
-              },
-              "editors": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
-              },
-              "deliverers": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
-              },
-              "specification": {
-                "href": "https://api.w3.org/specifications/xml-names11"
-              },
-              "previous-edition": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
-              },
-              "predecessor-version": {
-                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
-              },
-              "translations": {
-                "href": "https://api.w3.org/callsfortranslation/128/translations"
-              }
-            }
-          },
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/callsfortranslation/128"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/128/translations"
-            }
-          }
-        },
-        "comments": "Translation authors: Dmitry Zajtcev",
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/translations/336"
-          }
-        },
-        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
-        "isOutdated": false,
-        "isPublished": true,
-        "isPending": false,
-        "isInReview": false
-      }
-    }
-  },
-  {
     "shortlink": "https://www.w3.org/TR/webarch/",
     "description": "<p>The World Wide Web uses relatively simple technologies with sufficient scalability, efficiency and utility that they have resulted in a remarkable information space of interrelated resources, growing across languages, cultures, and media. In an effort to preserve these properties of the information space as the technologies evolve, this architecture document discusses the core design components of the Web. They are identification of resources, representation of resource state, and the protocols that support the interaction between agents and resources in the space. We relate core design components, constraints, and good practices to the principles and properties they support.</p>",
     "title": "Architecture of the World Wide Web, Volume One",
@@ -40403,13 +40007,16 @@
       },
       "fr": {
         "states": [
-          "review",
+          "published",
+          "needs_update",
           "outdated"
         ],
-        "uri": "https://wcag.access42.net/21/REC-WCAG21-20250506.html",
-        "title": "Candidate Authorized Translation (CAT) of WCAG 2.1 into French",
+        "uri": "https://www.w3.org/Translations/WCAG21-fr/",
+        "title": "Règles pour l’accessibilité des contenus web (WCAG) 2.1",
         "language": "fr",
         "translators": [],
+        "published": "2026-09-22T00:00:00+00:00",
+        "updated": "2026-09-22T00:00:00+00:00",
         "authorized": true,
         "lto_name": "Access42",
         "call-for-translation": {
@@ -40466,9 +40073,9 @@
         },
         "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
         "isOutdated": true,
-        "isPublished": false,
+        "isPublished": true,
         "isPending": false,
-        "isInReview": true
+        "isInReview": false
       },
       "de": {
         "states": [
@@ -43020,6 +42627,37 @@
     "translations": {}
   },
   {
+    "shortlink": "https://www.w3.org/TR/webauthn-3/",
+    "description": "<p>This specification defines an API enabling the creation and use of strong, attested, scoped, public key-based credentials by web applications, for the purpose of strongly authenticating users. Conceptually, one or more public key credentials, each scoped to a given WebAuthn Relying Party, are created by and bound to authenticators as requested by the web application. The user agent mediates access to authenticators and their public key credentials in order to preserve user privacy. Authenticators are responsible for ensuring that no operation is performed without user consent. Authenticators provide cryptographic proof of their properties to Relying Parties via attestation. This specification also describes the functional model for WebAuthn conformant authenticators, including their signature and attestation functionality.</p>",
+    "title": "Web Authentication: An API for accessing Public Key Credentials - Level 3",
+    "shortname": "webauthn-3",
+    "editor-draft": "https://w3c.github.io/webauthn/",
+    "series-version": "3",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/webauthn-3"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/webauthn-3/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/webauthn-3/versions/20210427",
+        "title": "First Public Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/webauthn-3/versions/20260825",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/webauthn"
+      }
+    },
+    "isLatest": true,
+    "date": "2026-08-25",
+    "year": "2026",
+    "translations": {}
+  },
+  {
     "shortlink": "https://www.w3.org/TR/vc-data-model-2.0/",
     "description": "<p>Credentials are a part of our daily lives; driver's licenses are used to assert that we are capable of operating a motor vehicle, university degrees can be used to assert our level of education, and government-issued passports enable us to travel between countries. This specification provides a mechanism to express these sorts of credentials on the Web in a way that is cryptographically secure, privacy respecting, and machine-verifiable.</p>",
     "title": "Verifiable Credentials Data Model v2.0",
@@ -45287,6 +44925,402 @@
     "date": "2021-03-30",
     "year": "2021",
     "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/xml-names11/",
+    "description": "<p>XML namespaces provide a simple method for qualifying element and attribute names used in Extensible Markup Language documents by associating them with namespaces identified by <span>IRI</span> references.</p>",
+    "title": "Namespaces in XML 1.1 (Second Edition)",
+    "shortname": "xml-names11",
+    "series-version": "1.1",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/xml-names11"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/xml-names11/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/xml-names11/versions/20020403",
+        "title": "Working Draft"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/xml-names11/versions/20060816",
+        "title": "Recommendation"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/xml-names"
+      }
+    },
+    "isLatest": true,
+    "date": "2006-08-16",
+    "year": "2006",
+    "translations": {
+      "fa": {
+        "states": [
+          "published"
+        ],
+        "uri": "http://www.persianw3c.org/TR/2006/REC-xml-names11-20060816/",
+        "title": "فضاهای نامی در XML 1.1 (ویرایش دوم)",
+        "language": "fa",
+        "translators": [],
+        "published": "2008-09-28T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Namespaces in XML 1.1 (Second Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
+            "date": "2006-08-16",
+            "informative": false,
+            "title": "Namespaces in XML 1.1 (Second Edition)",
+            "shortlink": "https://www.w3.org/TR/xml-names11/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
+            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xml-names11"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/128/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/128"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/128/translations"
+            }
+          }
+        },
+        "comments": "Translation authors: Seyyed Abdul Qader Samadi",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/292"
+          }
+        },
+        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "ja": {
+        "states": [
+          "published"
+        ],
+        "uri": "https://triple-underscore.github.io/xml-names-ja.html?1.1",
+        "title": "XML 1.1 名前空間（第２版",
+        "language": "ja",
+        "translators": [],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Namespaces in XML 1.1 (Second Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
+            "date": "2006-08-16",
+            "informative": false,
+            "title": "Namespaces in XML 1.1 (Second Edition)",
+            "shortlink": "https://www.w3.org/TR/xml-names11/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
+            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xml-names11"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/128/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/128"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/128/translations"
+            }
+          }
+        },
+        "comments": "Translation authors: triple-underscore",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/362"
+          }
+        },
+        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "ru": {
+        "states": [
+          "published"
+        ],
+        "uri": "http://zajtcev.org/docs/w3c/ru/xml-names11-second-edition.html",
+        "title": "Пространства имен в XML 1.1 (Второе издание)",
+        "language": "ru",
+        "translators": [],
+        "published": "2011-04-08T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Namespaces in XML 1.1 (Second Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
+            "date": "2006-08-16",
+            "informative": false,
+            "title": "Namespaces in XML 1.1 (Second Edition)",
+            "shortlink": "https://www.w3.org/TR/xml-names11/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
+            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xml-names11"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/128/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/128"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/128/translations"
+            }
+          }
+        },
+        "comments": "Translation authors: Dmitry Zajtcev",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/335"
+          }
+        },
+        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "tr": {
+        "states": [
+          "published"
+        ],
+        "uri": "http://belgeler.org/recs/xml-names11/",
+        "title": "XML 1.1'de İsim-alanları (İkinci Düzeltme)",
+        "language": "tr",
+        "translators": [
+          {
+            "id": 112304,
+            "name": "Nilgün Belma Bugüner",
+            "given": "Nilgün",
+            "family": "Belma Bugüner",
+            "connected-accounts": [],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/specifications"
+              },
+              "participations": {
+                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/77ztffcd9ds0gco4o80cc8wo4wsggw0/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "published": "2007-06-08T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Namespaces in XML 1.1 (Second Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
+            "date": "2006-08-16",
+            "informative": false,
+            "title": "Namespaces in XML 1.1 (Second Edition)",
+            "shortlink": "https://www.w3.org/TR/xml-names11/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
+            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xml-names11"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/128/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/128"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/128/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/257"
+          }
+        },
+        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      },
+      "uk": {
+        "states": [
+          "published"
+        ],
+        "uri": "http://zajtcev.org/docs/w3c/ua/xml-names11-second-edition.html",
+        "title": "Простір імен в XML 1.1 (Друге видання)",
+        "language": "uk",
+        "translators": [],
+        "published": "2011-04-08T00:00:00+00:00",
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Namespaces in XML 1.1 (Second Edition)",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "uri": "https://www.w3.org/TR/2006/REC-xml-names11-20060816/",
+            "date": "2006-08-16",
+            "informative": false,
+            "title": "Namespaces in XML 1.1 (Second Edition)",
+            "shortlink": "https://www.w3.org/TR/xml-names11/",
+            "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=xml-names11",
+            "errata": "https://www.w3.org/XML/2006/xml-names11-errata",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/xml-names11"
+              },
+              "previous-edition": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20040204"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/xml-names11/versions/20060816/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/128/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/128"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/128/translations"
+            }
+          }
+        },
+        "comments": "Translation authors: Dmitry Zajtcev",
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/336"
+          }
+        },
+        "origTitle": "Namespaces in XML 1.1 (Second Edition)",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    }
   },
   {
     "shortlink": "https://www.w3.org/TR/xmldsig-filter2/",
