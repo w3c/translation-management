@@ -1,0 +1,40 @@
+<style>
+    .spec-grouping {
+        border-block-end: 1px solid #cac9c9;
+        padding-block-end: 1rem;
+    }
+    .spec-grouping:first-child {
+        border-block-start: 1px solid #cac9c9;
+    }
+    .spec-grouping h2 {
+        margin-block-start: 1.5rem;
+    }
+
+    .spec-grouping h2:has( + p.spec-grouping__header__status)
+    {
+        margin-block-end: 0.5rem;
+    }
+    .spec-grouping h2 + p.spec-grouping__header__status {
+        margin-block-start: 0;
+    }
+    .translations-list{
+        margin-block-start: 3rem;
+    }
+    .translation-list{
+        background-color: #f8f8fb;
+        padding: 1rem;
+    }
+    .translation-list__item:not(:last-child) {
+        border-block-end: 1px solid #cac9c9;
+        padding-block-end: 1rem;
+    }
+    .translation-list__item h3 {
+        margin-block-start: 1rem;
+    }
+    .translation-list__item:first-child h3 {
+        margin-block-start: 0;
+    }
+    .translation-list__item .inline:last-child {
+        margin-block-end: 0;
+    }
+</style>

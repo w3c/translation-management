@@ -1,31 +1,46 @@
 ---
-title: Translations of W3C standards and drafts
-description: List of translated W3C standards and drafts (authorized and volunteer translations)
+title: Translations of W3C standards and notes
+description: List of translated W3C standards and notes (authorized and volunteer translations)
 feed: https://www.w3.org/translations/feed/
 ---
+{% include custom_css.html %}
+<p class="lead">W3C supports volunteers who translate web standards into their language.</p>
 
-## Translations of current W3C standards and drafts  {#current}
+<p>This page lists authorized and volunteer translations of <a href="https://www.w3.org/TR/">current W3C standards and notes</a>. In case of disputes, the authoritative version of the specification is the original, English document.</p>
 
-This is the list of translations of current [W3C standards and drafts](https://www.w3.org/TR/). [<img class="icon" src="https://www.w3.org/assets/website-2021/svg/rss.svg" width="30" height="30" alt="RSS feed" aria-hidden="true">]({{page.feed}})
+<nav class="l-cluster">
+    <ul class="clean-list">
+        <li><a href="authorized/">View authorized translations only</a></li>
+        <li><a href="historical/">View translations of historical reports</a></li>
+    </ul>
+</nav>
 
-See also [**how to contribute**](contribute/) to W3C translation efforts.
+<aside class="l-box l-box--no-border l-box--no-padding">
+    <div class="l-switcher">
+        <div>
+            <div>
+                <h2 class="h4">Get involved</h2>
+                <p class="with-icon--before with-icon--larger">
+                        <svg aria-hidden="true" class="icon icon--larger" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="1em" width="1em"><!--!Font Awesome Free v7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M351.9 280l-190.9 0c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zM160.9 232l190.9 0C349 167.5 334.7 108.1 314.4 64.6 303 40.2 290.7 22.8 279.3 12.2 268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4zm-48 0C116.4 146.4 138.5 66.9 170.8 14.7 78.7 47.3 10.9 131.2 1.5 232l111.4 0zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3L1.5 280zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3l-111.4 0zm111.4-48C501.9 131.2 434.1 47.3 342 14.7 374.3 66.9 396.4 146.4 399.9 232l111.4 0z"/></svg>
+                        <a href="contribute/">Contribute to W3C translations</a>
+                    </p>
+            </div>
+            <div>
+                <h2 class="h4">Related RSS feed</h2>
+                <p class="with-icon--before with-icon--larger">
+                        <img class="icon icon--larger" src="https://www.w3.org/assets/website-2021/svg/rss.svg" width="30" height="30" alt="" aria-hidden="true">
+                        <a href="{{page.feed}}">Recently published translations</a>
+                    </p>
+            </div>
+        </div>
+    </div>
+</aside>
 
-{% assign cfts = site.data.translations %}
+<div class="translations-list">
+{%- assign exceptions = "s-WCAG22, s-WCAG21" -%}
+{%- assign cfts = site.data.translations | where_exp:"item", "item.countPublishedTranslations > 0" | where_exp:"item","item.isLatest == true or exceptions contains item.id" -%}
 {%- for cft in cfts -%}
-  {%- if cft.isLatest -%}
-    {% include spec-listing.html %}
-  {% endif -%}
+    {% include spec-listing.html filter="published" %}
 {%- endfor %}
+</div>
 
-## Translations of historical W3C standards and drafts  {#historical}
-
-<details>
-  <summary>For reference or inspiration, translations of historical standards and drafts are listed below.</summary>
-  <p>Historical technical reports are ones that have been superseded or marked as obsolete.</p>
-
-  {%- for cft in site.data.translations -%}
-  {%- unless cft.isLatest -%}
-    {% include spec-listing.html %}
-  {% endunless -%}
-  {%- endfor -%}
-</details>

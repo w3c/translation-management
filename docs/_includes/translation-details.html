@@ -1,8 +1,29 @@
-<strong><span dir="auto" lang="{{translation.language}}">{{site.data.lang[translation.language].nativeName}}</span> ({{site.data.lang[translation.language].name}}){% if translation.authorized %} <span aria-labelledby="Authorized Translation" aria-role="img">Authorized</span>{% endif %}:</strong> <cite dir="auto" lang="{{translation.language}}"><a hreflang="{{translation.language}}" href="{{translation.uri}}">{{translation.title}}</a></cite><br>
-{%- if translation.authorized -%}
-Lead Translation Organization: {{ translation['lto_name'] }}
-{%- elsif translation.translators.size > 0 -%}
-Translators: {% for translator in translation.translators %}{{translator.name}}{% endfor %}
-{%- else -%}
-{{ translation.comments | replace: "Translation author", "Translator"}}
-{%- endif -%}
+<li class="translation-list__item">
+  <div class="translation-list__item__header">
+    <h3 class="h6"><span dir="auto" lang="{{ translation.language }}">{{ site.data.lang[translation.language].nativeName }}</span> ({{ site.data.lang[translation.language].name }})</h3>
+    <h4 data-anchor="no" dir="auto" lang="{{translation.language}}" class="text-sm">
+      <a hreflang="{{translation.language}}" href="{{translation.uri}}">{{translation.title}}</a>
+    </h4>
+  </div>
+  {% if translation.authorized %}<span class="tag" aria-labelledby="Authorized Translation" aria-role="img">Authorized Translation</span>{% endif %}
+  <dl class="inline text-sm">
+    {%- if translation.authorized -%}
+    <div>
+      <dt>Lead Translation Organization</dt>
+      <dd>{{ translation['lto_name'] }}</dd>
+    </div>
+    {%- elsif translation.translators.size > 0 -%}
+    <div>
+      <dt>Translators</dt>
+      {% for translator in translation.translators %}
+      <dd>{{translator.name}}</dd>
+      {% endfor %}
+    </div>
+    {%- elsif translation.comments -%}
+    <div>
+      <dt>Translators</dt>
+      <dd>{{ translation.comments | replace: "Translation authors:", "" | replace: "Translation author:", "" }}</dd>
+    </div>
+    {%- endif -%}
+  </dl>
+</li>
