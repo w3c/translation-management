@@ -5,9 +5,9 @@ stylesheets:
   - ../css/translation-management.css
 ---
 
-<p>For reference or inspiration, this page lists translations of <a href="https://www.w3.org/standards/types/#x5-2-superseded-recommendation">superseded</a>, <a href="https://www.w3.org/standards/types/#x5-3-obsolete-recommendation">obsolete</a>, and outdated specifications.</p>
+For reference or inspiration, this page lists translations of [superseded](https://www.w3.org/standards/types/#x5-2-superseded-recommendation), [obsolete](https://www.w3.org/standards/types/#x5-3-obsolete-recommendation), and outdated specifications.
 
-<p><strong>Note:</strong> In case of disputes, the authoritative version of the specification is the original, English document.</p>
+**Note:** In case of disputes, the authoritative version of the specification is the original, English document.
 
 <nav class="l-cluster">
     <ul class="clean-list">

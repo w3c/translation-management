@@ -4,9 +4,9 @@ stylesheets:
   - ../css/translation-management.css
 ---
 
-<p>Authorized W3C translations are developed through a <a href="https://www.w3.org/2005/02/TranslationPolicy.html">process</a> designed to achieve quality translations through transparency and community accountability.</p>
+Authorized W3C translations are developed through a [process](https://www.w3.org/policies/authorized-translations) designed to achieve quality translations through transparency and community accountability.
 
-<p><strong>Note:</strong> In case of disputes, the authoritative version of the specification is the original, English document.</p>
+**Note:** In case of disputes, the authoritative version of the specification is the original, English document.
 
 <nav class="l-cluster">
     <ul class="clean-list">

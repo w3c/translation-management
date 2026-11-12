@@ -5,9 +5,13 @@ feed: https://www.w3.org/standards/translations/feed/
 stylesheets:
   - css/translation-management.css
 ---
-<p class="lead">W3C supports volunteers who translate web standards into their language.</p>
 
-<p>This page lists authorized and volunteer translations of <a href="https://www.w3.org/TR/">current W3C standards and notes</a>. In case of disputes, the authoritative version of the specification is the original, English document.</p>
+W3C supports volunteers who translate web standards into their language.
+{: .lead}
+
+This page lists authorized and volunteer translations of [current W3C standards and notes](https://www.w3.org/TR/). 
+
+**Note:** In case of disputes, the authoritative version of the specification is the original, English document.
 
 <nav class="l-cluster">
     <ul class="clean-list">
