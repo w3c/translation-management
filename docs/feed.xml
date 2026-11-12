@@ -5,9 +5,9 @@ layout: null
 <?xml-stylesheet href='http://www.w3.org/2000/08/w3c-synd/style.css' type='text/css'?>
 <rdf:RDF xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#' xmlns='http://purl.org/rss/1.0/' xmlns:dc='http://purl.org/dc/elements/1.1/'>
   <channel rdf:about=''>
-    <title>W3C Translations</title>
-    <description>Recent translations of W3C specifications</description>
-    <link>https://www.w3.org/translations/</link>
+    <title>Translations of W3C standards and notes</title>
+    <description>Recent translations of current W3C standards and notes (authorized and volunteer translations)</description>
+    <link>https://www.w3.org/standards/translations/</link>
     <dc:date>{{site.data.latestTranslations[0].published}}</dc:date>
     {% assign translations = site.data.latestTranslations %}
     <items>
