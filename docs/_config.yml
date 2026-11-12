@@ -28,6 +28,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default" # by default, use the default layout from the theme
+      submenu: translations
 
 # Exclude from processing.
 exclude:
