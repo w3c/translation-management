@@ -1,10 +1,13 @@
 pages:
-
-- title: Translations of W3C standards and drafts
-  url: /translations/
+- title: Translations of W3C standards and notes
+  url: /standards/translations/
   html: /
-
-- title: Contributing to W3C Translations
-  url: /translations/contribute/
-  html: /contribute/
-
+- title: Authorized translations
+  url: /standards/translations/authorized/
+  html: /authorized/
+- title: Translations of historical reports
+  url: /standards/translations/historical/
+  html: /historical/
+- title: Translations needs
+  url: /standards/translations/matrix/
+  html: /matrix/
