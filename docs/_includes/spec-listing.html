@@ -8,7 +8,7 @@
   {%- else -%}
     {%- assign filteredTranslations = cft.translations | where_exp: "item", "item.states contains 'published'" | sort: "language" -%}
   {%- endif -%}
-  <ul class="clean-list translation-list">
+  <ul class="clean-list spec-grouping__list">
     {% for translation in filteredTranslations -%}
       {% include translation-details.html %}
     {%- endfor -%}

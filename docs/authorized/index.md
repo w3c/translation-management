@@ -14,10 +14,10 @@ stylesheets:
     </ul>
 </nav>
 
-<div class="translations-list">
+<section class="translations-list">
 {%- assign exceptions = "s-WCAG22, s-WCAG21" -%}
 {% assign cfts = site.data.translations | where_exp:"item","item.isLatest == true or exceptions contains item.id" | where_exp:"item","item.countPublishedTranslations > 0 and item.hasAuthorizedTranslations.size > 0" %}
 {%- for cft in cfts -%}
     {% include spec-listing.html filter="authorized" %}
 {%- endfor %}
-</div>
+</section>

@@ -37,11 +37,11 @@ stylesheets:
     </div>
 </aside>
 
-<div class="translations-list">
+<section class="translations-list">
 {%- assign exceptions = "s-WCAG22, s-WCAG21" -%}
 {%- assign cfts = site.data.translations | where_exp:"item", "item.countPublishedTranslations > 0" | where_exp:"item","item.isLatest == true or exceptions contains item.id" -%}
 {%- for cft in cfts -%}
     {% include spec-listing.html filter="published" %}
 {%- endfor %}
-</div>
+</section>
 

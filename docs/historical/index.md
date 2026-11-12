@@ -15,7 +15,7 @@ stylesheets:
     </ul>
 </nav>
 
-<div class="translations-list">
+<section class="translations-list">
 {%- assign exceptions = "s-WCAG22, s-WCAG21" -%}
 {% assign cfts = site.data.translations | where_exp:"item","item.isLatest == false and item.countPublishedTranslations > 0" %}
 {%- for cft in cfts -%}
@@ -23,4 +23,4 @@ stylesheets:
         {% include spec-listing.html filter="outdated" %}
     {%- endunless -%}
 {%- endfor %}
-</div>
+</section>
