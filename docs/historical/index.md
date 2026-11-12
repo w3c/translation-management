@@ -1,6 +1,6 @@
 ---
 title: Translations of W3C standards and notes — Historical reports
-description: List of translated W3C Recommendations (authorized and volunteer translations)
+description: List of translations of historical W3C standards and notes (authorized and volunteer translations)
 stylesheets:
   - ../css/translation-management.css
 ---

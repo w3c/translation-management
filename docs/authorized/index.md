@@ -1,5 +1,6 @@
 ---
 title: Authorized translations of W3C standards and notes
+description: List of authorized translations of W3C standards and notes
 stylesheets:
   - ../css/translation-management.css
 ---
