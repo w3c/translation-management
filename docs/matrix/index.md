@@ -16,11 +16,11 @@ Legend:
 <dt class="draft">…</dt>
 <dd>A translator has indicated their intent to translate the specification in the said language</dd>
 <dt class="review">🔍</dt>
-<dd>A draft <a href="https://www.w3.org/2005/02/TranslationPolicy.html">Authorized Translation</a> is under review</dd>
+<dd>A draft <a href="https://www.w3.org/policies/authorized-translations">Authorized Translation</a> is under review</dd>
 <dt class="published">✓</dt>
 <dd>A volunteer translation exists</dd>
 <dt class="published">✰</dt>
-<dd>W3C has published an <a href="https://www.w3.org/2005/02/TranslationPolicy.html">Authorized Translation</a> of the specification</dd>
+<dd>W3C has published an <a href="https://www.w3.org/policies/authorized-translations">Authorized Translation</a> of the specification</dd>
 </dl>
 
 <div class="table-wrap" role="region" aria-labelledby="matrix-caption" tabindex="0">
