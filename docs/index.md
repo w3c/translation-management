@@ -2,8 +2,9 @@
 title: Translations of W3C standards and notes
 description: List of translated W3C standards and notes (authorized and volunteer translations)
 feed: https://www.w3.org/translations/feed/
+stylesheets:
+  - css/translation-management.css
 ---
-{% include custom_css.html %}
 <p class="lead">W3C supports volunteers who translate web standards into their language.</p>
 
 <p>This page lists authorized and volunteer translations of <a href="https://www.w3.org/TR/">current W3C standards and notes</a>. In case of disputes, the authoritative version of the specification is the original, English document.</p>

@@ -1,7 +1,8 @@
 ---
 title: Authorized translations of W3C standards and notes
+stylesheets:
+  - ../css/translation-management.css
 ---
-{% include custom_css.html %}
 
 <p>Authorized W3C translations are developed through a <a href="https://www.w3.org/2005/02/TranslationPolicy.html">process</a> designed to achieve quality translations through transparency and community accountability.</p>
 

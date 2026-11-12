@@ -1,8 +1,9 @@
 ---
 title: Translations of W3C standards and notes — Historical reports
 description: List of translated W3C Recommendations (authorized and volunteer translations)
+stylesheets:
+  - ../css/translation-management.css
 ---
-{% include custom_css.html %}
 
 <p>For reference or inspiration, this page lists translations of <a href="https://www.w3.org/standards/types/#x5-2-superseded-recommendation">superseded</a>, <a href="https://www.w3.org/standards/types/#x5-3-obsolete-recommendation">obsolete</a>, and outdated specifications.</p>
 
