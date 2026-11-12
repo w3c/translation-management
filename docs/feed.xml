@@ -27,12 +27,10 @@ layout: null
     <description>{% if translation.authorized %}Authorized{% endif %} Translation of “{{translation['call-for-translation'].title}}” in {{site.data.lang[translation.language].name}}: “{{translation.title}}” by
     {% if translation.authorized %}
     Lead Translation Organization: {{ translation['lto_name'] }}
-    {% else %}
-    {% if translation.translators.size > 0 %}
+    {% elsif translation.translators.size > 0 %}
     Translators: {% for translator in translation.translators %}{{translator.name}}{% endfor %}
-    {% else %}
-    {{ translation.comments | replace: "Translation author", "Translator"}}
-    {% endif %}
+    {% elsif translation.comments %}
+    {{ translation.comments | replace: "Translation authors:", "" | replace: "Translation author:", "" }}
     {% endif %}
     </description>
     <link>{{translation.uri}}</link>
