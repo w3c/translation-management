@@ -13,13 +13,6 @@ This page lists authorized and volunteer translations of [current W3C standards 
 
 **Note:** In case of disputes, the authoritative version of the specification is the original, English document.
 
-<nav class="l-cluster">
-    <ul class="clean-list">
-        <li><a href="authorized">View authorized translations only</a></li>
-        <li><a href="historical">View translations of historical reports</a></li>
-    </ul>
-</nav>
-
 <aside class="l-box l-box--no-border l-box--no-padding">
     <div class="l-switcher">
         <div>

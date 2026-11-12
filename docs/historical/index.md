@@ -9,12 +9,6 @@ For reference or inspiration, this page lists translations of [superseded](https
 
 **Note:** In case of disputes, the authoritative version of the specification is the original, English document.
 
-<nav class="l-cluster">
-    <ul class="clean-list">
-        <li><a href="../">View translations of current W3C standards and notes</a></li>
-    </ul>
-</nav>
-
 <section class="translations-list">
 {%- assign exceptions = "s-WCAG22, s-WCAG21" -%}
 {% assign cfts = site.data.translations | where_exp:"item","item.isLatest == false and item.countPublishedTranslations > 0" %}

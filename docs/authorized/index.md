@@ -9,12 +9,6 @@ Authorized W3C translations are developed through a [process](https://www.w3.org
 
 **Note:** In case of disputes, the authoritative version of the specification is the original, English document.
 
-<nav class="l-cluster">
-    <ul class="clean-list">
-        <li><a href="../">View all translations (including volunteer translations)</a></li>
-    </ul>
-</nav>
-
 <section class="translations-list">
 {%- assign exceptions = "s-WCAG22, s-WCAG21" -%}
 {% assign cfts = site.data.translations | where_exp:"item","item.isLatest == true or exceptions contains item.id" | where_exp:"item","item.countPublishedTranslations > 0 and item.hasAuthorizedTranslations.size > 0" %}
