@@ -924,7 +924,12 @@
       "self": {
         "href": "https://api.w3.org/translations/652"
       }
-    }
+    },
+    "origTitle": "Ethical Web Principles",
+    "isOutdated": false,
+    "isPublished": true,
+    "isPending": false,
+    "isInReview": false
   },
   {
     "states": [

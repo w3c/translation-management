@@ -38715,7 +38715,12 @@
               "self": {
                 "href": "https://api.w3.org/translations/652"
               }
-            }
+            },
+            "origTitle": "Ethical Web Principles",
+            "isOutdated": false,
+            "isPublished": true,
+            "isPending": false,
+            "isInReview": false
           }
         ],
         "countPublishedTranslations": 1,
@@ -38776,7 +38781,12 @@
             "self": {
               "href": "https://api.w3.org/translations/652"
             }
-          }
+          },
+          "origTitle": "Ethical Web Principles",
+          "isOutdated": false,
+          "isPublished": true,
+          "isPending": false,
+          "isInReview": false
         }
       },
       {
@@ -90214,7 +90224,8 @@
         "translations": [
           {
             "states": [
-              "review"
+              "review",
+              "outdated"
             ],
             "uri": "https://www.nectec.or.th/standard/WCAG/REC-WCAG22-20231005-TH/",
             "title": "Candidate Authorized Translation of WCAG 2.2 (W3C Recommendation 05 October 2023) into Thai",
@@ -90271,7 +90282,12 @@
               "self": {
                 "href": "https://api.w3.org/translations/659"
               }
-            }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "isOutdated": true,
+            "isPublished": false,
+            "isPending": false,
+            "isInReview": true
           },
           {
             "states": [

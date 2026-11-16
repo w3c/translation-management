@@ -46148,5 +46148,160 @@
     "date": "2025-05-15",
     "year": "2025",
     "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/privacy-principles/",
+    "description": "<p>This document provides definitions for privacy and related concepts that are applicable worldwide. It also provides a set of privacy principles that should guide the development of the Web as a trustworthy platform. People using the Web would benefit from a stronger relationship between technology and policy, and this document is written to work with both.</p>",
+    "title": "Privacy Principles",
+    "shortname": "privacy-principles",
+    "editor-draft": "https://w3ctag.github.io/privacy-principles/",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/privacy-principles"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/privacy-principles/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/privacy-principles/versions/20220512",
+        "title": "Draft Note"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/privacy-principles/versions/20250515",
+        "title": "Statement"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/privacy-principles"
+      }
+    },
+    "isLatest": true,
+    "date": "2025-05-15",
+    "year": "2025",
+    "translations": {}
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/ethical-web-principles/",
+    "description": "<p>The web should be a platform that helps people and provides a positive social benefit. As we continue to evolve the web platform, we must therefore consider the consequences of our work. The following document sets out ethical principles that will drive the W3C's continuing work in this direction.</p>",
+    "title": "Ethical Web Principles",
+    "shortname": "ethical-web-principles",
+    "editor-draft": "https://w3ctag.github.io/ethical-web-principles/",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/ethical-web-principles"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/ethical-web-principles/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20220512",
+        "title": "Draft Note"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212",
+        "title": "Statement"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/ethical-web-principles"
+      }
+    },
+    "isLatest": true,
+    "date": "2024-12-12",
+    "year": "2024",
+    "translations": {
+      "zh-hans": {
+        "states": [
+          "published"
+        ],
+        "uri": "https://www.w3.org/Translations/ethical-web-principles-zh/Overview.html",
+        "title": "Web伦理原则",
+        "language": "zh-hans",
+        "translators": [],
+        "published": "2025-04-16T00:00:00+00:00",
+        "authorized": true,
+        "lto_name": "Translator: Anqi Li",
+        "call-for-translation": {
+          "title": "Ethical Web Principles",
+          "spec-version": {
+            "status": "Statement",
+            "rec-track": false,
+            "editor-draft": "https://w3ctag.github.io/ethical-web-principles/",
+            "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/",
+            "date": "2024-12-12",
+            "informative": true,
+            "title": "Ethical Web Principles",
+            "shortlink": "https://www.w3.org/TR/ethical-web-principles/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/317/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/317"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/317/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/652"
+          }
+        },
+        "origTitle": "Ethical Web Principles",
+        "isOutdated": false,
+        "isPublished": true,
+        "isPending": false,
+        "isInReview": false
+      }
+    }
+  },
+  {
+    "shortlink": "https://www.w3.org/TR/w3c-vision/",
+    "description": "<p>The W3C Vision articulates the values that underpin W3C’s mission, what W3C is, what it does and why that matters, and the principles by which it operates and makes decisions.</p>",
+    "title": "Vision for W3C",
+    "shortname": "w3c-vision",
+    "editor-draft": "https://w3c.github.io/AB-public/Vision",
+    "_links": {
+      "self": {
+        "href": "https://api.w3.org/specifications/w3c-vision"
+      },
+      "version-history": {
+        "href": "https://api.w3.org/specifications/w3c-vision/versions"
+      },
+      "first-version": {
+        "href": "https://api.w3.org/specifications/w3c-vision/versions/20230725",
+        "title": "Draft Note"
+      },
+      "latest-version": {
+        "href": "https://api.w3.org/specifications/w3c-vision/versions/20250729",
+        "title": "Statement"
+      },
+      "series": {
+        "href": "https://api.w3.org/specification-series/w3c-vision"
+      }
+    },
+    "isLatest": true,
+    "date": "2025-07-29",
+    "year": "2025",
+    "translations": {}
   }
 ]

@@ -136,6 +136,12 @@
     "sv":{
         "name":"Swedish",
         "nativeName":"svenska"
+
+    },
+    "th":{
+        "name":"Thai",
+        "nativeName":"ภาษาไทย"
+	    
     },
     "tr":{
         "name":"Turkish",
