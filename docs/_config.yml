@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "W3C Specification Translations"
-description: Translations of W3C Specifications
-baseurl: "/translations" # the subpath of your site, e.g. /blog
+title: "Translations of W3C standards and notes"
+description: Translations of W3C standards and notes
+baseurl: "/standards/translations" # the subpath of your site, e.g. /blog
 
 # Build settings
 plugins:
@@ -28,6 +28,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default" # by default, use the default layout from the theme
+      submenu: translations
 
 # Exclude from processing.
 exclude:

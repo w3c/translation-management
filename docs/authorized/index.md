@@ -1,24 +1,18 @@
 ---
-title: Authorized Translations of W3C Recommendations
+title: Authorized translations of W3C standards and notes
+description: List of authorized translations of W3C standards and notes
+stylesheets:
+  - ../css/translation-management.css
 ---
 
-[Authorized W3C Translations](https://www.w3.org/2005/02/TranslationPolicy.html) are developed through a process designed to achieve quality translations through transparency and community accountability. They can be used for official purposes in languages other than English.
+Authorized W3C translations are developed through a [process](https://www.w3.org/policies/authorized-translations/) designed to achieve quality translations through transparency and community accountability.
 
-See also the [broader list of translations of W3C Recommendations](../) (including volunteer translations).
+**Note:** In case of disputes, the authoritative version of the specification is the original, English document.
 
-{% assign cfts = site.data.translations | sort: "date"|reverse %}
+<section class="translations-list">
+{%- assign exceptions = "s-WCAG22, s-WCAG21" -%}
+{% assign cfts = site.data.translations | where_exp:"item","item.isLatest == true or exceptions contains item.id" | where_exp:"item","item.countPublishedTranslations > 0 and item.hasAuthorizedTranslations.size > 0" %}
 {%- for cft in cfts -%}
-{% if cft.hasAuthorizedTranslations %}
-<section>
-  <h2 id="{{cft.id}}" class="txt-mars"><a href="{{cft['spec-version'].uri}}">{{cft.title}}</a></h2>
-  <ul>
-    {% for translation in cft.translations -%}
-    {%- if translation.states contains 'published' and translation.authorized -%}
-    <li>{% include translation-details.html %}</li>
-    {% endif %}
-    {%- endfor -%}
-  </ul>
+    {% include spec-listing.html filter="authorized" %}
+{%- endfor %}
 </section>
-
-{% endif -%}
-{%- endfor -%}
