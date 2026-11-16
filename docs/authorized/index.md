@@ -5,7 +5,7 @@ stylesheets:
   - ../css/translation-management.css
 ---
 
-Authorized W3C translations are developed through a [process](https://www.w3.org/policies/authorized-translations) designed to achieve quality translations through transparency and community accountability.
+Authorized W3C translations are developed through a [process](https://www.w3.org/policies/authorized-translations/) designed to achieve quality translations through transparency and community accountability.
 
 **Note:** In case of disputes, the authoritative version of the specification is the original, English document.
 
