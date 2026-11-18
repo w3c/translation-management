@@ -77,13 +77,13 @@ Legend:
              {%- endif -%}</span></a>
            {%- else -%}
              >
-           {%- endif- %}
+           {%- endif -%}
          {%- else -%}
            >
          {%- endif -%}
       </td>
       {% endif %}
-      {%- endfor- %}
+      {%- endfor -%}
     </tr>
     {%- endfor %}
   </tbody>
