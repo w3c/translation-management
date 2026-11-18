@@ -14,7 +14,7 @@ For reference or inspiration, this page lists translations of [superseded](https
 {% assign cfts = site.data.translations | where_exp:"item","item.isLatest == false and item.countPublishedTranslations > 0" %}
 {%- for cft in cfts -%}
     {%- unless exceptions contains cft.id -%}
-        {% include spec-listing.html filter="outdated" %}
+        {% include spec-listing.html %}
     {%- endunless -%}
 {%- endfor %}
 </section>
