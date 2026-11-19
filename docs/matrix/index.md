@@ -28,7 +28,7 @@ Legend:
 </dl>
 
 <div class="table-wrap" role="region" aria-labelledby="matrix-caption" tabindex="0">
-<table>
+<table class="col-border">
   <caption id="matrix-caption">W3C standards and notes translation status</caption>
   <thead>
     <tr>
@@ -115,18 +115,18 @@ section:has(> .related){
 
 dl.legend dt { width: 2.5em; padding: 0.5em; text-align: center; margin-right: 1em; }
 
-.published, .review, .draft, .outdated { border: 1px black solid; }
+.legend > .published, .review, .draft, .outdated { border: 1px black solid; }
 .published { background-color: #dfd; }
 .review { background-color: #ff4; }
 .draft { background-color: #ddd; }
 .outdated { background-color: #fdd; }
 
 table { border-collapse: collapse; }
-th, tfoot td { border-right: 1px black solid; }
+
 tfoot td { text-align: right; }
 th[scope="row"] { padding: 0.5em; text-align: right; font-weight: normal; }
 tbody { border-bottom: 1px solid black; }
-tbody td { padding: 0; text-align: center; vertical-align: middle; border-right: thin gray solid; }
+tbody td { padding: 0; text-align: center; vertical-align: middle; }
 tbody td.num { padding: 0.5em; text-align: right; }
 tbody td a { display: block; margin: 0; width: 100%; height: 100%; }
 
@@ -151,8 +151,6 @@ th.lang > div {
 th.lang > div > span {
   background-color: #024488;
   padding: 6px 10px;
-  border-bottom: 1px solid gray;
-  border-right: 1px solid gray;
 }
 </style>
 
