@@ -1,12 +1,12 @@
 <article class="spec-grouping">
-  <div class="spec-grouping__header">
-    <h2 class="spec-grouping__header__title h5" id="{{ cft.id | append: '-' | append: cft.date }}" data-anchor="no"><a href="{{ cft.spec-version.uri }}">{{ cft.title }}</a></h2>
-    <p class="spec-grouping__header__status text-sm">{{ cft.spec-version.status }} — <time datetime="{{ cft.date }}">{{ cft.date | date: "%e %B %Y" }}</time></p>
-  </div>
+  <header class="spec-grouping__header">
+    <h2 class="spec-grouping__header__title h5" id="{{ cft.id | append: '-' | append: cft.date }}" data-anchor="no">{{ cft.title }}</h2>
+    <p class="spec-grouping__header__status text-sm"><time datetime="{{ cft.date }}">{{ cft.date | date: "%e %B %Y" }}</time> — <a href="{{ cft.spec-version.uri }}" aria-label="View original document: {{ cft.title }}">View original document</a></p>
+  </header>
   {%- if include.filter == "authorized" -%}
     {%- assign filteredTranslations = cft.translations | sort: "language" | where_exp:"item","item.states contains 'published' and item.authorized == true" -%}
   {%- else -%}
-    {%- assign filteredTranslations = cft.translations | where_exp: "item", "item.states contains 'published'" | sort: "language" -%}
+    {%- assign filteredTranslations = cft.translations | sort: "language" | where_exp: "item", "item.states contains 'published'" -%}
   {%- endif -%}
   <ul class="clean-list spec-grouping__list">
     {% for translation in filteredTranslations -%}
