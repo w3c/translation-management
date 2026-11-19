@@ -32,13 +32,13 @@ Legend:
   <caption id="matrix-caption">W3C standards and notes translation status</caption>
   <thead>
     <tr>
-      <th id="specs">Specification</th>
-      <th>Length (x1,000 words)</th>
-      {%- assign langs = site.data.langlist|sort: "name" -%}
+      <th id="specs" scope="col">Specification</th>
+      <th id="length" scope="col">Length <span class="text-sm">(x1,000 words)</span></th>
+      {%- assign langs = site.data.langlist -%}
       {%- for lang in langs -%}
-      {%- if site.data.byLanguage[lang].latestRecsTotal > 0 -%}
-      <th class="lang"><div><span>{{ site.data.lang[lang].name }}</span></div></th>
-      {% endif %}
+          {%- if site.data.byLanguage[lang].latestRecsTotal > 0 -%}
+            <th class="lang" id="{{ lang }}" scope="col"><div><span>{{ site.data.lang[lang].name }}</span></div></th>
+          {% endif %}
       {%- endfor -%}
     </tr>
   </thead>
@@ -47,15 +47,15 @@ Legend:
   {% for year in recsByYears %}
   <tbody id="y{{year.name}}" aria-live="polite">
     <tr>
-      <th colspan="{{ langs.size }}">{{ year.name }}</th>
+      <th colspan="{{ langs.size }}" id="{{year.name}}" scope="colgroup">{{ year.name }}</th>
     </tr>
     {% for rec in year.items %}
     <tr>
-      <th scope="row"><a href="{{rec.shortlink}}">{{ rec.title }}</a></th>
-      <td class="num">{% if site.data.wordCount[rec.shortname] %}{{ site.data.wordCount[rec.shortname] | divided_by: 1000 | round }}{% endif %}</td>
+      <th headers="{{year.name}} specs" id="{{ rec.shortname }}" scope="row"><a href="{{rec.shortlink}}">{{ rec.title }}</a></th>
+      <td headers="{{year.name}} {{ rec.shortname }} length" class="num">{% if site.data.wordCount[rec.shortname] %}{{ site.data.wordCount[rec.shortname] | divided_by: 1000 | round }}{% endif %}</td>
       {% for lang in langs %}
       {%- if site.data.byLanguage[lang].latestRecsTotal > 0 -%}
-      <td{% if rec.translations %}
+      <td headers="{{year.name}} {{ rec.shortname }} {{ lang }}"{% if rec.translations %}
            {% if rec.translations[lang] %}
             class="{{ rec.translations[lang].states | join: ' ' }}"><a title="{% if rec.translations[lang].isOutdated %}Outdated {% elsif rec.translations[lang].isPending %}Ongoing {% elsif rec.translations[lang].isInReview %}Pending review {% endif %}{% if rec.translations[lang].authorized %}Authorized {% endif %}{{ site.data.lang[lang].name }} translation of {{ rec.translations[lang].origTitle }}" href="{{ rec.translations[lang].uri }}">
              {%- if rec.translations[lang].isOutdated -%}
