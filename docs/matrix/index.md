@@ -132,7 +132,7 @@ tbody td a { display: block; margin: 0; width: 100%; height: 100%; }
 
 tbody tr.hidden { display: none; }
 
-thead tr th.lang { position: sticky; top: 0; background-color: transparent;}
+thead tr th.lang { background-color: transparent;}
 
 th.lang {
   /* Something you can count on */
