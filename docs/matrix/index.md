@@ -15,15 +15,15 @@ This page shows which W3C standards and notes are being, have been or have not b
 
 Legend:
 <dl class="legend grid">
-<dt class="outdated">✗</dt>
+<dt class="outdated"><span aria-label="outdated" role="img">✗</span></dt>
 <dd>A translation of an outdated version of the specification exists; if you're the original translator, consider updating the translation; if you aren't and are willing to help, try contacting the original translator to see if they would accept contributed updates to their work</dd>
-<dt class="draft">…</dt>
+<dt class="draft"><span aria-label="intent to translate" role="img">…</span></dt>
 <dd>A translator has indicated their intent to translate the specification in the said language</dd>
-<dt class="review">🔍</dt>
+<dt class="review"><span aria-label="under review" role="img">🔍</span></dt>
 <dd>A draft <a href="https://www.w3.org/policies/authorized-translations/">Authorized Translation</a> is under review</dd>
-<dt class="published">✓</dt>
+<dt class="published"><span aria-label="volunteer translation published" role="img">✓</span></dt>
 <dd>A volunteer translation exists</dd>
-<dt class="published">✰</dt>
+<dt class="published"><span aria-label="authorized translation published" role="img">✰</span></dt>
 <dd>W3C has published an <a href="https://www.w3.org/policies/authorized-translations/">Authorized Translation</a> of the specification</dd>
 </dl>
 
@@ -57,24 +57,24 @@ Legend:
       {%- if site.data.byLanguage[lang].latestRecsTotal > 0 -%}
       <td{% if rec.translations %}
            {% if rec.translations[lang] %}
-            class="{{ rec.translations[lang].states | join: ' ' }}"><a title="{% if rec.translations[lang].isOutdated %}Outdated {% elsif rec.translations[lang].isPending %}Ongoing {% elsif rec.translations[lang].isInReview %}Pending review {% endif %}{% if rec.translations[lang].authorized %}Authorized {% endif %}{{ site.data.lang[lang].name }} translation of {{ rec.translations[lang].origTitle }}" href="{{ rec.translations[lang].uri }}"><span role="img">
+            class="{{ rec.translations[lang].states | join: ' ' }}"><a title="{% if rec.translations[lang].isOutdated %}Outdated {% elsif rec.translations[lang].isPending %}Ongoing {% elsif rec.translations[lang].isInReview %}Pending review {% endif %}{% if rec.translations[lang].authorized %}Authorized {% endif %}{{ site.data.lang[lang].name }} translation of {{ rec.translations[lang].origTitle }}" href="{{ rec.translations[lang].uri }}">
              {%- if rec.translations[lang].isOutdated -%}
-               ✗
+              <span aria-label="outdated" role="img">✗</span>
              {%- elsif rec.translations[lang].authorized -%}
                {%- if rec.translations[lang].isPublished -%}
-                 ✰
+                 <span aria-label="authorized translation published" role="img">✰</span>
                {%- elsif rec.translations[lang].isInReview -%}
-                 🔍
+                 <span aria-label="under review">🔍</span>
                {%- elsif rec.translations[lang].isPending -%}
-                 …
+                 <span aria-label="intent to translate" role="img">…</span>
                {%- endif -%}
              {%- else -%}
                {%- if rec.translations[lang].isPublished -%}
-                 ✓
+                 <span aria-label="volunteer translation published" role="img">✓</span>
                {%- elsif rec.translations[lang].isPending -%}
-                 …
+                 <span aria-label="intent to translate" role="img">…</span>
                {%- endif -%}
-             {%- endif -%}</span></a>
+             {%- endif -%}</a>
            {%- else -%}
              >
            {%- endif -%}
