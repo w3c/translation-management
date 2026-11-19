@@ -116,9 +116,9 @@ section:has(> .related){
 dl.legend dt { width: 2.5em; height: 2.5em; padding: 0.5em; text-align: center; margin-right: 1em; border: 1px black solid; }
 
 .published { background-color: #dfd; }
-.review { background-color: #ff4; }
-.draft { background-color: #ddd; }
-.outdated { background-color: #fdd; }
+.review { background-color: #f9dc4a; } /* Design system: yellow */
+.draft { background-color: #cbe0fb; } /* Design system: light-blue */
+.outdated { background-color: #ec7070; } /* Design system: light-red */
 
 table { border-collapse: collapse; }
 
