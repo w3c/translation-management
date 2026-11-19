@@ -14,7 +14,7 @@ This page shows which W3C standards and notes are being, have been or have not b
 </aside>
 
 Legend:
-<dl class="legend">
+<dl class="legend grid">
 <dt class="outdated">✗</dt>
 <dd>A translation of an outdated version of the specification exists; if you're the original translator, consider updating the translation; if you aren't and are willing to help, try contacting the original translator to see if they would accept contributed updates to their work</dd>
 <dt class="draft">…</dt>
@@ -113,9 +113,8 @@ section:has(> .related){
     display: none;
 }
 
-dl.legend dt { width: 2.5em; padding: 0.5em; text-align: center; margin-right: 1em; }
+dl.legend dt { width: 2.5em; height: 2.5em; padding: 0.5em; text-align: center; margin-right: 1em; border: 1px black solid; }
 
-.legend > .published, .review, .draft, .outdated { border: 1px black solid; }
 .published { background-color: #dfd; }
 .review { background-color: #ff4; }
 .draft { background-color: #ddd; }
