@@ -1,10 +1,16 @@
-<section id="{{cft.id}}">
-  <h2><a href="{{cft['spec-version'].uri}}">{{cft.title}}</a><a class='self-link' href='#{{cft.id}}'></a></h2>
-    <ul class=details>
-      {%- for translation in cft.translations -%}
-      {%- if translation.states contains 'published' -%}
-      <li>{% include translation-details.html %}</li>
-      {% endif %}
-      {%- endfor -%}
-    </ul>
-</section>
+<article class="spec-grouping">
+  <header class="spec-grouping__header">
+    <h2 class="spec-grouping__header__title h5" id="{{ cft.id | append: '-' | append: cft.date }}" data-anchor="no">{{ cft.title }}</h2>
+    <p class="spec-grouping__header__status text-sm"><time datetime="{{ cft.date }}">{{ cft.date | date: "%e %B %Y" }}</time> — <a href="{{ cft.spec-version.uri }}" aria-label="View original document: {{ cft.title }}">View original document</a></p>
+  </header>
+  {%- if include.filter == "authorized" -%}
+    {%- assign filteredTranslations = cft.translations | sort: "language" | where_exp:"item","item.states contains 'published' and item.authorized == true" -%}
+  {%- else -%}
+    {%- assign filteredTranslations = cft.translations | sort: "language" | where_exp: "item", "item.states contains 'published'" -%}
+  {%- endif -%}
+  <ul class="clean-list spec-grouping__list">
+    {% for translation in filteredTranslations -%}
+      {% include translation-details.html %}
+    {%- endfor -%}
+  </ul>
+</article>
