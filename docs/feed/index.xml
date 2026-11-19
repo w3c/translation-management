@@ -24,7 +24,7 @@ layout: null
     {%- if translation.states contains 'published' -%}
     <item rdf:about='{{translation.uri}}'>
     <title>{% if translation.authorized %}Authorized {% endif %}Translation of “{{translation['call-for-translation'].title}}” in {{site.data.lang[translation.language].name}}: “{{translation.title}}”</title>
-    <description>{% if translation.authorized %}Authorized{% endif %} Translation of “{{translation['call-for-translation'].title}}” in {{site.data.lang[translation.language].name}}: “{{translation.title}}” by
+    <description>{% if translation.authorized %}Authorized {% endif %}Translation of “{{translation['call-for-translation'].title}}” in {{site.data.lang[translation.language].name}}: “{{translation.title}}” by
     {% if translation.authorized %}
     Lead Translation Organization: {{ translation['lto_name'] }}
     {% elsif translation.translators.size > 0 %}
