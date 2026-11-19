@@ -149,7 +149,7 @@ th.lang > div {
   width: 30px;
 }
 th.lang > div > span {
-  background-color: #024488;
+  background-color: #002a56;
   padding: 6px 10px;
 }
 </style>
