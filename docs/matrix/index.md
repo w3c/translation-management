@@ -105,6 +105,14 @@ Legend:
 <!-- TODO: non-RECS -->
 
 <style>
+.default .content {
+    display:block !important;
+}
+
+section:has(> .related){
+    display: none;
+}
+
 a[href]:focus, a[href]:hover {
   background: #f8f8f8;
   background: rgba(75%, 75%, 75%, .25);
@@ -139,11 +147,6 @@ th.lang {
   height: 140px;
   white-space: nowrap;
   border-right: none;
-}
-.table-wrap {
-    width: 70vw !important;
-    max-width: 70vw !important;
-    max-height: 1000px;
 }
 th.lang > div {
   transform:
