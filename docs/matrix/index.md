@@ -1,9 +1,9 @@
 ---
-title: Translations of W3C standards and notes — Translation needs
-description: Status of existing and ongoing translations of W3C Recommendations (authorized and volunteer translations)
+title: Translations of W3C standards and statements — Translation needs
+description: Status of existing and ongoing translations of W3C recommendations and statements (authorized and volunteer translations)
 ---
 
-This page shows which W3C standards and notes are being, have been or have not been translated. If a language does not appear in the table, it means no existing or ongoing translation is known.
+This page shows which W3C standards and statements are being, have been or have not been translated. If a language does not appear in the table, it means no existing or ongoing translation is known.
 
 <aside>
     <h2 class="h4">Get involved</h2>
