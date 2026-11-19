@@ -109,7 +109,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "A P3P Assurance Signature Profile",
@@ -236,7 +237,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "A P3P Preference Exchange Language 1.0 (APPEL1.0)",
@@ -375,7 +377,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "A Semantic Web Primer for Object-Oriented Software Developers",
@@ -472,7 +475,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Accessibility Conformance Testing (ACT) Rules Format 1.0",
@@ -631,7 +635,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Accessibility Features of SMIL",
@@ -759,7 +764,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Accessibility Features of SVG",
@@ -972,7 +978,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Accessible Name and Description Computation 1.1",
@@ -1133,7 +1140,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.0",
@@ -1364,7 +1372,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.1",
@@ -1480,7 +1489,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Accessible Rich Internet Applications (WAI-ARIA) 1.2",
@@ -1637,7 +1647,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Activity Streams 2.0",
@@ -1894,7 +1905,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Activity Vocabulary",
@@ -2151,7 +2163,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "ActivityPub",
@@ -2409,7 +2422,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "An XHTML + MathML + SVG Profile",
@@ -2542,7 +2556,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Architecture of the World Wide Web, Volume One",
@@ -3002,7 +3017,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "ARIA in HTML",
@@ -3120,7 +3136,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "ARIA in HTML",
@@ -3284,7 +3301,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Associating Style Sheets with XML documents 1.0 (Second Edition)",
@@ -3396,7 +3414,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Audiobooks",
@@ -3655,7 +3674,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Authoring Tool Accessibility Guidelines (ATAG) 2.0",
@@ -3772,72 +3792,7 @@
       }
     ],
     "countPublishedTranslations": 1,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published"
-      ],
-      "uri": "https://www.w3.org/Translations/ATAG20-zh/",
-      "title": "无障碍创作工具指南(ATAG) 2.0",
-      "language": "zh-hans",
-      "translators": [],
-      "published": "2018-06-07T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "Zhejiang University",
-      "call-for-translation": {
-        "title": "Authoring Tool Accessibility Guidelines (ATAG) 2.0",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "editor-draft": "https://www.w3.org/WAI/AU/ATAG20/",
-          "uri": "https://www.w3.org/TR/2015/REC-ATAG20-20150924/",
-          "date": "2015-09-24",
-          "informative": false,
-          "title": "Authoring Tool Accessibility Guidelines (ATAG) 2.0",
-          "shortlink": "https://www.w3.org/TR/ATAG20/",
-          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=ATAG20",
-          "errata": "https://www.w3.org/WAI/AU/errata/",
-          "process-rules": "http://www.w3.org/2015/Process-20150901/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/ATAG20/versions/20150924"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/ATAG20/versions/20150924/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/ATAG20/versions/20150924/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/ATAG20"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/ATAG20/versions/20150924/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/256/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/256"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/256/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/517"
-        }
-      },
-      "origTitle": "Authoring Tool Accessibility Guidelines (ATAG) 2.0",
-      "isOutdated": false,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 1
   },
   {
     "title": "Authoring Tool Accessibility Guidelines 1.0",
@@ -4306,7 +4261,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Best Practice Recipes for Publishing RDF Vocabularies",
@@ -4440,7 +4396,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Best Practices for XML Internationalization",
@@ -4576,7 +4533,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Cascading Style Sheets (CSS) Snapshot 2007",
@@ -4710,7 +4668,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Cascading Style Sheets (CSS) Snapshot 2010",
@@ -4844,7 +4803,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Cascading Style Sheets (CSS1) Level 1 Specification",
@@ -5467,7 +5427,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 6
+    "countPublishedTranslations": 6,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification",
@@ -5581,7 +5542,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Cascading Style Sheets, level 2 (CSS2) Specification",
@@ -6192,7 +6154,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 6
+    "countPublishedTranslations": 6,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Character Model for the World Wide Web 1.0: Fundamentals",
@@ -6399,7 +6362,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Character Model for the World Wide Web: String Matching",
@@ -6543,7 +6507,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Common HTTP Implementation Problems",
@@ -6670,7 +6635,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Common User Agent Problems",
@@ -6803,7 +6769,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Composite Capability/Preference Profiles (CC/PP): Structure and Vocabularies 1.0",
@@ -6945,7 +6912,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Cool URIs for the Semantic Web",
@@ -7176,7 +7144,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Cross-Origin Resource Sharing",
@@ -7322,7 +7291,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "CSS Basic User Interface Module Level 3 (CSS3 UI)",
@@ -7443,7 +7413,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "CSS Box Model Module Level 3",
@@ -7602,7 +7573,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "CSS Color Module Level 3",
@@ -7970,7 +7942,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "CSS Fonts Module Level 3",
@@ -8084,7 +8057,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "CSS Namespaces Module",
@@ -8390,7 +8364,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "CSS Namespaces Module Level 3",
@@ -8691,7 +8666,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "CSS Style Attributes",
@@ -9086,7 +9062,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "CSS Techniques for Web Content Accessibility Guidelines 1.0",
@@ -9213,7 +9190,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "CSS Writing Modes Level 3",
@@ -9327,7 +9305,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Data Catalog Vocabulary (DCAT)",
@@ -9473,7 +9452,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Data Catalog Vocabulary (DCAT) - Version 2",
@@ -9621,7 +9601,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Data on the Web Best Practices",
@@ -9835,72 +9816,7 @@
       }
     ],
     "countPublishedTranslations": 2,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published"
-      ],
-      "uri": "https://www.w3.org/Translations/DWBP-pt-BR/",
-      "title": "Boas Práticas para Dados na Web",
-      "language": "pt-br",
-      "translators": [],
-      "published": "2019-10-30T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "Núcleo de Informação e Coordenação do Ponto BR",
-      "call-for-translation": {
-        "title": "Data on the Web Best Practices",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "editor-draft": "https://w3c.github.io/dwbp/bp.html",
-          "uri": "https://www.w3.org/TR/2017/REC-dwbp-20170131/",
-          "date": "2017-01-31",
-          "informative": false,
-          "title": "Data on the Web Best Practices",
-          "shortlink": "https://www.w3.org/TR/dwbp/",
-          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=https://www.w3.org/TR/dwbp/",
-          "errata": "http://w3c.github.io/dwbp/errata.html",
-          "process-rules": "https://www.w3.org/2015/Process-20150901/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/dwbp/versions/20170131"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/dwbp/versions/20170131/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/dwbp/versions/20170131/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/dwbp"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/dwbp/versions/20170131/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/238/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/238"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/238/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/522"
-        }
-      },
-      "origTitle": "Data on the Web Best Practices",
-      "isOutdated": false,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 1
   },
   {
     "title": "Date and Time Formats",
@@ -10166,7 +10082,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Decentralized Identifiers (DIDs) v1.0",
@@ -10712,7 +10629,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Decryption Transform for XML Signature",
@@ -10854,7 +10772,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Defining N-ary Relations on the Semantic Web",
@@ -10988,7 +10907,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Digital Publishing WAI-ARIA Module 1.0",
@@ -11149,7 +11069,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Digital Publishing WAI-ARIA Module 1.1",
@@ -11310,7 +11231,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Discussion of Alternative Schema Languages and Type System Support in WSDL 2.0",
@@ -11438,7 +11360,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Document Object Model (DOM) Level 1",
@@ -11682,7 +11605,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Document Object Model (DOM) Level 2 Core Specification",
@@ -11823,7 +11747,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Document Object Model (DOM) Level 2 Events Specification",
@@ -11964,7 +11889,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Document Object Model (DOM) Level 2 HTML Specification",
@@ -12107,7 +12033,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Document Object Model (DOM) Level 2 Style Specification",
@@ -12309,7 +12236,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Document Object Model (DOM) Level 2 Traversal and Range Specification",
@@ -12450,7 +12378,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Document Object Model (DOM) Level 2 Views Specification",
@@ -12591,7 +12520,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Document Object Model (DOM) Level 3 Core Specification",
@@ -12741,7 +12671,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Element Traversal Specification",
@@ -13024,7 +12955,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "EPUB 3 Overview",
@@ -13178,7 +13110,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "EPUB Accessibility Techniques 1.1",
@@ -13332,7 +13265,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Ethical Web Principles",
@@ -13445,70 +13379,7 @@
       }
     ],
     "countPublishedTranslations": 1,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published"
-      ],
-      "uri": "https://www.w3.org/Translations/ethical-web-principles-zh/Overview.html",
-      "title": "Web伦理原则",
-      "language": "zh-hans",
-      "translators": [],
-      "published": "2025-04-16T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "Translator: Anqi Li",
-      "call-for-translation": {
-        "title": "Ethical Web Principles",
-        "spec-version": {
-          "status": "Statement",
-          "rec-track": false,
-          "editor-draft": "https://w3ctag.github.io/ethical-web-principles/",
-          "uri": "https://www.w3.org/TR/2024/STMT-ethical-web-principles-20241212/",
-          "date": "2024-12-12",
-          "informative": true,
-          "title": "Ethical Web Principles",
-          "shortlink": "https://www.w3.org/TR/ethical-web-principles/",
-          "process-rules": "https://www.w3.org/policies/process/20231103/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/ethical-web-principles"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/ethical-web-principles/versions/20241212/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/317/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/317"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/317/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/652"
-        }
-      },
-      "origTitle": "Ethical Web Principles",
-      "isOutdated": false,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 1
   },
   {
     "title": "Exclusive XML Canonicalization Version 1.0",
@@ -13648,7 +13519,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Extensible Markup Language (XML) 1.0 (Fifth Edition)",
@@ -13895,7 +13767,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Extensible Markup Language (XML) 1.0 (Fourth Edition)",
@@ -14144,7 +14017,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Extensible Markup Language (XML) 1.0 (Second Edition)",
@@ -14497,7 +14371,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Extensible Markup Language (XML) 1.0 (Third Edition)",
@@ -14844,7 +14719,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Extensible Markup Language (XML) 1.1",
@@ -15185,7 +15061,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Extensible Markup Language (XML) 1.1",
@@ -15531,7 +15408,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Extensible Markup Language (XML) 1.1 (Second Edition)",
@@ -15778,7 +15656,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Extensible Stylesheet Language (XSL) Version 1.0",
@@ -15980,7 +15859,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Geolocation API",
@@ -16126,7 +16006,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Geolocation API Specification 2nd Edition",
@@ -16268,7 +16149,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Gleaning Resource Descriptions from Dialects of Languages (GRDDL)",
@@ -16506,7 +16388,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Glossary of Terms for Device Independence",
@@ -16753,7 +16636,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Glossary of Terms for Device Independence",
@@ -16887,7 +16771,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "GRDDL Primer",
@@ -17021,7 +16906,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "GRDDL Use Cases: Scenarios of extracting RDF data from XML documents",
@@ -17155,7 +17041,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Guidelines for writing device independent tests",
@@ -17368,7 +17255,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "High Resolution Time",
@@ -17487,7 +17375,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "HTML 4.01 Specification",
@@ -18188,7 +18077,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 7
+    "countPublishedTranslations": 7,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "HTML Canvas 2D Context",
@@ -18371,7 +18261,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "HTML Media Capture",
@@ -18681,7 +18572,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "HTML+RDFa 1.1",
@@ -18821,7 +18713,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "HTML+RDFa 1.1 - Second Edition",
@@ -18968,7 +18861,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "HTML5",
@@ -19116,7 +19010,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Inaccessibility of CAPTCHA",
@@ -19410,7 +19305,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Inaccessibility of Visually-Oriented Anti-Robot Tests",
@@ -19633,7 +19529,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Internationalization Best Practices: Specifying Language in XHTML & HTML Content",
@@ -19775,7 +19672,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Internationalization Tag Set (ITS) Version 1.0",
@@ -19918,7 +19816,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Internationalization Tag Set (ITS) Version 2.0",
@@ -20026,7 +19925,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "JSON-LD 1.0",
@@ -20174,7 +20074,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "JSON-LD 1.1 Framing",
@@ -20321,7 +20222,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "JSON-LD 1.1: A JSON-based Serialization for Linked Data",
@@ -20468,7 +20370,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Legacy extended IRIs for XML resource identification",
@@ -20598,7 +20501,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Lightweight Packaging Format (LPF)",
@@ -20754,7 +20658,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Linked Data Notifications",
@@ -20901,7 +20806,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Linked Data Platform 1.0",
@@ -21044,7 +20950,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Mathematical Markup Language (MathML) Version 2.0",
@@ -21279,7 +21186,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Mathematical Markup Language (MathML) Version 3.0 2nd Edition",
@@ -21424,7 +21332,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "MathML Media-type Declarations",
@@ -21557,7 +21466,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Media Fragments URI 1.0 (basic)",
@@ -21700,7 +21610,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Media Queries",
@@ -22021,7 +21932,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Media Queries Level 3",
@@ -22391,7 +22303,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Metadata API for Media Resources 1.0",
@@ -22530,7 +22443,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Mobile SVG Profiles: SVG Tiny and SVG Basic",
@@ -22672,7 +22586,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Mobile Web Best Practices 1.0",
@@ -22815,7 +22730,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Modularization of XHTML™",
@@ -23321,7 +23237,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 5
+    "countPublishedTranslations": 5,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Namespaces in XML",
@@ -23807,7 +23724,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 5
+    "countPublishedTranslations": 5,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Namespaces in XML 1.0 (Second Edition)",
@@ -24136,7 +24054,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Namespaces in XML 1.0 (Third Edition)",
@@ -24418,7 +24337,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Namespaces in XML 1.1",
@@ -24913,7 +24833,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 5
+    "countPublishedTranslations": 5,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Namespaces in XML 1.1 (Second Edition)",
@@ -25329,7 +25250,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 5
+    "countPublishedTranslations": 5,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Navigation Timing",
@@ -25648,7 +25570,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "ODRL Information Model 2.2",
@@ -25795,7 +25718,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "ODRL Vocabulary & Expression 2.2",
@@ -25942,7 +25866,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Ontology for Media Resources 1.0",
@@ -26085,7 +26010,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "uri": "https://www.w3.org/TR/2012/REC-owl2-overview-20121211/",
@@ -26236,7 +26162,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL 2 Web Ontology Language Document Overview",
@@ -26575,7 +26502,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL 2 Web Ontology Language New Features and Rationale",
@@ -26784,7 +26712,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL 2 Web Ontology Language Primer",
@@ -26993,7 +26922,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL 2 Web Ontology Language Quick Reference Guide",
@@ -27202,7 +27132,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL Web Ontology Language Guide",
@@ -27976,7 +27907,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 8
+    "countPublishedTranslations": 8,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL Web Ontology Language Overview",
@@ -28719,7 +28651,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 8
+    "countPublishedTranslations": 8,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL Web Ontology Language Reference",
@@ -29205,7 +29138,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 5
+    "countPublishedTranslations": 5,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL Web Ontology Language Semantics and Abstract Syntax",
@@ -29717,7 +29651,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 5
+    "countPublishedTranslations": 5,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL Web Ontology Language Test Cases",
@@ -30049,7 +29984,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "OWL Web Ontology Language Use Cases and Requirements",
@@ -30476,7 +30412,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Page Visibility",
@@ -30523,7 +30460,8 @@
     "date": "2013-05-14",
     "id": "s-page-visibility",
     "translations": [],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Page Visibility (Second Edition)",
@@ -30729,7 +30667,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Payment Method Identifiers",
@@ -30761,6 +30700,9 @@
         "predecessor-version": {
           "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908/predecessors"
         },
+        "successor-version": {
+          "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908/successors"
+        },
         "translations": {
           "href": "https://api.w3.org/callsfortranslation/294/translations"
         }
@@ -30774,13 +30716,14 @@
         "href": "https://api.w3.org/callsfortranslation/294/translations"
       }
     },
-    "isLatest": true,
+    "isLatest": false,
     "date": "2022-09-08",
     "id": "s-payment-method-id",
     "translations": [
       {
         "states": [
-          "published"
+          "published",
+          "outdated"
         ],
         "uri": "http://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-method-id-20220908.html",
         "title": "決済方式識別子",
@@ -30850,6 +30793,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/294/translations"
               }
@@ -30870,13 +30816,14 @@
           }
         },
         "origTitle": "Payment Method Identifiers",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Payment Request API",
@@ -31024,7 +30971,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Performance Timeline",
@@ -31230,7 +31178,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "PICS 1.1 Label Distribution -- Label Syntax and Communication Protocols",
@@ -31338,7 +31287,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "PICS 1.1 Rating Services and Rating Systems -- and Their Machine Readable Descriptions",
@@ -31446,7 +31396,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "PICS Rating Vocabularies in XML/RDF",
@@ -31689,7 +31640,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "PICSRules 1.1 Specification",
@@ -31803,7 +31755,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Pointer Events",
@@ -31953,7 +31906,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Pointer Events Level 2",
@@ -32072,7 +32026,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Pronunciation Lexicon Specification (PLS) Version 1.0",
@@ -32215,7 +32170,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "PROV-O: The PROV Ontology",
@@ -32358,7 +32314,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Publication Manifest",
@@ -32503,7 +32460,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF 1.1 Concepts and Abstract Syntax",
@@ -32769,7 +32727,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF 1.1 N-Quads",
@@ -32910,7 +32869,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF 1.1 N-Triples",
@@ -33051,7 +33011,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF 1.1 Primer",
@@ -33212,7 +33173,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF 1.1 Semantics",
@@ -33353,7 +33315,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF 1.1 Turtle",
@@ -33494,7 +33457,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF 1.1 XML Syntax",
@@ -33641,7 +33605,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF Primer",
@@ -34075,7 +34040,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF Schema 1.1",
@@ -34352,7 +34318,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF Semantics",
@@ -34593,7 +34560,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF Test Cases",
@@ -34831,7 +34799,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF Vocabulary Description Language 1.0: RDF Schema",
@@ -35187,7 +35156,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "rdf:PlainLiteral: A Datatype for RDF Plain Literals (Second Edition)",
@@ -35336,7 +35306,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDF/XML Syntax Specification (Revised)",
@@ -35692,7 +35663,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDFa Core 1.1",
@@ -35836,7 +35808,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDFa Core 1.1 - Third Edition",
@@ -35983,7 +35956,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDFa in XHTML: Syntax and Processing",
@@ -36121,7 +36095,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDFa Lite 1.1",
@@ -36457,7 +36432,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDFa Lite 1.1 - Second Edition",
@@ -36715,7 +36691,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "RDFa Primer",
@@ -37010,7 +36987,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Ready-made Counter Styles",
@@ -37188,7 +37166,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Requirements for Japanese Text Layout",
@@ -37335,7 +37314,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Resource Description Framework (RDF) Model and Syntax Specification",
@@ -37691,7 +37671,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Resource Description Framework (RDF): Concepts and Abstract Syntax",
@@ -38301,7 +38282,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 6
+    "countPublishedTranslations": 6,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Role Attribute 1.0",
@@ -38442,7 +38424,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Ruby Annotation",
@@ -38900,7 +38883,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Scalable Vector Graphics (SVG) 1.0 Specification",
@@ -39035,7 +39019,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Scalable Vector Graphics (SVG) 1.1 (Second Edition)",
@@ -39184,7 +39169,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Selectors API Level 1",
@@ -39297,7 +39283,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Selectors Level 3",
@@ -39649,7 +39636,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SKOS Simple Knowledge Organization System Primer",
@@ -39936,7 +39924,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SKOS Simple Knowledge Organization System Reference",
@@ -40251,7 +40240,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SMIL Animation",
@@ -40454,7 +40444,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SOAP Version 1.2 Part 0: Primer",
@@ -40824,7 +40815,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SOAP Version 1.2 Part 1: Messaging Framework",
@@ -40986,7 +40978,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SOAP Version 1.2 Part 2: Adjuncts",
@@ -41148,7 +41141,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Entailment Regimes",
@@ -41261,7 +41255,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Federated Query",
@@ -41470,7 +41465,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Graph Store HTTP Protocol",
@@ -41583,7 +41579,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Overview",
@@ -41916,7 +41913,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Protocol",
@@ -42125,7 +42123,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Query Language",
@@ -42334,7 +42333,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Query Results CSV and TSV Formats",
@@ -42543,7 +42543,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Query Results JSON Format",
@@ -42752,7 +42753,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Service Description",
@@ -42961,7 +42963,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL 1.1 Update",
@@ -43170,7 +43173,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL Protocol for RDF",
@@ -43476,7 +43480,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL Query Language for RDF",
@@ -43813,7 +43818,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL Query Results XML Format",
@@ -44122,7 +44128,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "SPARQL Query Results XML Format (Second Edition)",
@@ -44340,7 +44347,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Speech Recognition Grammar Specification Version 1.0",
@@ -44482,7 +44490,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Speech Synthesis Markup Language (SSML) Version 1.0",
@@ -44720,7 +44729,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Speech Synthesis Markup Language (SSML) Version 1.1",
@@ -44863,7 +44873,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Synchronized Multimedia Integration Language (SMIL) 1.0 Specification",
@@ -45344,7 +45355,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 5
+    "countPublishedTranslations": 5,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Techniques for WCAG 2.0",
@@ -45502,7 +45514,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Techniques for Web Content Accessibility Guidelines 1.0",
@@ -45765,7 +45778,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "The 'view-mode' Media Feature",
@@ -46082,7 +46096,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "The Organization Ontology",
@@ -46344,7 +46359,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "The Platform for Privacy Preferences 1.0 (P3P1.0) Specification",
@@ -46579,7 +46595,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "The RDF Data Cube Vocabulary",
@@ -46718,7 +46735,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Time Ontology in OWL",
@@ -46866,7 +46884,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Understanding WCAG 2.0",
@@ -47024,7 +47043,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Understanding WCAG 2.0",
@@ -47133,7 +47153,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Unicode in XML and other Markup Languages",
@@ -47274,7 +47295,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Units in MathML",
@@ -47402,7 +47424,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "URIs, URLs, and URNs: Clarifications and Recommendations 1.0",
@@ -47530,7 +47553,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "User Agent Accessibility Guidelines 1.0",
@@ -47672,7 +47696,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "User Timing",
@@ -47887,7 +47912,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Verifiable Credentials Data Model v1.0",
@@ -48037,7 +48063,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Verifiable Credentials Data Model v1.1",
@@ -48463,7 +48490,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Verifiable Credentials Data Model v2.0",
@@ -48578,72 +48606,7 @@
       }
     ],
     "countPublishedTranslations": 1,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published",
-        "needs_update"
-      ],
-      "uri": "https://www.w3.org/Translations/vc-data-model-2.0-zh/",
-      "title": "可验证凭证数据模型 v2.0",
-      "language": "zh-hans",
-      "translators": [],
-      "published": "2025-11-07T00:00:00+00:00",
-      "updated": "2025-11-07T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "National Computer Network Emergency Response Technical Team/Coordination Center of China",
-      "call-for-translation": {
-        "title": "Verifiable Credentials Data Model v2.0",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "editor-draft": "https://w3c.github.io/vc-data-model/",
-          "uri": "https://www.w3.org/TR/2025/REC-vc-data-model-2.0-20250515/",
-          "date": "2025-05-15",
-          "informative": false,
-          "title": "Verifiable Credentials Data Model v2.0",
-          "shortlink": "https://www.w3.org/TR/vc-data-model-2.0/",
-          "process-rules": "https://www.w3.org/policies/process/20231103/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/vc-data-model-2.0/versions/20250515/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/321/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/321"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/321/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/657"
-        }
-      },
-      "origTitle": "Verifiable Credentials Data Model v2.0",
-      "isOutdated": false,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 1
   },
   {
     "title": "Vibration API",
@@ -48887,7 +48850,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Voice Extensible Markup Language (VoiceXML) Version 2.0",
@@ -49029,7 +48993,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "W3C DOM4",
@@ -49140,7 +49105,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "W3C mobileOK Scheme 1.0",
@@ -49274,7 +49240,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "WAI-ARIA Graphics Module",
@@ -49435,7 +49402,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Annotation Data Model",
@@ -49582,7 +49550,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Annotation Protocol",
@@ -49730,7 +49699,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Annotation Vocabulary",
@@ -49877,7 +49847,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Audio API",
@@ -49998,7 +49969,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
@@ -52124,70 +52096,7 @@
       }
     ],
     "countPublishedTranslations": 20,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published"
-      ],
-      "uri": "http://www.w3.org/Translations/WCAG20-fr",
-      "title": "Règles pour l'accessibilité des contenus Web (WCAG) 2.0",
-      "language": "fr",
-      "translators": [],
-      "published": "2009-06-26T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "Association BrailleNet",
-      "call-for-translation": {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "uri": "https://www.w3.org/TR/2008/REC-WCAG20-20081211/",
-          "date": "2008-12-11",
-          "informative": false,
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.0",
-          "shortlink": "https://www.w3.org/TR/WCAG20/",
-          "translation": "https://www.w3.org/2003/03/Translations/byTechnology?technology=WCAG20",
-          "errata": "https://www.w3.org/WAI/WCAG20/errata/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/WCAG20"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/WCAG20/versions/20081211/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/149/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/149"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/149/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/311"
-        }
-      },
-      "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.0",
-      "isOutdated": false,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 14
   },
   {
     "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
@@ -53951,76 +53860,7 @@
       }
     ],
     "countPublishedTranslations": 13,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published",
-        "outdated"
-      ],
-      "uri": "https://www.w3.org/Translations/WCAG21-it/",
-      "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1",
-      "language": "it",
-      "translators": [],
-      "published": "2018-09-13T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "International Web Association",
-      "call-for-translation": {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
-          "uri": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
-          "date": "2018-06-05",
-          "informative": false,
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-          "shortlink": "https://www.w3.org/TR/WCAG21/",
-          "translation": "https://www.w3.org/WAI/standards-guidelines/wcag/translations/",
-          "errata": "https://www.w3.org/WAI/WCAG21/errata/",
-          "process-rules": "https://www.w3.org/2018/Process-20180201/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/WCAG21/versions/20180605"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/WCAG21"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/predecessors"
-            },
-            "successor-version": {
-              "href": "https://api.w3.org/specifications/WCAG21/versions/20180605/successors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/255/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/255"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/255/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/515"
-        }
-      },
-      "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
-      "isOutdated": true,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 11
   },
   {
     "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
@@ -54134,71 +53974,7 @@
       }
     ],
     "countPublishedTranslations": 1,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published"
-      ],
-      "uri": "https://www.w3.org/Translations/WCAG21-fr/",
-      "title": "Règles pour l’accessibilité des contenus web (WCAG) 2.1",
-      "language": "fr",
-      "translators": [],
-      "published": "2026-09-22T00:00:00+00:00",
-      "updated": "2026-10-29T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "Access42",
-      "call-for-translation": {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/",
-          "uri": "https://www.w3.org/TR/2025/REC-WCAG21-20250506/",
-          "date": "2025-05-06",
-          "informative": false,
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.1",
-          "shortlink": "https://www.w3.org/TR/WCAG21/",
-          "process-rules": "https://www.w3.org/policies/process/20231103/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/WCAG21/versions/20250506"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/WCAG21/versions/20250506/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/WCAG21/versions/20250506/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/WCAG21"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/WCAG21/versions/20250506/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/324/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/324"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/324/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/660"
-        }
-      },
-      "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.1",
-      "isOutdated": false,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 1
   },
   {
     "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
@@ -55146,75 +54922,7 @@
       }
     ],
     "countPublishedTranslations": 5,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published",
-        "outdated"
-      ],
-      "uri": "https://www.w3.org/Translations/WCAG22-it/",
-      "title": "Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.2",
-      "language": "it",
-      "translators": [],
-      "published": "2023-12-05T00:00:00+00:00",
-      "updated": "2023-12-05T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "IWA (Web International Association)",
-      "call-for-translation": {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-          "uri": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
-          "date": "2023-10-05",
-          "informative": false,
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "shortlink": "https://www.w3.org/TR/WCAG22/",
-          "process-rules": "https://www.w3.org/2023/Process-20230612/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/WCAG22"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/predecessors"
-            },
-            "successor-version": {
-              "href": "https://api.w3.org/specifications/WCAG22/versions/20231005/successors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/301/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/301"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/301/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/612"
-        }
-      },
-      "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-      "isOutdated": true,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 5
   },
   {
     "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
@@ -55327,70 +55035,7 @@
       }
     ],
     "countPublishedTranslations": 1,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published"
-      ],
-      "uri": "https://www.w3.org/Translations/WCAG22-fr/",
-      "title": "Règles pour l’accessibilité des contenus web (WCAG) 2.2",
-      "language": "fr",
-      "translators": [],
-      "published": "2026-11-06T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "Access42",
-      "call-for-translation": {
-        "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
-        "spec-version": {
-          "status": "Recommendation",
-          "rec-track": true,
-          "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
-          "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
-          "date": "2024-12-12",
-          "informative": false,
-          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
-          "shortlink": "https://www.w3.org/TR/WCAG22/",
-          "process-rules": "https://www.w3.org/policies/process/20231103/",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/WCAG22"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/325/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/325"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/325/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/664"
-        }
-      },
-      "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
-      "isOutdated": false,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 1
   },
   {
     "title": "Web Content Accessibility Guidelines 1.0",
@@ -56259,70 +55904,7 @@
       }
     ],
     "countPublishedTranslations": 9,
-    "hasAuthorizedTranslations": {
-      "states": [
-        "published",
-        "outdated"
-      ],
-      "uri": "http://www.w3.org/2006/11/WCAG_ca/",
-      "title": "Directrius per a l'accessibilitat al contingut web, versió 1.0",
-      "language": "ca",
-      "translators": [],
-      "published": "2006-12-20T00:00:00+00:00",
-      "authorized": true,
-      "lto_name": "Facultat de Biblioteconomia i Documentació - Universitat de Barcelona",
-      "call-for-translation": {
-        "title": "Web Content Accessibility Guidelines 1.0",
-        "spec-version": {
-          "status": "Retired",
-          "rec-track": true,
-          "uri": "https://www.w3.org/TR/1999/WAI-WEBCONTENT-19990505/",
-          "date": "1999-05-05",
-          "informative": false,
-          "title": "Web Content Accessibility Guidelines 1.0",
-          "shortlink": "https://www.w3.org/TR/WAI-WEBCONTENT/",
-          "errata": "https://www.w3.org/WAI/GL/WAI-WEBCONTENT-ERRATA",
-          "_links": {
-            "self": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505"
-            },
-            "editors": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/editors"
-            },
-            "deliverers": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/deliverers"
-            },
-            "specification": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT"
-            },
-            "predecessor-version": {
-              "href": "https://api.w3.org/specifications/WAI-WEBCONTENT/versions/19990505/predecessors"
-            },
-            "translations": {
-              "href": "https://api.w3.org/callsfortranslation/16/translations"
-            }
-          }
-        },
-        "_links": {
-          "self": {
-            "href": "https://api.w3.org/callsfortranslation/16"
-          },
-          "translations": {
-            "href": "https://api.w3.org/callsfortranslation/16/translations"
-          }
-        }
-      },
-      "_links": {
-        "self": {
-          "href": "https://api.w3.org/translations/249"
-        }
-      },
-      "origTitle": "Web Content Accessibility Guidelines 1.0",
-      "isOutdated": true,
-      "isPublished": true,
-      "isPending": false,
-      "isInReview": false
-    }
+    "countAuthorizedTranslations": 1
   },
   {
     "title": "Web Mention",
@@ -56469,7 +56051,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Notifications",
@@ -56715,7 +56298,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web of Things (WoT) Architecture",
@@ -56959,7 +56543,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web of Things (WoT) Thing Description",
@@ -57106,7 +56691,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Services Addressing 1.0 - Core",
@@ -57312,7 +56898,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Services Description Language (WSDL) Version 2.0 Part 1: Core Language",
@@ -57455,7 +57042,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Services Description Language (WSDL) Version 2.0 Part 2: Adjuncts",
@@ -57598,7 +57186,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Share API",
@@ -57744,7 +57333,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Web Storage (Second Edition)",
@@ -57899,7 +57489,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "WebCGM 2.0",
@@ -58049,7 +57640,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0",
@@ -58199,7 +57791,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "WOFF File Format 2.0",
@@ -58365,7 +57958,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "Working with Time Zones",
@@ -58503,7 +58097,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XForms 1.0",
@@ -58641,7 +58236,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML Media Types",
@@ -58872,7 +58468,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML Media Types - Second Edition",
@@ -59006,7 +58603,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML+RDFa 1.1",
@@ -59246,7 +58844,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML+RDFa 1.1 - Third Edition",
@@ -59393,7 +58992,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML™ 1.0 The Extensible HyperText Markup Language (Second Edition)",
@@ -59888,7 +59488,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 5
+    "countPublishedTranslations": 5,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML™ 1.0: The Extensible HyperText Markup Language - A Reformulation of HTML 4 in XML 1.0",
@@ -60723,7 +60324,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 9
+    "countPublishedTranslations": 9,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML™ 1.1 - Module-based XHTML",
@@ -61023,7 +60625,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML™ 1.1 - Module-based XHTML - Second Edition",
@@ -61219,7 +60822,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML™ Basic",
@@ -61957,7 +61561,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 7
+    "countPublishedTranslations": 7,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML™ Basic 1.1",
@@ -62274,7 +61879,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML™ Basic 1.1 - Second Edition",
@@ -62470,7 +62076,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XHTML™ Modularization 1.1",
@@ -62620,7 +62227,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML 1.0 Recommendation",
@@ -63031,7 +62639,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Advanced Electronic Signatures (XAdES)",
@@ -63158,7 +62767,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Base",
@@ -63740,7 +63350,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 6
+    "countPublishedTranslations": 6,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Base (Second Edition)",
@@ -63956,7 +63567,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Encryption Syntax and Processing",
@@ -64105,7 +63717,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Entity Definitions for Characters",
@@ -64153,7 +63766,8 @@
     "date": "2010-04-01",
     "id": "s-xml-entity-names",
     "translations": [],
-    "countPublishedTranslations": 0
+    "countPublishedTranslations": 0,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Entity Definitions for Characters (2nd Edition)",
@@ -64371,7 +63985,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Entity Definitions for Characters (3rd Edition)",
@@ -64514,7 +64129,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Events",
@@ -64860,7 +64476,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Inclusions (XInclude) Version 1.0",
@@ -65165,7 +64782,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Information Set",
@@ -65518,7 +65136,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Information Set (Second Edition)",
@@ -66126,7 +65745,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 6
+    "countPublishedTranslations": 6,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Key Management Specification (XKMS 2.0)",
@@ -66333,7 +65953,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Key Management Specification (XKMS 2.0) Bindings",
@@ -66476,7 +66097,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Linking Language (XLink) Version 1.0",
@@ -66709,7 +66331,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Path Language (XPath) Version 1.0",
@@ -67131,7 +66754,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Schema Part 0: Primer",
@@ -67479,7 +67103,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 3
+    "countPublishedTranslations": 3,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Schema Part 0: Primer Second Edition",
@@ -67628,7 +67253,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Schema Part 1: Structures",
@@ -67770,7 +67396,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML Schema Part 2: Datatypes",
@@ -67912,7 +67539,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML-binary Optimized Packaging",
@@ -68055,7 +67683,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML-Signature Syntax and Processing",
@@ -68190,7 +67819,8 @@
         }
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XML-Signature XPath Filter 2.0",
@@ -68332,7 +67962,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "xml:id Version 1.0",
@@ -68889,7 +68520,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 4
+    "countPublishedTranslations": 4,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XPointer element() Scheme",
@@ -69031,7 +68663,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XPointer Framework",
@@ -69173,7 +68806,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XPointer xmlns() Scheme",
@@ -69441,7 +69075,8 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 2
+    "countPublishedTranslations": 2,
+    "countAuthorizedTranslations": 0
   },
   {
     "title": "XSL Transformations (XSLT) Version 1.0",
@@ -69584,6 +69219,7 @@
         "isInReview": false
       }
     ],
-    "countPublishedTranslations": 1
+    "countPublishedTranslations": 1,
+    "countAuthorizedTranslations": 0
   }
 ]

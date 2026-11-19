@@ -11,7 +11,7 @@ Authorized W3C translations are developed through a [process](https://www.w3.org
 
 <section class="translations-list">
 {%- assign exceptions = "s-WCAG22, s-WCAG21" -%}
-{% assign cfts = site.data.translations | where_exp:"item","item.isLatest == true or exceptions contains item.id" | where_exp:"item","item.countPublishedTranslations > 0 and item.hasAuthorizedTranslations.size > 0" %}
+{% assign cfts = site.data.translations | where_exp:"item","item.isLatest == true or exceptions contains item.id" | where_exp:"item","item.countPublishedTranslations > 0 and item.countAuthorizedTranslations > 0" %}
 {%- for cft in cfts -%}
     {% include spec-listing.html filter="authorized" %}
 {%- endfor %}
