@@ -113,14 +113,6 @@ section:has(> .related){
     display: none;
 }
 
-a[href]:focus, a[href]:hover {
-  background: #f8f8f8;
-  background: rgba(75%, 75%, 75%, .25);
-  border-bottom-width: 3px;
-  margin-bottom: -2px;
-  opacity: 1;
-}
-
 dl.legend dt { width: 2.5em; padding: 0.5em; text-align: center; margin-right: 1em; }
 
 .published, .review, .draft, .outdated { border: 1px black solid; }
