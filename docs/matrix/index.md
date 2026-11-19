@@ -118,7 +118,7 @@ dl.legend dt { width: 2.5em; height: 2.5em; padding: 0.5em; text-align: center; 
 .published { background-color: #dfd; }
 .review { background-color: #f9dc4a; } /* Design system: yellow */
 .draft { background-color: #cbe0fb; } /* Design system: light-blue */
-.outdated { background-color: #ec7070; } /* Design system: light-red */
+.outdated { background-color: #fea78d; } /* Design system: light-coral */
 
 table { border-collapse: collapse; }
 
@@ -128,6 +128,7 @@ tbody { border-bottom: 1px solid black; }
 tbody td { padding: 0; text-align: center; vertical-align: middle; }
 tbody td.num { padding: 0.5em; text-align: right; }
 tbody td a { display: block; margin: 0; width: 100%; height: 100%; }
+tbody td a { color: #111111 !important } /* Design system: off-black */
 
 tbody tr.hidden { display: none; }
 
