@@ -1,0 +1,13 @@
+pages:
+- title: Translations of W3C standards and notes
+  url: /standards/translations/
+  html: /
+- title: Authorized translations
+  url: /standards/translations/authorized/
+  html: /authorized/
+- title: Translations of historical documents
+  url: /standards/translations/historical/
+  html: /historical/
+- title: Translation needs
+  url: /standards/translations/matrix/
+  html: /matrix/

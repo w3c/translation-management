@@ -1,11 +1,26 @@
-<span dir="auto" lang="{{translation.language}}">{{site.data.lang[translation.language].nativeName}}</span> ({{site.data.lang[translation.language].name}}){% if translation.authorized %}<span aria-labelledby="Authorized Translation" aria-role="img"> Authorized</span>{% endif %}: <a hreflang="{{translation.language}}" href="{{translation.uri}}"><cite dir="auto" dir=auto lang={{translation.language}}>{{translation.title}}</cite></a>
-          {% if translation.authorized %}
-           &mdash; Lead Translation Organization: {{ translation['lto_name'] }}
-          {% else %}
-          {% if translation.translators.size > 0 %}
-           &mdash; Translators: {% for translator in translation.translators %}{{translator.name}}{% endfor %}
-          {% else %}
-          &mdash; {{ translation.comments | replace: "Translation author", "Translator"}}
-          {% endif %}
-          {% endif %}
-
+<li class="spec-grouping__list__item">
+  <h3 class="h6" data-anchor="no"><span dir="auto" lang="{{ translation.language }}">{{ site.data.lang[translation.language].nativeName }}</span> ({{ site.data.lang[translation.language].name }}){% if translation.authorized %} <span class="tag">Authorized Translation</span>{% endif %}
+  </h3>
+  <p class="text-sm" data-anchor="no"><a hreflang="{{translation.language}}" href="{{translation.uri}}" dir="auto" lang="{{translation.language}}">{{translation.title}}</a>
+  </p>
+  <dl class="inline text-sm">
+    {%- if translation.authorized -%}
+    <div>
+      <dt>Lead Translation Organization</dt>
+      <dd>{{ translation['lto_name'] }}</dd>
+    </div>
+    {%- elsif translation.translators.size > 0 -%}
+    <div>
+      <dt>Translators</dt>
+      {% for translator in translation.translators %}
+      <dd>{{translator.name}}</dd>
+      {% endfor %}
+    </div>
+    {%- elsif translation.comments -%}
+    <div>
+      <dt>Translators</dt>
+      <dd>{{ translation.comments | replace: "Translation authors:", "" | replace: "Translation author:", "" }}</dd>
+    </div>
+    {%- endif -%}
+  </dl>
+</li>

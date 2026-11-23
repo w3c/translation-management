@@ -26,7 +26,10 @@ const langs = require('../docs/_data/lang.json');
             x.date = x['spec-version'].date;
             x.id = 's-' + x['spec-version'].shortlink.split('/')[4];
             x.translations = translations.filter(t => t['call-for-translation'] && t['call-for-translation']['spec-version'] && t['call-for-translation']['spec-version'].uri && t['call-for-translation']['spec-version'].uri === x['spec-version'].uri).map(t => { t.language = t.language.toLowerCase().replace(/_/, '-'); return t; });
-            x.hasAuthorizedTranslations = x.translations.find(t => t.authorized && t.states.includes('published'));
+            const publishedTranslations = x.translations.filter(t => t['states'] && t['states'].includes("published"));
+            x.countPublishedTranslations = Object.keys(publishedTranslations).length;
+            const authorizedTranslations = x.translations.filter(t => t.authorized && t['states'] && t['states'].includes("published"));
+            x.countAuthorizedTranslations = Object.keys(authorizedTranslations).length;
             return x;
           });
     const translatedRecs = recs.map(r => {
