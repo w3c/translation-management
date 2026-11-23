@@ -55032,6 +55032,127 @@
         "isPublished": true,
         "isPending": false,
         "isInReview": false
+      },
+      {
+        "states": [
+          "draft"
+        ],
+        "uri": "https://lists.w3.org/Archives/Public/w3c-translators/2026OctDec/0024.html",
+        "title": "Intent to translate WCAG 2.2 into Galician",
+        "language": "gl",
+        "translators": [
+          {
+            "id": 180563,
+            "name": "Jesus Quintana",
+            "given": "Jesus",
+            "family": "Quintana",
+            "biography": "Tech of a11y.es: accessibility audits with verifiable evidence and human signature.",
+            "country-code": "ES",
+            "country-division": "Galicia",
+            "city": "Sarria",
+            "connected-accounts": [
+              {
+                "created": "2026-10-22T02:47:04+00:00",
+                "service": "github",
+                "identifier": "6003942",
+                "nickname": "kinti",
+                "profile-picture": "https://avatars.githubusercontent.com/u/6003942?v=4",
+                "href": "https://github.com/kinti",
+                "_links": {
+                  "user": {
+                    "href": "https://api.w3.org/users/cymuqitnh9kowogos8g880ks8c00wcs"
+                  }
+                }
+              }
+            ],
+            "discr": "user",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/users/cymuqitnh9kowogos8g880ks8c00wcs"
+              },
+              "affiliations": {
+                "href": "https://api.w3.org/users/cymuqitnh9kowogos8g880ks8c00wcs/affiliations"
+              },
+              "groups": {
+                "href": "https://api.w3.org/users/cymuqitnh9kowogos8g880ks8c00wcs/groups"
+              },
+              "specifications": {
+                "href": "https://api.w3.org/users/cymuqitnh9kowogos8g880ks8c00wcs/specifications"
+              },
+              "photos": [
+                {
+                  "href": "https://www.w3.org/thumbnails/360/avatar-images/cymuqitnh9kowogos8g880ks8c00wcs.webp?x-version=1",
+                  "name": "large"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/100/avatar-images/cymuqitnh9kowogos8g880ks8c00wcs.webp?x-version=1",
+                  "name": "thumbnail"
+                },
+                {
+                  "href": "https://www.w3.org/thumbnails/48/avatar-images/cymuqitnh9kowogos8g880ks8c00wcs.webp?x-version=1",
+                  "name": "tiny"
+                }
+              ],
+              "participations": {
+                "href": "https://api.w3.org/users/cymuqitnh9kowogos8g880ks8c00wcs/participations"
+              },
+              "chair_of_groups": {
+                "href": "https://api.w3.org/users/cymuqitnh9kowogos8g880ks8c00wcs/chair-of-groups"
+              },
+              "team_contact_of_groups": {
+                "href": "https://api.w3.org/users/cymuqitnh9kowogos8g880ks8c00wcs/team-contact-of-groups"
+              }
+            }
+          }
+        ],
+        "authorized": false,
+        "call-for-translation": {
+          "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+          "spec-version": {
+            "status": "Recommendation",
+            "rec-track": true,
+            "editor-draft": "https://w3c.github.io/wcag/guidelines/22/",
+            "uri": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/",
+            "date": "2024-12-12",
+            "informative": false,
+            "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "shortlink": "https://www.w3.org/TR/WCAG22/",
+            "process-rules": "https://www.w3.org/policies/process/20231103/",
+            "_links": {
+              "self": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212"
+              },
+              "editors": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/editors"
+              },
+              "deliverers": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/deliverers"
+              },
+              "specification": {
+                "href": "https://api.w3.org/specifications/WCAG22"
+              },
+              "predecessor-version": {
+                "href": "https://api.w3.org/specifications/WCAG22/versions/20241212/predecessors"
+              },
+              "translations": {
+                "href": "https://api.w3.org/callsfortranslation/325/translations"
+              }
+            }
+          },
+          "_links": {
+            "self": {
+              "href": "https://api.w3.org/callsfortranslation/325"
+            },
+            "translations": {
+              "href": "https://api.w3.org/callsfortranslation/325/translations"
+            }
+          }
+        },
+        "_links": {
+          "self": {
+            "href": "https://api.w3.org/translations/666"
+          }
+        }
       }
     ],
     "countPublishedTranslations": 1,

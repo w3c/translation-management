@@ -27440,7 +27440,7 @@
         "title": "First Public Working Draft"
       },
       "latest-version": {
-        "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908",
+        "href": "https://api.w3.org/specifications/payment-method-id/versions/20261118",
         "title": "Recommendation"
       },
       "series": {
@@ -27448,12 +27448,13 @@
       }
     },
     "isLatest": true,
-    "date": "2022-09-08",
-    "year": "2022",
+    "date": "2026-11-18",
+    "year": "2026",
     "translations": {
       "ja": {
         "states": [
-          "published"
+          "published",
+          "outdated"
         ],
         "uri": "http://www.asahi-net.or.jp/~ax2s-kmtn/internet/payment/REC-payment-method-id-20220908.html",
         "title": "決済方式識別子",
@@ -27523,6 +27524,9 @@
               "predecessor-version": {
                 "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908/predecessors"
               },
+              "successor-version": {
+                "href": "https://api.w3.org/specifications/payment-method-id/versions/20220908/successors"
+              },
               "translations": {
                 "href": "https://api.w3.org/callsfortranslation/294/translations"
               }
@@ -27543,7 +27547,7 @@
           }
         },
         "origTitle": "Payment Method Identifiers",
-        "isOutdated": false,
+        "isOutdated": true,
         "isPublished": true,
         "isPending": false,
         "isInReview": false
