@@ -86018,7 +86018,12 @@
               "self": {
                 "href": "https://api.w3.org/translations/666"
               }
-            }
+            },
+            "origTitle": "Web Content Accessibility Guidelines (WCAG) 2.2",
+            "isOutdated": false,
+            "isPublished": false,
+            "isPending": true,
+            "isInReview": false
           }
         ],
         "countPublishedTranslations": 1,
