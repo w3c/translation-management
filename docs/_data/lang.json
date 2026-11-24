@@ -61,6 +61,10 @@
         "name":"French",
         "nativeName":"français"
     },
+	 "gl":{
+        "name":"Galician",
+        "nativeName":"galego"
+    },
     "de":{
         "name":"German",
         "nativeName":"Deutsch"
