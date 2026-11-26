@@ -33,11 +33,12 @@ Legend:
   <thead>
     <tr>
       <th id="specs" scope="col">Specification</th>
-      <th id="length" scope="col">Length <span class="text-sm">(x1,000 words)</span></th>
       {%- assign langs = site.data.langlist -%}
+      {%- assign shownLangs = 0 -%}
       {%- for lang in langs -%}
           {%- if site.data.byLanguage[lang].latestRecsTotal > 0 -%}
-            <th class="lang" id="{{ lang }}" scope="col"><div><span>{{ site.data.lang[lang].name }}</span></div></th>
+            {%- assign shownLangs = shownLangs | plus: 1 -%}
+            <th class="lang" id="{{ lang }}" scope="col"><abbr title="{{ site.data.lang[lang].name }}" aria-hidden="true">{{ lang }}</abbr><span class="visuallyhidden">{{ site.data.lang[lang].name }}</span></th>
           {% endif %}
       {%- endfor -%}
     </tr>
@@ -47,12 +48,11 @@ Legend:
   {% for year in recsByYears %}
   <tbody id="y{{year.name}}" aria-live="polite">
     <tr>
-      <th colspan="{{ langs.size }}" id="{{year.name}}" scope="colgroup">{{ year.name }}</th>
+      <th colspan="{{ shownLangs | plus: 1 }}" id="{{year.name}}" scope="colgroup">{{ year.name }}</th>
     </tr>
     {% for rec in year.items %}
     <tr>
-      <th headers="{{year.name}} specs" id="{{ rec.shortname }}" scope="row"><a href="{{rec.shortlink}}">{{ rec.title }}</a></th>
-      <td headers="{{year.name}} {{ rec.shortname }} length" class="num">{% if site.data.wordCount[rec.shortname] %}{{ site.data.wordCount[rec.shortname] | divided_by: 1000 | round }}{% endif %}</td>
+      <th headers="{{year.name}} specs" id="{{ rec.shortname }}" scope="row"><a href="{{rec.shortlink}}">{{ rec.title }}</a>{% if site.data.wordCount[rec.shortname] %}<span class="word-count text-sm">{{ site.data.wordCount[rec.shortname] | divided_by: 1000.0 | round }}k words</span>{% endif %}</th>
       {% for lang in langs %}
       {%- if site.data.byLanguage[lang].latestRecsTotal > 0 -%}
       <td headers="{{year.name}} {{ rec.shortname }} {{ lang }}"{% if rec.translations %}
@@ -91,7 +91,6 @@ Legend:
   <tfoot>
     <tr>
       <th scope="row">{{ recs.size }} Recommendations</th>
-      <td></td>
       {% for lang in langs %}
       {%- if site.data.byLanguage[lang].latestRecsTotal > 0 -%}
       <td>{{ site.data.byLanguage[lang].latestRecsTotal }}</td>
@@ -124,33 +123,58 @@ table { border-collapse: collapse; }
 
 tfoot td { text-align: right; }
 th[scope="row"] { padding: 0.5em; text-align: right; font-weight: normal; }
+.word-count { display: block; opacity: 0.75; }
 tbody { border-bottom: 1px solid black; }
 tbody td { padding: 0; text-align: center; vertical-align: middle; }
-tbody td.num { padding: 0.5em; text-align: right; }
 tbody td a { display: block; margin: 0; width: 100%; height: 100%; }
 tbody td a { color: #111111 !important } /* Design system: off-black */
 
 tbody tr.hidden { display: none; }
 
-thead tr th.lang { background-color: transparent;}
-
+/* Language columns: short codes (e.g. "ja", "zh-hans") instead of rotated names */
 th.lang {
-  /* Something you can count on */
-  height: 140px;
-  white-space: nowrap;
-  border-right: none;
-}
-th.lang > div {
-  transform:
-    /* Magic Numbers */
-    translate(17px, 50px)
-    /* 315 is really 360 - 45 */
-    rotate(315deg);
-  width: 30px;
-}
-th.lang > div > span {
+  min-width: 2.25rem;
+  padding: 0.5rem 0.25rem;
+  font-size: 0.8125rem;
+  line-height: 1.2;
+  text-align: center;
+  vertical-align: bottom;
   background-color: #002a56;
-  padding: 6px 10px;
+  color: #fff;
+}
+th.lang abbr { text-decoration: none; cursor: help; }
+
+/* Scroll the table inside its container, keeping headers and spec names in view */
+.table-wrap { overflow: auto; max-height: 80vh; }
+
+/* Always-visible "classic" scrollbars at the edges of the table container.
+   Styling ::-webkit-scrollbar opts Chrome/Safari out of hide-until-scrolled
+   overlay scrollbars; Firefox gets the standard properties instead
+   (Chromium ignores ::-webkit-scrollbar when scrollbar-color is set). */
+.table-wrap::-webkit-scrollbar { width: 14px; height: 14px; }
+.table-wrap::-webkit-scrollbar-track { background: #e8e8ee; }
+.table-wrap::-webkit-scrollbar-thumb { background: #002a56; border: 3px solid #e8e8ee; border-radius: 7px; }
+.table-wrap::-webkit-scrollbar-corner { background: #e8e8ee; }
+@supports not selector(::-webkit-scrollbar) {
+  .table-wrap { scrollbar-width: auto; scrollbar-color: #002a56 #e8e8ee; }
+}
+.table-wrap thead th { position: sticky; inset-block-start: 0; z-index: 2; background-color: #002a56; color: #fff; }
+.table-wrap tbody th[scope="row"],
+.table-wrap tfoot th[scope="row"] {
+  position: sticky;
+  inset-inline-start: 0;
+  z-index: 1;
+  min-width: 12rem;
+  max-width: 20rem;
+  background-color: #fff;
+  box-shadow: 1px 0 0 #cac9c9;
+}
+.table-wrap thead th#specs { inset-inline-start: 0; z-index: 3; text-align: left; }
+#specs input { max-width: 100%; }
+
+@media (max-width: 40em) {
+  .table-wrap tbody th[scope="row"],
+  .table-wrap tfoot th[scope="row"] { min-width: 8rem; max-width: 9rem; font-size: 0.875rem; }
 }
 </style>
 
